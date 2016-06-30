@@ -10,7 +10,7 @@ title: AOPOD Bing Images
 email: aopodcom@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This site is build for keeping Bing images
-baseurl: "/bing_images" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: aopodcom
 github_username:  aopod
