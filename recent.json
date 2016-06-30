@@ -1,0 +1,8 @@
+---
+---
+{
+  "data" : [{% for post in site.posts %}{% if forloop.index >= 10 %}{% break %}{% endif %}
+      {{ post.image_url | jsonify }}{% if forloop.last == false or forloop.index >= 10 %},{% endif %}{% endfor %}
+  ],
+  "ts" : {{ site.time | jsonify }}
+}

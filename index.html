@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Images</h1>
+
+  <ul class="post-list">
+    {% assign current_month = 0 %}
+    {% for post in paginator.posts %}
+      {% assign tmp_month = post.date | date:'%m' %}
+      {% if current_month != tmp_month %}
+        {% assign current_month = tmp_month %}
+        <h3>{{ post.date | date:'%Y-%m' }}</h3>
+      {% endif %}
+      <li>
+        <img src="{{ site.ao_assets_path | prepend:site.baseurl }}/thumb/{{ post.image_hash}}.jpg">
+        <!-- <div style="position:absolute;left:0;bottom:0;height:100%;width:100%;"> -->
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <!-- </div> -->
+      </li>
+    {% endfor %}
+  </ul>
+
+  <div class="pagination">
+    {% if paginator.previous_page %} disabled
+    <span class="newer page"><a href="/page{{ paginator.previous_page.url }}">< Newer</a></span>
+    {% else %}
+    <span class="newer page disabled">< Newer</span>
+    {% endif %}
+    {% if paginator.next_page %}
+    <span class="older page"><a href="/page{{ paginator.next_page }}">Older ></a></span>
+    {% else %}
+    <span class="older page disabled">Older ></span>
+    {% endif %}
+  </div>
+
+</div>
