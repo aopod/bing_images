@@ -1,9 +1,0 @@
----
-layout: post
-title:  "凯马"
-date:   "2016-06-13 16:00:00 +0800"
-image_url: "http://s.cn.bing.net/az/hprichbg/rb/BomboHeadland_ZH-CN9339065341_1920x1080.jpg"
-link: "/search?q=%e5%87%af%e9%a9%ac&FORM=pgbar1&mkt=zh-cn"
-copyright: "凯马Bombo Headland，新南威尔士州，澳大利亚 (© Attakorn Bk/Getty Images)"
-image_hash: "7caafa797757797b1c121e42f347d888"
----

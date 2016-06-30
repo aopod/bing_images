@@ -1,9 +1,0 @@
----
-layout: post
-title:  "雷勘克博火山"
-date:   "2016-06-27 16:00:00 +0800"
-image_url: "http://s.cn.bing.net/az/hprichbg/rb/ChajnantorPlateau_ZH-CN12301284682_1920x1080.jpg"
-link: "/search?q=%e9%9b%b7%e5%8b%98%e5%85%8b%e5%8d%9a%e7%81%ab%e5%b1%b1&form=pgbar1&mkt=zh-cn"
-copyright: "在智利与玻利维亚边界的雷勘克博火山 (© ESO/B. Tafreshi/REX/Shutterstock)"
-image_hash: "bb25ef9e297b4a20d7bccfe0300558bd"
----

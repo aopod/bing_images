@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Kobbvatnet Lake"
-date:   "2016-06-21 16:00:00 +0800"
-image_url: "http://s.cn.bing.net/az/hprichbg/rb/Kobbvatnet_ZH-CN9386702650_1920x1080.jpg"
-link: "/search?q=Kobbvatnet+Lake&form=pgbar1&mkt=zh-cn"
-copyright: "挪威，瑟福尔，Kobbvatnet Lake (© Martin Heck/Nimia)"
-image_hash: "239a02f7414ca672e525dfebef06be07"
----

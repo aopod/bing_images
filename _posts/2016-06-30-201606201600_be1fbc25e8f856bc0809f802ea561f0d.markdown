@@ -1,9 +1,0 @@
----
-layout: post
-title:  "太阳隧道 南希霍尔特"
-date:   "2016-06-20 16:00:00 +0800"
-image_url: "http://s.cn.bing.net/az/hprichbg/rb/SunTunnels_ZH-CN6830170234_1920x1080.jpg"
-link: "/search?q=%e5%a4%aa%e9%98%b3%e9%9a%a7%e9%81%93+%e5%8d%97%e5%b8%8c%e9%9c%8d%e5%b0%94%e7%89%b9&form=pgbar1&mkt=zh-cn"
-copyright: "【今日夏至】美国犹他州，艺术家南希·霍尔特在卢辛镇附近的装置艺术太阳隧道 (© Lindsay Daniels/Tandem Stills +Motion)"
-image_hash: "be1fbc25e8f856bc0809f802ea561f0d"
----
