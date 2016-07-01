@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "黄肢狨"
+date:   "2016-06-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MarmosetDad_ZH-CN13409579692_1920x1080.jpg"
+link: "/search?q=%e9%bb%84%e8%82%a2%e7%8b%a8&form=pgbar1&mkt=zh-cn"
+copyright: "巴西，亚马逊雨林，一只黄肢狨和它的孩子 (© Nick Gordon/Minden Pictures)"
+image_hash: "c6560f840834975503f246264efa3af3"
+---
