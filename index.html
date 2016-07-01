@@ -24,7 +24,7 @@ layout: default
   </ul>
 
   <div class="pagination">
-    {% if paginator.previous_page %} disabled
+    {% if paginator.previous_page %}
     <span class="newer page"><a href="/page{{ paginator.previous_page.url }}">< Newer</a></span>
     {% else %}
     <span class="newer page disabled">< Newer</span>
