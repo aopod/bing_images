@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "凯布朗利博物馆"
+date:   "2016-07-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/QuaiBranlyMuseum_ZH-CN10941225231_1920x1080.jpg"
+link: "/search?q=%e5%87%af%e5%b8%83%e6%9c%97%e5%88%a9%e5%8d%9a%e7%89%a9%e9%a6%86&form=pgbar1&mkt=zh-cn"
+copyright: "凯布朗利博物馆的外墙，法国巴黎 (© Trevor Hunt/Getty Images)"
+image_hash: "ee94c7514db3b636de7aedc6f6c3a257"
+---
