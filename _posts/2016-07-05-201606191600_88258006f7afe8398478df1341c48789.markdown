@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "长颈鹿"
+date:   "2016-06-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SAGiraffe_ZH-CN9361468907_1920x1080.jpg"
+link: "/search?q=%e9%95%bf%e9%a2%88%e9%b9%bf&form=pgbar1&mkt=zh-cn"
+copyright: "南非，长颈鹿 (© Lilly Husbands/Offset)"
+image_hash: "88258006f7afe8398478df1341c48789"
+---
