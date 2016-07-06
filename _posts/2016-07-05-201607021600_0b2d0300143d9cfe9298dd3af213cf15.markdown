@@ -1,9 +1,0 @@
----
-layout: post
-title:  "美泉宫"
-date:   "2016-07-02 16:00:00 +0800"
-image_url: "http://cn.bing.com/az/hprichbg/rb/SchonbrunnPalace_ZH-CN11907034371_1920x1080.jpg"
-link: "/search?q=%e7%be%8e%e6%b3%89%e5%ae%ab&form=pgbar1&mkt=zh-cn"
-copyright: "从罗马海神喷泉窥视美泉宫，维也纳，奥地利 (© Marco Romani/Getty Images)"
-image_hash: "0b2d0300143d9cfe9298dd3af213cf15"
----
