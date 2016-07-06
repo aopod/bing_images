@@ -1,9 +1,0 @@
----
-layout: post
-title:  "加罗林环礁"
-date:   "2016-06-17 16:00:00 +0800"
-image_url: "http://cn.bing.com/az/hprichbg/rb/CarolineAtoll_ZH-CN13285093461_1920x1080.jpg"
-link: "/search?q=%e5%8a%a0%e7%bd%97%e6%9e%97%e7%8e%af%e7%a4%81&form=pgbar1&mkt=zh-cn"
-copyright: "基里巴斯，加罗林环礁 (© Brian J. Skerry/Getty Images)"
-image_hash: "5f41e520c53e8b8f81fd3cc5ee91fc8d"
----

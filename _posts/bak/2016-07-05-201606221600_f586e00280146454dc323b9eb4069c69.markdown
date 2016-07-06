@@ -1,9 +1,0 @@
----
-layout: post
-title:  "马泰拉"
-date:   "2016-06-22 16:00:00 +0800"
-image_url: "http://cn.bing.com/az/hprichbg/rb/MateraItaly_ZH-CN9251776262_1920x1080.jpg"
-link: "/search?q=%e9%a9%ac%e6%b3%b0%e6%8b%89&form=pgbar1&mkt=zh-cn"
-copyright: "意大利，马泰拉 (© Cavan Images/Offset)"
-image_hash: "f586e00280146454dc323b9eb4069c69"
----

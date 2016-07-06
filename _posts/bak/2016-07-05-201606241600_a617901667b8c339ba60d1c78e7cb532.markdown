@@ -1,9 +1,0 @@
----
-layout: post
-title:  "高千穗町"
-date:   "2016-06-24 16:00:00 +0800"
-image_url: "http://cn.bing.com/az/hprichbg/rb/TakachihoGorge_ZH-CN10050763703_1920x1080.jpg"
-link: "/search?q=%e9%ab%98%e5%8d%83%e7%a9%97%e7%94%ba&form=pgbar1&mkt=zh-cn"
-copyright: "日本，九州，高千穗町 (© Shayne Hill Xtreme Visuals/Getty Images)"
-image_hash: "a617901667b8c339ba60d1c78e7cb532"
----

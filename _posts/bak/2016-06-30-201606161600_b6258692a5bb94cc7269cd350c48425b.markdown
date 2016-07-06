@@ -1,9 +1,0 @@
----
-layout: post
-title:  "峡谷地国家公园"
-date:   "2016-06-16 16:00:00 +0800"
-image_url: "http://cn.bing.com/az/hprichbg/rb/CanyonlandsNP_ZH-CN12598047863_1920x1080.jpg"
-link: "/search?q=%e5%b3%a1%e8%b0%b7%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=pgbar1&mkt=zh-cn"
-copyright: "美国犹他州，峡谷地国家公园，在White Rim Road上眺望远方的天际线 (© Alexander Messenger/Tandem Stills + Motion)"
-image_hash: "b6258692a5bb94cc7269cd350c48425b"
----

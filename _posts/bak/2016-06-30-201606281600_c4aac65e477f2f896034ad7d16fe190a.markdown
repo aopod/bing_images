@@ -1,9 +1,0 @@
----
-layout: post
-title:  "堪萨斯州 时针式喷灌"
-date:   "2016-06-28 16:00:00 +0800"
-image_url: "http://cn.bing.com/az/hprichbg/rb/KansasCropCircles_ZH-CN9416992875_1920x1080.jpg"
-link: "/search?q=%e5%a0%aa%e8%90%a8%e6%96%af%e5%b7%9e+%e6%97%b6%e9%92%88%e5%bc%8f%e5%96%b7%e7%81%8c&form=pgbar1&mkt=zh-cn"
-copyright: "美国，在堪萨斯州西南部的时针式灌溉区 (© NASA/GSFC/METI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team)"
-image_hash: "c4aac65e477f2f896034ad7d16fe190a"
----
