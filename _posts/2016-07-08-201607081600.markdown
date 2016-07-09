@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "上巴伐利亚的Osterseen水域，德国"
+date:   "2016-07-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/OsterseenAerial_ZH-CN9999822646_1920x1080.jpg"
+link: "/search?q=Osterseen%2c+Bavaria&form=hpcapt&mkt=zh-cn"
+copyright: "上巴伐利亚的Osterseen水域，德国 (© Florian Werner/Alamy)"
+image_hash: "95a7cf9473de53a6caade4b4224859fe"
+image_filename: "OsterseenAerial_ZH-CN9999822646_1920x1080.jpg"
+---
