@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Ankarokaroka canyon"
+title:  "马达加斯加，安卡拉凡兹卡国家公园，Ankarokaroka canyon"
 date:   "2016-06-25 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/Ankarokaroka_ZH-CN11142232223_1920x1080.jpg"
-link: "/search?q=Ankarokaroka+canyon&form=pgbar1&mkt=zh-cn"
+link: "/search?q=Ankarokaroka+canyon&form=hpcapt&mkt=zh-cn"
 copyright: "马达加斯加，安卡拉凡兹卡国家公园，Ankarokaroka canyon (© Bernard Castelein/Minden Pictures)"
-image_hash: "7603c669e9f5a522421ea577175a1d60"
+image_hash: "146bd96c8561cb51a1dbdf74856c3e8c"
+image_filename: "Ankarokaroka_ZH-CN11142232223_1920x1080.jpg"
 ---
