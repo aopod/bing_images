@@ -5,6 +5,6 @@ date:   "2016-07-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MochoPuma_ZH-CN14722409029_1920x1080.jpg"
 link: "/search?q=%e7%be%8e%e6%b4%b2%e7%8b%ae&form=hpcapt&mkt=zh-cn"
 copyright: "百内国家公园里的一只美洲狮，智利 (© Benjamin Lowy/Getty Images)"
-image_hash: "126c3bcf1851fa593045b1895d3acc17"
+image_hash: "6281a15e35a2663f57f35deab93f1cfd"
 image_filename: "MochoPuma_ZH-CN14722409029_1920x1080.jpg"
 ---

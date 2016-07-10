@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "德国国会大厦"
+title:  "德国柏林国会大厦"
 date:   "2016-07-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ReichstagDome_ZH-CN9358724121_1920x1080.jpg"
-link: "/search?q=%e5%be%b7%e5%9b%bd%e5%9b%bd%e4%bc%9a%e5%a4%a7%e5%8e%a6&form=pgbar1&mkt=zh-cn"
+link: "/search?q=%e5%be%b7%e5%9b%bd%e5%9b%bd%e4%bc%9a%e5%a4%a7%e5%8e%a6&form=hpcapt&mkt=zh-cn"
 copyright: "德国柏林国会大厦 (© Holger Mette/Shutterstock)"
-image_hash: "e157c286f13781fe5266e3e2beeb9df1"
+image_hash: "dbc9d1818794e0f3c40636aa0e8cb3bd"
+image_filename: "ReichstagDome_ZH-CN9358724121_1920x1080.jpg"
 ---

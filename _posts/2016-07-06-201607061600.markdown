@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "火烧云下的元阳梯田"
+title:  "【今日小暑】火烧云下的元阳梯田"
 date:   "2016-07-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/TerracesSunrise_ZH-CN11993554223_1920x1080.jpg"
 link: "/search?q=%e5%b0%8f%e6%9a%91&form=hpcapt&mkt=zh-cn"
 copyright: "【今日小暑】火烧云下的元阳梯田 (© Jon Bratt/Getty Images)"
-image_hash: "834065b135ed994e2a63d657a4824d1d"
+image_hash: "93c61682599dc221b6cb6fa0bd19d071"
 image_filename: "TerracesSunrise_ZH-CN11993554223_1920x1080.jpg"
 ---

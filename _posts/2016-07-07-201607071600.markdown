@@ -5,6 +5,6 @@ date:   "2016-07-07 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/HurricaneRidgeTiger_ZH-CN11087235010_1920x1080.jpg"
 link: "/search?q=%e7%be%8e%e5%9b%bd%e5%8d%8e%e7%9b%9b%e9%a1%bf%e5%b7%9e%e5%a5%a5%e6%9e%97%e5%8c%b9%e5%85%8b%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "飓风岭山脊上的哥伦比亚百合，美国华盛顿州奥林匹克国家公园 (© Dennis Frates/Alamy)"
-image_hash: "ec17a5b0ae408274136f0106efaf2095"
+image_hash: "4cb511de3201c3ba5757ee48734a607a"
 image_filename: "HurricaneRidgeTiger_ZH-CN11087235010_1920x1080.jpg"
 ---

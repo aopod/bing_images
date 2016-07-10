@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "上莱茵"
+title:  "基安特赞小镇上的葡萄园，上莱茵，阿尔萨斯，法国"
 date:   "2016-07-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/KientzheimVineyards_ZH-CN9908740039_1920x1080.jpg"
-link: "/search?q=%e4%b8%8a%e8%8e%b1%e8%8c%b5&form=pgbar1&mkt=zh-cn"
+link: "/search?q=%e4%b8%8a%e8%8e%b1%e8%8c%b5&form=hpcapt&mkt=zh-cn"
 copyright: "基安特赞小镇上的葡萄园，上莱茵，阿尔萨斯，法国 (© Don White/Alamy)"
 image_hash: "ce949026a9607001a228c0b97395efa4"
+image_filename: "KientzheimVineyards_ZH-CN9908740039_1920x1080.jpg"
 ---
