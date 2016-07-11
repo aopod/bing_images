@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "被侵蚀的海岩，北岛的教堂湾，新西兰"
+date:   "2016-07-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CathedralCove_ZH-CN11007944088_1920x1080.jpg"
+link: "/search?q=%e6%95%99%e5%a0%82%e6%b9%be&form=hpcapt&mkt=zh-cn"
+copyright: "被侵蚀的海岩，北岛的教堂湾，新西兰 (© crbellette/Shutterstock)"
+image_hash: "d45a334060cbafe7ff53b2e8df1aa0d2"
+image_filename: "CathedralCove_ZH-CN11007944088_1920x1080.jpg"
+---
