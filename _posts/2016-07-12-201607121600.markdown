@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "拉差达的火车夜市，泰国曼谷"
+date:   "2016-07-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BangkokNightMarket_ZH-CN11275629598_1920x1080.jpg"
+link: "/search?q=%e6%9b%bc%e8%b0%b7&form=hpcapt&mkt=zh-cn"
+copyright: "拉差达的火车夜市，泰国曼谷  (© FUN FUN PHOTO/Shutterstock)"
+image_hash: "32cc314580efb6603452aba681f49e97"
+image_filename: "BangkokNightMarket_ZH-CN11275629598_1920x1080.jpg"
+---
