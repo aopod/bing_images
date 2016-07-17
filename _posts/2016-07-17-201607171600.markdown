@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "钻石头山鸟瞰图，瓦胡岛，夏威夷"
+date:   "2016-07-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/DiamondHead_ZH-CN8551687099_1920x1080.jpg"
+link: "/search?q=%e7%93%a6%e8%83%a1%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+copyright: "钻石头山鸟瞰图，瓦胡岛，夏威夷  (© Biederbick & Rumpf/Offset)"
+image_hash: "b711f8cc6a0c7924f762b478b92ad9b8"
+image_filename: "DiamondHead_ZH-CN8551687099_1920x1080.jpg"
+---
