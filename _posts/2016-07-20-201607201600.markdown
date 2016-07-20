@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "湖北省宣恩县的天坑"
+date:   "2016-07-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HubeiSinkhole_ZH-CN8831229647_1920x1080.jpg"
+link: "/search?q=%e5%a4%a9%e5%9d%91&form=hpcapt&mkt=zh-cn"
+copyright: "湖北省宣恩县的天坑 (© Xinhua News Agency/REX/Shutterstock)"
+image_hash: "c5d70670f40b486ecdb9dc1940b079fe"
+image_filename: "HubeiSinkhole_ZH-CN8831229647_1920x1080.jpg"
+---
