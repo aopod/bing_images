@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "日本北海道的美瑛蓝池"
+date:   "2016-07-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BluePondJapan_ZH-CN9068810300_1920x1080.jpg"
+link: "/search?q=%e6%97%a5%e6%9c%ac%e7%be%8e%e7%91%9b%e7%94%ba&form=hpcapt&mkt=zh-cn"
+copyright: "日本北海道的美瑛蓝池 (© JTB Photo/UIG/Getty Images)"
+image_hash: "097683d69f4c182f84c4dcf1a7067919"
+image_filename: "BluePondJapan_ZH-CN9068810300_1920x1080.jpg"
+---
