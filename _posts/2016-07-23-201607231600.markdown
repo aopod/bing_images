@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "桑给巴尔红疣猴，坦桑尼亚"
+date:   "2016-07-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ZanzibarRedColobus_ZH-CN11792109900_1920x1080.jpg"
+link: "/search?q=%e7%ba%a2%e7%96%a3%e7%8c%b4&form=hpcapt&mkt=zh-cn"
+copyright: "桑给巴尔红疣猴，坦桑尼亚 (© Thomas Marent/Minden Pictures)"
+image_hash: "24f9dc47f9ec8eef722cd9e84a4bd2dc"
+image_filename: "ZanzibarRedColobus_ZH-CN11792109900_1920x1080.jpg"
+---
