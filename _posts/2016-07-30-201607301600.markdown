@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Ko Panyi 村，泰国攀牙湾"
+date:   "2016-07-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KohPanyi_ZH-CN12194565147_1920x1080.jpg"
+link: "/search?q=%e6%b3%b0%e5%9b%bd&form=hpcapt&mkt=zh-cn"
+copyright: "Ko Panyi 村，泰国攀牙湾 (© Yann Arthus-Bertrand/Getty Images)"
+image_hash: "bbd0bbce8147504570c362654162ddcd"
+image_filename: "KohPanyi_ZH-CN12194565147_1920x1080.jpg"
+---
