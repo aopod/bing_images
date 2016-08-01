@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "哈尔滨歌剧院场馆"
+date:   "2016-08-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HarbinOperaHouse_ZH-CN10126072780_1920x1080.jpg"
+link: "/search?q=%e5%93%88%e5%b0%94%e6%bb%a8&form=hpcapt&mkt=zh-cn"
+copyright: "哈尔滨歌剧院场馆 (© Hufton and Crow/VIEW Pictures Ltd/Alamy)"
+image_hash: "2e6276f5aa37c96cf35033007dc415da"
+image_filename: "HarbinOperaHouse_ZH-CN10126072780_1920x1080.jpg"
+---
