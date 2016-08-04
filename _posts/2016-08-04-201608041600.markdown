@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马拉卡纳体育场上空绽放的礼花，巴西里约热内卢"
+date:   "2016-08-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MaracanaFireworks_ZH-CN9834580695_1920x1080.jpg"
+link: "/search?q=2016%e9%87%8c%e7%ba%a6%e5%a5%a5%e8%bf%90%e4%bc%9a%e5%bc%80%e5%b9%95%e5%bc%8f&form=hpcapt&mkt=zh-cn"
+copyright: "马拉卡纳体育场上空绽放的礼花，巴西里约热内卢 (© Buda Mendes/Getty Images)"
+image_hash: "726a2c9c3c9cc143bec7f61450843482"
+image_filename: "MaracanaFireworks_ZH-CN9834580695_1920x1080.jpg"
+---
