@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "篁岭家家户户正在晒辣椒和菊花，江西婺源"
+date:   "2016-08-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Shaiqiu_ZH-CN11319335057_1920x1080.jpg"
+link: "/search?q=%e7%ab%8b%e7%a7%8b&form=hpcapt&mkt=zh-cn"
+copyright: "篁岭家家户户正在晒辣椒和菊花，江西婺源 (© Xinhua/REX Shutterstock)"
+image_hash: "2ea46015d20e39fda4537dab4d966bea"
+image_filename: "Shaiqiu_ZH-CN11319335057_1920x1080.jpg"
+---
