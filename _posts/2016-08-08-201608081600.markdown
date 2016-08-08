@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日七夕】内蒙古阿尔山国家森林公园的一对天鹅"
+date:   "2016-08-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WhiteSwan_ZH-CN12970644283_1920x1080.jpg"
+link: "/search?q=%e4%b9%9e%e5%b7%a7%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "【今日七夕】内蒙古阿尔山国家森林公园的一对天鹅 (© Blue Jean Images/Getty Images)"
+image_hash: "44cf1f131605155b833b696034039d1c"
+image_filename: "WhiteSwan_ZH-CN12970644283_1920x1080.jpg"
+---
