@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "1904年圣路易斯世博会上，史密森尼博物馆巡回展"
+date:   "2016-08-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LouisianaPurchaseExposition_ZH-CN11859050927_1920x1080.jpg"
+link: "/search?q=%e4%b8%96%e7%95%8c%e5%8d%9a%e8%a7%88%e4%bc%9a&form=hpcapt&mkt=zh-cn"
+copyright: "1904年圣路易斯世博会上，史密森尼博物馆巡回展 (© Bygone Collection/Alamy)"
+image_hash: "625e42165585a96b50c05ea6bb750f67"
+image_filename: "LouisianaPurchaseExposition_ZH-CN11859050927_1920x1080.jpg"
+---
