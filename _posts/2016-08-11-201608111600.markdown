@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿多大象国家公园里的大象，南非"
+date:   "2016-08-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AddoElephants_ZH-CN13744097225_1920x1080.jpg"
+link: "/search?q=%e9%9d%9e%e6%b4%b2%e8%b1%a1&form=hpcapt&mkt=zh-cn"
+copyright: "阿多大象国家公园里的大象，南非 (© Johan Swanepoel/Alamy)"
+image_hash: "4e65c56f89314893a11de9bad688e954"
+image_filename: "AddoElephants_ZH-CN13744097225_1920x1080.jpg"
+---
