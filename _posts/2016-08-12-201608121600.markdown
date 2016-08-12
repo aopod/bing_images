@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Maho 湾的棕榈树，维尔京群岛国家公园"
+date:   "2016-08-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MahoBayPalms_ZH-CN10739743006_1920x1080.jpg"
+link: "/search?q=%e6%a3%95%e6%a6%88%e6%a0%91&form=hpcapt&mkt=zh-cn"
+copyright: "Maho 湾的棕榈树，维尔京群岛国家公园 (© Shutterstock)"
+image_hash: "6ead538251f08128dbd9d74da8adbdd3"
+image_filename: "MahoBayPalms_ZH-CN10739743006_1920x1080.jpg"
+---

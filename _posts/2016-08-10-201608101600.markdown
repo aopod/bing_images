@@ -5,6 +5,6 @@ date:   "2016-08-10 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ChicagoHarborLH_ZH-CN9974330969_1920x1080.jpg"
 link: "/search?q=%e8%8a%9d%e5%8a%a0%e5%93%a5&form=hpcapt&mkt=zh-cn"
 copyright: "在密歇根湖上的芝加哥港灯塔 (© Tim Klein/Gallery Stock)"
-image_hash: "dd85974f1de075fb572477e0fec2a54e"
+image_hash: "155e9b40f358804649b1ad16338cd028"
 image_filename: "ChicagoHarborLH_ZH-CN9974330969_1920x1080.jpg"
 ---
