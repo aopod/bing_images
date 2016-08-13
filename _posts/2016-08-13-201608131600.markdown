@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "凯里乔县的茶叶种植园，肯尼亚"
+date:   "2016-08-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KerichoTea_ZH-CN7126476900_1920x1080.jpg"
+link: "/search?q=%e8%82%af%e5%b0%bc%e4%ba%9a&form=hpcapt&mkt=zh-cn"
+copyright: "凯里乔县的茶叶种植园，肯尼亚 (© Yann Arthus-Bertrand/Getty Images)"
+image_hash: "eb7cebe237ae14a6251c6e3eb28afa35"
+image_filename: "KerichoTea_ZH-CN7126476900_1920x1080.jpg"
+---
