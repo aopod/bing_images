@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日鬼节】从薄雾飘渺的富士山山中湖的第八站台看日出，日本"
+date:   "2016-08-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HatsuhinodeOarai_ZH-CN9858647947_1920x1080.jpg"
+link: "/search?q=%e7%9b%82%e5%85%b0%e7%9b%86%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "【今日鬼节】从薄雾飘渺的富士山山中湖的第八站台看日出，日本 (© Jeff Matsuya/Getty Images)"
+image_hash: "9dd51b2981412f4a70965391b7f5204d"
+image_filename: "HatsuhinodeOarai_ZH-CN9858647947_1920x1080.jpg"
+---
