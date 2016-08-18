@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "普通翠鸟在相机镜头上短憩"
+date:   "2016-08-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KingFisherPhoto_ZH-CN11985479914_1920x1080.jpg"
+link: "/search?q=%e7%bf%a0%e9%b8%9f&form=hpcapt&mkt=zh-cn"
+copyright: "普通翠鸟在相机镜头上短憩 (© Sijanto/Getty Images)"
+image_hash: "b0bb472a3303ac24bd06aa72575f9578"
+image_filename: "KingFisherPhoto_ZH-CN11985479914_1920x1080.jpg"
+---
