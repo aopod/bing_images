@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圣安德烈斯的特雷西塔海滩，加那利群岛的特内里费岛，西班牙"
+date:   "2016-08-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LasTeresitasBeach_ZH-CN13683812698_1920x1080.jpg"
+link: "/search?q=%e7%89%b9%e9%9b%b7%e8%a5%bf%e5%a1%94%e6%b5%b7%e6%bb%a9&form=hpcapt&mkt=zh-cn"
+copyright: "圣安德烈斯的特雷西塔海滩，加那利群岛的特内里费岛，西班牙 (© Cornelia Doerr/age fotostock)"
+image_hash: "d371a0164e07b02242721880a7952ccf"
+image_filename: "LasTeresitasBeach_ZH-CN13683812698_1920x1080.jpg"
+---
