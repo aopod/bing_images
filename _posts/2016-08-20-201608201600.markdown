@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从甜面包山眺望里约热内卢，巴西"
+date:   "2016-08-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SugarLoafTramVideo_ZH-CN8730080670_1920x1080.jpg"
+link: "/search?q=%e9%87%8c%e7%ba%a6%e5%a5%a5%e8%bf%90%e4%bc%9a&form=hpcapt&mkt=zh-cn"
+copyright: "从甜面包山眺望里约热内卢，巴西 (© Juan Carlos Ruiz/500px)"
+image_hash: "ce2ddf18dc66a677bf45191f52a4b460"
+image_filename: "SugarLoafTramVideo_ZH-CN8730080670_1920x1080.jpg"
+---
