@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "纳斯卡线“绘制”的鸮人 ，秘鲁"
+date:   "2016-08-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/NazcaLines_ZH-CN10481196093_1920x1080.jpg"
+link: "/search?q=%e7%ba%b3%e6%96%af%e5%8d%a1%e7%ba%bf&form=hpcapt&mkt=zh-cn"
+copyright: "纳斯卡线“绘制”的鸮人 ，秘鲁 (© Laura Fafone/Getty Images)"
+image_hash: "ca3ec64b54d160b558900f04ca898fef"
+image_filename: "NazcaLines_ZH-CN10481196093_1920x1080.jpg"
+---
