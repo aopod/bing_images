@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日处暑】西藏风化地貌"
+date:   "2016-08-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Tibetlandform_ZH-CN11243492345_1920x1080.jpg"
+link: "/search?q=%e5%a4%84%e6%9a%91&form=hpcapt&mkt=zh-cn"
+copyright: "【今日处暑】西藏风化地貌 (© aaaaimages/Moment/Getty Images)"
+image_hash: "f25581eb365ddccd7cdcbd93ed1a6e38"
+image_filename: "Tibetlandform_ZH-CN11243492345_1920x1080.jpg"
+---
