@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "尖塔国家公园里的火山斜坡，美国加利福尼亚州"
+date:   "2016-08-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PinnaclesNP_ZH-CN9665317661_1920x1080.jpg"
+link: "/search?q=%e5%8a%a0%e5%88%a9%e7%a6%8f%e5%b0%bc%e4%ba%9a%e5%b7%9e&form=hpcapt&mkt=zh-cn"
+copyright: "尖塔国家公园里的火山斜坡，美国加利福尼亚州 (© Don Smith/Getty Images)"
+image_hash: "9557502ab9d0ecb9d119602e817db183"
+image_filename: "PinnaclesNP_ZH-CN9665317661_1920x1080.jpg"
+---
