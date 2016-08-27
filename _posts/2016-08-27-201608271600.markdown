@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "基蒂克美奥特地区的树河上的捕鱼小屋，加拿大努纳武特省"
+date:   "2016-08-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TreeRiverNunavut_ZH-CN10909820346_1920x1080.jpg"
+link: "/search?q=%e5%8a%aa%e7%ba%b3%e6%ad%a6%e7%89%b9%e7%9c%81&form=hpcapt&mkt=zh-cn"
+copyright: "基蒂克美奥特地区的树河上的捕鱼小屋，加拿大努纳武特省 (© Jason Pineau/Getty Images)"
+image_hash: "3912f5fc4f629096bd2e76aa12c10d9c"
+image_filename: "TreeRiverNunavut_ZH-CN10909820346_1920x1080.jpg"
+---
