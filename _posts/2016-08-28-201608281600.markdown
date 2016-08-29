@@ -5,6 +5,6 @@ date:   "2016-08-28 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/BurchellsZebra_ZH-CN15870118056_1920x1080.jpg"
 link: "/search?q=%e9%a9%ac%e5%8d%a1%e8%bf%aa%e5%8d%a1%e8%bf%aa%e7%9b%90%e6%b2%bc&form=hpcapt&mkt=zh-cn"
 copyright: "穿越马卡迪卡迪盐沼的斑马，博茨瓦纳  (© Richard Du Toit/Minden Pictures)"
-image_hash: "635eafc42efd4e72b5457510aa876260"
+image_hash: "c458fb7ad90fd9eb4071cbc2fa01084f"
 image_filename: "BurchellsZebra_ZH-CN15870118056_1920x1080.jpg"
 ---

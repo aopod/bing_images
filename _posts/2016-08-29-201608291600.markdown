@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马拉什附近的莫雷印加遗址，秘鲁"
+date:   "2016-08-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CircularIncaTerraces_ZH-CN12305945804_1920x1080.jpg"
+link: "/search?q=%e5%8d%b0%e5%8a%a0%e6%96%87%e5%8c%96&form=hpcapt&mkt=zh-cn"
+copyright: "马拉什附近的莫雷印加遗址，秘鲁 (© Panoramic Images/Getty Images)"
+image_hash: "133318b557a3786365b486c622ee308c"
+image_filename: "CircularIncaTerraces_ZH-CN12305945804_1920x1080.jpg"
+---
