@@ -5,6 +5,6 @@ date:   "2016-08-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/DryTortugas_ZH-CN9392694652_1920x1080.jpg"
 link: "/search?q=%e5%b9%b2%e9%be%9f%e5%b2%9b%e6%b5%b7%e9%be%9f%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "干龟岛海龟国家公园的杰斐逊堡，佛罗里达州 (© Miami2you/Shutterstock)"
-image_hash: "03b732b3fcaa7a0473d1f24d2339b800"
+image_hash: "3602a9c2dc9ce392b9cb486707f0cf6b"
 image_filename: "DryTortugas_ZH-CN9392694652_1920x1080.jpg"
 ---
