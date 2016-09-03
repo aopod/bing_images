@@ -5,6 +5,6 @@ date:   "2016-09-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MoscowSkyline_ZH-CN10266976296_1920x1080.jpg"
 link: "/search?q=%e8%8e%ab%e6%96%af%e7%a7%91%e5%9b%bd%e9%99%85%e5%95%86%e4%b8%9a%e4%b8%ad%e5%bf%83&form=hpcapt&mkt=zh-cn"
 copyright: "莫斯科国际商务中心，俄罗斯 (© Nikolay Rykov/Getty Images)"
-image_hash: "72a6f48e6c75115ad923e58234efa038"
+image_hash: "6ff25dd518df6221855d693bbe804ff1"
 image_filename: "MoscowSkyline_ZH-CN10266976296_1920x1080.jpg"
 ---
