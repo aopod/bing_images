@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一名粉刷工人换上了件新外套"
+date:   "2016-09-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/UrbanPainters_ZH-CN8992212566_1920x1080.jpg"
+link: "/search?q=%e7%be%8e%e5%9b%bd%e5%8a%b3%e5%8a%a8%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "一名粉刷工人换上了件新外套 (© Ognian Medarov/500px)"
+image_hash: "5cece5e7563cc90677b1cf4908d7dd66"
+image_filename: "UrbanPainters_ZH-CN8992212566_1920x1080.jpg"
+---
