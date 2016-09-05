@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "荔枝山国家公园的瀑布，柬埔寨"
+date:   "2016-09-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PhnomKulenNP_ZH-CN10975081651_1920x1080.jpg"
+link: "/search?q=%e8%8d%94%e6%9e%9d%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "荔枝山国家公园的瀑布，柬埔寨 (© f9photos/Shutterstock)"
+image_hash: "cb1894deea6c05e3229dbb47c2713189"
+image_filename: "PhnomKulenNP_ZH-CN10975081651_1920x1080.jpg"
+---
