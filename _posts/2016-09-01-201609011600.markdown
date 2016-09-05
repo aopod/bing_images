@@ -5,6 +5,6 @@ date:   "2016-09-01 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/SnowdoniaAlgae_ZH-CN15321911268_1920x1080.jpg"
 link: "/search?q=%e6%96%af%e8%af%ba%e5%a4%9a%e5%b0%bc%e4%ba%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "斯诺多尼亚国家公园的Afon Ogwen河，英国威尔士 (© Graham Eaton/Minden Pictures)"
-image_hash: "59c9058872f9e3dcfc363997e5fb7255"
+image_hash: "4b1886453e0424e91ae36c1d39fabaad"
 image_filename: "SnowdoniaAlgae_ZH-CN15321911268_1920x1080.jpg"
 ---

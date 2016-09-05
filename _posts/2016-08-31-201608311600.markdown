@@ -5,6 +5,6 @@ date:   "2016-08-31 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/SalteeGannets_ZH-CN12304087974_1920x1080.jpg"
 link: "/search?q=%e6%86%a8%e9%b2%a3%e9%b8%9f&form=hpcapt&mkt=zh-cn"
 copyright: "萨尔蒂群岛上的憨鲣鸟，爱尔兰 (© Bart Breet/Minden Pictures)"
-image_hash: "51be6658812b1126d22e5908811b22b3"
+image_hash: "7453786e11e16b0ad302541d8107397d"
 image_filename: "SalteeGannets_ZH-CN12304087974_1920x1080.jpg"
 ---
