@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "金贝湾的一群剃刀鱼略过红色海鞭的枝杈，新不列颠岛，巴布亚新几内亚"
+date:   "2016-09-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/RedSeaWhip_ZH-CN9478576547_1920x1080.jpg"
+link: "/search?q=%e6%96%b0%e4%b8%8d%e5%88%97%e9%a2%a0%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+copyright: "金贝湾的一群剃刀鱼略过红色海鞭的枝杈，新不列颠岛，巴布亚新几内亚 (© David Doubilet/Getty Images)"
+image_hash: "8eaf3c37bf3b77521d506a434ceb0003"
+image_filename: "RedSeaWhip_ZH-CN9478576547_1920x1080.jpg"
+---
