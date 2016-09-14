@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "米特奥拉的Roussanou修道院 ，希腊"
+date:   "2016-09-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Meteora_ZH-CN6763889417_1920x1080.jpg"
+link: "/search?q=%e7%b1%b3%e7%89%b9%e5%a5%a5%e6%8b%89&form=hpcapt&mkt=zh-cn"
+copyright: "米特奥拉的Roussanou修道院 ，希腊 (© Stian Rekdal/Nimia)"
+image_hash: "cba2c7fc187d377ccda7af561c0f0e14"
+image_filename: "Meteora_ZH-CN6763889417_1920x1080.jpg"
+---

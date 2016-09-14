@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "在乌姆普夸国家森林的柱状玄武岩石材，美国俄勒冈州"
+date:   "2016-09-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/UmpquaLichen_ZH-CN10130045538_1920x1080.jpg"
+link: "/search?q=%e4%bf%84%e5%8b%92%e5%86%88%e5%b7%9e&form=hpcapt&mkt=zh-cn"
+copyright: "在乌姆普夸国家森林的柱状玄武岩石材，美国俄勒冈州 (© Jaynes Gallery/Danita Delimont)"
+image_hash: "67c0d326cd07e39dd8dd5e852c94a1e2"
+image_filename: "UmpquaLichen_ZH-CN10130045538_1920x1080.jpg"
+---
