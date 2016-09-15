@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Webb教堂公园里一个建筑的室内吊顶，达拉斯，德克萨斯州"
+date:   "2016-09-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WebbChapelParkPavilion_ZH-CN11684993453_1920x1080.jpg"
+link: "/search?q=%e5%be%b7%e5%85%8b%e8%90%a8%e6%96%af%e5%b7%9e&form=hpcapt&mkt=zh-cn"
+copyright: "Webb教堂公园里一个建筑的室内吊顶，达拉斯，德克萨斯州 (© ARCHPHOTO/Gallery Stock)"
+image_hash: "ee14c6a57f90c7641a888d5e389c1230"
+image_filename: "WebbChapelParkPavilion_ZH-CN11684993453_1920x1080.jpg"
+---
