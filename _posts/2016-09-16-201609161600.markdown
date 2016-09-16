@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "慕尼黑啤酒节的游乐设施，慕尼黑，德国"
+date:   "2016-09-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/OktoberfestRide_ZH-CN11055319166_1920x1080.jpg"
+link: "/search?q=%e6%85%95%e5%b0%bc%e9%bb%91%e5%95%a4%e9%85%92%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "慕尼黑啤酒节的游乐设施，慕尼黑，德国 (© Wolfilser/Shutterstock)"
+image_hash: "207154b8e683fdfff886d19fd1868ba0"
+image_filename: "OktoberfestRide_ZH-CN11055319166_1920x1080.jpg"
+---
