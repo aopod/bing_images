@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "雾气氤氲的索菲亚，保加利亚"
+date:   "2016-09-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SofiaBulgaria_ZH-CN11033924029_1920x1080.jpg"
+link: "/search?q=%e7%b4%a2%e8%8f%b2%e4%ba%9a&form=hpcapt&mkt=zh-cn"
+copyright: "雾气氤氲的索菲亚，保加利亚 (© Ivan Dimitrov/Solent News/REX/Shutterstock)"
+image_hash: "505427ceed11677ca69e1c3d4ac9fc00"
+image_filename: "SofiaBulgaria_ZH-CN11033924029_1920x1080.jpg"
+---
