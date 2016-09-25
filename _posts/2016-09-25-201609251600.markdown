@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "雷克雅未克的哈尔帕音乐厅，冰岛"
+date:   "2016-09-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ConcertHallReykjavik_ZH-CN9594278223_1920x1080.jpg"
+link: "/search?q=%e5%93%88%e5%b0%94%e5%b8%95&form=hpcapt&mkt=zh-cn"
+copyright: "雷克雅未克的哈尔帕音乐厅，冰岛 (© Juan Carlos Muñoz/age fotostock)"
+image_hash: "326b8d2eb0a92550daae1968556b22ea"
+image_filename: "ConcertHallReykjavik_ZH-CN9594278223_1920x1080.jpg"
+---
