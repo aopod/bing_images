@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "旺图山上空的云雾，法国"
+date:   "2016-09-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MontVentoux_ZH-CN13938704019_1920x1080.jpg"
+link: "/search?q=%e6%99%ae%e7%bd%97%e6%97%ba%e6%96%af+%e6%97%ba%e5%9b%be%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "旺图山上空的云雾，法国 (© Drone Under/Nimia)"
+image_hash: "18eaf78295e5566fcb2776c0c3eaec99"
+image_filename: "MontVentoux_ZH-CN13938704019_1920x1080.jpg"
+---
