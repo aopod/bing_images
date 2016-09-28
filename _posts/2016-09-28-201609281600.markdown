@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "屈斜路湖的大天鹅，日本北海道"
+date:   "2016-09-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WhooperSwans_ZH-CN14237745323_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e5%a4%a9%e9%b9%85&form=hpcapt&mkt=zh-cn"
+copyright: "屈斜路湖的大天鹅，日本北海道 (© Ocean/Corbis)"
+image_hash: "2df83b0bffa258caac33bff6c33d31a1"
+image_filename: "WhooperSwans_ZH-CN14237745323_1920x1080.jpg"
+---
