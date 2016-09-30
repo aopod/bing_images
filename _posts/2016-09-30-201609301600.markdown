@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "门头沟区永定楼的星夜，北京"
+date:   "2016-09-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/YongdingFloor_ZH-CN13975440516_1920x1080.jpg"
+link: "/search?q=%e5%8c%97%e4%ba%ac%e4%b8%ad%e8%bd%b4%e7%ba%bf&form=hpcapt&mkt=zh-cn"
+copyright: "门头沟区永定楼的星夜，北京 (© Viewstock/Getty Images)"
+image_hash: "37c625f2f0661a87fb5556b2dda7fc32"
+image_filename: "YongdingFloor_ZH-CN13975440516_1920x1080.jpg"
+---
