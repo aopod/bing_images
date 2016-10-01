@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "皇家阿尔伯特音乐厅顶部的吸声板，英国伦敦"
+date:   "2016-10-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LastNightProms_ZH-CN6602411502_1920x1080.jpg"
+link: "/search?q=%e7%9a%87%e5%ae%b6%e9%98%bf%e5%b0%94%e4%bc%af%e7%89%b9%e9%9f%b3%e4%b9%90%e5%8e%85&form=hpcapt&mkt=zh-cn"
+copyright: "皇家阿尔伯特音乐厅顶部的吸声板，英国伦敦 (© chrisstockphotography/Alamy)"
+image_hash: "697b73e04d0cca40e3b9589941b28f5e"
+image_filename: "LastNightProms_ZH-CN6602411502_1920x1080.jpg"
+---
