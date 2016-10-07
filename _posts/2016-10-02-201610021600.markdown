@@ -5,6 +5,6 @@ date:   "2016-10-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/CliffDwelling_ZH-CN11875663989_1920x1080.jpg"
 link: "/search?q=%e5%8d%b0%e7%ac%ac%e5%ae%89%e9%81%97%e5%9d%80&form=hpcapt&mkt=zh-cn"
 copyright: "绮丽峡谷国家遗迹的悬崖屋，美国亚利桑那州 (© Design Pics/Offset)"
-image_hash: "d6ab145b56648afcb6276c132cb44343"
+image_hash: "574ff7b02637ae7a1e7c4e77d982b512"
 image_filename: "CliffDwelling_ZH-CN11875663989_1920x1080.jpg"
 ---
