@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "西伯利亚东部针叶林的秋天， 俄罗斯"
+date:   "2016-10-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SiberiaFoliage_ZH-CN9019501731_1920x1080.jpg"
+link: "/search?q=%e4%ba%9a%e5%af%92%e5%b8%a6%e9%92%88%e5%8f%b6%e6%9e%97&form=hpcapt&mkt=zh-cn"
+copyright: "西伯利亚东部针叶林的秋天， 俄罗斯 (© Serguei Fomine/500px)"
+image_hash: "72e2cac8e41534ef90047d724e50a164"
+image_filename: "SiberiaFoliage_ZH-CN9019501731_1920x1080.jpg"
+---
