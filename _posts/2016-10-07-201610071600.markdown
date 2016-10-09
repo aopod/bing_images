@@ -5,6 +5,6 @@ date:   "2016-10-07 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/LightsBerlin_ZH-CN8584269528_1920x1080.jpg"
 link: "/search?q=%e6%9f%8f%e6%9e%97%e7%81%af%e5%85%89%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "在德国灯光节期间，柏林大教堂灯火通明 (© Paul Zinken/Alamy)"
-image_hash: "a5453e68d6f69db5f0db73046ef9d7e4"
+image_hash: "bca729ed034182dd2e97a1375816aed7"
 image_filename: "LightsBerlin_ZH-CN8584269528_1920x1080.jpg"
 ---
