@@ -5,6 +5,6 @@ date:   "2016-10-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/JamesWebbSpaceTelescope_ZH-CN12268483856_1920x1080.jpg"
 link: "/search?q=%e8%a9%b9%e5%a7%86%e6%96%af+%c2%b7%e9%9f%a6%e4%bc%af%e5%a4%aa%e7%a9%ba%e6%9c%9b%e8%bf%9c%e9%95%9c&form=hpcapt&mkt=zh-cn"
 copyright: "詹姆斯·韦伯太空望远镜内的光学拼接镜面 (© NASA)"
-image_hash: "a3d48d2960fc714c08bb3caf066377be"
+image_hash: "f33d0905115326ecd261046da2c806b8"
 image_filename: "JamesWebbSpaceTelescope_ZH-CN12268483856_1920x1080.jpg"
 ---

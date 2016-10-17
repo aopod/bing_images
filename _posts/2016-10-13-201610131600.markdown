@@ -5,6 +5,6 @@ date:   "2016-10-13 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MosierCherryOrchards_ZH-CN5969284234_1920x1080.jpg"
 link: "/search?q=%e5%93%a5%e4%bc%a6%e6%af%94%e4%ba%9a%e6%b2%b3%e5%b3%a1%e8%b0%b7&form=hpcapt&mkt=zh-cn"
 copyright: "哥伦比亚河峡谷国家风景名胜区内的甜樱桃园，美国俄勒冈州 (© Jaynes Gallery/Danita Delimont)"
-image_hash: "91e3bd1132dfc77757b3f1c8cf9aa3e3"
+image_hash: "cff6dd74f4d26ce56b692f220ef680f6"
 image_filename: "MosierCherryOrchards_ZH-CN5969284234_1920x1080.jpg"
 ---

@@ -5,6 +5,6 @@ date:   "2016-10-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MadeiraTrails_ZH-CN11087101725_1920x1080.jpg"
 link: "/search?q=%e9%a9%ac%e5%be%b7%e6%8b%89%e7%be%a4%e5%b2%9b&form=hpcapt&mkt=zh-cn"
 copyright: "马德拉岛的山间小径，葡萄牙 (© Rusinka/Shutterstock)"
-image_hash: "f84a43ed94caa6fba7ffd6474351fc1e"
+image_hash: "4ac86f23c32f6fb678c68621dfbe0d56"
 image_filename: "MadeiraTrails_ZH-CN11087101725_1920x1080.jpg"
 ---

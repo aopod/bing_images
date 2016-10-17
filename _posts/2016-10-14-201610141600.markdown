@@ -5,6 +5,6 @@ date:   "2016-10-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/LacsdesCheserys_ZH-CN10032851647_1920x1080.jpg"
 link: "/search?q=%e9%9c%9e%e6%85%95%e5%b0%bc&form=hpcapt&mkt=zh-cn"
 copyright: "Cheserys湖与霞慕尼-勃朗峰，霞慕尼， 法国上萨瓦省 (© David Pattyn/Minden Pictures)"
-image_hash: "5866463aa1aeb3ec24d3363d99c8fe78"
+image_hash: "b462cb72a611f400935edd466c89afd4"
 image_filename: "LacsdesCheserys_ZH-CN10032851647_1920x1080.jpg"
 ---
