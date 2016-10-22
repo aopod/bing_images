@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日霜降】西藏昌都市然乌湖"
+date:   "2016-10-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/RanwuLake_ZH-CN12859816630_1920x1080.jpg"
+link: "/search?q=%e7%84%b6%e4%b9%8c%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "【今日霜降】西藏昌都市然乌湖 (© Yuanping/iStock/Getty Images Plus)"
+image_hash: "79c051b624c118001d321a177779a9d3"
+image_filename: "RanwuLake_ZH-CN12859816630_1920x1080.jpg"
+---
