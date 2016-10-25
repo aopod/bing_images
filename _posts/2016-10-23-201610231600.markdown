@@ -5,6 +5,6 @@ date:   "2016-10-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/KingRiver_ZH-CN12008036815_1920x1080.jpg"
 link: "/search?q=King+River%2c+Western+Australia&form=hpcapt&mkt=zh-cn"
 copyright: "温德姆市附近King河的滩涂，澳大利亚 (© Ralph Lee Hopkins/Offset)"
-image_hash: "293f625cf3cec9381761af284a06ea3f"
+image_hash: "45e05d1c1b45cfc50826fa9988069a02"
 image_filename: "KingRiver_ZH-CN12008036815_1920x1080.jpg"
 ---

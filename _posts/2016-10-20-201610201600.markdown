@@ -5,6 +5,6 @@ date:   "2016-10-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MuseumClouds_ZH-CN12976052707_1920x1080.jpg"
 link: "/search?q=%e6%a2%85%e6%96%af%e7%ba%b3%e5%b0%94%e5%b1%b1%e5%8d%9a%e7%89%a9%e9%a6%86&form=hpcapt&mkt=zh-cn"
 copyright: "云层中的梅斯纳尔山博物馆，意大利 (© Alberto Simonetti/Getty Images)"
-image_hash: "1d9283f00cbdcd8b74f51fc319ce5f91"
+image_hash: "e77e9804b64fabbc9b98857c42477721"
 image_filename: "MuseumClouds_ZH-CN12976052707_1920x1080.jpg"
 ---
