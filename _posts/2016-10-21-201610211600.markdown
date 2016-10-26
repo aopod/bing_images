@@ -5,6 +5,6 @@ date:   "2016-10-21 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MountTarawera_ZH-CN9325208378_1920x1080.jpg"
 link: "/search?q=%e6%96%b0%e8%a5%bf%e5%85%b0&form=hpcapt&mkt=zh-cn"
 copyright: "塔拉韦拉火山，新西兰北岛 (© Look Foto/Aurora Photos)"
-image_hash: "977d1bca9a0b59666df638ff9a497fa4"
+image_hash: "a963b00b5a0849528db5cd98bf3f4b72"
 image_filename: "MountTarawera_ZH-CN9325208378_1920x1080.jpg"
 ---

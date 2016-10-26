@@ -5,6 +5,6 @@ date:   "2016-10-25 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/GreaterKudu_ZH-CN8868031087_1920x1080.jpg"
 link: "/search?q=%e9%a9%ac%e5%be%b7%e6%8b%89%e7%be%a4%e5%b2%9b&form=hpcapt&mkt=zh-cn"
 copyright: "丘比国家公园里的雌性大捻角羚，博茨瓦纳 (© WorldFoto/Aurora Photos)"
-image_hash: "53323e64bf1efa064a5d9bacd6ea6efa"
+image_hash: "10d7a7715c90c1786b3438b4d6fb554d"
 image_filename: "GreaterKudu_ZH-CN8868031087_1920x1080.jpg"
 ---
