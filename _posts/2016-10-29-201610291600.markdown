@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "九寨沟国家公园内的枫树"
+date:   "2016-10-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/RedMaple_ZH-CN13551827423_1920x1080.jpg"
+link: "/search?q=%e4%b9%9d%e5%af%a8%e6%b2%9f&form=hpcapt&mkt=zh-cn"
+copyright: "九寨沟国家公园内的枫树 (© Cornelia Doerr/Getty Images)"
+image_hash: "0c2f3a17d4bcc478b83af1dfcf0944a7"
+image_filename: "RedMaple_ZH-CN13551827423_1920x1080.jpg"
+---
