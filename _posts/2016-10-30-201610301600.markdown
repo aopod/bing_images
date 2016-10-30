@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "闹鬼的荒墓"
+date:   "2016-10-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Halloween2016_ZH-CN7682362704_1920x1080.jpg"
+link: "/search?q=%e4%b8%87%e5%9c%a3%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "闹鬼的荒墓 (© Shutterstock/Getty Images)"
+image_hash: "73d6df99ffbcb874b3a4a1eb32d89a97"
+image_filename: "Halloween2016_ZH-CN7682362704_1920x1080.jpg"
+---
