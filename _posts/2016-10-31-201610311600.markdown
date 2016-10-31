@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "瓦哈卡的鬼节骷髅壁画，墨西哥"
+date:   "2016-10-31 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SkullMural_ZH-CN10342183481_1920x1080.jpg"
+link: "/search?q=%e5%a2%a8%e8%a5%bf%e5%93%a5%e4%ba%a1%e7%81%b5%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "瓦哈卡的鬼节骷髅壁画，墨西哥 (© Judy Bellah/Alamy)"
+image_hash: "e690f9f5a04fe18c7b51ded4b62928bc"
+image_filename: "SkullMural_ZH-CN10342183481_1920x1080.jpg"
+---
