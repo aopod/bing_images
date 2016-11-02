@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马卡雷纳山脉的五色河，哥伦比亚"
+date:   "2016-11-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CanoCristales_ZH-CN12281532336_1920x1080.jpg"
+link: "/search?q=%e5%93%a5%e4%bc%a6%e6%af%94%e4%ba%9a%ef%bc%8c%e4%ba%94%e8%89%b2%e6%b2%b3&form=hpcapt&mkt=zh-cn"
+copyright: "马卡雷纳山脉的五色河，哥伦比亚 (© Tom Till/Alamy)"
+image_hash: "55ff23b0b7a5e4107d7d782ed5811907"
+image_filename: "CanoCristales_ZH-CN12281532336_1920x1080.jpg"
+---
