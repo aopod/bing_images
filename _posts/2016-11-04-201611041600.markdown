@@ -5,6 +5,6 @@ date:   "2016-11-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ApurimacRiverBridge_ZH-CN13064248684_1920x1080.jpg"
 link: "/search?q=%e5%8d%b0%e5%8a%a0%e7%bb%b3%e6%a1%a5&form=hpcapt&mkt=zh-cn"
 copyright: "阿普里马克河悬着的印加绳桥， 秘鲁 (© Wigbert Roth/Getty Images)"
-image_hash: "f2c31b9126c8367619aab2efda2e8211"
+image_hash: "025cd597b75955dba41a93bd98ad3f5c"
 image_filename: "ApurimacRiverBridge_ZH-CN13064248684_1920x1080.jpg"
 ---

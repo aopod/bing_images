@@ -5,6 +5,6 @@ date:   "2016-11-08 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ArcticHenge_ZH-CN8197982391_1920x1080.jpg"
 link: "/search?q=Raufarh%c3%b6fn&form=hpcapt&mkt=zh-cn"
 copyright: "北极地区Raufarhöfn上空的斑斓极光，冰岛 (© Stian Rekdal/Nimia)"
-image_hash: "bd02dbf1dce061188a8d036c4aa5c689"
+image_hash: "e090992caed5ffeb005b78f7b82e0e54"
 image_filename: "ArcticHenge_ZH-CN8197982391_1920x1080.jpg"
 ---

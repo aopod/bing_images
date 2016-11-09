@@ -5,6 +5,6 @@ date:   "2016-11-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/IcyWaterfull_ZH-CN13699207169_1920x1080.jpg"
 link: "/search?q=%e7%ab%8b%e5%86%ac&form=hpcapt&mkt=zh-cn"
 copyright: "【今日立冬】一条被冰冻“定格”了的小溪，九寨沟县，四川省 (© Jin Xing/Moment/Getty Images)"
-image_hash: "2a1d61ca67ece827d98ea0503dbc58a5"
+image_hash: "48cfc7ef2bde376b86c6bd4fbd0770b5"
 image_filename: "IcyWaterfull_ZH-CN13699207169_1920x1080.jpg"
 ---
