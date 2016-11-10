@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "“一只”丹顶鹤"
+date:   "2016-11-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SingleCrane_ZH-CN11987665683_1920x1080.jpg"
+link: "/search?q=%e5%a6%82%e4%bd%95%e8%84%b1%e7%a6%bb%e5%8d%95%e8%ba%ab&form=hpcapt&mkt=zh-cn"
+copyright: "“一只”丹顶鹤 (© Bobby Joshi/500px)"
+image_hash: "1620e1f208c66f0c789420607b1c985d"
+image_filename: "SingleCrane_ZH-CN11987665683_1920x1080.jpg"
+---
