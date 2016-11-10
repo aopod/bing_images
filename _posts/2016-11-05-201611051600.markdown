@@ -5,6 +5,6 @@ date:   "2016-11-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/UnionStationToronto_ZH-CN10376164284_1920x1080.jpg"
 link: "/search?q=%e5%a4%9a%e4%bc%a6%e5%a4%9a%e8%81%94%e5%90%88%e8%bd%a6%e7%ab%99&form=hpcapt&mkt=zh-cn"
 copyright: "多伦多联合车站的大石钟，加拿大 (© Zoran Stanojevic/Alamy)"
-image_hash: "c9f896e1d11b78b8beb0878a4ad6730b"
+image_hash: "bdd8984cc25b2922a4c2659d8a953ff3"
 image_filename: "UnionStationToronto_ZH-CN10376164284_1920x1080.jpg"
 ---
