@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "弗林德斯岛附近的花岗岩岩石，塔斯马尼亚州，澳大利亚"
+date:   "2016-11-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FlindersGranite_ZH-CN10776618323_1920x1080.jpg"
+link: "/search?q=%e5%bc%97%e6%9e%97%e5%be%b7%e6%96%af%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+copyright: "弗林德斯岛附近的花岗岩岩石，塔斯马尼亚州，澳大利亚 (© Masterfile/Aurora Photos)"
+image_hash: "9965d2594a053bf30d7f9c8f89de2cc8"
+image_filename: "FlindersGranite_ZH-CN10776618323_1920x1080.jpg"
+---
