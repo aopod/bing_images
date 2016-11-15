@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "威奇托山野生动物保护区内的斯科特山，俄克拉荷马州，美国"
+date:   "2016-11-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MountScott_ZH-CN8412403132_1920x1080.jpg"
+link: "/search?q=Mount+Scott+Oklahoma&form=hpcapt&mkt=zh-cn"
+copyright: "威奇托山野生动物保护区内的斯科特山，俄克拉荷马州，美国 (© Tim Fitzharris/Minden Pictures)"
+image_hash: "17ccbd1d406590c360d8d97f8c2fd6d6"
+image_filename: "MountScott_ZH-CN8412403132_1920x1080.jpg"
+---
