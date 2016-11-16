@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "博热附近的葡萄园，罗讷河谷，法国"
+date:   "2016-11-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BeaujolaisNouveau_ZH-CN8322497216_1920x1080.jpg"
+link: "/search?q=%e7%bd%97%e8%ae%b7%e6%b2%b3%e8%b0%b7%ef%bc%8c%e6%b3%95%e5%9b%bd&form=hpcapt&mkt=zh-cn"
+copyright: "博热附近的葡萄园，罗讷河谷，法国 (© Richard Semik/Shutterstock)"
+image_hash: "de939a0e7bc78183b780a7c1179124f5"
+image_filename: "BeaujolaisNouveau_ZH-CN8322497216_1920x1080.jpg"
+---
