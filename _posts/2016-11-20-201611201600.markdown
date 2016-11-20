@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "萨利纳图尔达盐矿，图尔达，罗马尼亚"
+date:   "2016-11-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TurdaSalt_ZH-CN8549125738_1920x1080.jpg"
+link: "/search?q=%e8%90%a8%e5%88%a9%e7%ba%b3%e5%9b%be%e5%b0%94%e8%be%be%e7%9b%90%e7%9f%bf&form=hpcapt&mkt=zh-cn"
+copyright: "萨利纳图尔达盐矿，图尔达，罗马尼亚 (© Biris Paul Silviu/Getty Images)"
+image_hash: "1208fc98b8671c8c6a56328b2ad47245"
+image_filename: "TurdaSalt_ZH-CN8549125738_1920x1080.jpg"
+---
