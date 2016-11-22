@@ -5,6 +5,6 @@ date:   "2016-11-19 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/WallPaintingChildren_ZH-CN7327764062_1920x1080.jpg"
 link: "/search?q=%e7%ab%a5%e5%b9%b4%e5%9b%9e%e5%bf%86%e6%9d%80&form=hpcapt&mkt=zh-cn"
 copyright: "乔治城的壁画，槟城，马来西亚 (© JTB Photo/UIG/Getty Images)"
-image_hash: "08034bec325c585564c80edb0c26d86d"
+image_hash: "478ce251915303b960142a82d977213e"
 image_filename: "WallPaintingChildren_ZH-CN7327764062_1920x1080.jpg"
 ---

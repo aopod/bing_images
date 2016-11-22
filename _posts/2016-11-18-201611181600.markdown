@@ -5,6 +5,6 @@ date:   "2016-11-18 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/VirginRiver_ZH-CN13069045342_1920x1080.jpg"
 link: "/search?q=%e9%94%a1%e5%ae%89%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "锡安国家公园的处女河，犹他州，美国 (© Marc Adamus/Aurora Photos)"
-image_hash: "2e5b279fc6ce3360379cbe3ee579b7cb"
+image_hash: "e854e0da09240efd87a9a75239d93dcd"
 image_filename: "VirginRiver_ZH-CN13069045342_1920x1080.jpg"
 ---

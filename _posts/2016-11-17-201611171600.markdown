@@ -5,6 +5,6 @@ date:   "2016-11-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/IlluminatedMushrooms_ZH-CN10061659106_1920x1080.jpg"
 link: "/search?q=%e9%87%8e%e8%98%91%e8%8f%87&form=hpcapt&mkt=zh-cn"
 copyright: "黑暗沙丘中的蘑菇，登海尔德近郊，荷兰 (© Daniel Laan/500px)"
-image_hash: "eaafe5b092fd24c4944044596bddac49"
+image_hash: "67c4bf47b55c746b64599561f0b4782b"
 image_filename: "IlluminatedMushrooms_ZH-CN10061659106_1920x1080.jpg"
 ---
