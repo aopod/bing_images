@@ -5,6 +5,6 @@ date:   "2016-11-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/TurdaSalt_ZH-CN8549125738_1920x1080.jpg"
 link: "/search?q=%e7%bd%97%e9%a9%ac%e5%b0%bc%e4%ba%9a%ef%bc%8c%e5%9b%be%e5%b0%94%e8%be%be%e7%9b%90%e7%9f%bf&form=hpcapt&mkt=zh-cn"
 copyright: "图尔达盐矿，图尔达，罗马尼亚 (© Biris Paul Silviu/Getty Images)"
-image_hash: "e0ff064e8683b21899df106458c077bf"
+image_hash: "a62d8022db4853e540680c80589681bd"
 image_filename: "TurdaSalt_ZH-CN8549125738_1920x1080.jpg"
 ---
