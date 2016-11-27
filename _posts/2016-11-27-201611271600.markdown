@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "英国皇家学会总部展示的古董放射计，伦敦，英国"
+date:   "2016-11-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LondonRadiometers_ZH-CN12114654989_1920x1080.jpg"
+link: "/search?q=%e8%8b%b1%e5%9b%bd%e7%9a%87%e5%ae%b6%e5%ad%a6%e4%bc%9a&form=hpcapt&mkt=zh-cn"
+copyright: "英国皇家学会总部展示的古董放射计，伦敦，英国 (© Peter Macdiarmid/Staff/Getty Images)"
+image_hash: "fa76bb6d2694523946103a22f2c30f85"
+image_filename: "LondonRadiometers_ZH-CN12114654989_1920x1080.jpg"
+---
