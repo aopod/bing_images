@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "旧金山-奥克兰海湾大桥和其背后的旧金山，加利福尼亚州"
+date:   "2016-11-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GrizzlyPeakSFVideo_ZH-CN11282703590_1920x1080.jpg"
+link: "/search?q=%e6%97%a7%e9%87%91%e5%b1%b1-%e5%a5%a5%e5%85%8b%e5%85%b0%e6%b5%b7%e6%b9%be%e5%a4%a7%e6%a1%a5&form=hpcapt&mkt=zh-cn"
+copyright: "旧金山-奥克兰海湾大桥和其背后的旧金山，加利福尼亚州 (© Engel Ching/Alamy)"
+image_hash: "c5c30d089db44b596237b42b2fa03557"
+image_filename: "GrizzlyPeakSFVideo_ZH-CN11282703590_1920x1080.jpg"
+---
