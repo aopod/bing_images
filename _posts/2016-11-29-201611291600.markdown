@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "两只牛背鹭站在布契尔斑马背上，利特弗雷自然保护区，南非"
+date:   "2016-11-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CattleEgrets_ZH-CN8513428115_1920x1080.jpg"
+link: "/search?q=Rietvlei+Nature+Reserve&form=hpcapt&mkt=zh-cn"
+copyright: "两只牛背鹭站在布契尔斑马背上，利特弗雷自然保护区，南非 (© Richard Du Toit/Minden Pictures)"
+image_hash: "36597ab905f85653a5beac78cceaad2c"
+image_filename: "CattleEgrets_ZH-CN8513428115_1920x1080.jpg"
+---
