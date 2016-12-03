@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "昆诺阿藜，秘鲁"
+date:   "2016-12-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Quinoa_ZH-CN9445647519_1920x1080.jpg"
+link: "/search?q=%e7%ab%a5%e5%b9%b4%e5%9b%9e%e5%bf%86%e6%9d%80&form=hpcapt&mkt=zh-cn"
+copyright: "昆诺阿藜，秘鲁 (© Westend61 GmbH/Alamy)"
+image_hash: "4406c45c6afb97a140517de56d869bac"
+image_filename: "Quinoa_ZH-CN9445647519_1920x1080.jpg"
+---
