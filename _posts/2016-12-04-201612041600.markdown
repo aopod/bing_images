@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "用英飞凌技术批量生产的半导体，菲拉赫，奥地利"
+date:   "2016-12-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Semiconductor_ZH-CN9271532081_1920x1080.jpg"
+link: "/search?q=%e5%8d%8a%e5%af%bc%e4%bd%93&form=hpcapt&mkt=zh-cn"
+copyright: "用英飞凌技术批量生产的半导体，菲拉赫，奥地利 (© Krisztian Bocsi/Bloomberg/Getty Images)"
+image_hash: "17189086c92365cb383819e84d503cda"
+image_filename: "Semiconductor_ZH-CN9271532081_1920x1080.jpg"
+---
