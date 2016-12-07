@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "湾仔区的行人天桥，香港"
+date:   "2016-12-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/RoundWalkway_ZH-CN10197024907_1920x1080.jpg"
+link: "/search?q=%e9%a6%99%e6%b8%af%e6%b9%be%e4%bb%94%e5%8c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "湾仔区的行人天桥，香港 (© timestock22/Nimia)"
+image_hash: "ea22fec032db37f4e4cb7258ea6b7a42"
+image_filename: "RoundWalkway_ZH-CN10197024907_1920x1080.jpg"
+---
