@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "梅萨维德国家公园的悬崖宫正在进行的圣诞灯节，科罗拉多州，美国"
+date:   "2016-12-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CliffPalaceLuminara_ZH-CN10279459718_1920x1080.jpg"
+link: "/search?q=%e6%a2%85%e8%90%a8%e7%bb%b4%e5%be%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "梅萨维德国家公园的悬崖宫正在进行的圣诞灯节，科罗拉多州，美国 (© Richard Ellis/Alamy)"
+image_hash: "bd31d340bf108f79ba6f668430223c32"
+image_filename: "CliffPalaceLuminara_ZH-CN10279459718_1920x1080.jpg"
+---
