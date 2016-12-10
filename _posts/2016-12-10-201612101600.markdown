@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巴尔切沃村庄的近郊，奥尔什丁市，波兰"
+date:   "2016-12-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WarmiaPoland_ZH-CN13324541925_1920x1080.jpg"
+link: "/search?q=%e5%b7%b4%e5%b0%94%e5%88%87%e6%b2%83&form=hpcapt&mkt=zh-cn"
+copyright: "巴尔切沃村庄的近郊，奥尔什丁市，波兰 (© jesiotr9/Getty Images)"
+image_hash: "29eb947146a9b5485e00fcff7b331a1f"
+image_filename: "WarmiaPoland_ZH-CN13324541925_1920x1080.jpg"
+---
