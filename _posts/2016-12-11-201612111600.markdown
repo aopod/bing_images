@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "陆地卫星8号的红外照片， 摄于哈萨克斯坦的油田"
+date:   "2016-12-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KazakhstanNasa_ZH-CN9791985430_1920x1080.jpg"
+link: "/search?q=%e9%99%86%e5%9c%b0%e5%8d%ab%e6%98%9f8%e5%8f%b7&form=hpcapt&mkt=zh-cn"
+copyright: "陆地卫星8号的红外照片， 摄于哈萨克斯坦的油田 (© NASA)"
+image_hash: "c9fdb886b87f73484b7b0f813e4fe162"
+image_filename: "KazakhstanNasa_ZH-CN9791985430_1920x1080.jpg"
+---
