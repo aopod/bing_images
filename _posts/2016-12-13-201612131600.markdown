@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "帕萨米里亚国家公园的黑夜猴，秘鲁"
+date:   "2016-12-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MicoDeNoche_ZH-CN10514469675_1920x1080.jpg"
+link: "/search?q=%e9%bb%91%e5%a4%9c%e7%8c%b4&form=hpcapt&mkt=zh-cn"
+copyright: "帕萨米里亚国家公园的黑夜猴，秘鲁 (© Cyril Ruoso/Minden Pictures)"
+image_hash: "611b82a84009142e43a522cb9b877f6a"
+image_filename: "MicoDeNoche_ZH-CN10514469675_1920x1080.jpg"
+---
