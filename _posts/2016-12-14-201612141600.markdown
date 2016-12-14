@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "大特尔诺沃，保加利亚"
+date:   "2016-12-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/VelikoTarnovo_ZH-CN11165433151_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e7%89%b9%e5%b0%94%e8%af%ba%e6%b2%83&form=hpcapt&mkt=zh-cn"
+copyright: "大特尔诺沃，保加利亚 (© valentinrussanov/Getty Images)"
+image_hash: "cfaa0c923dfcdad4924900e4bf77f69a"
+image_filename: "VelikoTarnovo_ZH-CN11165433151_1920x1080.jpg"
+---
