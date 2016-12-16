@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "被纸袋灯照亮的酒店，洛雷托，圣达菲，新墨西哥州，美国"
+date:   "2016-12-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Farolitos_ZH-CN12055626406_1920x1080.jpg"
+link: "/search?q=%e6%b4%9b%e9%9b%b7%e6%89%98&form=hpcapt&mkt=zh-cn"
+copyright: "被纸袋灯照亮的酒店，洛雷托，圣达菲，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)"
+image_hash: "593a5c342e81606c7ff8371d4e26ab65"
+image_filename: "Farolitos_ZH-CN12055626406_1920x1080.jpg"
+---
