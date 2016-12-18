@@ -5,6 +5,6 @@ date:   "2016-12-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/CandyCaneSeaStar_ZH-CN8947157877_1920x1080.jpg"
 link: "/search?q=%e5%a9%86%e7%bd%97%e6%b4%b2&form=hpcapt&mkt=zh-cn"
 copyright: "巨大海葵上的一枚海星， 西巴丹岛附近，婆罗洲 (© Norbert Wu/Minden Pictures)"
-image_hash: "d68ddb4337e6044d156b7a427667cd37"
+image_hash: "f37d7173bf0b5a014fbb769d4597b881"
 image_filename: "CandyCaneSeaStar_ZH-CN8947157877_1920x1080.jpg"
 ---

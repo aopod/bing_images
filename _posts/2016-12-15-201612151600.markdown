@@ -5,6 +5,6 @@ date:   "2016-12-15 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/SwitzerlandSunset_ZH-CN8198492507_1920x1080.jpg"
 link: "/search?q=%e7%91%9e%e5%a3%ab&form=hpcapt&mkt=zh-cn"
 copyright: "雪地里的日落，瑞士 (© Alexander Dragunov/500px)"
-image_hash: "aa4c6b9572d5affc525c42ffd0ebfaf5"
+image_hash: "1db8a63de63eb9d3b4f370abcc5c4119"
 image_filename: "SwitzerlandSunset_ZH-CN8198492507_1920x1080.jpg"
 ---
