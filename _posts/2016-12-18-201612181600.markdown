@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "埃尔迈拉市的一个树农场，爱达荷州，美国"
+date:   "2016-12-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ElmiraTreeFarm_ZH-CN8716369223_1920x1080.jpg"
+link: "/search?q=%e5%9f%83%e5%b0%94%e8%bf%88%e6%8b%89&form=hpcapt&mkt=zh-cn"
+copyright: "埃尔迈拉市的一个树农场，爱达荷州，美国 (© Woods Wheatcroft/Aurora Photos)"
+image_hash: "ff2bd6857712c1226218dca8f636b66b"
+image_filename: "ElmiraTreeFarm_ZH-CN8716369223_1920x1080.jpg"
+---
