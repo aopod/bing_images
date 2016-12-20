@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日冬至】中国古人滑冰图"
+date:   "2016-12-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AncientpeopleSkating_ZH-CN10472124556_1920x1080.jpg"
+link: "/search?q=%e4%b8%ad%e5%9b%bd%e5%8f%a4%e4%bb%a3%e6%bb%91%e5%86%b0&form=hpcapt&mkt=zh-cn"
+copyright: "【今日冬至】中国古人滑冰图 (© Stock Connection/REX/Shutterstock)"
+image_hash: "802a7dede439daca23a8b3d03c6a3395"
+image_filename: "AncientpeopleSkating_ZH-CN10472124556_1920x1080.jpg"
+---
