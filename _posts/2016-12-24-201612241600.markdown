@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "特伦蒂诺-上阿迪杰的一个圣诞市集，南蒂罗尔，意大利"
+date:   "2016-12-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SnowGlobeVideo_ZH-CN8461656803_1920x1080.jpg"
+link: "/search?q=%e5%bf%85%e5%8e%bb%e7%9a%84%e5%9c%a3%e8%af%9e%e5%b8%82%e9%9b%86&form=hpcapt&mkt=zh-cn"
+copyright: "特伦蒂诺-上阿迪杰的一个圣诞市集，南蒂罗尔，意大利 (© Carlo Trolese/500px)"
+image_hash: "f796776fbfcab2c6d1579866a677b89e"
+image_filename: "SnowGlobeVideo_ZH-CN8461656803_1920x1080.jpg"
+---
