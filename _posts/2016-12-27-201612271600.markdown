@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿寒国立公园的丹顶鹤，日本北海道"
+date:   "2016-12-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GrusJaponensis_ZH-CN8553179454_1920x1080.jpg"
+link: "/search?q=%e4%b8%b9%e9%a1%b6%e9%b9%a4&form=hpcapt&mkt=zh-cn"
+copyright: "阿寒国立公园的丹顶鹤，日本北海道 (© Vincent Munier/Minden Pictures)"
+image_hash: "81b0b2b1e4d0ebe64b5c99548e4b68a5"
+image_filename: "GrusJaponensis_ZH-CN8553179454_1920x1080.jpg"
+---
