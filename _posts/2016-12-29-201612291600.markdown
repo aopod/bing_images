@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "斯图加特市附近的霍亨索伦城堡，德国"
+date:   "2016-12-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ZellerHorn_ZH-CN7123868469_1920x1080.jpg"
+link: "/search?q=%e9%9c%8d%e4%ba%a8%e7%b4%a2%e4%bc%a6%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn"
+copyright: "斯图加特市附近的霍亨索伦城堡，德国 (© Jürgen Eisele/500px)"
+image_hash: "31a2a3d07adfed7c2b355c062279a4e5"
+image_filename: "ZellerHorn_ZH-CN7123868469_1920x1080.jpg"
+---
