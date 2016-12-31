@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日元旦】在“香港眼”摩天轮上跨年，香港"
+date:   "2016-12-31 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HongKongEye_ZH-CN12285832688_1920x1080.jpg"
+link: "/search?q=%e5%85%83%e6%97%a6&form=hpcapt&mkt=zh-cn"
+copyright: "【今日元旦】在“香港眼”摩天轮上跨年，香港 (© Garan Jay/500px)"
+image_hash: "c2e007c9174a4edb55b0f58b35a2446c"
+image_filename: "HongKongEye_ZH-CN12285832688_1920x1080.jpg"
+---
