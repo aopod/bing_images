@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "图卢姆附近的Aktun Ha 水井的水底视角，金塔纳罗奥，墨西哥"
+date:   "2017-01-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CarWash_ZH-CN12705750866_1920x1080.jpg"
+link: "/search?q=Aktun+Ha+cenote&form=hpcapt&mkt=zh-cn"
+copyright: "图卢姆附近的Aktun Ha 水井的水底视角，金塔纳罗奥，墨西哥 (© Christian Vizl/Tandem Stills + Motion)"
+image_hash: "040b7e23c0c5b84a20ab59fe73a50225"
+image_filename: "CarWash_ZH-CN12705750866_1920x1080.jpg"
+---
