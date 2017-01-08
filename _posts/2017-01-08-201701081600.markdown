@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "维多利亚宝翠花园的罗斯喷泉，不列颠哥伦比亚省，加拿大"
+date:   "2017-01-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/RossFountain_ZH-CN11490955168_1920x1080.jpg"
+link: "/search?q=%e5%ae%9d%e7%bf%a0%e8%8a%b1%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "维多利亚宝翠花园的罗斯喷泉，不列颠哥伦比亚省，加拿大 (© Reimar 8/Alamy)"
+image_hash: "f1105760e385671f84ab4fedaec6f8b2"
+image_filename: "RossFountain_ZH-CN11490955168_1920x1080.jpg"
+---
