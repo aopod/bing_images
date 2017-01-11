@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Valadier寺庙，真加市，意大利"
+date:   "2017-01-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TempleOfValadier_ZH-CN13184904528_1920x1080.jpg"
+link: "/search?q=Temple+of+Valadier&form=hpcapt&mkt=zh-cn"
+copyright: "Valadier寺庙，真加市，意大利 (© Westend61/Getty Images)"
+image_hash: "ac7004a86d2ce67c8cbadc27d37c00cd"
+image_filename: "TempleOfValadier_ZH-CN13184904528_1920x1080.jpg"
+---
