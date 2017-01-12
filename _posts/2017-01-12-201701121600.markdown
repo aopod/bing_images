@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "张家界附近武陵源旷野里的几只恒河猴，中国"
+date:   "2017-01-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MacaquesWulingyuan_ZH-CN8705472129_1920x1080.jpg"
+link: "/search?q=%e6%81%92%e6%b2%b3%e7%8c%b4&form=hpcapt&mkt=zh-cn"
+copyright: "张家界附近武陵源旷野里的几只恒河猴，中国 (© Xinhua News Agency/REX/Shutterstock)"
+image_hash: "8064f27352f8db6862304cbb713d78b0"
+image_filename: "MacaquesWulingyuan_ZH-CN8705472129_1920x1080.jpg"
+---
