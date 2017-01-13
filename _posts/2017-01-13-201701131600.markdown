@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "在南崎巴札小镇上方矗立的Kongde Ri山峰，萨加玛塔国家公园，尼泊尔"
+date:   "2017-01-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KongdeRi_ZH-CN11743396085_1920x1080.jpg"
+link: "/search?q=%e8%90%a8%e5%8a%a0%e7%8e%9b%e5%a1%94%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "在南崎巴札小镇上方矗立的Kongde Ri山峰，萨加玛塔国家公园，尼泊尔 (© Andrew Peacock/Aurora Photos)"
+image_hash: "579516fef1ed7eac2f1d1a6d80b2cc6f"
+image_filename: "KongdeRi_ZH-CN11743396085_1920x1080.jpg"
+---
