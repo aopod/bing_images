@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "猛犸热泉的密涅瓦梯田，黄石国家公园，怀俄明州"
+date:   "2017-01-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MinervaTerrace_ZH-CN10705203937_1920x1080.jpg"
+link: "/search?q=%e7%8c%9b%e7%8a%b8%e7%83%ad%e6%b3%89&form=hpcapt&mkt=zh-cn"
+copyright: "猛犸热泉的密涅瓦梯田，黄石国家公园，怀俄明州 (© Tim Fitzharris/Minden Pictures)"
+image_hash: "bcd128d8691dc02752f1b0e15783f3a3"
+image_filename: "MinervaTerrace_ZH-CN10705203937_1920x1080.jpg"
+---
