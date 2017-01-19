@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日大寒】哈尔滨国际冰雪节盛开的烟花，黑龙江哈尔滨"
+date:   "2017-01-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/IceSculptures_ZH-CN12032666081_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e5%af%92%e8%8a%82%e6%b0%94&form=hpcapt&mkt=zh-cn"
+copyright: "【今日大寒】哈尔滨国际冰雪节盛开的烟花，黑龙江哈尔滨 (© Aly Song/REUTERS)"
+image_hash: "667916c614e376c6ecb87ad393d74d26"
+image_filename: "IceSculptures_ZH-CN12032666081_1920x1080.jpg"
+---
