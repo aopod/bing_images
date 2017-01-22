@@ -5,6 +5,6 @@ date:   "2017-01-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/GentooPenguinVideo_ZH-CN9979103072_1920x1080.jpg"
 link: "/search?q=%e5%b7%b4%e5%b8%83%e4%ba%9a%e4%bc%81%e9%b9%85&form=hpcapt&mkt=zh-cn"
 copyright: "库佛维尔岛的巴布亚企鹅，南极洲 (© Ben Cranke/Minden Pictures)"
-image_hash: "af2caae3e0176ce3e1cc7e95b3a03e41"
+image_hash: "343bca439b34211ec850693ffb5fa0f3"
 image_filename: "GentooPenguinVideo_ZH-CN9979103072_1920x1080.jpg"
 ---
