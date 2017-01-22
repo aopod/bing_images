@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从萨雷布山视角眺望勃朗峰，法国"
+date:   "2017-01-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MontBlancVideo_ZH-CN9230432404_1920x1080.jpg"
+link: "/search?q=%e5%8b%83%e6%9c%97%e5%b3%b0&form=hpcapt&mkt=zh-cn"
+copyright: "从萨雷布山视角眺望勃朗峰，法国 (© Niggli/Nimia)"
+image_hash: "c8004c0b6fa5d94ac1a20941f7492372"
+image_filename: "MontBlancVideo_ZH-CN9230432404_1920x1080.jpg"
+---
