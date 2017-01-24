@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "维莱修道院，比利时"
+date:   "2017-01-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/VillersAbbey_ZH-CN10373383330_1920x1080.jpg"
+link: "/search?q=Villers+Abbey&form=hpcapt&mkt=zh-cn"
+copyright: "维莱修道院，比利时 (© Patty Piturlea/500px)"
+image_hash: "55feef381b232fcbed8cad6f73c3a016"
+image_filename: "VillersAbbey_ZH-CN10373383330_1920x1080.jpg"
+---
