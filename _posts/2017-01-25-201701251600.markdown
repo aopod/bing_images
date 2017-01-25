@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "麝香牛和她的宝宝，多弗勒山-松达尔国家公园，挪威"
+date:   "2017-01-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/DovrefjellMuskox_ZH-CN14069563613_1920x1080.jpg"
+link: "/search?q=%e9%ba%9d%e9%a6%99%e7%89%9b&form=hpcapt&mkt=zh-cn"
+copyright: "麝香牛和她的宝宝，多弗勒山-松达尔国家公园，挪威 (© Christina Krutz/Getty Images)"
+image_hash: "597d9d64d06ad692fcc6abf445e2a594"
+image_filename: "DovrefjellMuskox_ZH-CN14069563613_1920x1080.jpg"
+---
