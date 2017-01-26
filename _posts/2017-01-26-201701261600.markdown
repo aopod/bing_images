@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "红筷子和蒸笼，中国"
+date:   "2017-01-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Chopstics_ZH-CN11978203109_1920x1080.jpg"
+link: "/search?q=%e4%b8%ad%e5%9b%bd%e7%ad%b7%e5%ad%90&form=hpcapt&mkt=zh-cn"
+copyright: "红筷子和蒸笼，中国 (© Dudley Wood/Alamy Stock Photo)"
+image_hash: "8e9f237a00eba3168380ff8f9d779298"
+image_filename: "Chopstics_ZH-CN11978203109_1920x1080.jpg"
+---
