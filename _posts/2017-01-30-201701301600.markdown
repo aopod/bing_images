@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "火焰大厦和它的轮廓线，阿塞拜疆巴库"
+date:   "2017-01-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FlameTowers_ZH-CN10904980589_1920x1080.jpg"
+link: "/search?q=Aktun+Ha+cenote&form=hpcapt&mkt=zh-cn"
+copyright: "火焰大厦和它的轮廓线，阿塞拜疆巴库 (© railelectropower/Getty Images)"
+image_hash: "d02446e50e9c6c3d4e6f26314e33058d"
+image_filename: "FlameTowers_ZH-CN10904980589_1920x1080.jpg"
+---
