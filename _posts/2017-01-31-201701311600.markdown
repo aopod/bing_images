@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从国际空间站拍摄的大堡礁"
+date:   "2017-01-31 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GBRISS_ZH-CN10195808313_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e5%a0%a1%e7%a4%81&form=hpcapt&mkt=zh-cn"
+copyright: "从国际空间站拍摄的大堡礁 (© NASA)"
+image_hash: "b724d74ad48a23b474ccaa46fc0421b4"
+image_filename: "GBRISS_ZH-CN10195808313_1920x1080.jpg"
+---
