@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "纽约大学哲学系大楼的楼梯，美国纽约"
+date:   "2017-02-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TowerofLight_ZH-CN11745498179_1920x1080.jpg"
+link: "/search?q=%e7%ba%bd%e7%ba%a6%e5%a4%a7%e5%ad%a6&form=hpcapt&mkt=zh-cn"
+copyright: "纽约大学哲学系大楼的楼梯，美国纽约 (© Alex Fradkin/Gallery Stock)"
+image_hash: "d0489ea73667508fbdae2332d6fedf01"
+image_filename: "TowerofLight_ZH-CN11745498179_1920x1080.jpg"
+---
