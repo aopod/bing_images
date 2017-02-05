@@ -5,6 +5,6 @@ date:   "2017-02-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/VolunteerPoint_ZH-CN7941283677_1920x1080.jpg"
 link: "/search?q=%e7%8e%8b%e4%bc%81%e9%b9%85&form=hpcapt&mkt=zh-cn"
 copyright: "福克兰群岛的王企鹅 (© Luciano Candisani/Minden Pictures)"
-image_hash: "c49be38caf53eacd98a32eba0748afde"
+image_hash: "fd8d0d775c67af20b51e1788a54f47f3"
 image_filename: "VolunteerPoint_ZH-CN7941283677_1920x1080.jpg"
 ---
