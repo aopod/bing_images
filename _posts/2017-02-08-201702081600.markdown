@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "萨加玛塔国家公园里的一只雄性棕尾虹雉，尼泊尔"
+date:   "2017-02-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LophophorusImpejanus_ZH-CN10675050048_1920x1080.jpg"
+link: "/search?q=%e6%a3%95%e5%b0%be%e8%99%b9%e9%9b%89&form=hpcapt&mkt=zh-cn"
+copyright: "萨加玛塔国家公园里的一只雄性棕尾虹雉，尼泊尔 (© Patricio Robles Gil/Minden Pictures)"
+image_hash: "201a032b7414c36e377f334e42442d6c"
+image_filename: "LophophorusImpejanus_ZH-CN10675050048_1920x1080.jpg"
+---
