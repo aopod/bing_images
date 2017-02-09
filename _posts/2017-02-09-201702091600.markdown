@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "博德曼林场，俄勒冈州"
+date:   "2017-02-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BoardmanOR_ZH-CN10440697273_1920x1080.jpg"
+link: "/search?q=Boardman+Tree+Farm&form=hpcapt&mkt=zh-cn"
+copyright: "博德曼林场，俄勒冈州 (© Garret Suhrie/REX/Shutterstock)"
+image_hash: "7183392b109fcd4a8fdb9a07ff817a74"
+image_filename: "BoardmanOR_ZH-CN10440697273_1920x1080.jpg"
+---
