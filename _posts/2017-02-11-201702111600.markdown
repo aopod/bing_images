@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "加泰罗尼亚音乐厅，西班牙巴塞罗那"
+date:   "2017-02-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PalaudelaMusica_ZH-CN12110358984_1920x1080.jpg"
+link: "/search?q=%e5%8a%a0%e6%b3%b0%e7%bd%97%e5%b0%bc%e4%ba%9a%e9%9f%b3%e4%b9%90%e5%8e%85&form=hpcapt&mkt=zh-cn"
+copyright: "加泰罗尼亚音乐厅，西班牙巴塞罗那 (© Luis Davilla/age fotostock)"
+image_hash: "4044b34dab00d113ae16c23689e9cedf"
+image_filename: "PalaudelaMusica_ZH-CN12110358984_1920x1080.jpg"
+---
