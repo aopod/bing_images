@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "艺术家詹姆斯 · 特瑞尔的“Twilight Epiphany”雕塑装置在莱斯大学展出，休斯顿，德克萨斯州"
+date:   "2017-02-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TwilightEpiphany_ZH-CN11612238738_1920x1080.jpg"
+link: "/search?q='Twilight+Epiphany'+Skyspace&form=hpcapt&mkt=zh-cn"
+copyright: "艺术家詹姆斯 · 特瑞尔的“Twilight Epiphany”雕塑装置在莱斯大学展出，休斯顿，德克萨斯州 (© Alex Fradkin/Gallery Stock)"
+image_hash: "96ac5c067e8a9ba54f04a7236a194abf"
+image_filename: "TwilightEpiphany_ZH-CN11612238738_1920x1080.jpg"
+---
