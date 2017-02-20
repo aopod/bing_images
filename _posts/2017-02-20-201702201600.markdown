@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "北方大平原的火星陨石坑内结的冰"
+date:   "2017-02-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MartianCrater_ZH-CN9867068013_1920x1080.jpg"
+link: "/search?q=%e7%81%ab%e6%98%9f%e9%99%a8%e7%9f%b3%e5%9d%91&form=hpcapt&mkt=zh-cn"
+copyright: "北方大平原的火星陨石坑内结的冰 (© VUZE/NASA/Alamy)"
+image_hash: "ffcdbe64c08322d80c4293aa22f8ac07"
+image_filename: "MartianCrater_ZH-CN9867068013_1920x1080.jpg"
+---
