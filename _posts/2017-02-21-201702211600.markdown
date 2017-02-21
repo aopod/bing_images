@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "科托尔的防御工事，黑山"
+date:   "2017-02-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/VenetianFortifications_ZH-CN11140565989_1920x1080.jpg"
+link: "/search?q=%e7%a7%91%e6%89%98%e5%b0%94&form=hpcapt&mkt=zh-cn"
+copyright: "科托尔的防御工事，黑山 (© Slavica Stajić/500px)"
+image_hash: "7331a72610bf681b2862445325d5be1c"
+image_filename: "VenetianFortifications_ZH-CN11140565989_1920x1080.jpg"
+---
