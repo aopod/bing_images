@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "两只麝雉栖息枝头，巴西"
+date:   "2017-02-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Hoatzin_ZH-CN6642664963_1920x1080.jpg"
+link: "/search?q=%e9%ba%9d%e9%9b%89&form=hpcapt&mkt=zh-cn"
+copyright: "两只麝雉栖息枝头，巴西 (© Morten Ross/500px)"
+image_hash: "fe1371a1dcc3167b54e28a5c5556874d"
+image_filename: "Hoatzin_ZH-CN6642664963_1920x1080.jpg"
+---
