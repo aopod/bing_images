@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一位铜管乐队成员正在为国王嘉年华活动吹奏小号，新奥尔良"
+date:   "2017-02-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BrassBandTrumpet_ZH-CN8703910231_1920x1080.jpg"
+link: "/search?q=King's+Day+Celebration&form=hpcapt&mkt=zh-cn"
+copyright: "一位铜管乐队成员正在为国王嘉年华活动吹奏小号，新奥尔良 (© Gerald Herbert/AP Photo)"
+image_hash: "4cee43606858bd1d1975a12e8be41b1a"
+image_filename: "BrassBandTrumpet_ZH-CN8703910231_1920x1080.jpg"
+---
