@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "沙漠观景塔，亚利桑那州大峡谷国家公园"
+date:   "2017-03-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WatchtowerSky_ZH-CN8532519791_1920x1080.jpg"
+link: "/search?q=%e6%b2%99%e6%bc%a0%e8%a7%82%e6%99%af%e5%a1%94&form=hpcapt&mkt=zh-cn"
+copyright: "沙漠观景塔，亚利桑那州大峡谷国家公园 (© Babak Tafreshi/National Geographic/Getty Images)"
+image_hash: "00e082271e0b529ea38efcc04b86d821"
+image_filename: "WatchtowerSky_ZH-CN8532519791_1920x1080.jpg"
+---
