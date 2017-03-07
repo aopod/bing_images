@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "奥克兰艺术画廊的妇女参政瓷砖壁画，新西兰北岛"
+date:   "2017-03-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SuffragetteMuralNZ_ZH-CN11170622518_1920x1080.jpg"
+link: "/search?q=%e5%a5%b3%e6%80%a7%e5%8f%82%e6%94%bf%e6%9d%83&form=hpcapt&mkt=zh-cn"
+copyright: "奥克兰艺术画廊的妇女参政瓷砖壁画，新西兰北岛 (© Robert Harding/Alamy)"
+image_hash: "a93ede11df21e78b80a243d88a6dcfb3"
+image_filename: "SuffragetteMuralNZ_ZH-CN11170622518_1920x1080.jpg"
+---
