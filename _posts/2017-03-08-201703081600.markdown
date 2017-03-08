@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "斯瓦尔巴群岛的斯瓦尔巴卫星站，挪威"
+date:   "2017-03-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SvalbardSatellite_ZH-CN11710008487_1920x1080.jpg"
+link: "/search?q=Svalbard+Satellite+Station&form=hpcapt&mkt=zh-cn"
+copyright: "斯瓦尔巴群岛的斯瓦尔巴卫星站，挪威 (© Tim E White/Getty Images)"
+image_hash: "71521f00d14253ebac8a25cafeb2d9fc"
+image_filename: "SvalbardSatellite_ZH-CN11710008487_1920x1080.jpg"
+---
