@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "慕尼黑色彩节庆祝活动期间抛洒的彩色粉末，德国"
+date:   "2017-03-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HoliMunich_ZH-CN12353152381_1920x1080.jpg"
+link: "/search?q=%e6%85%95%e5%b0%bc%e9%bb%91%e7%ba%a2%e9%85%92%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "慕尼黑色彩节庆祝活动期间抛洒的彩色粉末，德国 (© Geo Messmer/500px)"
+image_hash: "ba62c97bf261eff6262caeefa916923b"
+image_filename: "HoliMunich_ZH-CN12353152381_1920x1080.jpg"
+---
