@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "松树杆的截面增强图像"
+date:   "2017-03-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/EnhancedPinus_ZH-CN11908142325_1920x1080.jpg"
+link: "/search?q=%e6%9d%be%e6%a0%91&form=hpcapt&mkt=zh-cn"
+copyright: "松树杆的截面增强图像 (© Garry DeLong/Getty Images)"
+image_hash: "7ceef54d83ca1e04b7ab1f26d13ea951"
+image_filename: "EnhancedPinus_ZH-CN11908142325_1920x1080.jpg"
+---
