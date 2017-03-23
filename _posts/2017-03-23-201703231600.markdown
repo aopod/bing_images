@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "猪湾海滩和两兄弟岩层，费尔南多-迪诺罗尼亚，巴西"
+date:   "2017-03-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/NoronhaTwoBrothers_ZH-CN10642407566_1920x1080.jpg"
+link: "/search?q=%e7%8c%aa%e6%b9%be%e6%b5%b7%e6%bb%a9&form=hpcapt&mkt=zh-cn"
+copyright: "猪湾海滩和两兄弟岩层，费尔南多-迪诺罗尼亚，巴西 (© Alex Saberi/Getty Images)"
+image_hash: "e2742a10e56cc93e5f33c2ddf6ddcb86"
+image_filename: "NoronhaTwoBrothers_ZH-CN10642407566_1920x1080.jpg"
+---
