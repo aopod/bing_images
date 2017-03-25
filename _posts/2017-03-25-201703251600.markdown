@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "被烧焦的石南花中一颗刚萌芽的松树苗，Strabrechtse Heide，荷兰"
+date:   "2017-03-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WildfireSapling_ZH-CN10766255059_1920x1080.jpg"
+link: "/search?q=%e6%9d%be%e6%a0%91&form=hpcapt&mkt=zh-cn"
+copyright: "被烧焦的石南花中一颗刚萌芽的松树苗，Strabrechtse Heide，荷兰 (© Heike Odermatt/Minden Pictures)"
+image_hash: "ff2688ae31d2d54bef267ee5c9a4c6bb"
+image_filename: "WildfireSapling_ZH-CN10766255059_1920x1080.jpg"
+---
