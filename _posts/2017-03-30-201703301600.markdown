@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "犹他州大盐湖中的“螺旋码头”"
+date:   "2017-03-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/EarthArt_ZH-CN7715783871_1920x1080.jpg"
+link: "/search?q=Spiral+Jetty&form=hpcapt&mkt=zh-cn"
+copyright: "犹他州大盐湖中的“螺旋码头”(© Cameron Davidson/Gallery Stock)"
+image_hash: "ebef97e04aa979a6a787910457df4a2e"
+image_filename: "EarthArt_ZH-CN7715783871_1920x1080.jpg"
+---
