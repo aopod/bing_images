@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "在斯洛文尼亚侧面的朱利安阿尔卑斯山"
+date:   "2017-04-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/JulianAlps_ZH-CN11764181030_1920x1080.jpg"
+link: "/search?q=%e6%9c%b1%e5%88%a9%e5%ae%89%e9%98%bf%e5%b0%94%e5%8d%91%e6%96%af%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "在斯洛文尼亚侧面的朱利安阿尔卑斯山 (© Nino Marcutti/Alamy)"
+image_hash: "db2beed58e682b73b7ac9be0fb231237"
+image_filename: "JulianAlps_ZH-CN11764181030_1920x1080.jpg"
+---
