@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "淡水和盐水在埃斯塔蒂特附近的三河河口交汇，西班牙"
+date:   "2017-04-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FreshSalt_ZH-CN12818759319_1920x1080.jpg"
+link: "/search?q=L'Estartit&form=hpcapt&mkt=zh-cn"
+copyright: "淡水和盐水在埃斯塔蒂特附近的三河河口交汇，西班牙 (© Yann Arthus-Bertrand/Getty Images)"
+image_hash: "800425f6986718006147107f1e622f39"
+image_filename: "FreshSalt_ZH-CN12818759319_1920x1080.jpg"
+---
