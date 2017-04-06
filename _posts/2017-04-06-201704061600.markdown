@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "泰国帕亚那空山洞的 Kuha Karuhas pavilion"
+date:   "2017-04-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PhrayaNakhonCave_ZH-CN10743752151_1920x1080.jpg"
+link: "/search?q=Kuha+Karuhas+pavilion&form=hpcapt&mkt=zh-cn"
+copyright: "泰国帕亚那空山洞的 Kuha Karuhas pavilion (© Bule Sky Studio/Shutterstock)"
+image_hash: "17ec0c72b34c0d90938e592628cc1775"
+image_filename: "PhrayaNakhonCave_ZH-CN10743752151_1920x1080.jpg"
+---
