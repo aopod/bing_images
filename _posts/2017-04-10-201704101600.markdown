@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Świnoujście上的Stawa Młyny灯塔，波兰"
+date:   "2017-04-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WindmillLighthouse_ZH-CN12870536851_1920x1080.jpg"
+link: "/search?q=Stawa+M%c5%82yny&form=hpcapt&mkt=zh-cn"
+copyright: "Świnoujście上的Stawa Młyny灯塔，波兰 (© Maciej Bledowski/Alamy)"
+image_hash: "97b6afecf5c769a88965876607ce6fed"
+image_filename: "WindmillLighthouse_ZH-CN12870536851_1920x1080.jpg"
+---
