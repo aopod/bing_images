@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "宇航员Terry Virts的太空自拍照"
+date:   "2017-04-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SpacewalkSelfie_ZH-CN10118363891_1920x1080.jpg"
+link: "/search?q=Astronaut+Terry+Virts&form=hpcapt&mkt=zh-cn"
+copyright: "宇航员Terry Virts的太空自拍照 (© NASA)"
+image_hash: "71a466880914f4ac38ddbb827d4228e9"
+image_filename: "SpacewalkSelfie_ZH-CN10118363891_1920x1080.jpg"
+---
