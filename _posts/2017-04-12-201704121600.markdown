@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "亚利桑那州和犹他州的纪念碑山谷"
+date:   "2017-04-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MVAU_ZH-CN9430011383_1920x1080.jpg"
+link: "/search?q=%e7%ba%aa%e5%bf%b5%e7%a2%91%e5%b1%b1%e8%b0%b7&form=hpcapt&mkt=zh-cn"
+copyright: "亚利桑那州和犹他州的纪念碑山谷 (© Ronnybas/Shutterstock)"
+image_hash: "29c75f7554c9f8b96bb3232f7c07c35f"
+image_filename: "MVAU_ZH-CN9430011383_1920x1080.jpg"
+---
