@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "贝尔法斯特的泰坦尼克博物馆，爱尔兰"
+date:   "2017-04-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TitanicBelfast_ZH-CN7528306628_1920x1080.jpg"
+link: "/search?q=%e8%b4%9d%e5%b0%94%e6%b3%95%e6%96%af%e7%89%b9%e6%b3%b0%e5%9d%a6%e5%b0%bc%e5%85%8b%e5%8d%9a%e7%89%a9%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "贝尔法斯特的泰坦尼克博物馆，爱尔兰 (© Allan Baxter/Gallery Stock)"
+image_hash: "64e045d19bda8252825d7d1eb17d6f2e"
+image_filename: "TitanicBelfast_ZH-CN7528306628_1920x1080.jpg"
+---
