@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "黄石国家公园内的一只灰狼，美国怀俄明州"
+date:   "2017-04-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GrayWolf_ZH-CN9733727662_1920x1080.jpg"
+link: "/search?q=%e7%81%b0%e7%8b%bc&form=hpcapt&mkt=zh-cn"
+copyright: "黄石国家公园内的一只灰狼，美国怀俄明州 (© Meril Darees & Manon Moulis/Biosphoto/Minden Pictures)"
+image_hash: "b54ac5358c9214639c07c2e36574a2d2"
+image_filename: "GrayWolf_ZH-CN9733727662_1920x1080.jpg"
+---
