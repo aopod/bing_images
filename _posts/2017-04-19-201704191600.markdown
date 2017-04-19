@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日谷雨】插秧的妇女，中国云南省大理市"
+date:   "2017-04-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Farmers_ZH-CN10322126112_1920x1080.jpg"
+link: "/search?q=%e8%b0%b7%e9%9b%a8&form=hpcapt&mkt=zh-cn"
+copyright: "【今日谷雨】插秧的妇女，中国云南省大理市 (© Ingo Oeland/Alamy)"
+image_hash: "76cd57c18049cfd28ca45f07c90a9fc6"
+image_filename: "Farmers_ZH-CN10322126112_1920x1080.jpg"
+---
