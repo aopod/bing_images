@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "托诺帕附近的新月沙丘太阳能项目，美国内华达州"
+date:   "2017-04-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SolarFarm_ZH-CN4853771923_1920x1080.jpg"
+link: "/search?q=%e6%96%b0%e6%9c%88%e5%bd%a2%e6%b2%99%e4%b8%98%e5%a4%aa%e9%98%b3%e8%83%bd%e8%83%bd%e6%ba%90&form=hpcapt&mkt=zh-cn"
+copyright: "托诺帕附近的新月沙丘太阳能项目，美国内华达州 (© Jassen Todorov/Solent News/REX/Shutterstock)"
+image_hash: "a6e2f8468ee4ed68c574f0fb5f438eb1"
+image_filename: "SolarFarm_ZH-CN4853771923_1920x1080.jpg"
+---
