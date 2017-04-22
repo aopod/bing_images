@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "特兰科苏附近的镜面海滩，巴西巴伊亚州"
+date:   "2017-04-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MirrorBeach_ZH-CN12835554220_1920x1080.jpg"
+link: "/search?q=Mirror+Beach&form=hpcapt&mkt=zh-cn"
+copyright: "特兰科苏附近的镜面海滩，巴西巴伊亚州 (© dri5821/Moment Open/Getty Images)"
+image_hash: "ba0eeb77942f4ee072f0421615fd119f"
+image_filename: "MirrorBeach_ZH-CN12835554220_1920x1080.jpg"
+---
