@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一个圆锥形帐篷，加拿大艾伯塔省南部"
+date:   "2017-04-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AlbertaTeepee_ZH-CN11572775476_1920x1080.jpg"
+link: "/search?q=%e5%b8%90%e7%af%b7&form=hpcapt&mkt=zh-cn"
+copyright: "一个圆锥形帐篷，加拿大艾伯塔省南部 (© ImagineGolf/Getty Images)"
+image_hash: "b38751dbd64b23ac0f3aecbc06ce6974"
+image_filename: "AlbertaTeepee_ZH-CN11572775476_1920x1080.jpg"
+---
