@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "伊丽莎白女王国家公园内的织巢鸟，乌干达"
+date:   "2017-04-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AfricaWeaverbirds_ZH-CN9479498858_1920x1080.jpg"
+link: "/search?q=%e7%bb%87%e5%b7%a2%e9%b8%9f&form=hpcapt&mkt=zh-cn"
+copyright: "伊丽莎白女王国家公园内的织巢鸟，乌干达 (© Joel Sartore/Getty Images)"
+image_hash: "a58cd30ee3b3dd46a4bf12860941d4a2"
+image_filename: "AfricaWeaverbirds_ZH-CN9479498858_1920x1080.jpg"
+---
