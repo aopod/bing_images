@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "白露里治奥古城，意大利"
+date:   "2017-04-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CivitadiBagnoregio_ZH-CN12942138675_1920x1080.jpg"
+link: "/search?q=Civita+di+Bagnoregio&form=hpcapt&mkt=zh-cn"
+copyright: "白露里治奥古城，意大利 (© Westend61/SuperStock)"
+image_hash: "075ea72d0c31ac2992df280bdf932476"
+image_filename: "CivitadiBagnoregio_ZH-CN12942138675_1920x1080.jpg"
+---
