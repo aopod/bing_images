@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "2016年于悉尼火车制造厂展出的艺术家尼克·凯夫的系列作品“Soundsuits”，澳大利亚"
+date:   "2017-04-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SoundSuits_ZH-CN11561095548_1920x1080.jpg"
+link: "/search?q=%e2%80%9cSoundsuits%e2%80%9d%e7%b3%bb%e5%88%97%e4%bd%9c%e5%93%81&form=hpcapt&mkt=zh-cn"
+copyright: "2016年于悉尼火车制造厂展出的艺术家尼克·凯夫的系列作品“Soundsuits”，澳大利亚 (© Don Arnold/WireImage/Getty Images)"
+image_hash: "63adeae545f647a6d8c78c0168591ce0"
+image_filename: "SoundSuits_ZH-CN11561095548_1920x1080.jpg"
+---
