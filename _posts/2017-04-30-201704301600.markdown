@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "在洛杉矶县自然历史博物馆清洗大象模型，加利福尼亚州"
+date:   "2017-04-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/NHMElephants_ZH-CN9810396474_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e8%b1%a1&form=hpcapt&mkt=zh-cn"
+copyright: "在洛杉矶县自然历史博物馆清洗大象模型，加利福尼亚州 (© Brian Doben/Gallery Stock)"
+image_hash: "f5b3268076cee77a13b45e146d933226"
+image_filename: "NHMElephants_ZH-CN9810396474_1920x1080.jpg"
+---
