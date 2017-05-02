@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "希腊扎金索斯的沉船湾"
+date:   "2017-05-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/NavagioBeach_ZH-CN8854639142_1920x1080.jpg"
+link: "/search?q=%e6%b2%89%e8%88%b9%e6%b9%be&form=hpcapt&mkt=zh-cn"
+copyright: "希腊扎金索斯的沉船湾 (© Maciej Tomków/Nimia)"
+image_hash: "b8d03f0742a583d02726d51cff4179b6"
+image_filename: "NavagioBeach_ZH-CN8854639142_1920x1080.jpg"
+---
