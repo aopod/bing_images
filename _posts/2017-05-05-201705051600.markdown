@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "通往Morskie Oko的林间小路，波兰塔特拉国家公园"
+date:   "2017-05-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MorskieOko_ZH-CN8809175725_1920x1080.jpg"
+link: "/search?q=Tatra+National+Park&form=hpcapt&mkt=zh-cn"
+copyright: "通往Morskie Oko的林间小路，波兰塔特拉国家公园 (© Blake Parker/Tandem Still + Motion)"
+image_hash: "a155d11edef2aa2e673c39e604a5194e"
+image_filename: "MorskieOko_ZH-CN8809175725_1920x1080.jpg"
+---
