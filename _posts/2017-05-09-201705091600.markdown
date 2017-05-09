@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "沃德炭窑州立公园，美国内华达州"
+date:   "2017-05-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WardCharcoalOvens_ZH-CN15946806125_1920x1080.jpg"
+link: "/search?q=Ward+Charcoal+Ovens&form=hpcapt&mkt=zh-cn"
+copyright: "沃德炭窑州立公园，美国内华达州 (© Royce's Nightscapes/500px)"
+image_hash: "948a1c778839f1dcc4e8dc6f22df497e"
+image_filename: "WardCharcoalOvens_ZH-CN15946806125_1920x1080.jpg"
+---
