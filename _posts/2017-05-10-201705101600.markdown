@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "冰川国家公园内的一只高山山羊， 美国蒙大拿州"
+date:   "2017-05-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SpringGoat_ZH-CN7669482496_1920x1080.jpg"
+link: "/search?q=%e5%b1%b1%e7%be%8a&form=hpcapt&mkt=zh-cn"
+copyright: "冰川国家公园内的一只高山山羊， 美国蒙大拿州 (© Sumio Harada/Minden Pictures)"
+image_hash: "d123b22f19987fd99b84c88cb64f8860"
+image_filename: "SpringGoat_ZH-CN7669482496_1920x1080.jpg"
+---
