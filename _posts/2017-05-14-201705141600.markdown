@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "江门市新会区制香厂，中国广东省"
+date:   "2017-05-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/IncenseFactory_ZH-CN12321813125_1920x1080.jpg"
+link: "/search?q=%e2%80%9c%e9%a6%99%e2%80%9d%e6%96%87%e5%8c%96&form=hpcapt&mkt=zh-cn"
+copyright: "江门市新会区制香厂，中国广东省 (© Wallace Cheah/500px)"
+image_hash: "dc2935f734bde26602095f620c845ad9"
+image_filename: "IncenseFactory_ZH-CN12321813125_1920x1080.jpg"
+---
