@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "浙江大学"
+date:   "2017-05-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/zhejiangUniversity_ZH-CN11734938352_1920x1080.jpg"
+link: "/search?q=%e6%b5%99%e6%b1%9f%e5%a4%a7%e5%ad%a6&form=hpcapt&mkt=zh-cn"
+copyright: "浙江大学 (© Liao Yuhan)"
+image_hash: "ee22891f2ff165c0baf50de1d327b695"
+image_filename: "zhejiangUniversity_ZH-CN11734938352_1920x1080.jpg"
+---
