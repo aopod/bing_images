@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "山谷瀑布公园内的蕨菜，美国康涅狄格州"
+date:   "2017-05-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Fiddleheads_ZH-CN14463697077_1920x1080.jpg"
+link: "/search?q=%e8%95%a8%e8%8f%9c&form=hpcapt&mkt=zh-cn"
+copyright: "山谷瀑布公园内的蕨菜，美国康涅狄格州 (© Holcy/Getty Images)"
+image_hash: "7961efff62e7002ecb06a00b0679316d"
+image_filename: "Fiddleheads_ZH-CN14463697077_1920x1080.jpg"
+---

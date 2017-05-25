@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "麦罗埃遗迹中的金字塔群，苏丹"
+date:   "2017-05-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PyramidsOfMeroe_ZH-CN10667861825_1920x1080.jpg"
+link: "/search?q=%e9%ba%a6%e7%bd%97%e5%9f%83&form=hpcapt&mkt=zh-cn"
+copyright: "麦罗埃遗迹中的金字塔群，苏丹 (© Andrew McConnell/Alamy)"
+image_hash: "43be48a396492c65af353451e46f2e3e"
+image_filename: "PyramidsOfMeroe_ZH-CN10667861825_1920x1080.jpg"
+---
