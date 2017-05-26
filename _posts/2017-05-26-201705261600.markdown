@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "浓烟滚滚的布罗莫火山，印度尼西亚爪哇岛东部"
+date:   "2017-05-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BromoJava_ZH-CN13278140077_1920x1080.jpg"
+link: "/search?q=%e5%b8%83%e7%bd%97%e8%8e%ab%e7%81%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "浓烟滚滚的布罗莫火山，印度尼西亚爪哇岛东部 (© Shutterstock)"
+image_hash: "21f12433e89e97d2fb25a5ee33939303"
+image_filename: "BromoJava_ZH-CN13278140077_1920x1080.jpg"
+---
