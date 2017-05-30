@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "塔玛佩斯山州立公园上空的雾，加利福尼亚"
+date:   "2017-05-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MtTamVideo_ZH-CN10798436683_1920x1080.jpg"
+link: "/search?q=%e5%a1%94%e7%8e%9b%e4%bd%a9%e6%96%af%e5%b1%b1%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "塔玛佩斯山州立公园上空的雾，加利福尼亚 (© Jonathan Mitchell/Nimia)"
+image_hash: "721f801a1291c6d857c510b571f0c488"
+image_filename: "MtTamVideo_ZH-CN10798436683_1920x1080.jpg"
+---
