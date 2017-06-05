@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "埃特勒塔小镇，法国诺曼底"
+date:   "2017-06-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/EtretatSunrise_ZH-CN10891175350_1920x1080.jpg"
+link: "/search?q=Etretat%2c+&form=hpcapt&mkt=zh-cn"
+copyright: "埃特勒塔小镇，法国诺曼底 (© Olha Rohulya/500px)"
+image_hash: "8b551101e9d8430eab92430c8ab0ffa3"
+image_filename: "EtretatSunrise_ZH-CN10891175350_1920x1080.jpg"
+---
