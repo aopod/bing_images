@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "文庙内的祈祷牌，中国云南建水"
+date:   "2017-06-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Prayercard_ZH-CN13472871640_1920x1080.jpg"
+link: "/search?q=%e9%ab%98%e8%80%83&form=hpcapt&mkt=zh-cn"
+copyright: "文庙内的祈祷牌，中国云南建水 (© Katie Garrod/Getty Images/AWL Images RM)"
+image_hash: "bd803c8600bac5b133c23ee6cada8131"
+image_filename: "Prayercard_ZH-CN13472871640_1920x1080.jpg"
+---
