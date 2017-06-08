@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "伯尔尼兹阿尔卑斯山脉上的登山队员，瑞士"
+date:   "2017-06-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BalmhornRegion_ZH-CN7523037492_1920x1080.jpg"
+link: "/search?q=%e9%98%bf%e5%b0%94%e5%8d%91%e6%96%af%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn"
+copyright: "伯尔尼兹阿尔卑斯山脉上的登山队员，瑞士 (© Alun Richardson/plainpicture)"
+image_hash: "938606bec928bdbeee08c56423676962"
+image_filename: "BalmhornRegion_ZH-CN7523037492_1920x1080.jpg"
+---
