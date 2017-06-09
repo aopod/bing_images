@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "以弗所的塞尔苏斯图书馆，土耳其"
+date:   "2017-06-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LibraryofCelsus_ZH-CN11719117244_1920x1080.jpg"
+link: "/search?q=%e5%a1%9e%e5%b0%94%e8%8b%8f%e6%96%af%e5%9b%be%e4%b9%a6&form=hpcapt&mkt=zh-cn"
+copyright: "以弗所的塞尔苏斯图书馆，土耳其 (© Stefano Politi Markovina/Alamy)"
+image_hash: "b063068a2ce001a4f0d138a544091cf4"
+image_filename: "LibraryofCelsus_ZH-CN11719117244_1920x1080.jpg"
+---
