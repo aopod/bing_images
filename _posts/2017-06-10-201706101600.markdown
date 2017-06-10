@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "粉红色臭鼬小丑鱼和华丽的海葵，澳大利亚大堡礁"
+date:   "2017-06-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MagnificentGBR_ZH-CN10789151183_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e5%a0%a1%e7%a4%81&form=hpcapt&mkt=zh-cn"
+copyright: "粉红色臭鼬小丑鱼和华丽的海葵，澳大利亚大堡礁 (© Norbert Wu/Minden Pictures)"
+image_hash: "7a19baee8e132d0fcd61980207f48edc"
+image_filename: "MagnificentGBR_ZH-CN10789151183_1920x1080.jpg"
+---
