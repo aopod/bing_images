@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "奥斯卡·尼迈耶国际文化中心，西班牙阿维莱斯"
+date:   "2017-06-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/NiemeyerCenter_ZH-CN8964518609_1920x1080.jpg"
+link: "/search?q=%e5%a5%a5%e6%96%af%e5%8d%a1%c2%b7%e5%b0%bc%e8%bf%88%e8%80%b6%e5%9b%bd%e9%99%85%e6%96%87%e5%8c%96%e4%b8%ad%e5%bf%83&form=hpcapt&mkt=zh-cn"
+copyright: "奥斯卡·尼迈耶国际文化中心，西班牙阿维莱斯 (© Paula Sierra/Getty Images)"
+image_hash: "fb367861b9f34f624be70ef4e4b0a477"
+image_filename: "NiemeyerCenter_ZH-CN8964518609_1920x1080.jpg"
+---
