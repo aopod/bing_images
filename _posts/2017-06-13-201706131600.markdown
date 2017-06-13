@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "西澳大利亚霍尔斯克里克附近的陨石撞击坑"
+date:   "2017-06-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WolfeCreekCrater_ZH-CN10953577427_1920x1080.jpg"
+link: "/search?q=%e9%99%a8%e7%9f%b3%e5%9d%91&form=hpcapt&mkt=zh-cn"
+copyright: "西澳大利亚霍尔斯克里克附近的陨石撞击坑 (© Randy Olson/National Geographic Creative/Getty Images)"
+image_hash: "133561ddef7542ee034a56f644d2df0d"
+image_filename: "WolfeCreekCrater_ZH-CN10953577427_1920x1080.jpg"
+---
