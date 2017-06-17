@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "雄性高加索羱羊和它的幼崽"
+date:   "2017-06-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TurDad_ZH-CN11748481038_1920x1080.jpg"
+link: "/search?q=%e9%ab%98%e5%8a%a0%e7%b4%a2%e7%be%b1%e7%be%8a&form=hpcapt&mkt=zh-cn"
+copyright: "雄性高加索羱羊和它的幼崽 (© John Knight/Getty Images)"
+image_hash: "468e4a4643b1190eb33d7c2f31fd0c3b"
+image_filename: "TurDad_ZH-CN11748481038_1920x1080.jpg"
+---
