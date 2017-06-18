@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "莲花掌属叶子的细节"
+date:   "2017-06-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AeoniumLeaf_ZH-CN7490448951_1920x1080.jpg"
+link: "/search?q=Aeonium&form=hpcapt&mkt=zh-cn"
+copyright: "莲花掌属叶子的细节 (© Tim Gainey/Alamy)"
+image_hash: "8e34731ba3ef0e058e57f05572835c9f"
+image_filename: "AeoniumLeaf_ZH-CN7490448951_1920x1080.jpg"
+---
