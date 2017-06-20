@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日夏至】丘比国家公园内的非洲水雉小鸡，博茨瓦纳"
+date:   "2017-06-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ChobeChick_ZH-CN9997116812_1920x1080.jpg"
+link: "/search?q=%e5%a4%8f%e8%87%b3&form=hpcapt&mkt=zh-cn"
+copyright: "【今日夏至】丘比国家公园内的非洲水雉小鸡，博茨瓦纳 (© Brendon Cremer/Minden Pictures)"
+image_hash: "7a2be9665521a02f11149543b695d7bf"
+image_filename: "ChobeChick_ZH-CN9997116812_1920x1080.jpg"
+---
