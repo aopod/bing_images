@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圣老楞佐圆形堂，意大利曼托瓦"
+date:   "2017-06-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SanLorenzo_ZH-CN7625061136_1920x1080.jpg"
+link: "/search?q=%e5%9c%a3%e8%80%81%e6%a5%9e%e4%bd%90%e5%9c%86%e5%bd%a2%e5%a0%82&form=hpcapt&mkt=zh-cn"
+copyright: "圣老楞佐圆形堂，意大利曼托瓦 (© geo-select FotoArt)"
+image_hash: "69ea06f6202ce730a65cbc4ceacbcb5b"
+image_filename: "SanLorenzo_ZH-CN7625061136_1920x1080.jpg"
+---
