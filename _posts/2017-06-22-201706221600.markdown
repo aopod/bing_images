@@ -5,6 +5,6 @@ date:   "2017-06-22 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MooneyFalls_ZH-CN11568488094_1920x1080.jpg"
 link: "/search?q=%e7%a9%86%e5%b0%bc%e7%80%91%e5%b8%83&form=hpcapt&mkt=zh-cn"
 copyright: "哈瓦苏峡谷内的穆尼瀑布，美国亚利桑那州 (© Brendan van Son/Tandem Stills + Motion)"
-image_hash: "b2695d0a60fb3a25787e39cf59efdc06"
+image_hash: "5758a64c554e84b128b14539890efe90"
 image_filename: "MooneyFalls_ZH-CN11568488094_1920x1080.jpg"
 ---

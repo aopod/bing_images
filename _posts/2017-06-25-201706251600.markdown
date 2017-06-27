@@ -5,6 +5,6 @@ date:   "2017-06-25 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MadagascarLemurs_ZH-CN7754035615_1920x1080.jpg"
 link: "/search?q=%e7%8e%af%e5%b0%be%e7%8b%90%e7%8c%b4&form=hpcapt&mkt=zh-cn"
 copyright: "马达加斯加Berenty保护区内的环尾狐猴 (© Steve Bloom Images/Alamy)"
-image_hash: "2b3818feda23d61cafcc98ae407dfc48"
+image_hash: "725c147599c86d6a0bbe66df8c43258d"
 image_filename: "MadagascarLemurs_ZH-CN7754035615_1920x1080.jpg"
 ---

@@ -5,6 +5,6 @@ date:   "2017-06-26 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/CallanishSS_ZH-CN12559903397_1920x1080.jpg"
 link: "/search?q=%e5%8d%a1%e6%8b%89%e5%b0%bc%e4%bb%80%e5%b7%a8%e7%9f%b3%e9%98%b5&form=hpcapt&mkt=zh-cn"
 copyright: "卡拉尼什巨石阵，苏格兰路易斯岛 (© Tomas Vrba and Lindsey Parkinson/500px)"
-image_hash: "bc41a0a035bc0b038d6fb3927125cd53"
+image_hash: "01c4ddc3c341b20e46a9e2ff4140b09e"
 image_filename: "CallanishSS_ZH-CN12559903397_1920x1080.jpg"
 ---

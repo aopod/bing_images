@@ -5,6 +5,6 @@ date:   "2017-06-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/HawaiiSwim_ZH-CN7233619332_1920x1080.jpg"
 link: "/search?q=%e9%93%81%e4%ba%ba%e4%b8%89%e9%a1%b9%e4%b8%96%e7%95%8c%e9%94%a6%e6%a0%87%e8%b5%9b&form=hpcapt&mkt=zh-cn"
 copyright: "2016年铁人三项世界锦标赛中的游泳参赛者们，夏威夷凯卢阿 (© Tom Pennington/Getty Images)"
-image_hash: "896fd5dee316df56310f4ba9f6e040d3"
+image_hash: "b098af368dceca11262c785904fdfb71"
 image_filename: "HawaiiSwim_ZH-CN7233619332_1920x1080.jpg"
 ---
