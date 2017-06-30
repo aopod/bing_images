@@ -5,6 +5,6 @@ date:   "2017-06-29 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/EuropeanFlamingo_ZH-CN10494194429_1920x1080.jpg"
 link: "/search?q=%e7%81%ab%e7%83%88%e9%b8%9f&form=hpcapt&mkt=zh-cn"
 copyright: "沃尔维斯湾的火烈鸟，纳米比亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)"
-image_hash: "981445b0ffb198ab9f65e2bbcf74a34c"
+image_hash: "effbd9f37b60ea5f46e8f53b332fb0ca"
 image_filename: "EuropeanFlamingo_ZH-CN10494194429_1920x1080.jpg"
 ---

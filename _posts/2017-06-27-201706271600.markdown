@@ -5,6 +5,6 @@ date:   "2017-06-27 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/JoshuaTrees_ZH-CN10998673288_1920x1080.jpg"
 link: "/search?q=%e7%ba%a6%e4%b9%a6%e4%ba%9a%e6%a0%91&form=hpcapt&mkt=zh-cn"
 copyright: "死亡谷内的约书亚树，美国加利福尼亚州 (© Marc Adamus/Aurora Photos)"
-image_hash: "933ac55fc45408665169528698fc5ef5"
+image_hash: "4696ff09013d5bc0e55cb14d4c7eb0d4"
 image_filename: "JoshuaTrees_ZH-CN10998673288_1920x1080.jpg"
 ---

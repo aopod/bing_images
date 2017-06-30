@@ -5,6 +5,6 @@ date:   "2017-06-28 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/NorddorfPath_ZH-CN10408895135_1920x1080.jpg"
 link: "/search?q=%e6%9c%a8%e6%9d%bf%e8%b7%af&form=hpcapt&mkt=zh-cn"
 copyright: "德国阿姆鲁姆岛诺尔多夫市的木板路 (© Raimund Linke/Getty Images)"
-image_hash: "2fa679aa63b705ec06035afd99a152c0"
+image_hash: "c37086ad980e82a77bcb8134d179a1b9"
 image_filename: "NorddorfPath_ZH-CN10408895135_1920x1080.jpg"
 ---
