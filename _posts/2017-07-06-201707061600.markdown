@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日小暑】游客在枣庄市台儿庄区运河湿地公园观赏莲花，中国山东省"
+date:   "2017-07-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Umbrella_ZH-CN8238029705_1920x1080.jpg"
+link: "/search?q=%e5%b0%8f%e6%9a%91&form=hpcapt&mkt=zh-cn"
+copyright: "【今日小暑】游客在枣庄市台儿庄区运河湿地公园观赏莲花，中国山东省 (Gao Qimin/Xinhua/Alamy Live News)"
+image_hash: "474afac024f2a75f0874decef671f1d7"
+image_filename: "Umbrella_ZH-CN8238029705_1920x1080.jpg"
+---
