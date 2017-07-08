@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马其顿当代艺术博物馆外乔治·宗古鲁普罗斯设计的“雨伞”雕塑，希腊塞萨洛尼基"
+date:   "2017-07-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Umbrellas_ZH-CN8739718706_1920x1080.jpg"
+link: "/search?q=George+Zongolopoulos&form=hpcapt&mkt=zh-cn"
+copyright: "马其顿当代艺术博物馆外乔治·宗古鲁普罗斯设计的“雨伞”雕塑，希腊塞萨洛尼基 (© SIAATH/Shutterstock)"
+image_hash: "0a511c23e8832eaa1502cfece5742d51"
+image_filename: "Umbrellas_ZH-CN8739718706_1920x1080.jpg"
+---
