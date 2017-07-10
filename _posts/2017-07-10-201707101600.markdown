@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "印尼马塔普拉河上的Lok Baintan水上市场"
+date:   "2017-07-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MartapuraMarket_ZH-CN9502204987_1920x1080.jpg"
+link: "/search?q=Floating+Market&form=hpcapt&mkt=zh-cn"
+copyright: "印尼马塔普拉河上的Lok Baintan水上市场 (© Fauzan Mauddin/Solent News/REX/Shutterstock)"
+image_hash: "589a57d006b352dc01faf7b4ebe36569"
+image_filename: "MartapuraMarket_ZH-CN9502204987_1920x1080.jpg"
+---
