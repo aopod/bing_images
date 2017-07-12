@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从科尔蒂纳丹佩佐市附近的Lagazuoi山观看佩尔莫山，意大利"
+date:   "2017-07-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LagazuoiRefuge_ZH-CN12532053341_1920x1080.jpg"
+link: "/search?q=Averau+and+Monte+Pelmo&form=hpcapt&mkt=zh-cn"
+copyright: "从科尔蒂纳丹佩佐市附近的Lagazuoi山观看佩尔莫山，意大利 (© Olimpio Fantuz/Offset)"
+image_hash: "36d10c62cc71b00a24e926c16a3b5032"
+image_filename: "LagazuoiRefuge_ZH-CN12532053341_1920x1080.jpg"
+---
