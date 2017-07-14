@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "旧金山湾的盐蒸发池，美国加利福尼亚州"
+date:   "2017-07-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ColorfulSalt_ZH-CN13586718897_1920x1080.jpg"
+link: "/search?q=%e7%9b%90%e8%92%b8%e5%8f%91%e6%b1%a0&form=hpcapt&mkt=zh-cn"
+copyright: "旧金山湾的盐蒸发池，美国加利福尼亚州 (© Jason Hawkes/REX/Shutterstock)"
+image_hash: "9457621e5397ee05845ee27968145638"
+image_filename: "ColorfulSalt_ZH-CN13586718897_1920x1080.jpg"
+---
