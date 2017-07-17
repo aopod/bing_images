@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "塞米恩国家公园内的狮尾狒， 埃塞俄比亚"
+date:   "2017-07-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GeladaSimien_ZH-CN8344110980_1920x1080.jpg"
+link: "/search?q=%e7%8b%ae%e5%b0%be%e7%8b%92&form=hpcapt&mkt=zh-cn"
+copyright: "塞米恩国家公园内的狮尾狒， 埃塞俄比亚 (© Thomas Marent/Minden Pictures)"
+image_hash: "d19f087c96c07818cbd87ff1c4fc740b"
+image_filename: "GeladaSimien_ZH-CN8344110980_1920x1080.jpg"
+---
