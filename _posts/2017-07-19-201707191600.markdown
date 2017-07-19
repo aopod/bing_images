@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "格拉斯顿伯里高冈上方升起的月亮，英国"
+date:   "2017-07-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GlastonburyMoon_ZH-CN10251307154_1920x1080.jpg"
+link: "/search?q=%e6%a0%bc%e6%8b%89%e6%96%af%e9%a1%bf%e4%bc%af%e9%87%8c&form=hpcapt&mkt=zh-cn"
+copyright: "格拉斯顿伯里高冈上方升起的月亮，英国 (© Matt Cardy/Getty Images)"
+image_hash: "a7ec92c29931cc5cb9af8e0905a5df02"
+image_filename: "GlastonburyMoon_ZH-CN10251307154_1920x1080.jpg"
+---
