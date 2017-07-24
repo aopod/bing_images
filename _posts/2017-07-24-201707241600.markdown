@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "莫斯克内斯岛雷讷村雷纳布林根山岭的景观，挪威"
+date:   "2017-07-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ReinebringenRidge_ZH-CN9518224182_1920x1080.jpg"
+link: "/search?q=Reinebringen+ridge&form=hpcapt&mkt=zh-cn"
+copyright: "莫斯克内斯岛雷讷村雷纳布林根山岭的景观，挪威 (© David Varga/Shutterstock)"
+image_hash: "b3dee25bbc74dd72e45952aef811479b"
+image_filename: "ReinebringenRidge_ZH-CN9518224182_1920x1080.jpg"
+---
