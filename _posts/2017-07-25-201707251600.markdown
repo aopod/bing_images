@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从鬼城Alta看到的威尔逊峰，美国科罗拉多州"
+date:   "2017-07-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WilsonPeakWindow_ZH-CN10363033426_1920x1080.jpg"
+link: "/search?q=Wilson+Peak&form=hpcapt&mkt=zh-cn"
+copyright: "从鬼城Alta看到的威尔逊峰，美国科罗拉多州 (© Grant Ordelheide/Tandem Stills + Motion)"
+image_hash: "5287e909cbbb7cf8b7b71318c8f47ab6"
+image_filename: "WilsonPeakWindow_ZH-CN10363033426_1920x1080.jpg"
+---
