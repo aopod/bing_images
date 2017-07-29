@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "画岩湖滨，美国密歇根州"
+date:   "2017-07-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MineralCliffs_ZH-CN11986913181_1920x1080.jpg"
+link: "/search?q=%e7%94%bb%e5%b2%a9%e6%b9%96%e6%bb%a8&form=hpcapt&mkt=zh-cn"
+copyright: "画岩湖滨，美国密歇根州 (© Steve Gettle/Minden Pictures)"
+image_hash: "ef25cb5c669cda5fedfec4ffe4d59e4f"
+image_filename: "MineralCliffs_ZH-CN11986913181_1920x1080.jpg"
+---
