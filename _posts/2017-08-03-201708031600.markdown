@@ -5,6 +5,6 @@ date:   "2017-08-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/BodieLighthouse_ZH-CN9415388071_1920x1080.jpg"
 link: "/search?q=Bodie+Island+Lighthouse&form=hpcapt&mkt=zh-cn"
 copyright: "北卡罗来纳州外滩群岛上的鲍迪岛灯塔 (© Anthony Heflin/Shutterstock)"
-image_hash: "15e14003521a968613a7c2cdac71ffde"
+image_hash: "3c589fc6f8ce120ee7e37d3af70661c7"
 image_filename: "BodieLighthouse_ZH-CN9415388071_1920x1080.jpg"
 ---
