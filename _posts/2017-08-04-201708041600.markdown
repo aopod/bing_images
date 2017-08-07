@@ -5,6 +5,6 @@ date:   "2017-08-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/CaanaTemple_ZH-CN9714949581_1920x1080.jpg"
 link: "/search?q=%e5%8d%a1%e6%8b%89%e7%a7%91%e5%b0%94%e7%8e%9b%e9%9b%85%e9%81%97%e5%9d%80&form=hpcapt&mkt=zh-cn"
 copyright: "卡拉科尔玛雅考古遗址，伯利兹 (© Yann Arthus-Bertrand/Getty Images)"
-image_hash: "0d73f1552c3181f09af667d0288f4f0b"
+image_hash: "6e8a9ed132671f9f470394802b95251d"
 image_filename: "CaanaTemple_ZH-CN9714949581_1920x1080.jpg"
 ---
