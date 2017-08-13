@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿莫尔戈斯岛上的霍佐维奥蒂萨修道院，希腊"
+date:   "2017-08-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Hozoviotissa_ZH-CN13142561850_1920x1080.jpg"
+link: "/search?q=%e9%9c%8d%e4%bd%90%e7%bb%b4%e5%a5%a5%e8%92%82%e8%90%a8%e4%bf%ae%e9%81%93%e9%99%a2&form=hpcapt&mkt=zh-cn"
+copyright: "阿莫尔戈斯岛上的霍佐维奥蒂萨修道院，希腊 (© Lemonan/iStock/Getty Images)"
+image_hash: "1f3b86d85752775a54bc4dd728b7b954"
+image_filename: "Hozoviotissa_ZH-CN13142561850_1920x1080.jpg"
+---
