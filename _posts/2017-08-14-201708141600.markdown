@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "吉纳森国家森林内的颤杨，美国科罗拉多州"
+date:   "2017-08-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/QuakingAspens_ZH-CN11296287476_1920x1080.jpg"
+link: "/search?q=+%e9%a2%a4%e6%9d%a8&form=hpcapt&mkt=zh-cn"
+copyright: "吉纳森国家森林内的颤杨，美国科罗拉多州 (© Tim Fitzharris/Minden Pictures)"
+image_hash: "9dff59527a94f6e00142eaf2a1675f96"
+image_filename: "QuakingAspens_ZH-CN11296287476_1920x1080.jpg"
+---
