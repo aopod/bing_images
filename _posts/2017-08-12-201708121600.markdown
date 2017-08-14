@@ -5,6 +5,6 @@ date:   "2017-08-12 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/Kitesurfing_ZH-CN11259743343_1920x1080.jpg"
 link: "/search?q=+Kitesurf+World+Cup&form=hpcapt&mkt=zh-cn"
 copyright: "多重曝光的风筝冲浪世界杯，德国 (© plainpicture/Rudi Sebastian)"
-image_hash: "b88000a1a116765c148ca903ade924b4"
+image_hash: "17c4b41e376a2fe0786f7024f553dffe"
 image_filename: "Kitesurfing_ZH-CN11259743343_1920x1080.jpg"
 ---

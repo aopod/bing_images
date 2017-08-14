@@ -5,6 +5,6 @@ date:   "2017-08-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/HulunbuirPrairie_ZH-CN11677344846_1920x1080.jpg"
 link: "/search?q=%e7%ab%8b%e7%a7%8b&form=hpcapt&mkt=zh-cn"
 copyright: "【今日立秋】内蒙古呼伦贝尔草原，中国 (© Sino Images/Getty Images)"
-image_hash: "cfa2418497c71d6a3559cee3e54c4c73"
+image_hash: "06262e9761ac891c9443b24fc3e399ed"
 image_filename: "HulunbuirPrairie_ZH-CN11677344846_1920x1080.jpg"
 ---

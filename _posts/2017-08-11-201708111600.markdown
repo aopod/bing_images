@@ -5,6 +5,6 @@ date:   "2017-08-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/LoxodontaAfricana_ZH-CN10434704249_1920x1080.jpg"
 link: "/search?q=%e9%9d%9e%e6%b4%b2%e5%a4%a7%e8%b1%a1&form=hpcapt&mkt=zh-cn"
 copyright: "马纳波尔斯国家公园内的非洲草原象，津巴布韦 (© David Fettes/Offset)"
-image_hash: "32e5f63b3e4f925c934d2d9a0846e0ca"
+image_hash: "76a314bddbcd0e9f6e2f25b131408e20"
 image_filename: "LoxodontaAfricana_ZH-CN10434704249_1920x1080.jpg"
 ---
