@@ -5,6 +5,6 @@ date:   "2017-08-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/JantarJaipur_ZH-CN12917938653_1920x1080.jpg"
 link: "/search?q=%e7%ae%80%e5%a1%94%c2%b7%e6%9b%bc%e5%a1%94%e5%a4%a9%e6%96%87%e5%8f%b0&form=hpcapt&mkt=zh-cn"
 copyright: "简塔·曼塔天文台建筑群的一部分，印度新德里 (© Uniquely India/Getty Images)"
-image_hash: "5ca49bb8a11ecf7952dbbc5df9a65404"
+image_hash: "6c2e24bdad7ed6b2610326f41dab1928"
 image_filename: "JantarJaipur_ZH-CN12917938653_1920x1080.jpg"
 ---
