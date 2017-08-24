@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "斯德哥尔摩王宫内的古斯塔夫三世文物馆，瑞典"
+date:   "2017-08-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GustavAntiquities_ZH-CN9624291648_1920x1080.jpg"
+link: "/search?q=+%e5%8f%a4%e6%96%af%e5%a1%94%e5%a4%ab%e4%b8%89%e4%b8%96%e6%96%87%e7%89%a9%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "斯德哥尔摩王宫内的古斯塔夫三世文物馆，瑞典 (© Johnér/Offset)"
+image_hash: "87c94350471322ef639ba0833c14f044"
+image_filename: "GustavAntiquities_ZH-CN9624291648_1920x1080.jpg"
+---
