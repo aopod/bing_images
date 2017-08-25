@@ -5,6 +5,6 @@ date:   "2017-08-18 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/KingPhoto_ZH-CN13184031948_1920x1080.jpg"
 link: "/search?q=%e5%9b%bd%e7%8e%8b%e4%bc%81%e9%b9%85&form=hpcapt&mkt=zh-cn"
 copyright: "圣安德鲁斯湾的国王企鹅，南乔治亚岛 (© plainpicture/Westend61/Fotofeeling)"
-image_hash: "f13d7cae4a0d086ef4758bc0c74656da"
+image_hash: "7958c4c86d4f5e7100a645f985e6b2b9"
 image_filename: "KingPhoto_ZH-CN13184031948_1920x1080.jpg"
 ---

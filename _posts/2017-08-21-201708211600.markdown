@@ -5,6 +5,6 @@ date:   "2017-08-21 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MausoleumLovcen_ZH-CN11630158336_1920x1080.jpg"
 link: "/search?q=%e6%b4%9b%e5%a4%ab%e7%90%b4%e5%b1%b1%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "洛夫琴山国家公园内的Njegoš纪念碑，黑山 (© joci03/iStock/Getty Images)"
-image_hash: "506e8bb320d097a7ff958723465dfd36"
+image_hash: "dc3ba5bb36a1b648f922a8b78b5656c4"
 image_filename: "MausoleumLovcen_ZH-CN11630158336_1920x1080.jpg"
 ---

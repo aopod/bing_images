@@ -5,6 +5,6 @@ date:   "2017-08-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ChulillaSpain_ZH-CN10170248808_1920x1080.jpg"
 link: "/search?q=%e4%b8%98%e5%88%a9%e5%88%a9%e4%ba%9a&form=hpcapt&mkt=zh-cn"
 copyright: "丘利利亚，西班牙 (© Ben Herndon/Tandem Stills + Motion)"
-image_hash: "caa4a640e39c110ac44ac015478cb2a6"
+image_hash: "6398ee86685f59ce478af9e4893f4a28"
 image_filename: "ChulillaSpain_ZH-CN10170248808_1920x1080.jpg"
 ---
