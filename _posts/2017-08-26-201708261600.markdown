@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "青藏高原中常见的杉叶藻，中国"
+date:   "2017-08-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BasongcuoNP_ZH-CN9819436811_1920x1080.jpg"
+link: "/search?q=%e6%9d%89%e5%8f%b6%e8%97%bb&form=hpcapt&mkt=zh-cn"
+copyright: "青藏高原中常见的杉叶藻，中国 (© Dong Lei/Minden Pictures)"
+image_hash: "4d4ef03188b7058ee94bd17d65eec166"
+image_filename: "BasongcuoNP_ZH-CN9819436811_1920x1080.jpg"
+---
