@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "俄勒冈州内的“彩绘山丘”，美国"
+date:   "2017-08-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/OregonPainted_ZH-CN8553728911_1920x1080.jpg"
+link: "/search?q=The+Painted+Hills&form=hpcapt&mkt=zh-cn"
+copyright: "俄勒冈州内的“彩绘山丘”，美国 (© David Henderson/plainpicture)"
+image_hash: "d36cd1449012c041b43f692ea5d99ce5"
+image_filename: "OregonPainted_ZH-CN8553728911_1920x1080.jpg"
+---
