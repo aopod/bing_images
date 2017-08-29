@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一群金色无齿鲹与一条鲸鲨遨游在鸟头湾中，印度尼西亚"
+date:   "2017-08-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GoldenTrevally_ZH-CN8976794546_1920x1080.jpg"
+link: "/search?q=%e6%b5%b7%e6%b4%8b%e7%94%9f%e7%89%a9&form=hpcapt&mkt=zh-cn"
+copyright: "一群金色无齿鲹与一条鲸鲨遨游在鸟头湾中，印度尼西亚 (© Pete Oxford/Minden Pictures)"
+image_hash: "a0ba8d64f5efd857ce276cb98fa877bc"
+image_filename: "GoldenTrevally_ZH-CN8976794546_1920x1080.jpg"
+---
