@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "法国霞慕尼山谷上空的云海"
+date:   "2017-08-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ChamonixClouds_ZH-CN7700889231_1920x1080.jpg"
+link: "/search?q=%e9%9c%9e%e6%85%95%e5%b0%bc%e5%b1%b1%e8%b0%b7&form=hpcapt&mkt=zh-cn"
+copyright: "法国霞慕尼山谷上空的云海 (© Masterfile)"
+image_hash: "ff166171135a8b90f33a51e36c190668"
+image_filename: "ChamonixClouds_ZH-CN7700889231_1920x1080.jpg"
+---
