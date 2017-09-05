@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从科罗拉多州的达拉斯分水岭看到的斯奈弗的景色"
+date:   "2017-09-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SneffelsRange_ZH-CN9303969066_1920x1080.jpg"
+link: "/search?q=The+Sneffels&form=hpcapt&mkt=zh-cn"
+copyright: "从科罗拉多州的达拉斯分水岭看到的斯奈弗的景色 (© Rachid Dahnoun/Tandem Stills + Motion)"
+image_hash: "f054bb439a173b5071e68d4dd714f19b"
+image_filename: "SneffelsRange_ZH-CN9303969066_1920x1080.jpg"
+---
