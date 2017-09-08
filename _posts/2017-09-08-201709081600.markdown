@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "弗格拉什山脉的波耶纳里城堡，罗马尼亚"
+date:   "2017-09-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PoenariCastle_ZH-CN7423028629_1920x1080.jpg"
+link: "/search?q=Poenari+Castle&form=hpcapt&mkt=zh-cn"
+copyright: "弗格拉什山脉的波耶纳里城堡，罗马尼亚  (© Susanna Patras/Tandem Stills + Motion)"
+image_hash: "ac9d70f6ae2442c4618ba88e7d7789d5"
+image_filename: "PoenariCastle_ZH-CN7423028629_1920x1080.jpg"
+---
