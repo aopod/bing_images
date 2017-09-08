@@ -5,6 +5,6 @@ date:   "2017-09-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/SWFC_ZH-CN9558503653_1920x1080.jpg"
 link: "/search?q=%e4%b8%8a%e6%b5%b7%e4%b8%96%e7%95%8c%e9%87%91%e8%9e%8d%e4%b8%ad%e5%bf%83&form=hpcapt&mkt=zh-cn"
 copyright: "上海环球金融中心，中国 (© Danny Hu/Getty Images)"
-image_hash: "45946dba3f7a6afaebc8f195ccc4ff09"
+image_hash: "ef39c31e29c0f7f80125d745c0b4d89d"
 image_filename: "SWFC_ZH-CN9558503653_1920x1080.jpg"
 ---

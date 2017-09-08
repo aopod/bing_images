@@ -5,6 +5,6 @@ date:   "2017-09-01 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/WestAU_ZH-CN11443537627_1920x1080.jpg"
 link: "/search?q=%e5%89%91%e6%a1%a5%e6%b9%be&form=hpcapt&mkt=zh-cn"
 copyright: "通过陆地卫星8号拍摄到的澳大利亚西部的剑桥湾河口 (© World History Archive/Alamy)"
-image_hash: "848760a80c2b59c36a3481cd5f02f778"
+image_hash: "ca0bcc5cf7ab39e8e490c8c5bb09a552"
 image_filename: "WestAU_ZH-CN11443537627_1920x1080.jpg"
 ---
