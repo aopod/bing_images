@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "卡斯尔波因特村附近的城堡角灯塔，新西兰北岛"
+date:   "2017-09-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CastlePointLH_ZH-CN13074557115_1920x1080.jpg"
+link: "/search?q=Castle+Point+Lighthouse&form=hpcapt&mkt=zh-cn"
+copyright: "卡斯尔波因特村附近的城堡角灯塔，新西兰北岛  (© Matteo Colombo/Digital Vision/Getty Images)"
+image_hash: "1c8f6e689d9db20e92fcaf806a5d1080"
+image_filename: "CastlePointLH_ZH-CN13074557115_1920x1080.jpg"
+---
