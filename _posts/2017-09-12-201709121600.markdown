@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "邦贾加拉的多贡村，马里共和国"
+date:   "2017-09-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BandiagaraDogon_ZH-CN12463052433_1920x1080.jpg"
+link: "/search?q=Dogon+village&form=hpcapt&mkt=zh-cn"
+copyright: "邦贾加拉的多贡村，马里共和国 (© Quick Shot/Shutterstock)"
+image_hash: "ba53775d00ca57a0cc527e442141539a"
+image_filename: "BandiagaraDogon_ZH-CN12463052433_1920x1080.jpg"
+---
