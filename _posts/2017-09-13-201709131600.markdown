@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从乌代布尔城市宫殿往下俯视的景象，印度拉贾斯坦邦乌代布尔"
+date:   "2017-09-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CityPalace_ZH-CN7843237957_1920x1080.jpg"
+link: "/search?q=%e6%96%8b%e6%b5%a6%e5%b0%94%e5%9f%8e%e5%b8%82%e7%9a%87%e5%ae%ab&form=hpcapt&mkt=zh-cn"
+copyright: "从乌代布尔城市宫殿往下俯视的景象，印度拉贾斯坦邦乌代布尔 (© Matthias Graben/Getty Images)"
+image_hash: "a7e49621daad888ae856c759409f1491"
+image_filename: "CityPalace_ZH-CN7843237957_1920x1080.jpg"
+---
