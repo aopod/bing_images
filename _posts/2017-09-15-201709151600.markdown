@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "沃特顿湖国家公园内的卡梅伦瀑布，加拿大艾伯塔省"
+date:   "2017-09-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CameronFalls_ZH-CN10061329609_1920x1080.jpg"
+link: "/search?q=%e5%8d%a1%e6%a2%85%e4%bc%a6%e7%80%91%e5%b8%83&form=hpcapt&mkt=zh-cn"
+copyright: "沃特顿湖国家公园内的卡梅伦瀑布，加拿大艾伯塔省 (© Anna Gorin/Getty Images)"
+image_hash: "c1fd2c4cb7d9759870405b7dfc1b4c76"
+image_filename: "CameronFalls_ZH-CN10061329609_1920x1080.jpg"
+---
