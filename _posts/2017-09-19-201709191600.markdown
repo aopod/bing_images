@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "罗滕伯格园内的葡萄园，德国巴登-符腾堡州"
+date:   "2017-09-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/RotenbergVineyards_ZH-CN11483766655_1920x1080.jpg"
+link: "/search?q=%e8%91%a1%e8%90%84%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "罗滕伯格园内的葡萄园，德国巴登-符腾堡州 (© Werner Dieterich/plainpicture)"
+image_hash: "4240081b0313377f00bab36a132e671d"
+image_filename: "RotenbergVineyards_ZH-CN11483766655_1920x1080.jpg"
+---
