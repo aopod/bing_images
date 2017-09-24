@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "多利草地荒野内熊岩保护区的秋景，美国西弗吉尼亚州"
+date:   "2017-09-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/DollySods_ZH-CN10617200330_1920x1080.jpg"
+link: "/search?q=%e7%a7%8b%e6%99%af&form=hpcapt&mkt=zh-cn"
+copyright: "多利草地荒野内熊岩保护区的秋景，美国西弗吉尼亚州 (© Anthony Heflin/500px)"
+image_hash: "64be1c3543bac45be4125156993fd39b"
+image_filename: "DollySods_ZH-CN10617200330_1920x1080.jpg"
+---

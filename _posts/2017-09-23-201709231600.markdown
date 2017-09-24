@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "慕尼黑啤酒节期间的摩天轮以及埃尔福特大教堂和圣西弗勒斯教堂的景象"
+date:   "2017-09-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ErfurtOktoberfest_ZH-CN11152792740_1920x1080.jpg"
+link: "/search?q=%e5%9f%83%e5%b0%94%e7%a6%8f%e7%89%b9%e5%a4%a7%e6%95%99%e5%a0%82%e5%92%8c%e5%9c%a3%e8%a5%bf%e5%bc%97%e5%8b%92%e6%96%af%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn"
+copyright: "慕尼黑啤酒节期间的摩天轮以及埃尔福特大教堂和圣西弗勒斯教堂的景象 (© Hans P. Szyszka/age fotostock)"
+image_hash: "950e9c10e94358c8c09f2051f1463ed3"
+image_filename: "ErfurtOktoberfest_ZH-CN11152792740_1920x1080.jpg"
+---

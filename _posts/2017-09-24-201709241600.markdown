@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "美洲杉国家公园内的悬崖湖，美国加利福尼亚州"
+date:   "2017-09-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PrecipiceLake_ZH-CN10138285567_1920x1080.jpg"
+link: "/search?q=+Precipice+Lake&form=hpcapt&mkt=zh-cn"
+copyright: "美洲杉国家公园内的悬崖湖，美国加利福尼亚州 (© Caleb Weston/Getty Images)"
+image_hash: "fe24c2345b2f67ab32a67450fbd0ec60"
+image_filename: "PrecipiceLake_ZH-CN10138285567_1920x1080.jpg"
+---
