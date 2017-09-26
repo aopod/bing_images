@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "普卡基湖，新西兰南岛"
+date:   "2017-09-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LakePukaki_ZH-CN9412206565_1920x1080.jpg"
+link: "/search?q=%e6%99%ae%e5%8d%a1%e5%9f%ba%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "普卡基湖，新西兰南岛 (© Martin Heck/Nimia)"
+image_hash: "bd91fc0db200f151f707538bbaee3bf1"
+image_filename: "LakePukaki_ZH-CN9412206565_1920x1080.jpg"
+---
