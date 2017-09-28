@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "伊吹山车道上的秋景，日本滋贺县米原市"
+date:   "2017-09-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MtIbukiyama_ZH-CN6882861958_1920x1080.jpg"
+link: "/search?q=%e4%bc%8a%e5%90%b9%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "伊吹山车道上的秋景，日本滋贺县米原市 (© The Asahi Shimbun/Getty Images)"
+image_hash: "cee4029c2c4bc3643943c944439eb881"
+image_filename: "MtIbukiyama_ZH-CN6882861958_1920x1080.jpg"
+---
