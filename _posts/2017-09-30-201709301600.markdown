@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "国庆节期间街道上飘扬的五星红旗，中国深圳"
+date:   "2017-09-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/RedFlag_ZH-CN7582013591_1920x1080.jpg"
+link: "/search?q=%e5%9b%bd%e5%ba%86%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "国庆节期间街道上飘扬的五星红旗，中国深圳 (© Bartlomiej Magierowski/Alamy Stock Photo)"
+image_hash: "dee45d124a9b85895f82ae27f80dc416"
+image_filename: "RedFlag_ZH-CN7582013591_1920x1080.jpg"
+---
