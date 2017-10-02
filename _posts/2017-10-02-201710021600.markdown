@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Timiderte Kasbah，摩洛哥德拉河"
+date:   "2017-10-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TimiderteKasbah_ZH-CN11865163382_1920x1080.jpg"
+link: "/search?q=Timiderte+Kasbah&form=hpcapt&mkt=zh-cn"
+copyright: "Timiderte Kasbah，摩洛哥德拉河  (© Mauricio Abreu/Aurora Photos)"
+image_hash: "b84ed4b65ba0eea798377a4d0f45f53b"
+image_filename: "TimiderteKasbah_ZH-CN11865163382_1920x1080.jpg"
+---
