@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "火星上的峡谷系统-水手号峡谷地区上的小行星"
+date:   "2017-10-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/VallesMarineris_ZH-CN10598461085_1920x1080.jpg"
+link: "/search?q=%e7%81%ab%e6%98%9f%e5%b3%a1%e8%b0%b7&form=hpcapt&mkt=zh-cn"
+copyright: "火星上的峡谷系统-水手号峡谷地区上的小行星 (© Detlev van Ravenswaay/Getty Images)"
+image_hash: "5b69b96f1ea30eb5ec187173de25ef3c"
+image_filename: "VallesMarineris_ZH-CN10598461085_1920x1080.jpg"
+---
