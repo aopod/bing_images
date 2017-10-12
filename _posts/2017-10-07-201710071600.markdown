@@ -5,6 +5,6 @@ date:   "2017-10-07 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/Mapleleaf_ZH-CN9491310356_1920x1080.jpg"
 link: "/search?q=%e5%af%92%e9%9c%b2&form=hpcapt&mkt=zh-cn"
 copyright: "【今日寒露】枫叶上的露滴，中国四川华蓥 (© Jerry Tan/age Fotostock)"
-image_hash: "ce83d98e8f3f5f22abc4d5641ee2ba8b"
+image_hash: "ff6c9344541e627743806af473487b47"
 image_filename: "Mapleleaf_ZH-CN9491310356_1920x1080.jpg"
 ---

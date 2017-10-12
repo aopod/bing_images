@@ -5,6 +5,6 @@ date:   "2017-10-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/SoyuzReturn_ZH-CN9848773206_1920x1080.jpg"
 link: "/search?q=%e8%88%aa%e5%a4%a9%e5%99%a8&form=hpcapt&mkt=zh-cn"
 copyright: "联盟号航天器下降模块返回地球 (© Bill Ingalls/NASA)"
-image_hash: "8c4989f0b54d9f847280af90f0ced6d1"
+image_hash: "642582028358bb02682212a49b979dc8"
 image_filename: "SoyuzReturn_ZH-CN9848773206_1920x1080.jpg"
 ---

@@ -5,6 +5,6 @@ date:   "2017-10-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/SweetChestnut_ZH-CN10220364928_1920x1080.jpg"
 link: "/search?q=%e7%b4%ab%e8%9c%a1%e8%98%91&form=hpcapt&mkt=zh-cn"
 copyright: "堕落的甜栗子和紫蜡蘑，英国诺福克  (© Gary K. Smith/Minden Pictures)"
-image_hash: "e7f82a04dcb2d8b04eb38701fa12f196"
+image_hash: "b7384fe435f3af84eb537c7c2ca01515"
 image_filename: "SweetChestnut_ZH-CN10220364928_1920x1080.jpg"
 ---

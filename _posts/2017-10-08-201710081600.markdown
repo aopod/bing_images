@@ -5,6 +5,6 @@ date:   "2017-10-08 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/OrionNebula_ZH-CN10007648454_1920x1080.jpg"
 link: "/search?q=%e7%8c%8e%e6%88%b7%e5%ba%a7%e6%98%9f%e4%ba%91&form=hpcapt&mkt=zh-cn"
 copyright: "从神鹰I号望远镜拍摄到的猎户座大星云的红外图像 (© NASA)"
-image_hash: "ae03486f21703f258d07de81734d928b"
+image_hash: "dab96489ac850b95cdf58dd3b2506df1"
 image_filename: "OrionNebula_ZH-CN10007648454_1920x1080.jpg"
 ---
