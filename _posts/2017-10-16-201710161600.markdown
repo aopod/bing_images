@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "东库特尼的埃尔克河，加拿大不列颠哥伦比亚省"
+date:   "2017-10-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ElkValleyVideo_ZH-CN7645555683_1920x1080.jpg"
+link: "/search?q=+Elk+River&form=hpcapt&mkt=zh-cn"
+copyright: "东库特尼的埃尔克河，加拿大不列颠哥伦比亚省 (© Carson Ganci/First Light/age fotostock)"
+image_hash: "67f7daa0ee90330d2ed32c4633e3b6f7"
+image_filename: "ElkValleyVideo_ZH-CN7645555683_1920x1080.jpg"
+---
