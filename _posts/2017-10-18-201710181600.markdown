@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "大盐湖的太阳能蒸发池，美国犹他州"
+date:   "2017-10-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GreatSaltLake_ZH-CN12553220159_1920x1080.jpg"
+link: "/search?q=%e5%a4%aa%e9%98%b3%e8%83%bd%e7%9b%90%e8%92%b8%e5%8f%91%e6%b1%a0&form=hpcapt&mkt=zh-cn"
+copyright: "大盐湖的太阳能蒸发池，美国犹他州 (© Robert L. Potts/Offset)"
+image_hash: "8999164045f416e8128b47749d506545"
+image_filename: "GreatSaltLake_ZH-CN12553220159_1920x1080.jpg"
+---
