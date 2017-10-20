@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "瓦胡岛的北岸的“波浪建筑”，美国夏威夷"
+date:   "2017-10-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HawaiiWave_ZH-CN13164844408_1920x1080.jpg"
+link: "/search?q=%e6%b5%b7%e6%b0%b4%e6%b3%a2%e6%b5%aa&form=hpcapt&mkt=zh-cn"
+copyright: "瓦胡岛的北岸的“波浪建筑”，美国夏威夷 (© Vince Cavataio/plainpicture)"
+image_hash: "ca612d3b7604d8f12c5ec9de9fa563b7"
+image_filename: "HawaiiWave_ZH-CN13164844408_1920x1080.jpg"
+---
