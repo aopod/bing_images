@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿马尔菲主教座堂，意大利阿马尔菲"
+date:   "2017-10-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AmalfiCathedral_ZH-CN9007250446_1920x1080.jpg"
+link: "/search?q=%e9%98%bf%e9%a9%ac%e5%b0%94%e8%8f%b2%e4%b8%bb%e6%95%99%e5%ba%a7%e5%a0%82&form=hpcapt&mkt=zh-cn"
+copyright: "阿马尔菲主教座堂，意大利阿马尔菲 (© Inge Johnsson/age fotostock)"
+image_hash: "261935a98b7ac4d39ab33c013afa5022"
+image_filename: "AmalfiCathedral_ZH-CN9007250446_1920x1080.jpg"
+---
