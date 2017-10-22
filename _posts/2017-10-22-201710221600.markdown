@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日霜降】林芝市的云雾森林，西藏高原"
+date:   "2017-10-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Forest_ZH-CN16430313748_1920x1080.jpg"
+link: "/search?q=%e9%9c%9c%e9%99%8d&form=hpcapt&mkt=zh-cn"
+copyright: "【今日霜降】林芝市的云雾森林，西藏高原 (© Media Drum World/Aurora Photos)"
+image_hash: "91fe7cd33631e2f7faaea7d810b82ada"
+image_filename: "Forest_ZH-CN16430313748_1920x1080.jpg"
+---
