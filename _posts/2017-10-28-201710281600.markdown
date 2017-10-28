@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "天山的雪豹，吉尔吉斯斯坦"
+date:   "2017-10-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KyrgyzstanCat_ZH-CN10422392512_1920x1080.jpg"
+link: "/search?q=%e5%a4%a9%e5%b1%b1%e9%9b%aa%e8%b1%b9&form=hpcapt&mkt=zh-cn"
+copyright: "天山的雪豹，吉尔吉斯斯坦 (© Sebastian Kennerknecht/Minden Pictures)"
+image_hash: "f65e8f0e2a7c0bd5c15befe7b10c549f"
+image_filename: "KyrgyzstanCat_ZH-CN10422392512_1920x1080.jpg"
+---
