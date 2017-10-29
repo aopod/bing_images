@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "优胜美地国家公园灵感点附近的隧道，美国加利福尼亚州"
+date:   "2017-10-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/InspirationPoint_ZH-CN7836594587_1920x1080.jpg"
+link: "/search?q=%e5%b1%b1%e6%b4%9e%e9%9a%a7%e9%81%93&form=hpcapt&mkt=zh-cn"
+copyright: "优胜美地国家公园灵感点附近的隧道，美国加利福尼亚州 (© Cameron MacPhail/Aurora Photos)"
+image_hash: "569739138e7a70fef3f7b1f38111a6ad"
+image_filename: "InspirationPoint_ZH-CN7836594587_1920x1080.jpg"
+---
