@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "吴哥考古园内的塔布茏寺，柬埔寨"
+date:   "2017-11-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TaProhm_ZH-CN9310499614_1920x1080.jpg"
+link: "/search?q=%e5%a1%94%e5%b8%83%e8%8c%8f%e5%af%ba&form=hpcapt&mkt=zh-cn"
+copyright: "吴哥考古园内的塔布茏寺，柬埔寨 (© Stefano Coltelli/Offset)"
+image_hash: "09c625e96b4010a80614cf5232002eee"
+image_filename: "TaProhm_ZH-CN9310499614_1920x1080.jpg"
+---
