@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "格里菲斯天文台内的傅科摆装置，美国洛杉矶"
+date:   "2017-11-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FoucaultPendulum_ZH-CN9807228543_1920x1080.jpg"
+link: "/search?q=%e5%82%85%e7%a7%91%e6%91%86&form=hpcapt&mkt=zh-cn"
+copyright: "格里菲斯天文台内的傅科摆装置，美国洛杉矶 (© GIPhotoStock/Science Photo Library)"
+image_hash: "7d7b77ba379f84c4db9914eb916aff9a"
+image_filename: "FoucaultPendulum_ZH-CN9807228543_1920x1080.jpg"
+---
