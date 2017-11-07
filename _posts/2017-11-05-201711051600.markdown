@@ -5,6 +5,6 @@ date:   "2017-11-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/BudaCastle_ZH-CN8740088800_1920x1080.jpg"
 link: "/search?q=%e5%b8%83%e8%be%be%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn"
 copyright: "从匈牙利布达佩斯的盖勒特山看到的布达城堡 (© Ionut David/Alamy)"
-image_hash: "f88a52c47eee1c0a111c59d9ea92691c"
+image_hash: "1f02094b8fdcfd0c902146f4ff46969e"
 image_filename: "BudaCastle_ZH-CN8740088800_1920x1080.jpg"
 ---

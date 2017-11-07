@@ -5,6 +5,6 @@ date:   "2017-10-30 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/HauntedGallery_ZH-CN7884856477_1920x1080.jpg"
 link: "/search?q=%e4%b8%87%e5%9c%a3%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "【今日万圣节】超自然肖像 (© Getty)"
-image_hash: "d1e4c1a55251756fad41ae6588bc2619"
+image_hash: "45cc032ddcce989daefd1bd82e0dd0bd"
 image_filename: "HauntedGallery_ZH-CN7884856477_1920x1080.jpg"
 ---

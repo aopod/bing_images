@@ -5,6 +5,6 @@ date:   "2017-11-01 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ShanwangpingKarst_ZH-CN5360258756_1920x1080.jpg"
 link: "/search?q=%e5%b1%b1%e7%8e%8b%e5%9d%aa%e5%96%80%e6%96%af%e7%89%b9%e5%9b%bd%e5%ae%b6%e7%94%9f%e6%80%81%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "重庆郊区的山王坪喀斯特国家生态公园，中国 (© Chen Chao/Getty Images)"
-image_hash: "8d0b6ba83cd9a7d74f91dfb0aadf6cbf"
+image_hash: "0657c5f4a3f8c7f94b7a6268376151ab"
 image_filename: "ShanwangpingKarst_ZH-CN5360258756_1920x1080.jpg"
 ---

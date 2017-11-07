@@ -5,6 +5,6 @@ date:   "2017-11-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/PrusikPeak_ZH-CN10980657640_1920x1080.jpg"
 link: "/search?q=Prusik+Peak&form=hpcapt&mkt=zh-cn"
 copyright: "高山湖泊荒野动植物自然保护区内的普斯克峰，美国华盛顿州 (© Floris van Breugel/Minden Pictures)"
-image_hash: "92ecc778fe9b9f2b9c6240de7798db7d"
+image_hash: "38784c286a308c3a1b54a0b3ba4ea9c2"
 image_filename: "PrusikPeak_ZH-CN10980657640_1920x1080.jpg"
 ---

@@ -5,6 +5,6 @@ date:   "2017-11-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/CRGFerns_ZH-CN13613783251_1920x1080.jpg"
 link: "/search?q=%e7%ab%8b%e5%86%ac&form=hpcapt&mkt=zh-cn"
 copyright: "黄龙风景名胜区，中国四川 (© Sergey Orlov/Design Pics/plainpicture)"
-image_hash: "98235e96786685e752c01b0bfb4333b9"
+image_hash: "8bc496526ef05186011086c6bdde3371"
 image_filename: "CRGFerns_ZH-CN13613783251_1920x1080.jpg"
 ---
