@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "波因特阿里纳灯塔，美国加利福尼亚州"
+date:   "2017-11-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PointArenaLH_ZH-CN12332642727_1920x1080.jpg"
+link: "/search?q=Point+Arena+Ligh&form=hpcapt&mkt=zh-cn"
+copyright: "波因特阿里纳灯塔，美国加利福尼亚州 (© plainpicture/Westend61/Spotcatch)"
+image_hash: "ea5b137418244ac63db363f7276c95bb"
+image_filename: "PointArenaLH_ZH-CN12332642727_1920x1080.jpg"
+---
