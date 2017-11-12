@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "新亚历山大图书馆的天文馆，埃及亚历山大港"
+date:   "2017-11-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PlanetariumBibliotheca_ZH-CN12150844356_1920x1080.jpg"
+link: "/search?q=%e6%96%b0%e4%ba%9a%e5%8e%86%e5%b1%b1%e5%a4%a7%e5%9b%be%e4%b9%a6%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "新亚历山大图书馆的天文馆，埃及亚历山大港 (© Paul Panayiotou/SIME/eStock Photo)"
+image_hash: "9a756621fe5569e6f762f7040971ca51"
+image_filename: "PlanetariumBibliotheca_ZH-CN12150844356_1920x1080.jpg"
+---
