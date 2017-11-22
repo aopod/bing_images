@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Gorbea自然公园内的云芝，西班牙"
+date:   "2017-11-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TurkeyTail_ZH-CN10425367061_1920x1080.jpg"
+link: "/search?q=%e4%ba%91%e8%8a%9d&form=hpcapt&mkt=zh-cn"
+copyright: "Gorbea自然公园内的云芝，西班牙 (© David Santiago Garcia/Aurora Photos)"
+image_hash: "0e927cc9fbb6440b72dc177c359df2ff"
+image_filename: "TurkeyTail_ZH-CN10425367061_1920x1080.jpg"
+---
