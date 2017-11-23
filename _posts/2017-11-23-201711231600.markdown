@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "由Architects of Air制造的充气雕塑“Katena Luminarium”"
+date:   "2017-11-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KatenaLuminarium_ZH-CN12074286571_1920x1080.jpg"
+link: "/search?q=Architects+of+Air&form=hpcapt&mkt=zh-cn"
+copyright: "由Architects of Air制造的充气雕塑“Katena Luminarium” (© Shirlaine Forrest/WireImage/Getty Images)"
+image_hash: "b52c410e8206b56e94dc1b619f25075b"
+image_filename: "KatenaLuminarium_ZH-CN12074286571_1920x1080.jpg"
+---
