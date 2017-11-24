@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圣贝内泽桥和罗讷河黄昏时刻的美景，法国阿维尼翁"
+date:   "2017-11-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/RhoneRiverDusk_ZH-CN7956980058_1920x1080.jpg"
+link: "/search?q=%e5%9c%a3%e8%b4%9d%e5%86%85%e6%b3%bd%e6%a1%a5&form=hpcapt&mkt=zh-cn"
+copyright: "圣贝内泽桥和罗讷河黄昏时刻的美景，法国阿维尼翁 (© David Noton/Minden Pictures)"
+image_hash: "752a7976fb7edb91858558e8194ac92d"
+image_filename: "RhoneRiverDusk_ZH-CN7956980058_1920x1080.jpg"
+---
