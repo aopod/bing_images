@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "灯光装点的水稻梯田，日本轮岛"
+date:   "2017-11-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/RiceLights_ZH-CN7549259687_1920x1080.jpg"
+link: "/search?q=%e6%b0%b4%e7%a8%bb%e6%a2%af%e7%94%b0&form=hpcapt&mkt=zh-cn"
+copyright: "灯光装点的水稻梯田，日本轮岛 (© Sean Pavone/Alamy)"
+image_hash: "3928c714b480ec1f3df0ffaa5d25e306"
+image_filename: "RiceLights_ZH-CN7549259687_1920x1080.jpg"
+---
