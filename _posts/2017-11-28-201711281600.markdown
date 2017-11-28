@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "洛杉矶的联合车站，美国加利福尼亚州"
+date:   "2017-11-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LAUnionStation_ZH-CN8034711319_1920x1080.jpg"
+link: "/search?q=%e8%81%94%e5%90%88%e8%bd%a6%e7%ab%99&form=hpcapt&mkt=zh-cn"
+copyright: "洛杉矶的联合车站，美国加利福尼亚州 (© Ted Vancleave/Gallery Stock)"
+image_hash: "1c4b531fdc9108bcc2c3639dd8257c29"
+image_filename: "LAUnionStation_ZH-CN8034711319_1920x1080.jpg"
+---
