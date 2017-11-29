@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "塞拉多生态区内的希氏石脂鲤，巴西"
+date:   "2017-11-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Piraputanga_ZH-CN13303102627_1920x1080.jpg"
+link: "/search?q=%e5%b8%8c%e6%b0%8f%e7%9f%b3%e8%84%82%e9%b2%a4&form=hpcapt&mkt=zh-cn"
+copyright: "塞拉多生态区内的希氏石脂鲤，巴西 (© Luciano Candisani/Minden Pictures)"
+image_hash: "72a276ee530bcc590a067c96a0829d46"
+image_filename: "Piraputanga_ZH-CN13303102627_1920x1080.jpg"
+---
