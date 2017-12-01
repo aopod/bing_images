@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "摩押附近的沙漠中的钾蒸发池，美国犹他州"
+date:   "2017-12-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PotashPonds_ZH-CN13213047688_1920x1080.jpg"
+link: "/search?q=Potash+evaporation+ponds&form=hpcapt&mkt=zh-cn"
+copyright: "摩押附近的沙漠中的钾蒸发池，美国犹他州 (© Jassen Todorov/Solent News/REX/Shutterstock)"
+image_hash: "b307f0b164a5617c2d169c154d8356c4"
+image_filename: "PotashPonds_ZH-CN13213047688_1920x1080.jpg"
+---
