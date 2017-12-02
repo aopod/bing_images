@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "施韦青根城堡花园鸟瞰图，德国巴登-符腾堡州"
+date:   "2017-12-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SchwetzingenAerial_ZH-CN11628382780_1920x1080.jpg"
+link: "/search?q=%e6%96%bd%e9%9f%a6%e9%9d%92%e6%a0%b9%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn"
+copyright: "施韦青根城堡花园鸟瞰图，德国巴登-符腾堡州 (© aerial-photos.com/Alamy)"
+image_hash: "863ca6ea1116c081b3847d3f3c07c2c3"
+image_filename: "SchwetzingenAerial_ZH-CN11628382780_1920x1080.jpg"
+---
