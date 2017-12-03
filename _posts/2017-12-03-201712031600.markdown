@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "计算机主板细节图"
+date:   "2017-12-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Motherboard_ZH-CN12819254349_1920x1080.jpg"
+link: "/search?q=%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%bb%e6%9d%bf&form=hpcapt&mkt=zh-cn"
+copyright: "计算机主板细节图 (© Antonio Romero/Science Photo Library)"
+image_hash: "941ab6c55ce5f0637547d3493e60c534"
+image_filename: "Motherboard_ZH-CN12819254349_1920x1080.jpg"
+---
