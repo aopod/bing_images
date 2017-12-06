@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日大雪】暴风雪中两只在树干上攀爬的大熊猫，中国四川"
+date:   "2017-12-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Snow_ZH-CN11178898651_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e9%9b%aa&form=hpcapt&mkt=zh-cn"
+copyright: "【今日大雪】暴风雪中两只在树干上攀爬的大熊猫，中国四川 (© Juan Carlos Munoz/NPL/Minden Pictures)"
+image_hash: "1be46795e16a421c8aacd93fef2d224e"
+image_filename: "Snow_ZH-CN11178898651_1920x1080.jpg"
+---
