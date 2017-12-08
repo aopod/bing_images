@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "老桥，意大利佛罗伦萨"
+date:   "2017-12-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FlightFest_ZH-CN9045713592_1920x1080.jpg"
+link: "/search?q=Ponte+Vecchio&form=hpcapt&mkt=zh-cn"
+copyright: "老桥，意大利佛罗伦萨 (© Michele Castellani/Alamy)"
+image_hash: "5b4d8b5629860a2f55aa57189be1fc5b"
+image_filename: "FlightFest_ZH-CN9045713592_1920x1080.jpg"
+---
