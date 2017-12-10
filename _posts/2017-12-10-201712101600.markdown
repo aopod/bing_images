@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "卓木拉日峰上的古老宗堡，不丹"
+date:   "2017-12-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Jangothang_ZH-CN12592369551_1920x1080.jpg"
+link: "/search?q=%e5%8d%93%e6%9c%a8%e6%8b%89%e6%97%a5%e5%b3%b0&form=hpcapt&mkt=zh-cn"
+copyright: "卓木拉日峰上的古老宗堡，不丹 (© Alex Treadway/plainpicture)"
+image_hash: "f74e00c417d773f9694d5a24665839bd"
+image_filename: "Jangothang_ZH-CN12592369551_1920x1080.jpg"
+---
