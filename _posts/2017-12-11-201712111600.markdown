@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圣诞市场上出售的地精，意大利佩尔吉内瓦尔苏加纳"
+date:   "2017-12-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Gnomes_ZH-CN14028221582_1920x1080.jpg"
+link: "/search?q=Gnomes&form=hpcapt&mkt=zh-cn"
+copyright: "圣诞市场上出售的地精，意大利佩尔吉内瓦尔苏加纳 (© Flavia Morlachetti/Moment/Getty Images)"
+image_hash: "bd57ac9f2d813f6bcd5650c891f61d14"
+image_filename: "Gnomes_ZH-CN14028221582_1920x1080.jpg"
+---
