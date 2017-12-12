@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "弗罗伊登贝格镇，德国"
+date:   "2017-12-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Freudenberg_ZH-CN10942614197_1920x1080.jpg"
+link: "/search?q=%e5%bc%97%e7%bd%97%e4%bc%8a%e7%99%bb%e8%b4%9d%e6%a0%bc%e9%95%87&form=hpcapt&mkt=zh-cn"
+copyright: "弗罗伊登贝格镇，德国 (© Iain Masterton/age fotostock)"
+image_hash: "e8032c1d672458177183101f0307cc26"
+image_filename: "Freudenberg_ZH-CN10942614197_1920x1080.jpg"
+---
