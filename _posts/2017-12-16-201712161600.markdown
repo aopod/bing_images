@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "柏林圣诞集市的狂欢节秋千，德国"
+date:   "2017-12-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MGRBerlin_ZH-CN6734108494_1920x1080.jpg"
+link: "/search?q=%e5%9c%a3%e8%af%9e%e5%b8%82%e5%9c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "柏林圣诞集市的狂欢节秋千，德国 (© Hannibal Hanschke/Reuters)"
+image_hash: "130ba2d37ca5050d8d37d8f17ab24d16"
+image_filename: "MGRBerlin_ZH-CN6734108494_1920x1080.jpg"
+---
