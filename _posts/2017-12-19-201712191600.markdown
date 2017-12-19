@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "威尔士中部的波厄斯郡"
+date:   "2017-12-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PowysCounty_ZH-CN11115693548_1920x1080.jpg"
+link: "/search?q=%e6%b3%a2%e5%8e%84%e6%96%af%e9%83%a1&form=hpcapt&mkt=zh-cn"
+copyright: "威尔士中部的波厄斯郡 (© Graham Lawrence/Aurora Photos)"
+image_hash: "b122b2c82f5ae86471b8b72a4bf1a300"
+image_filename: "PowysCounty_ZH-CN11115693548_1920x1080.jpg"
+---
