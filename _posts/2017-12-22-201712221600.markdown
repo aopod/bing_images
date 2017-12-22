@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "旧金山联合广场的圣诞老人大会活动，美国加利福尼亚州"
+date:   "2017-12-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SFSantaCon_ZH-CN11213292356_1920x1080.jpg"
+link: "/search?q=%e5%9c%a3%e8%af%9e%e8%80%81%e4%ba%ba%e5%a4%a7%e4%bc%9a%e6%b4%bb%e5%8a%a8&form=hpcapt&mkt=zh-cn"
+copyright: "旧金山联合广场的圣诞老人大会活动，美国加利福尼亚州 (© Mint Images/Aurora Photos)"
+image_hash: "ec5506c3297c61d5e6729c3b9183d0f5"
+image_filename: "SFSantaCon_ZH-CN11213292356_1920x1080.jpg"
+---
