@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "织布机上的花呢格纹布，苏格兰爱丁堡"
+date:   "2018-01-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TartanWeaving_ZH-CN8652723934_1920x1080.jpg"
+link: "/search?q=%e7%bb%87%e5%b8%83%e6%9c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "织布机上的花呢格纹布，苏格兰爱丁堡 (© AA World Travel Library/Alamy)"
+image_hash: "8cf0d0fdfe015ff3e74eb024f1157d9e"
+image_filename: "TartanWeaving_ZH-CN8652723934_1920x1080.jpg"
+---
