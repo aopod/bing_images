@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "多洛米蒂山脉Lagazuoi山上的桑拿屋，意大利"
+date:   "2018-01-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SaunaDolomites_ZH-CN9230743969_1920x1080.jpg"
+link: "/search?q=%e6%a1%91%e6%8b%bf&form=hpcapt&mkt=zh-cn"
+copyright: "多洛米蒂山脉Lagazuoi山上的桑拿屋，意大利 (© Spotcatch/Westend61/Offset)"
+image_hash: "67eed046f1752d9b7eeb5f0b8230197b"
+image_filename: "SaunaDolomites_ZH-CN9230743969_1920x1080.jpg"
+---
