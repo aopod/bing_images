@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "大喷泉间歇泉，美国怀俄明州黄石国家公园"
+date:   "2018-01-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GreatFountainGeyer_ZH-CN11320043560_1920x1080.jpg"
+link: "/search?q=%e9%97%b4%e6%ad%87%e6%b3%89&form=hpcapt&mkt=zh-cn"
+copyright: "大喷泉间歇泉，美国怀俄明州黄石国家公园 (© lightpix/iStock/Getty Images Plus)"
+image_hash: "79647f79bfa89fffe172ac4ac8689bbf"
+image_filename: "GreatFountainGeyer_ZH-CN11320043560_1920x1080.jpg"
+---
