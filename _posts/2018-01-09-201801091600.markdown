@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "桑布鲁国家自然保护区金合欢树上悬挂的织布鸟鸟巢，肯尼亚"
+date:   "2018-01-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SamburuNests_ZH-CN11974788746_1920x1080.jpg"
+link: "/search?q=%e9%b8%9f%e5%b7%a2%ef%bc%88%e5%90%84%e5%bc%8f%e5%90%84%e6%a0%b7%e7%9a%84%ef%bc%89&form=hpcapt&mkt=zh-cn"
+copyright: "桑布鲁国家自然保护区金合欢树上悬挂的织布鸟鸟巢，肯尼亚 (© Bernd Rohrschneider/Minden Pictures)"
+image_hash: "d7e79bfcde1ecd7d0a5ffb8f4333cbfc"
+image_filename: "SamburuNests_ZH-CN11974788746_1920x1080.jpg"
+---
