@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "中央公园的弓桥，美国纽约市"
+date:   "2018-01-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BowSnow_ZH-CN10193462171_1920x1080.jpg"
+link: "/search?q=%e4%b8%ad%e5%a4%ae%e5%85%ac%e5%9b%ad%e7%9a%84%e5%bc%93%e6%a1%a5&form=hpcapt&mkt=zh-cn"
+copyright: "中央公园的弓桥，美国纽约市 (© Ultima Gaina/iStock/Getty Images Plus)"
+image_hash: "f7b2658362a8a7957cec136dbdda6a75"
+image_filename: "BowSnow_ZH-CN10193462171_1920x1080.jpg"
+---
