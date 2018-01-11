@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "卡兹尼神殿，约旦佩特拉"
+date:   "2018-01-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TreasuryCandles_ZH-CN9281308713_1920x1080.jpg"
+link: "/search?q=%e5%8d%a1%e5%85%b9%e5%b0%bc%e7%a5%9e%e6%ae%bf&form=hpcapt&mkt=zh-cn"
+copyright: "卡兹尼神殿，约旦佩特拉 (© Felix Lipov/Shutterstock)"
+image_hash: "c3771978467c2b1336ab0446b4af1328"
+image_filename: "TreasuryCandles_ZH-CN9281308713_1920x1080.jpg"
+---
