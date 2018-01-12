@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "沃尔夫克里克山口附近被火灾破坏的森林，美国科罗拉多州"
+date:   "2018-01-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/EnglemannSpruceForest_ZH-CN11994077642_1920x1080.jpg"
+link: "/search?q=%e6%a3%ae%e6%9e%97%e7%81%ab%e7%81%be&form=hpcapt&mkt=zh-cn"
+copyright: "沃尔夫克里克山口附近被火灾破坏的森林，美国科罗拉多州 (© Peter Essick/Aurora Photos)"
+image_hash: "0433abab33bbc5a3c6d7e8e3217fa750"
+image_filename: "EnglemannSpruceForest_ZH-CN11994077642_1920x1080.jpg"
+---
