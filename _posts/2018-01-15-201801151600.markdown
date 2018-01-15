@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "印度尼西亚海岸附近的狮子鱼"
+date:   "2018-01-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LionFish_ZH-CN6318723202_1920x1080.jpg"
+link: "/search?q=%e7%8b%ae%e5%ad%90%e9%b1%bc&form=hpcapt&mkt=zh-cn"
+copyright: "印度尼西亚海岸附近的狮子鱼 (© David Fleetham/Visuals Unlimited, Inc.)"
+image_hash: "83298c16324534a4a16638b3da5456a0"
+image_filename: "LionFish_ZH-CN6318723202_1920x1080.jpg"
+---
