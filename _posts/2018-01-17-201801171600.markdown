@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马希纳普阿湖上的霍氏粉褶菌，新西兰"
+date:   "2018-01-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BlueMushroom_ZH-CN10091152411_1920x1080.jpg"
+link: "/search?q=%e9%9c%8d%e6%b0%8f%e7%b2%89%e8%a4%b6%e8%8f%8c&form=hpcapt&mkt=zh-cn"
+copyright: "马希纳普阿湖上的霍氏粉褶菌，新西兰 (© Thysje Arthur/Offset)"
+image_hash: "7feb23fa57212846452438a33f7bcae2"
+image_filename: "BlueMushroom_ZH-CN10091152411_1920x1080.jpg"
+---
