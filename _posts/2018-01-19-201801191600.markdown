@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日大寒】一列穿越三岛村附近只见川的火车，日本"
+date:   "2018-01-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TadamiTrain_ZH-CN13495442975_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e5%af%92&form=hpcapt&mkt=zh-cn"
+copyright: "【今日大寒】一列穿越三岛村附近只见川的火车，日本 (© Nuttapoom Amornpashara/Getty Images)"
+image_hash: "27e5c79a975152e4ab0915bbdcf64ecf"
+image_filename: "TadamiTrain_ZH-CN13495442975_1920x1080.jpg"
+---
