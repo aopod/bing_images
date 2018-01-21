@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "旧金山金门大桥鸟瞰图，美国加利福尼亚州"
+date:   "2018-01-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BirdseyeGGB_ZH-CN13809191544_1920x1080.jpg"
+link: "/search?q=%e9%87%91%e9%97%a8%e5%a4%a7%e6%a1%a5%e9%b8%9f&form=hpcapt&mkt=zh-cn"
+copyright: "旧金山金门大桥鸟瞰图，美国加利福尼亚州 (© Alex Menendez/Aurora Photos)"
+image_hash: "1f7a8263f1940ee0037a937b13d11712"
+image_filename: "BirdseyeGGB_ZH-CN13809191544_1920x1080.jpg"
+---
