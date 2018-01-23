@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圣安唐岛上的 Fontainhas村庄，佛得角共和国"
+date:   "2018-01-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Fontainhas_ZH-CN10506085919_1920x1080.jpg"
+link: "/search?q=Fontainhas+village&form=hpcapt&mkt=zh-cn"
+copyright: "圣安唐岛上的 Fontainhas村庄，佛得角共和国 (© Guiziou Franck/Getty Images)"
+image_hash: "6d7de68c29680421692199d8abc2bcec"
+image_filename: "Fontainhas_ZH-CN10506085919_1920x1080.jpg"
+---
