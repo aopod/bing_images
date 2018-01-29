@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "花岗岩峡谷中的沃森湖，美国亚利桑那州"
+date:   "2018-01-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GraniteDells_ZH-CN10095346278_1920x1080.jpg"
+link: "/search?q=%e6%b2%83%e6%a3%ae%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "花岗岩峡谷中的沃森湖，美国亚利桑那州 (© Tim Fitzharris/Minden Pictures)"
+image_hash: "0d36b74cfcd99e5f46865fe82fe50eed"
+image_filename: "GraniteDells_ZH-CN10095346278_1920x1080.jpg"
+---
