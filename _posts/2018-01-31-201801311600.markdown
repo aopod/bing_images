@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "施图本阿尔贝格，奥地利"
+date:   "2018-01-31 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/StubenamAlberg_ZH-CN9268418169_1920x1080.jpg"
+link: "/search?q=%e8%90%a8%e7%bd%97%e5%b0%bc%e5%85%8b%e6%b9%be&form=hpcapt&mkt=zh-cn"
+copyright: "施图本阿尔贝格，奥地利 (© 500px/Aurora Photos)"
+image_hash: "7c2dbde56761b4c68dc33421ee464716"
+image_filename: "StubenamAlberg_ZH-CN9268418169_1920x1080.jpg"
+---
