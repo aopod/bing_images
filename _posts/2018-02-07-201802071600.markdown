@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "多梅科山脉的岩盐山麓，智利"
+date:   "2018-02-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SaltMountains_ZH-CN12959138910_1920x1080.jpg"
+link: "/search?q=The+Cordillera+de+la+Sal&form=hpcapt&mkt=zh-cn"
+copyright: "多梅科山脉的岩盐山麓，智利 (© Sergio Ballivian/Tandem Stills + Motion)"
+image_hash: "1015449725a9cf7ee00b6d4dfb6e80d3"
+image_filename: "SaltMountains_ZH-CN12959138910_1920x1080.jpg"
+---
