@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "莫斯科动物园内的一只孟加拉白虎，俄罗斯"
+date:   "2018-02-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WhiteTiger_ZH-CN12326957209_1920x1080.jpg"
+link: "/search?q=%e5%ad%9f%e5%8a%a0%e6%8b%89%e7%99%bd%e8%99%8e&form=hpcapt&mkt=zh-cn"
+copyright: "莫斯科动物园内的一只孟加拉白虎，俄罗斯 (© andamanec/Shutterstock)"
+image_hash: "4871967b4b1f4dd82546c9b8aba1716d"
+image_filename: "WhiteTiger_ZH-CN12326957209_1920x1080.jpg"
+---
