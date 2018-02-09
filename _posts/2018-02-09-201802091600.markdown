@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "科西嘉岛上的博尼法乔城，法国"
+date:   "2018-02-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BonifacioCorsica_ZH-CN12276076394_1920x1080.jpg"
+link: "/search?q=%e5%8d%9a%e5%b0%bc%e6%b3%95%e4%b9%94&form=hpcapt&mkt=zh-cn"
+copyright: "科西嘉岛上的博尼法乔城，法国 (© Hemis/Alamy)"
+image_hash: "4967dbea47da66a399a0a8a71e64327f"
+image_filename: "BonifacioCorsica_ZH-CN12276076394_1920x1080.jpg"
+---
