@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "新普利茅斯附近的特雷瓦雷瓦桥，新西兰"
+date:   "2018-02-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TeRewaRewa_ZH-CN9356115127_1920x1080.jpg"
+link: "/search?q=+Te+Rewa+Rewa+Bridge&form=hpcapt&mkt=zh-cn"
+copyright: "新普利茅斯附近的特雷瓦雷瓦桥，新西兰 (© Matthew Williams-Ellis/Aurora Photos)"
+image_hash: "8e387a0955ce7a647de96d96c115e7b0"
+image_filename: "TeRewaRewa_ZH-CN9356115127_1920x1080.jpg"
+---
