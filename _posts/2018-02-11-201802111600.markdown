@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "雍布拉康，中国西藏自治区"
+date:   "2018-02-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/YungbulakangPalace_ZH-CN6941923546_1920x1080.jpg"
+link: "/search?q=%e9%9b%8d%e5%b8%83%e6%8b%89%e5%ba%b7&form=hpcapt&mkt=zh-cn"
+copyright: "雍布拉康，中国西藏自治区 (© Yumian Deng)"
+image_hash: "ec9a0e6ea422bb95e616a7c8f5caecf5"
+image_filename: "YungbulakangPalace_ZH-CN6941923546_1920x1080.jpg"
+---
