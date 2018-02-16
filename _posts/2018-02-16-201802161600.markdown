@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "勒塞尔火山国家公园内的一只小苏门答腊猩猩，印度尼西亚"
+date:   "2018-02-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/OrangutanBaby_ZH-CN9942512858_1920x1080.jpg"
+link: "/search?q=%e8%8b%8f%e9%97%a8%e7%ad%94%e8%85%8a%e7%8c%a9%e7%8c%a9&form=hpcapt&mkt=zh-cn"
+copyright: "勒塞尔火山国家公园内的一只小苏门答腊猩猩，印度尼西亚 (© Cyril Ruoso/Minden Pictures)"
+image_hash: "23cdefdf0b28426cd01b0412078e0a28"
+image_filename: "OrangutanBaby_ZH-CN9942512858_1920x1080.jpg"
+---
