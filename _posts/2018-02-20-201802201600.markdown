@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Ålvundeidet村附近的Innerdalsvatna湖，挪威"
+date:   "2018-02-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/InnerdalsvatnaVideo_ZH-CN11002526366_1920x1080.jpg"
+link: "/search?q=Innerdalsvatna+Lake&form=hpcapt&mkt=zh-cn"
+copyright: "Ålvundeidet村附近的Innerdalsvatna湖，挪威 (© Anders Graham/Turbin Films/Nimia)"
+image_hash: "2cf3e1041c7ca118e9608710d2a04ba0"
+image_filename: "InnerdalsvatnaVideo_ZH-CN11002526366_1920x1080.jpg"
+---
