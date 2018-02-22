@@ -5,6 +5,6 @@ date:   "2018-02-21 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/RomanTheatre_ZH-CN9417897135_1920x1080.jpg"
 link: "/search?q=%e7%bd%97%e9%a9%ac%e5%89%a7%e5%9c%ba&form=hpcapt&mkt=zh-cn"
 copyright: "罗马剧场，西班牙卡塔赫纳 (© Luis Davilla/Getty Images)"
-image_hash: "6e541157d3a004b982c1cb136055b1fd"
+image_hash: "c3208dc8bd20dc62b375d9852932cd79"
 image_filename: "RomanTheatre_ZH-CN9417897135_1920x1080.jpg"
 ---

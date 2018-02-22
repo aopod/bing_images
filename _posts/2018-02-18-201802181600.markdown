@@ -5,6 +5,6 @@ date:   "2018-02-18 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/KoriBustard_ZH-CN9730794842_1920x1080.jpg"
 link: "/search?q=%e7%81%b0%e9%a2%88%e9%b9%ad%e9%b8%a8&form=hpcapt&mkt=zh-cn"
 copyright: "雄性灰颈鹭鸨，肯尼亚马赛马拉国家保护区 (© Christina Krutz/Masterfile)"
-image_hash: "7e0fd1fd424433982a5ca4c942ac0b4e"
+image_hash: "eb1ad85126606dee50f88631183f1dd5"
 image_filename: "KoriBustard_ZH-CN9730794842_1920x1080.jpg"
 ---

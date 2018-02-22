@@ -5,6 +5,6 @@ date:   "2018-02-19 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/AyuttayaBuddha_ZH-CN8897274980_1920x1080.jpg"
 link: "/search?q=%e9%98%bf%e7%91%9c%e9%99%80%e8%80%b6%e5%9f%8e&form=hpcapt&mkt=zh-cn"
 copyright: "阿瑜陀耶城内的“树中佛像”，泰国 (© Garret Suhrie/Tandem Stills + Motion)"
-image_hash: "872b1f50348463a06898ec968315b5c3"
+image_hash: "3872e7744ade7f60fb9769570ef96498"
 image_filename: "AyuttayaBuddha_ZH-CN8897274980_1920x1080.jpg"
 ---
