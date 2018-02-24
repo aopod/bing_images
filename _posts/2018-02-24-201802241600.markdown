@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "布莱斯峡谷国家公园的雾中石林，美国犹他州"
+date:   "2018-02-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PinnaclesHoodoos_ZH-CN11336386074_1920x1080.jpg"
+link: "/search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "布莱斯峡谷国家公园的雾中石林，美国犹他州 (© Eleanor Scriven/plainpicture)"
+image_hash: "56f24e12e1f7907b9cf91d225f16d123"
+image_filename: "PinnaclesHoodoos_ZH-CN11336386074_1920x1080.jpg"
+---
