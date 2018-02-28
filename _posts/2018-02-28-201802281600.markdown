@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "莫斯塔尔古桥，波斯尼亚和黑塞哥维那"
+date:   "2018-02-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/NewOldBridge_ZH-CN10652745389_1920x1080.jpg"
+link: "/search?q=%e8%8e%ab%e6%96%af%e5%a1%94%e5%b0%94%e5%8f%a4%e6%a1%a5&form=hpcapt&mkt=zh-cn"
+copyright: "莫斯塔尔古桥，波斯尼亚和黑塞哥维那 (© Gavin Hellier/Minden Pictures)"
+image_hash: "46a3f02e3dedf55215f5301297d2c588"
+image_filename: "NewOldBridge_ZH-CN10652745389_1920x1080.jpg"
+---
