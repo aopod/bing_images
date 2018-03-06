@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "黄昏时分，厚重的冰块紧贴着新斯科舍省的大西洋海岸，加拿大"
+date:   "2018-03-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/NovaScotiaIce_ZH-CN11765767656_1920x1080.jpg"
+link: "/search?q=%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%a4%a7%e8%a5%bf%e6%b4%8b%e6%b5%b7%e5%b2%b8%e9%a3%8e%e5%85%89&form=hpcapt&mkt=zh-cn"
+copyright: "黄昏时分，厚重的冰块紧贴着新斯科舍省的大西洋海岸，加拿大 (© shaunl/Getty Images)"
+image_hash: "ff233c172034f1755b25873399061b4c"
+image_filename: "NovaScotiaIce_ZH-CN11765767656_1920x1080.jpg"
+---
