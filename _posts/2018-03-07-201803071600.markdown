@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日国际劳动妇女节】克里斯汀·维斯巴尔创作的《无畏女孩》雕像，美国纽约"
+date:   "2018-03-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FearlessGirl_ZH-CN8770808173_1920x1080.jpg"
+link: "/search?q=%e5%9b%bd%e9%99%85%e5%8a%b3%e5%8a%a8%e5%a6%87%e5%a5%b3%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "【今日国际劳动妇女节】克里斯汀·维斯巴尔创作的《无畏女孩》雕像，美国纽约 (© Jeenah Moon/Bloomberg via Getty Images)"
+image_hash: "8652205ac7af49a4a17bb741a1757f72"
+image_filename: "FearlessGirl_ZH-CN8770808173_1920x1080.jpg"
+---
