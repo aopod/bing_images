@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "奥洛穆茨上城广场天文时钟中映出的建筑物图像，捷克"
+date:   "2018-03-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/OlomoucClock_ZH-CN14494749598_1920x1080.jpg"
+link: "/search?q=%e5%a5%a5%e6%b4%9b%e7%a9%86%e8%8c%a8%ef%bc%88%e5%bb%ba%e7%ad%91%ef%bc%89&form=hpcapt&mkt=zh-cn"
+copyright: "奥洛穆茨上城广场天文时钟中映出的建筑物图像，捷克 (© scubabartek/iStock/Getty Images Plus)"
+image_hash: "ff740fe3812a8733d7443cfd0f4fe6eb"
+image_filename: "OlomoucClock_ZH-CN14494749598_1920x1080.jpg"
+---
