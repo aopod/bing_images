@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "拉贾安帕特群岛的瓦亚格岛，印度尼西亚"
+date:   "2018-03-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PulauWayagIslands_ZH-CN11954777980_1920x1080.jpg"
+link: "/search?q=+Wayag+Islands&form=hpcapt&mkt=zh-cn"
+copyright: "拉贾安帕特群岛的瓦亚格岛，印度尼西亚 (© Chris Caldicott/Offset)"
+image_hash: "b7a211c4cf449f0c9118ab65ba38c75d"
+image_filename: "PulauWayagIslands_ZH-CN11954777980_1920x1080.jpg"
+---
