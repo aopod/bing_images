@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "小巴哈马浅滩中的大西洋花斑原海豚和气泡环，巴哈马"
+date:   "2018-03-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ToroidalBubble_ZH-CN10711997835_1920x1080.jpg"
+link: "/search?q=%e8%8a%b1%e6%96%91%e5%8e%9f%e6%b5%b7%e8%b1%9a&form=hpcapt&mkt=zh-cn"
+copyright: "小巴哈马浅滩中的大西洋花斑原海豚和气泡环，巴哈马 (© Hiroya Minakuchi/Minden Pictures)"
+image_hash: "0b6eabb8e9a5df554724ff1455083b9b"
+image_filename: "ToroidalBubble_ZH-CN10711997835_1920x1080.jpg"
+---
