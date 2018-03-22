@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日世界气象日】秘鲁太平洋沿岸Yauca和Acarí河上空的云层"
+date:   "2018-03-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PeruCanyonClouds_ZH-CN10405307621_1920x1080.jpg"
+link: "/search?q=%e4%b8%96%e7%95%8c%e6%b0%94%e8%b1%a1%e6%97%a5&form=hpcapt&mkt=zh-cn"
+copyright: "【今日世界气象日】秘鲁太平洋沿岸Yauca和Acarí河上空的云层 (© Joshua Stevens/NASA)"
+image_hash: "d806a9b1210db416eeb562fa0ab3bd4d"
+image_filename: "PeruCanyonClouds_ZH-CN10405307621_1920x1080.jpg"
+---
