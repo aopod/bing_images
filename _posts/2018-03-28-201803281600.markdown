@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "风之宫，印度斋浦尔"
+date:   "2018-03-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HawaMahal_ZH-CN7126476273_1920x1080.jpg"
+link: "/search?q=%e9%a3%8e%e4%b9%8b%e5%ae%ab&form=hpcapt&mkt=zh-cn"
+copyright: "风之宫，印度斋浦尔 (© Olena Tur/Shutterstock)"
+image_hash: "db2b10a9ea9eef36511d5cd3be3f9e8f"
+image_filename: "HawaMahal_ZH-CN7126476273_1920x1080.jpg"
+---
