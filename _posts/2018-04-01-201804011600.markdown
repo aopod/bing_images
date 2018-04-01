@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "琼干湖旁的七魔山装置艺术，美国内华达州"
+date:   "2018-04-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SevenMagicMountains_ZH-CN9207394593_1920x1080.jpg"
+link: "/search?q=%e4%b8%83%e9%ad%94%e5%b1%b1%e8%a3%85%e7%bd%ae%e8%89%ba%e6%9c%af&form=hpcapt&mkt=zh-cn"
+copyright: "琼干湖旁的七魔山装置艺术，美国内华达州 (© Renz Alfonso Dela Pena)"
+image_hash: "f8c2052c68e212658a2ae1e75e8e8b58"
+image_filename: "SevenMagicMountains_ZH-CN9207394593_1920x1080.jpg"
+---
