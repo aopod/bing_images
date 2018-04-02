@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "在 Piano Grande平原上的卡斯特卢乔小镇，意大利翁布里亚大区"
+date:   "2018-04-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/UmbriaCastelluccio_ZH-CN9645718473_1920x1080.jpg"
+link: "/search?q=%e5%8d%a1%e6%96%af%e7%89%b9%e5%8d%a2%e4%b9%94%e5%b0%8f%e9%95%87&form=hpcapt&mkt=zh-cn"
+copyright: "在 Piano Grande平原上的卡斯特卢乔小镇，意大利翁布里亚大区 (© beppeverge/Getty Images)"
+image_hash: "b58bc45a3d280a1e859289d94e7be997"
+image_filename: "UmbriaCastelluccio_ZH-CN9645718473_1920x1080.jpg"
+---
