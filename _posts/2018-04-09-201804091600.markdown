@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "安波塞利国家公园内的一只成年大象和它的幼崽，肯尼亚"
+date:   "2018-04-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ElephantSibs_ZH-CN13499373865_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e8%b1%a1&form=hpcapt&mkt=zh-cn"
+copyright: "安波塞利国家公园内的一只成年大象和它的幼崽，肯尼亚 (© Tom Stahl/Offset)"
+image_hash: "0e653faa9bfcde3f67cd176da6a4f291"
+image_filename: "ElephantSibs_ZH-CN13499373865_1920x1080.jpg"
+---
