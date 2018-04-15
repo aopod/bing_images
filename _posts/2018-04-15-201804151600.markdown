@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巴扎鲁托群岛，莫桑比克"
+date:   "2018-04-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MozambiqueSandbar_ZH-CN12673484802_1920x1080.jpg"
+link: "/search?q=%e5%b7%b4%e6%89%8e%e9%b2%81%e6%89%98%e7%be%a4%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+copyright: "巴扎鲁托群岛，莫桑比克 (© Jody MacDonald/Offset)"
+image_hash: "62f395ac51112c59a394452d507d592a"
+image_filename: "MozambiqueSandbar_ZH-CN12673484802_1920x1080.jpg"
+---
