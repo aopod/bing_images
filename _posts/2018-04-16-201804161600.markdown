@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "在雷克雅未克哈帕音乐厅举办的儿童文化节，冰岛"
+date:   "2018-04-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ChildrenHarpa_ZH-CN9564284589_1920x1080.jpg"
+link: "/search?q=%e9%9b%b7%e5%85%8b%e9%9b%85%e6%9c%aa%e5%85%8b%e5%93%88%e5%b8%95%e9%9f%b3%e4%b9%90%e5%8e%85&form=hpcapt&mkt=zh-cn"
+copyright: "在雷克雅未克哈帕音乐厅举办的儿童文化节，冰岛 (© Arctic-Images/Corbis Documentary/Getty Images)"
+image_hash: "157cf491eb0d14832a90ea45e719e111"
+image_filename: "ChildrenHarpa_ZH-CN9564284589_1920x1080.jpg"
+---
