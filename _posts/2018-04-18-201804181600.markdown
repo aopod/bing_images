@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "艾兰山谷的Craig Goch大坝，威尔士"
+date:   "2018-04-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TopDam_ZH-CN15313174603_1920x1080.jpg"
+link: "/search?q=Craig+Goch+Dam&form=hpcapt&mkt=zh-cn"
+copyright: "艾兰山谷的Craig Goch大坝，威尔士 (© Stephen Taylor/Alamy)"
+image_hash: "576f1d03e08f42ef973f582d9c1094ab"
+image_filename: "TopDam_ZH-CN15313174603_1920x1080.jpg"
+---
