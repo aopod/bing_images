@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "峡谷地国家公园马蹄峡谷中艺术画廊的岩画，美国犹他州"
+date:   "2018-04-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GreatGhost_ZH-CN8881294926_1920x1080.jpg"
+link: "/search?q=%e5%b3%a1%e8%b0%b7%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "峡谷地国家公园马蹄峡谷中艺术画廊的岩画，美国犹他州 (© Austin Cronnelly/Tandem Stills + Motion)"
+image_hash: "52d7b6be7ea3bc95673f2ad50dd692de"
+image_filename: "GreatGhost_ZH-CN8881294926_1920x1080.jpg"
+---
