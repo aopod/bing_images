@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "墨西哥街头乐队，墨西哥瓜纳华托州圣米格尔德阿连德市"
+date:   "2018-05-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Mariachis_ZH-CN12661065263_1920x1080.jpg"
+link: "/search?q=%e5%a2%a8%e8%a5%bf%e5%93%a5%e8%a1%97%e5%a4%b4%e4%b9%90%e9%98%9f&form=hpcapt&mkt=zh-cn"
+copyright: "墨西哥街头乐队，墨西哥瓜纳华托州圣米格尔德阿连德市 (© Holly Wilmeth/Getty Images)"
+image_hash: "08a7005db692f45ddd7be2851e77b453"
+image_filename: "Mariachis_ZH-CN12661065263_1920x1080.jpg"
+---
