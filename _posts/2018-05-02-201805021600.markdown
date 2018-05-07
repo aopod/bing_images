@@ -5,6 +5,6 @@ date:   "2018-05-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/Nazars_ZH-CN13550755131_1920x1080.jpg"
 link: "/search?q=%e9%82%aa%e7%9c%bc&form=hpcapt&mkt=zh-cn"
 copyright: "格雷梅国家公园里挂在树上装饰的邪眼护身符，土耳其卡帕多西亚 (© taratata/Getty Images)"
-image_hash: "cee6606c2cfdddc771ac3c371c97012d"
+image_hash: "db21a13eb3e4c61326dd23316a932e89"
 image_filename: "Nazars_ZH-CN13550755131_1920x1080.jpg"
 ---

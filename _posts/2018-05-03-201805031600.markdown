@@ -5,6 +5,6 @@ date:   "2018-05-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/PKUCHINA_ZH-CN12651058425_1920x1080.jpg"
 link: "/search?q=%e5%8c%97%e4%ba%ac%e5%a4%a7%e5%ad%a6&form=hpcapt&mkt=zh-cn"
 copyright: "【北京大学120周年校庆】中国最有声望的学府之一北京大学日落时的鸟瞰图（© Dong Wenjie/Getty Images）"
-image_hash: "6087c7208f241b008bd462bfff0ea852"
+image_hash: "02866b7168feab2a5737a1d8923273ca"
 image_filename: "PKUCHINA_ZH-CN12651058425_1920x1080.jpg"
 ---

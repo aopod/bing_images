@@ -5,6 +5,6 @@ date:   "2018-04-30 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/SONC_ZH-CN9822965309_1920x1080.jpg"
 link: "/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e5%bb%ba%e7%ad%91%e5%8f%8c%e5%b9%b4%e5%b1%95&form=hpcapt&mkt=zh-cn"
 copyright: "2014年威尼斯建筑双年展展出的艺术家亨氏·麦克的“天在九柱之上”作品 (© Cahir Davitt/plainpicture)"
-image_hash: "866beb25071e689164396a66c9f6079b"
+image_hash: "173aaf75c42339ab32b62ed155c084ca"
 image_filename: "SONC_ZH-CN9822965309_1920x1080.jpg"
 ---

@@ -5,6 +5,6 @@ date:   "2018-04-29 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MaryLouWilliams_ZH-CN11937645356_1920x1080.jpg"
 link: "/search?q=%e7%8e%9b%e4%b8%bd%c2%b7%e5%8d%a2%c2%b7%e5%a8%81%e5%bb%89%e6%96%af+&form=hpcapt&mkt=zh-cn"
 copyright: "1943年在纽约举行的爵士即兴演出中爵士乐钢琴家玛丽·卢·威廉斯的手部特写 (© Gjon Mili/Getty Images)"
-image_hash: "ee4e38970481989e4ea643ed3f96e684"
+image_hash: "e6787a8f902750cccf9334ba51bcfa00"
 image_filename: "MaryLouWilliams_ZH-CN11937645356_1920x1080.jpg"
 ---
