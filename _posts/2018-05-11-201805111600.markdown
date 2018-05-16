@@ -5,6 +5,6 @@ date:   "2018-05-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MontezumaSnowGeese_ZH-CN9467663976_1920x1080.jpg"
 link: "/search?q=%e9%9b%aa%e9%9b%81&form=hpcapt&mkt=zh-cn"
 copyright: "蒙特苏马国家野生动物保护区里的雪雁，美国纽约州 (© Gerrit Vyn/Minden Pictures)"
-image_hash: "4e177ad29c27f5fef5e03ee5d0f036f8"
+image_hash: "d2295df991484ef9adfb5e6ca8d9ff24"
 image_filename: "MontezumaSnowGeese_ZH-CN9467663976_1920x1080.jpg"
 ---

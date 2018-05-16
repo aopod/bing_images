@@ -5,6 +5,6 @@ date:   "2018-05-13 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/DolomitesBikeRace_ZH-CN10922620742_1920x1080.jpg"
 link: "/search?q=%e8%87%aa%e8%a1%8c%e8%bd%a6%e9%a9%ac%e6%8b%89%e6%9d%be%e6%af%94%e8%b5%9b&form=hpcapt&mkt=zh-cn"
 copyright: "多洛米蒂自行车马拉松比赛，意大利 (© Aurora Photos/Alamy)"
-image_hash: "89a5d6643196ad04c7bc5bea1f0ae30f"
+image_hash: "de9b6159ec9a57bf4ab39fbbfd21df9c"
 image_filename: "DolomitesBikeRace_ZH-CN10922620742_1920x1080.jpg"
 ---

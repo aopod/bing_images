@@ -5,6 +5,6 @@ date:   "2018-05-12 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ManateeMom_ZH-CN9943350192_1920x1080.jpg"
 link: "/search?q=%e8%a5%bf%e5%8d%b0%e5%ba%a6%e6%b5%b7%e7%89%9b&form=hpcapt&mkt=zh-cn"
 copyright: "三姐妹泉中的西印度海牛妈妈和它的宝宝，美国佛罗里达州 (© James R.D. Scott/Getty Images)"
-image_hash: "b188703b2429162a1f316e515096d96c"
+image_hash: "9165a1a8a4bae4bb7da89245dfb22bc4"
 image_filename: "ManateeMom_ZH-CN9943350192_1920x1080.jpg"
 ---
