@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "火山口湖国家公园上方的乌云，美国俄勒冈州"
+date:   "2018-05-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/StormyCrater_ZH-CN7380963684_1920x1080.jpg"
+link: "/search?q=%e7%81%ab%e5%b1%b1%e5%8f%a3%e6%b9%96%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "火山口湖国家公园上方的乌云，美国俄勒冈州 (© Joseph Giacalone/SuperStock)"
+image_hash: "c9898c101caad77bb1a1cc939aeec34b"
+image_filename: "StormyCrater_ZH-CN7380963684_1920x1080.jpg"
+---
