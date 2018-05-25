@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "位于国际空间站的Sally Ride EarthKAM由中学生编写程序后拍摄了撒哈拉沙漠的部分图像，非洲"
+date:   "2018-05-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SallyRideEarthKAM_ZH-CN12897817240_1920x1080.jpg"
+link: "/search?q=%e6%92%92%e5%93%88%e6%8b%89%e6%b2%99%e6%bc%a0&form=hpcapt&mkt=zh-cn"
+copyright: "位于国际空间站的Sally Ride EarthKAM由中学生编写程序后拍摄了撒哈拉沙漠的部分图像，非洲 (© NASA)"
+image_hash: "d203ed2cf47620b5710e3849005a38f5"
+image_filename: "SallyRideEarthKAM_ZH-CN12897817240_1920x1080.jpg"
+---
