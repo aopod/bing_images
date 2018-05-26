@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "金门大桥，美国旧金山"
+date:   "2018-05-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TSSSF_ZH-CN12002715124_1920x1080.jpg"
+link: "/search?q=%e9%87%91%e9%97%a8%e5%a4%a7%e6%a1%a5&form=hpcapt&mkt=zh-cn"
+copyright: "金门大桥，美国旧金山 (© RICOWde/Getty Images)"
+image_hash: "8977a205d7cb3fe953d0e4e73659d3c3"
+image_filename: "TSSSF_ZH-CN12002715124_1920x1080.jpg"
+---
