@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "吉姆·科比特国家公园里的亚洲象，印度"
+date:   "2018-05-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AsiaticElephant_ZH-CN12232084520_1920x1080.jpg"
+link: "/search?q=%e4%ba%9a%e6%b4%b2%e8%b1%a1&form=hpcapt&mkt=zh-cn"
+copyright: "吉姆·科比特国家公园里的亚洲象，印度 (© Yashpal Rathore/Minden Pictures)"
+image_hash: "3da37eb41b2e5ea464cd81636ecc15d8"
+image_filename: "AsiaticElephant_ZH-CN12232084520_1920x1080.jpg"
+---
