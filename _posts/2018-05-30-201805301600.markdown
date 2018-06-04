@@ -5,6 +5,6 @@ date:   "2018-05-30 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MooseLakeGrass_ZH-CN12424437234_1920x1080.jpg"
 link: "/search?q=%e6%98%8e%e5%b0%bc%e8%8b%8f%e8%be%be%e5%b7%9e&form=hpcapt&mkt=zh-cn"
 copyright: "湖边的草地，美国明尼苏达州 (© Jim Brandenburg/Minden Pictures)"
-image_hash: "5efba84a7f658e9a35d112aabef6d73f"
+image_hash: "c6f901e024fef6716888175af738101d"
 image_filename: "MooseLakeGrass_ZH-CN12424437234_1920x1080.jpg"
 ---

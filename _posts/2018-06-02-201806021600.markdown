@@ -5,6 +5,6 @@ date:   "2018-06-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/Liverpool_ZH-CN12418492140_1920x1080.jpg"
 link: "/search?q=%e9%bb%98%e8%a5%bf%e6%b2%b3&form=hpcapt&mkt=zh-cn"
 copyright: "从默西河上看利物浦，英格兰 (© Alan Novelli/Alamy)"
-image_hash: "4c5f2a91361d805110bd44759d5db22f"
+image_hash: "1513afc4366250a584dfc28e591b44c7"
 image_filename: "Liverpool_ZH-CN12418492140_1920x1080.jpg"
 ---

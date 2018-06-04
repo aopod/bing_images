@@ -5,6 +5,6 @@ date:   "2018-06-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/PJ_ZH-CN10859560585_1920x1080.jpg"
 link: "/search?q=%e5%a1%94%e9%be%99%e5%8a%a0%e5%8a%a8%e7%89%a9%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "塔龙加动物园内的'PJ the Port Jackson Shark'光影雕塑，澳大利亚悉尼 (© Wendell Teodoro/REX/Shutterstock)"
-image_hash: "2558436f85e9327fe7d83532002e4c4b"
+image_hash: "e771ff0bfb8334acc4f29d0dee0e2cb2"
 image_filename: "PJ_ZH-CN10859560585_1920x1080.jpg"
 ---
