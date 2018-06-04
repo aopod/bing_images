@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "奥本上方的热气球，美国华盛顿州"
+date:   "2018-06-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AuburnBalloons_ZH-CN8649124966_1920x1080.jpg"
+link: "/search?q=%e7%83%ad%e6%b0%94%e7%90%83&form=hpcapt&mkt=zh-cn"
+copyright: "奥本上方的热气球，美国华盛顿州 (© Taliesin Black-Brown and Ben Cowan/Nimia)"
+image_hash: "212e45d602a978e3b51d6d3da074c8d6"
+image_filename: "AuburnBalloons_ZH-CN8649124966_1920x1080.jpg"
+---
