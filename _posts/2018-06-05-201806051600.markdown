@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "抵达沃尔镇Fly-in Drive-in剧场的观众，美国新泽西州"
+date:   "2018-06-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FlyinDrivein_ZH-CN11097970692_1920x1080.jpg"
+link: "/search?q=Fly-in+Drive-in+Theater&form=hpcapt&mkt=zh-cn"
+copyright: "抵达沃尔镇Fly-in Drive-in剧场的观众，美国新泽西州 (© Martha Holmes/Time Life Pictures/Getty Images)"
+image_hash: "acaed58f2a64b1a4c87ddcf243b3505e"
+image_filename: "FlyinDrivein_ZH-CN11097970692_1920x1080.jpg"
+---
