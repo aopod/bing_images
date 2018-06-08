@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Gurnard村的毛线轰炸街头艺术，英格兰怀特岛"
+date:   "2018-06-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/YarnBombing_ZH-CN9558012661_1920x1080.jpg"
+link: "/search?q=%e8%a1%97%e5%a4%b4%e8%89%ba%e6%9c%af&form=hpcapt&mkt=zh-cn"
+copyright: "Gurnard村的毛线轰炸街头艺术，英格兰怀特岛 (© Kuki Waterstone/Alamy)"
+image_hash: "ebcd0deb879361181f3b687b37049b2f"
+image_filename: "YarnBombing_ZH-CN9558012661_1920x1080.jpg"
+---
