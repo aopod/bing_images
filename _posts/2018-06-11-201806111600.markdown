@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "奇亚斯玛当代艺术博物馆，芬兰赫尔辛基"
+date:   "2018-06-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Kiasma_ZH-CN13083124808_1920x1080.jpg"
+link: "/search?q=%e5%a5%87%e4%ba%9a%e6%96%af%e7%8e%9b%e5%bd%93%e4%bb%a3%e8%89%ba%e6%9c%af%e5%8d%9a%e7%89%a9%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "奇亚斯玛当代艺术博物馆，芬兰赫尔辛基 (© Nikolaus Gruenwald/Offset)"
+image_hash: "6ae8520561c437ca85e989a58d775173"
+image_filename: "Kiasma_ZH-CN13083124808_1920x1080.jpg"
+---
