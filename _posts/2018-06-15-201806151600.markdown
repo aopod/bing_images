@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "冲浪者追逐浪潮的鸟瞰图，西班牙加那利群岛特内里费岛"
+date:   "2018-06-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SpainSurfer_ZH-CN12759707713_1920x1080.jpg"
+link: "/search?q=%e5%86%b2%e6%b5%aa&form=hpcapt&mkt=zh-cn"
+copyright: "冲浪者追逐浪潮的鸟瞰图，西班牙加那利群岛特内里费岛 (© Sergio Villalba/Aurora Photos)"
+image_hash: "95094ddb2b75a64958e06f1a1890580f"
+image_filename: "SpainSurfer_ZH-CN12759707713_1920x1080.jpg"
+---
