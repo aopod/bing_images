@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日端午节】参加襄阳龙舟大赛的12只龙舟，中国湖北省襄阳市（© VCG/Getty Images）"
+date:   "2018-06-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/DUAN_ZH-CN9451316695_1920x1080.jpg"
+link: "/search?q=%e7%ab%af%e5%8d%88%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "【今日端午节】参加襄阳龙舟大赛的12只龙舟，中国湖北省襄阳市（© VCG/Getty Images）"
+image_hash: "907d077451eaa6caf3cd49d74ff3b400"
+image_filename: "DUAN_ZH-CN9451316695_1920x1080.jpg"
+---
