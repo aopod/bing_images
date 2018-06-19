@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "2000年到2016年间全球难民的流动情况"
+date:   "2018-06-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WorldRefugeeDay_ZH-CN5421237644_1920x1080.jpg"
+link: "/search?q=%e9%9a%be%e6%b0%91&form=hpcapt&mkt=zh-cn"
+copyright: "2000年到2016年间全球难民的流动情况 (© Map visualization: Records from UNHCR/EarthTime visualization by Carnegie Mellon CREATE Lab)"
+image_hash: "c6e2c7c80b0397f5183a27efe3a1e2cf"
+image_filename: "WorldRefugeeDay_ZH-CN5421237644_1920x1080.jpg"
+---
