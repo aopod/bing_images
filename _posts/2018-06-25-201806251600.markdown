@@ -5,6 +5,6 @@ date:   "2018-06-25 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MorondavaBaobab_ZH-CN11131924506_1920x1080.jpg"
 link: "/search?q=%e9%a9%ac%e8%be%be%e5%8a%a0%e6%96%af%e5%8a%a0&form=hpcapt&mkt=zh-cn"
 copyright: "猴面包树大道上的猴面包树在积水中的倒影，马达加斯加梅纳贝区 (© Gabrielle Therin-Weise/Getty Images)"
-image_hash: "f9356c72abd89d05290e44e77b8bf79d"
+image_hash: "6bfd29555802b5e711d8830b378d3e91"
 image_filename: "MorondavaBaobab_ZH-CN11131924506_1920x1080.jpg"
 ---
