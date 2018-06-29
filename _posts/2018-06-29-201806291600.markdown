@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巴林杰陨石坑，美国亚利桑那州"
+date:   "2018-06-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MeteorCrater_ZH-CN10237243221_1920x1080.jpg"
+link: "/search?q=J%e9%99%a8%e7%9f%b3%e5%9d%91&form=hpcapt&mkt=zh-cn"
+copyright: "巴林杰陨石坑，美国亚利桑那州 (© Michele Falzone/Alamy)"
+image_hash: "1045fc2068b2bffc58a146bd22326c92"
+image_filename: "MeteorCrater_ZH-CN10237243221_1920x1080.jpg"
+---
