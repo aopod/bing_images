@@ -5,6 +5,6 @@ date:   "2018-06-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ReichenauSommer_ZH-CN10985992170_1920x1080.jpg"
 link: "/search?q=%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn"
 copyright: "赖兴瑙岛上的圣玛丽圣马古斯教堂，德国巴登-符腾堡州 (© Westend61/Getty Images)"
-image_hash: "67e817c1313cb76f6f2f48b54e16978c"
+image_hash: "f35d43f34643a61ec34314b6a49f8086"
 image_filename: "ReichenauSommer_ZH-CN10985992170_1920x1080.jpg"
 ---

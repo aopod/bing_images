@@ -5,6 +5,6 @@ date:   "2018-06-28 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/AuroraPhotographer_ZH-CN11480495787_1920x1080.jpg"
 link: "/search?q=%e6%9e%81%e5%85%89&form=hpcapt&mkt=zh-cn"
 copyright: "在乌塔克雷夫海滩拍摄的北极光，挪威 (© David Clapp/Getty Images)"
-image_hash: "d689227d43ad344110007529ae2a7240"
+image_hash: "1604b4b47a73117f335788d89eeb5d88"
 image_filename: "AuroraPhotographer_ZH-CN11480495787_1920x1080.jpg"
 ---
