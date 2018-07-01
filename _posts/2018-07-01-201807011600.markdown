@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "魔鬼塔国家纪念区上空的宝瓶座流星雨，美国怀俄明州"
+date:   "2018-07-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/EtaAquarids_ZH-CN10323549621_1920x1080.jpg"
+link: "/search?q=%e5%ae%9d%e7%93%b6%e5%ba%a7%e6%b5%81%e6%98%9f%e9%9b%a8&form=hpcapt&mkt=zh-cn"
+copyright: "魔鬼塔国家纪念区上空的宝瓶座流星雨，美国怀俄明州 (© Jason Hatfield/Tandem Stills + Motion)"
+image_hash: "e2fdfb1a344422fa80be3fa43d2b4aba"
+image_filename: "EtaAquarids_ZH-CN10323549621_1920x1080.jpg"
+---
