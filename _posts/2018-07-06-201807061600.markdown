@@ -5,6 +5,6 @@ date:   "2018-07-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/Peloton_ZH-CN7472605035_1920x1080.jpg"
 link: "/search?q=%e7%8e%af%e6%b3%95%e8%87%aa%e8%a1%8c%e8%bd%a6%e8%b5%9b&form=hpcapt&mkt=zh-cn"
 copyright: "2016年环法自行车赛中骑在绿树成荫的道路上的选手 (© Michael Steele/Getty Images Sport)"
-image_hash: "f4e4025f39bd7ed187dee34e042e8ee6"
+image_hash: "d02d47a2334c308c5ee23b9bf0477735"
 image_filename: "Peloton_ZH-CN7472605035_1920x1080.jpg"
 ---

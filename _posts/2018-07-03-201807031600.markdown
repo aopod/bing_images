@@ -5,6 +5,6 @@ date:   "2018-07-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ButtermereLake_ZH-CN8185859566_1920x1080.jpg"
 link: "/search?q=%e5%b7%b4%e7%89%b9%e7%b1%b3%e5%b0%94%e6%b9%96&form=hpcapt&mkt=zh-cn"
 copyright: "湖区的巴特米尔湖，英国西北英格兰 (© Robert Harding/Markus Lange/plainpicture)"
-image_hash: "f04b4a1d02cf818bbf06ba125aa77e72"
+image_hash: "e47a1fd40ae78bb32adb706e6999d258"
 image_filename: "ButtermereLake_ZH-CN8185859566_1920x1080.jpg"
 ---

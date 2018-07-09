@@ -5,6 +5,6 @@ date:   "2018-07-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/KissingPandas_ZH-CN8379279685_1920x1080.jpg"
 link: "/search?q=%e5%9b%bd%e9%99%85%e6%8e%a5%e5%90%bb%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "【今日国际接吻节】两只大熊猫宝宝，中国 (© Mitsuaki Iwago/Minden Pictures)"
-image_hash: "a1b28ed50851ea1acc11305a93fbb8ac"
+image_hash: "ececedd3c3215e3361d8e746400cb2b3"
 image_filename: "KissingPandas_ZH-CN8379279685_1920x1080.jpg"
 ---
