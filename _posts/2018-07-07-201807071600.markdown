@@ -5,6 +5,6 @@ date:   "2018-07-07 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/Flamenco_ZH-CN12275634178_1920x1080.jpg"
 link: "/search?q=%e5%bc%97%e6%8b%89%e9%97%a8%e6%88%88%e8%88%9e%e8%b9%88%e8%a1%a8%e6%bc%94&form=hpcapt&mkt=zh-cn"
 copyright: "弗拉门戈舞蹈表演，西班牙安达卢西亚 (© Michelle Chaplow/Alamy)"
-image_hash: "52b0e0dfb686ba2bac6bfb7f040b6184"
+image_hash: "40b453c6d495c982414f8bdff3a229ea"
 image_filename: "Flamenco_ZH-CN12275634178_1920x1080.jpg"
 ---
