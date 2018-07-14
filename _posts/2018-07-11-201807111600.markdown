@@ -5,6 +5,6 @@ date:   "2018-07-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/GordesLavender_ZH-CN8649239515_1920x1080.jpg"
 link: "/search?q=%e8%96%b0%e8%a1%a3%e8%8d%89&form=hpcapt&mkt=zh-cn"
 copyright: "塞南克修道院前壮观的薰衣草花海，法国普罗旺斯-阿尔卑斯-蓝色海岸大区沃克吕兹省戈尔德 (© Carlos Sanchez Pereyra/plainpicture)"
-image_hash: "7f649ef88655fa71ebad71d2c67026bf"
+image_hash: "748c024af5a62a664eb61bc08f3c4939"
 image_filename: "GordesLavender_ZH-CN8649239515_1920x1080.jpg"
 ---

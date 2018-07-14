@@ -5,6 +5,6 @@ date:   "2018-07-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/FremontPeak_ZH-CN8041302763_1920x1080.jpg"
 link: "/search?q=%e5%bc%97%e9%87%8c%e8%92%99%e7%89%b9%e5%b3%b0&form=hpcapt&mkt=zh-cn"
 copyright: "坐落于布里杰-蒂顿国家森林里的弗里蒙特峰的景色，美国怀俄明州 (© Don Paulson/Danita Delimont)"
-image_hash: "1eac2150be7875d0bcf402b1c26a82ca"
+image_hash: "7ff8383056d33273d27113ab9df628a3"
 image_filename: "FremontPeak_ZH-CN8041302763_1920x1080.jpg"
 ---
