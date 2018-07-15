@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "位于洛杉矶艺术博物馆的克里斯·伯登的雕像“城市之光”，加利福尼亚州洛杉矶"
+date:   "2018-07-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/UrbanLight_ZH-CN6248743710_1920x1080.jpg"
+link: "/search?q=%e6%b4%9b%e6%9d%89%e7%9f%b6%e8%89%ba%e6%9c%af%e5%8d%9a%e7%89%a9%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "位于洛杉矶艺术博物馆的克里斯·伯登的雕像“城市之光”，加利福尼亚州洛杉矶 (© Victor Decolongon/Getty Images)"
+image_hash: "c7cc614fbc5d5246495795f3af8ed35f"
+image_filename: "UrbanLight_ZH-CN6248743710_1920x1080.jpg"
+---
