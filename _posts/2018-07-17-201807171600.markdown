@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "艺术家马可·契亚法奈利设计的纳尔逊·曼德拉纪念雕塑，南非豪伊克"
+date:   "2018-07-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MandelaMonument_ZH-CN8903823453_1920x1080.jpg"
+link: "/search?q=%e9%9b%95%e5%a1%91&form=hpcapt&mkt=zh-cn"
+copyright: "艺术家马可·契亚法奈利设计的纳尔逊·曼德拉纪念雕塑，南非豪伊克 (© Andy Trevaskis/Alamy Stock Photo)"
+image_hash: "82cc04027bf05377b768d0cb38ae6829"
+image_filename: "MandelaMonument_ZH-CN8903823453_1920x1080.jpg"
+---
