@@ -5,6 +5,6 @@ date:   "2018-07-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/BeachSoccerBoys_ZH-CN12914801215_1920x1080.jpg"
 link: "/search?q=%e8%b6%b3%e7%90%83&form=hpcapt&mkt=zh-cn"
 copyright: "一群男孩儿在日落时分的沙滩上踢足球， 巴西福塔雷萨 (© National Geographic/Offset/Shutterstock)"
-image_hash: "95d5956a46980a67f77e1698541961d4"
+image_hash: "b82ad7d9d18daa9488eb888484e1d820"
 image_filename: "BeachSoccerBoys_ZH-CN12914801215_1920x1080.jpg"
 ---
