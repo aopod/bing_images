@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "1971年阿波罗15号执行任务时的合成照片"
+date:   "2018-07-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Apollo15Composite_ZH-CN11514263746_1920x1080.jpg"
+link: "/search?q=%e9%98%bf%e6%b3%a2%e7%bd%9715%e5%8f%b7&form=hpcapt&mkt=zh-cn"
+copyright: "1971年阿波罗15号执行任务时的合成照片 (© NASA)"
+image_hash: "409ee54d06bcbfbe6bc4d32db9465a53"
+image_filename: "Apollo15Composite_ZH-CN11514263746_1920x1080.jpg"
+---
