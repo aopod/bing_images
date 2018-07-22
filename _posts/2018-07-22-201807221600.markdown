@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "森大厦数字艺术博物馆内的吊灯，日本东京"
+date:   "2018-07-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MoriBuilding_ZH-CN5143587469_1920x1080.jpg"
+link: "/search?q=%e5%90%8a%e7%81%af%e8%89%ba%e6%9c%af&form=hpcapt&mkt=zh-cn"
+copyright: "森大厦数字艺术博物馆内的吊灯，日本东京 (© Behrouz Mehri/Getty Images)"
+image_hash: "ee7b808bbe8dec52f43c1c2272c08ab5"
+image_filename: "MoriBuilding_ZH-CN5143587469_1920x1080.jpg"
+---
