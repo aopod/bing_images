@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "生物圈保护区里的美洲红鹳宝宝们，墨西哥尤卡坦半岛"
+date:   "2018-07-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FlamingoCousins_ZH-CN12160048336_1920x1080.jpg"
+link: "/search?q=%e7%be%8e%e6%b4%b2%e7%ba%a2%e9%b9%b3&form=hpcapt&mkt=zh-cn"
+copyright: "生物圈保护区里的美洲红鹳宝宝们，墨西哥尤卡坦半岛 (© Claudio Contreras/Minden Pictures)"
+image_hash: "e4d1629718778242b87d0c3d8671ae32"
+image_filename: "FlamingoCousins_ZH-CN12160048336_1920x1080.jpg"
+---
