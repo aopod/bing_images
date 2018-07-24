@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "波士顿美术馆收藏的画家温斯洛·霍默的水彩画'Rocky Shore'"
+date:   "2018-07-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HomerWatercolor_ZH-CN11392693224_1920x1080.jpg"
+link: "/search?q=%e6%b3%a2%e5%a3%ab%e9%a1%bf%e7%be%8e%e6%9c%af%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "波士顿美术馆收藏的画家温斯洛·霍默的水彩画'Rocky Shore' (© Alamy)"
+image_hash: "3e5768ef8c7bfa7363e564287bac7744"
+image_filename: "HomerWatercolor_ZH-CN11392693224_1920x1080.jpg"
+---
