@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "2018年1月31日的月食的合成图像，日本东京"
+date:   "2018-07-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SuperBlueBloodMoon_ZH-CN11881086623_1920x1080.jpg"
+link: "/search?q=%e6%9c%88%e9%a3%9f&form=hpcapt&mkt=zh-cn"
+copyright: "2018年1月31日的月食的合成图像，日本东京 (© Kazuhiro Nogi/Getty Images)"
+image_hash: "19820cf2ded5e4b10e15a746f2df0d19"
+image_filename: "SuperBlueBloodMoon_ZH-CN11881086623_1920x1080.jpg"
+---
