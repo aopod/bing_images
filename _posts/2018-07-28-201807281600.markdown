@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "伦滕波尔国家公园中一只名叫‘Krishna'或者‘T19’的孟加拉虎，印度"
+date:   "2018-07-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/T19Krishna_ZH-CN12651112147_1920x1080.jpg"
+link: "/search?q=%e4%bc%a6%e6%bb%95%e6%b3%a2%e5%b0%94%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "伦滕波尔国家公园中一只名叫‘Krishna'或者‘T19’的孟加拉虎，印度 (© Andy Rouse/Minden Pictures)"
+image_hash: "265c603f68fe5303b0111d01935e1c6a"
+image_filename: "T19Krishna_ZH-CN12651112147_1920x1080.jpg"
+---
