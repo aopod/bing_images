@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日世界护林员日】El Triunfo生物圈保护区内的护林员，墨西哥"
+date:   "2018-07-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ParkRangerIsmael_ZH-CN8783805449_1920x1080.jpg"
+link: "/search?q=%e4%b8%96%e7%95%8c%e6%8a%a4%e6%9e%97%e5%91%98%e6%97%a5&form=hpcapt&mkt=zh-cn"
+copyright: "【今日世界护林员日】El Triunfo生物圈保护区内的护林员，墨西哥 (© Chico Sanchez/Aurora Photos)"
+image_hash: "06b34c3f123a402389e72859be74ce9a"
+image_filename: "ParkRangerIsmael_ZH-CN8783805449_1920x1080.jpg"
+---
