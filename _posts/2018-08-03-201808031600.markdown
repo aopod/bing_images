@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "节日期间爱丁堡城堡上空的烟花"
+date:   "2018-08-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FringeFireworks_ZH-CN10750567003_1920x1080.jpg"
+link: "/search?q=%e7%88%b1%e4%b8%81%e5%a0%a1%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn"
+copyright: "节日期间爱丁堡城堡上空的烟花 (© Kevin Carr/Getty Images)"
+image_hash: "1db06b856a3bf63502604552052276e9"
+image_filename: "FringeFireworks_ZH-CN10750567003_1920x1080.jpg"
+---
