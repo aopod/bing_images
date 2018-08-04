@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "费城爱心公园内的罗伯特·印第安纳的雕塑‘Love'"
+date:   "2018-08-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LovePark_ZH-CN10739395628_1920x1080.jpg"
+link: "/search?q=%e9%9b%95%e5%a1%91%e4%bd%9c%e5%93%81&form=hpcapt&mkt=zh-cn"
+copyright: "费城爱心公园内的罗伯特·印第安纳的雕塑‘Love' (© Franz Marc Frei/Getty Images)"
+image_hash: "a974781b225975575f16e4bb549907b9"
+image_filename: "LovePark_ZH-CN10739395628_1920x1080.jpg"
+---
