@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "瓦伊纳皮克丘山周围的云雾，秘鲁"
+date:   "2018-08-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HuaynaPicchu_ZH-CN9938663347_1920x1080.jpg"
+link: "/search?q=%e7%93%a6%e4%bc%8a%e7%ba%b3%e7%9a%ae%e5%85%8b%e4%b8%98%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "瓦伊纳皮克丘山周围的云雾，秘鲁 (© Enrique Castro-Mendivil/Reuters)"
+image_hash: "8186852ea6e933c8c9ad52c78aed832f"
+image_filename: "HuaynaPicchu_ZH-CN9938663347_1920x1080.jpg"
+---
