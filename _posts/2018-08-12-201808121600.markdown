@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "锡内莫雷茨村上空的英仙座流星雨，保加利亚"
+date:   "2018-08-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BulgariaPerseids_ZH-CN11638911564_1920x1080.jpg"
+link: "/search?q=%e8%8b%b1%e4%bb%99%e5%ba%a7%e6%b5%81%e6%98%9f%e9%9b%a8&form=hpcapt&mkt=zh-cn"
+copyright: "锡内莫雷茨村上空的英仙座流星雨，保加利亚 (© jk78/Getty Images)"
+image_hash: "f236434fb8205bb7bc6e3c714980b784"
+image_filename: "BulgariaPerseids_ZH-CN11638911564_1920x1080.jpg"
+---
