@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一只濒临灭绝的细纹斑马的特写镜头"
+date:   "2018-08-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GrevysZebra_ZH-CN8656523429_1920x1080.jpg"
+link: "/search?q=%e7%bb%86%e7%ba%b9%e6%96%91%e9%a9%ac&form=hpcapt&mkt=zh-cn"
+copyright: "一只濒临灭绝的细纹斑马的特写镜头 (© Edwin Giesbers/Getty Images)"
+image_hash: "690283c1119fb874476fdf5b44c9854e"
+image_filename: "GrevysZebra_ZH-CN8656523429_1920x1080.jpg"
+---
