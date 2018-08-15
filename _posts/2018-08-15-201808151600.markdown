@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "天际线公园内的过山车，德国巴伐利亚"
+date:   "2018-08-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SkylineparkRoller_ZH-CN8492771279_1920x1080.jpg"
+link: "/search?q=%e8%bf%87%e5%b1%b1%e8%bd%a6&form=hpcapt&mkt=zh-cn"
+copyright: "天际线公园内的过山车，德国巴伐利亚 (© Karl-Josef Hildenbrand/Getty Images)"
+image_hash: "9cec7a99a0e286ea54484114dee4810e"
+image_filename: "SkylineparkRoller_ZH-CN8492771279_1920x1080.jpg"
+---
