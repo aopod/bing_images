@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "旧金山国际机场的鸟瞰图"
+date:   "2018-08-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SFOTarmac_ZH-CN9823345722_1920x1080.jpg"
+link: "/search?q=%e6%97%a7%e9%87%91%e5%b1%b1%e5%9b%bd%e9%99%85%e6%9c%ba%e5%9c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "旧金山国际机场的鸟瞰图 (© Michael H/Getty Images)"
+image_hash: "d227e93a360afb1e9e735a53cb36f596"
+image_filename: "SFOTarmac_ZH-CN9823345722_1920x1080.jpg"
+---
