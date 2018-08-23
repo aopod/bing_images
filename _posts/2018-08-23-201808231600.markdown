@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "法国芒通"
+date:   "2018-08-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FranceMenton_ZH-CN8996032014_1920x1080.jpg"
+link: "/search?q=%e8%8a%92%e9%80%9a&form=hpcapt&mkt=zh-cn"
+copyright: "法国芒通 (© Timo Christ/Alamy)"
+image_hash: "0732fcd085072b0db478b07ee9a45b66"
+image_filename: "FranceMenton_ZH-CN8996032014_1920x1080.jpg"
+---
