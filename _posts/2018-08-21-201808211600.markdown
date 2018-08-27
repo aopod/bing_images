@@ -5,6 +5,6 @@ date:   "2018-08-21 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ManedWolf_ZH-CN10924002958_1920x1080.jpg"
 link: "/search?q=%e9%ac%83%e7%8b%bc&form=hpcapt&mkt=zh-cn"
 copyright: "巴西皮奥伊州的鬃狼 (© Sean Crane/Minden Pictures)"
-image_hash: "0bb1e3a528ba3225d2e33dff151ca5f0"
+image_hash: "be89a1d0c607d5e893d2b29129dde771"
 image_filename: "ManedWolf_ZH-CN10924002958_1920x1080.jpg"
 ---

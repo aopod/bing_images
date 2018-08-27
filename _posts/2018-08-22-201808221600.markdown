@@ -5,6 +5,6 @@ date:   "2018-08-22 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/AKSUP_ZH-CN14506867124_1920x1080.jpg"
 link: "/search?q=%e5%9d%a6%e7%ba%b3%e6%a0%b9%e6%b5%b7%e6%b9%be&form=hpcapt&mkt=zh-cn"
 copyright: "滑行在坦纳根海湾涌浪中的桨板冲浪运动，阿拉斯加州库克湾 (© Scott Dickerson/Tandem Motion + Stills)"
-image_hash: "c5ef6a91bb9e769ecd31c607081e57e4"
+image_hash: "b2500957fd859c322329a4b54f6e8ba9"
 image_filename: "AKSUP_ZH-CN14506867124_1920x1080.jpg"
 ---

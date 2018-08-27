@@ -5,6 +5,6 @@ date:   "2018-08-24 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ZHONGYUAN_ZH-CN11622221601_1920x1080.jpg"
 link: "/search?q=%e4%b8%ad%e5%85%83%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "【今日中元节】桂林中元节万盏河灯漂放活动，中国广西 （© VCG/Getty Images）"
-image_hash: "f687bcaf2fed9fbda8a948c41e18d79a"
+image_hash: "e5967b2ec1ec795a1f1f720dd6e4685e"
 image_filename: "ZHONGYUAN_ZH-CN11622221601_1920x1080.jpg"
 ---
