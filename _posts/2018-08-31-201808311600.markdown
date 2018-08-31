@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "布雷马集会上的舞者们"
+date:   "2018-08-31 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HighlandDancers_ZH-CN10588013331_1920x1080.jpg"
+link: "/search?q=%e5%b8%83%e9%9b%b7%e9%a9%ac%e9%9b%86%e4%bc%9a&form=hpcapt&mkt=zh-cn"
+copyright: "布雷马集会上的舞者们 (© Jeff J Mitchell/Getty Images)"
+image_hash: "4eff8e78b45a91fea6932d2723532655"
+image_filename: "HighlandDancers_ZH-CN10588013331_1920x1080.jpg"
+---
