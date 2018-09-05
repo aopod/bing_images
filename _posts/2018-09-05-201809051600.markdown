@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "南大西洋戈夫岛上的北跳岩企鹅"
+date:   "2018-09-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Rockhopper_ZH-CN9080431020_1920x1080.jpg"
+link: "/search?q=%e5%8c%97%e8%b7%b3%e5%b2%a9%e4%bc%81%e9%b9%85&form=hpcapt&mkt=zh-cn"
+copyright: "南大西洋戈夫岛上的北跳岩企鹅 (© Tui De Roy/Minden Pictures)"
+image_hash: "d61963a5d9b423568ab249f1250b399c"
+image_filename: "Rockhopper_ZH-CN9080431020_1920x1080.jpg"
+---
