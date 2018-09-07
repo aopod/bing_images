@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "都柏林三一学院图书馆，爱尔兰"
+date:   "2018-09-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TrinityLibrary_ZH-CN10332583093_1920x1080.jpg"
+link: "/search?q=%e4%b8%89%e4%b8%80%e5%ad%a6%e9%99%a2%e5%9b%be%e4%b9%a6%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "都柏林三一学院图书馆，爱尔兰 (© Nigel Hicks/Robert Harding/Aurora Photos)"
+image_hash: "e5b5bf66170be8116ecd6a6f73fb1e1e"
+image_filename: "TrinityLibrary_ZH-CN10332583093_1920x1080.jpg"
+---
