@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "管物菊，日本东京都新宿区"
+date:   "2018-09-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ShinjukuKiku_ZH-CN8446848393_1920x1080.jpg"
+link: "/search?q=%e7%ae%a1%e7%89%a9%e8%8f%8a&form=hpcapt&mkt=zh-cn"
+copyright: "管物菊，日本东京都新宿区 (© I love Photo and Apple./Getty images)"
+image_hash: "c79ceca8823a08c1c93373f4b26c9996"
+image_filename: "ShinjukuKiku_ZH-CN8446848393_1920x1080.jpg"
+---
