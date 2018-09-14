@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "俯瞰苏格兰的斯凯岛"
+date:   "2018-09-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BlackCuillin_ZH-CN10048970076_1920x1080.jpg"
+link: "/search?q=%e6%96%af%e5%87%af%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+copyright: "俯瞰苏格兰的斯凯岛 (© Swen_Stroop/Getty Images)"
+image_hash: "5b13d5633926a6db43389efa44391fd3"
+image_filename: "BlackCuillin_ZH-CN10048970076_1920x1080.jpg"
+---
