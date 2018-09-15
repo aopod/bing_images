@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "革命纪念碑，墨西哥墨西哥城"
+date:   "2018-09-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MonumentFountain_ZH-CN12137557720_1920x1080.jpg"
+link: "/search?q=%e5%a2%a8%e8%a5%bf%e5%93%a5%e7%8b%ac%e7%ab%8b%e6%97%a5&form=hpcapt&mkt=zh-cn"
+copyright: "革命纪念碑，墨西哥墨西哥城 (© Reinier Snijders/Getty Images)"
+image_hash: "bdeb0ee61d228db35defa341fe322e41"
+image_filename: "MonumentFountain_ZH-CN12137557720_1920x1080.jpg"
+---
