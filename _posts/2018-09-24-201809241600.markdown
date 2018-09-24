@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巨杉国家公园内的巨杉，美国加利福尼亚州"
+date:   "2018-09-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GiantSequoia_ZH-CN12159357875_1920x1080.jpg"
+link: "/search?q=%e7%ba%a2%e6%9d%89%e6%a0%91&form=hpcapt&mkt=zh-cn"
+copyright: "巨杉国家公园内的巨杉，美国加利福尼亚州 (© Yva Momatiuk and John Eastcott/Minden Pictures)"
+image_hash: "e246ffad4b9551d413b2fdf91e0c67c4"
+image_filename: "GiantSequoia_ZH-CN12159357875_1920x1080.jpg"
+---
