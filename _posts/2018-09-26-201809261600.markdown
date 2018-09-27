@@ -5,6 +5,6 @@ date:   "2018-09-26 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/Shipyard_ZH-CN13183467490_1920x1080.jpg"
 link: "/search?q=%e4%b8%96%e7%95%8c%e6%b5%b7%e4%ba%8b%e6%97%a5&form=hpcapt&mkt=zh-cn"
 copyright: "夜色下停靠在开普敦港口的轮船，南非开普敦 (© Zero Creatives/Science Photo Library)"
-image_hash: "cfed7dad9ba21b5ecde576432cf0152b"
+image_hash: "bbab31686451f5763fe1bf7c9687e8a2"
 image_filename: "Shipyard_ZH-CN13183467490_1920x1080.jpg"
 ---

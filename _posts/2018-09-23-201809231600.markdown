@@ -5,6 +5,6 @@ date:   "2018-09-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/QinhuaiRiver_ZH-CN10131273425_1920x1080.jpg"
 link: "/search?q=%e4%b8%ad%e7%a7%8b%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "【今日中秋节】桨声灯影里的秦淮河，中国南京 (© zyxeos30/Getty Images)"
-image_hash: "f4c0fa7187a6d268893dda47f47ec560"
+image_hash: "2d0742446f8ee2739b71217f17ed8942"
 image_filename: "QinhuaiRiver_ZH-CN10131273425_1920x1080.jpg"
 ---

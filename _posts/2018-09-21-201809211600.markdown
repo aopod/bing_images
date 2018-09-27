@@ -5,6 +5,6 @@ date:   "2018-09-21 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MunichTuba_ZH-CN7797561799_1920x1080.jpg"
 link: "/search?q=%e6%85%95%e5%b0%bc%e9%bb%91%e5%95%a4%e9%85%92%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "慕尼黑啤酒节期间反映在法国号喇叭上的游行的人群，德国慕尼黑 (© Joerg Koch/Getty Images)"
-image_hash: "23b700d389b622801d7fa80237d096a5"
+image_hash: "558101a270a9c3c820b74661f7fc0ee1"
 image_filename: "MunichTuba_ZH-CN7797561799_1920x1080.jpg"
 ---
