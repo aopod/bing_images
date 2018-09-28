@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "“如来大手”托起的金桥，越南岘港"
+date:   "2018-09-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/GoldBridge_ZH-CN5579326717_1920x1080.jpg"
+link: "/search?q=%e9%87%91%e6%a1%a5&form=hpcapt&mkt=zh-cn"
+copyright: "“如来大手”托起的金桥，越南岘港 (© REUTERS/Kham TPX)"
+image_hash: "9cedea5dbf4eb90be966db636b2fe8c1"
+image_filename: "GoldBridge_ZH-CN5579326717_1920x1080.jpg"
+---
