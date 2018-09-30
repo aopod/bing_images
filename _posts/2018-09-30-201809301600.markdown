@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日国庆节】放国旗风筝的人，中国上海"
+date:   "2018-09-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/guoqing_ZH-CN10903461145_1920x1080.jpg"
+link: "/search?q=%e5%9b%bd%e5%ba%86%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "【今日国庆节】放国旗风筝的人，中国上海 (© Qilai Shen/Bloomberg via Getty Images)"
+image_hash: "f6ab564bd3d0cb083175b4d5eabbb5d5"
+image_filename: "guoqing_ZH-CN10903461145_1920x1080.jpg"
+---
