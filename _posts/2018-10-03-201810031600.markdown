@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从朱诺号上观察到的木星风暴"
+date:   "2018-10-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/JovianCloudscape_ZH-CN12543740125_1920x1080.jpg"
+link: "/search?q=%e4%b8%96%e7%95%8c%e5%a4%aa%e7%a9%ba%e5%91%a8&form=hpcapt&mkt=zh-cn"
+copyright: "从朱诺号上观察到的木星风暴 (© NASA/JPL-Caltech/SwRI/MSSS/Gerald Eichstadt/Sean Doran)"
+image_hash: "720d2a681bfadf44310bb767474d18d4"
+image_filename: "JovianCloudscape_ZH-CN12543740125_1920x1080.jpg"
+---
