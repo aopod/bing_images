@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "无法真正微笑的章鱼"
+date:   "2018-10-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SmilingOctopus_ZH-CN5680602537_1920x1080.jpg"
+link: "/search?q=%e4%b8%96%e7%95%8c%e5%be%ae%e7%ac%91%e6%97%a5&form=hpcapt&mkt=zh-cn"
+copyright: "无法真正微笑的章鱼 (© blickwinkel/Alamy)"
+image_hash: "fec7aed2dade0a6e90a98d962bf7d25c"
+image_filename: "SmilingOctopus_ZH-CN5680602537_1920x1080.jpg"
+---
