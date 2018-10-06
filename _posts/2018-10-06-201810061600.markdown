@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "第26届叠人塔大赛的选手们， 西班牙塔拉戈纳"
+date:   "2018-10-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HumanTower_ZH-CN8948459298_1920x1080.jpg"
+link: "/search?q=%e7%ac%ac26%e5%b1%8a%e5%a1%94%e6%8b%89%e6%88%88%e7%ba%b3%e5%8f%a0%e4%ba%ba%e5%a1%94%e5%a4%a7%e8%b5%9b&form=hpcapt&mkt=zh-cn"
+copyright: "第26届叠人塔大赛的选手们， 西班牙塔拉戈纳 (© Xinhua/Pau Barrena/Getty Images)"
+image_hash: "457797fd6d12e3e1cd51dd791219b8f1"
+image_filename: "HumanTower_ZH-CN8948459298_1920x1080.jpg"
+---
