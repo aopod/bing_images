@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "冉冉升起的热气球，美国新墨西哥州"
+date:   "2018-10-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SandiaSunrise_ZH-CN11155504388_1920x1080.jpg"
+link: "/search?q=%e9%98%bf%e5%b0%94%e4%bc%af%e5%85%8b%e5%9f%ba%e5%9b%bd%e9%99%85%e7%83%ad%e6%b0%94%e7%90%83%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "冉冉升起的热气球，美国新墨西哥州 (© Blaine Harrington III/Alamy)"
+image_hash: "91ccace6cb89e4a6ad203f671d6df5a5"
+image_filename: "SandiaSunrise_ZH-CN11155504388_1920x1080.jpg"
+---
