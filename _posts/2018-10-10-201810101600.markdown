@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "沙滩上的女学生们，印度喀拉拉邦"
+date:   "2018-10-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SchoolGirls_ZH-CN10666418108_1920x1080.jpg"
+link: "/search?q=%e5%9b%bd%e9%99%85%e5%a5%b3%e7%ab%a5%e6%97%a5&form=hpcapt&mkt=zh-cn"
+copyright: "沙滩上的女学生们，印度喀拉拉邦 (© imageBROKER/Alamy)"
+image_hash: "4831cda6fed0fb3180638c477e6e62ad"
+image_filename: "SchoolGirls_ZH-CN10666418108_1920x1080.jpg"
+---
