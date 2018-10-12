@@ -5,6 +5,6 @@ date:   "2018-10-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/LascauxCavePainting_ZH-CN11733576571_1920x1080.jpg"
 link: "/search?q=%e6%8b%89%e6%96%af%e7%a7%91%e6%b4%9e%e7%a9%b4%e5%a3%81%e7%94%bb&form=hpcapt&mkt=zh-cn"
 copyright: "史前洞窟壁画国际艺术中心内的“高仿”拉斯科洞穴壁画，法国蒙蒂尼亚克 (© Caroline Blumberg/Epa/Shutterstock)"
-image_hash: "56a1629dd38c25f1d434b80bac768938"
+image_hash: "a7eff5ae2be32bcda237c7f3bb3ac8b1"
 image_filename: "LascauxCavePainting_ZH-CN11733576571_1920x1080.jpg"
 ---
