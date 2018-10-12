@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "激光艺术'0 Degrees'，英国格林威治"
+date:   "2018-10-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ZeroDegrees_ZH-CN10117368234_1920x1080.jpg"
+link: "/search?q=%e6%bf%80%e5%85%89%e8%89%ba%e6%9c%af&form=hpcapt&mkt=zh-cn"
+copyright: "激光艺术'0 Degrees'，英国格林威治 (© Norah Saudan/Getty)"
+image_hash: "e6c547170e866b0f8a94412937a9d4c1"
+image_filename: "ZeroDegrees_ZH-CN10117368234_1920x1080.jpg"
+---
