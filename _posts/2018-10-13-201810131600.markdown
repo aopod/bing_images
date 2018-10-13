@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "柏林灯光节期间的博德博物馆"
+date:   "2018-10-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BodeBerlin_ZH-CN6982399462_1920x1080.jpg"
+link: "/search?q=%e6%9f%8f%e6%9e%97%e7%81%af%e5%85%89%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "柏林灯光节期间的博德博物馆 (© fhm/Getty Images)"
+image_hash: "683f01ad8e49f316748f11c617837906"
+image_filename: "BodeBerlin_ZH-CN6982399462_1920x1080.jpg"
+---
