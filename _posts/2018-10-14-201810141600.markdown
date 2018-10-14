@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "紫马岭公园内的水杉，中国中山市"
+date:   "2018-10-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/DawnRedwoods_ZH-CN11283421324_1920x1080.jpg"
+link: "/search?q=%e6%b0%b4%e6%9d%89&form=hpcapt&mkt=zh-cn"
+copyright: "紫马岭公园内的水杉，中国中山市 (© Yaorusheng/Getty Images)"
+image_hash: "c35176a6053c7546c6da2189fe1f0f69"
+image_filename: "DawnRedwoods_ZH-CN11283421324_1920x1080.jpg"
+---
