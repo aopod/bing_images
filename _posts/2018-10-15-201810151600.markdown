@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "站在非洲水牛鼻头上的黄嘴牛椋鸟，肯尼亚"
+date:   "2018-10-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/OxpeckerBoss_ZH-CN6808077622_1920x1080.jpg"
+link: "/search?q=%e9%a9%ac%e8%b5%9b%e9%a9%ac%e6%8b%89%e5%9b%bd%e5%ae%b6%e4%bf%9d%e6%8a%a4%e5%8c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "站在非洲水牛鼻头上的黄嘴牛椋鸟，肯尼亚 (© Susan Portnoy/Offset)"
+image_hash: "91f05444a2c49b702bc1bbad381592b6"
+image_filename: "OxpeckerBoss_ZH-CN6808077622_1920x1080.jpg"
+---
