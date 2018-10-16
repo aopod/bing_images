@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日重阳节】复兴公园里跳探戈的人们，中国上海"
+date:   "2018-10-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/chongyang_ZH-CN10246105371_1920x1080.jpg"
+link: "/search?q=%e9%87%8d%e9%98%b3%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "【今日重阳节】复兴公园里跳探戈的人们，中国上海 (© GARDEL Bertrand/hemis.fr/Getty Images)"
+image_hash: "2de1252c03d2c76e268d60e26265d6f0"
+image_filename: "chongyang_ZH-CN10246105371_1920x1080.jpg"
+---
