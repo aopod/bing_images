@@ -5,6 +5,6 @@ date:   "2018-10-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/MendenhalLake_ZH-CN7598729576_1920x1080.jpg"
 link: "/search?q=%e9%97%a8%e7%99%bb%e9%9c%8d%e5%b0%94%e6%b9%96&form=hpcapt&mkt=zh-cn"
 copyright: "门登霍尔湖上的冰山，美国阿拉斯加州 (© John Hyde/age fotostock)"
-image_hash: "426532a9724a7269656b1c03eb952404"
+image_hash: "bd2a552294b4e943eeb2e00d3a926315"
 image_filename: "MendenhalLake_ZH-CN7598729576_1920x1080.jpg"
 ---

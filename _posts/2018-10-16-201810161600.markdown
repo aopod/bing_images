@@ -5,6 +5,6 @@ date:   "2018-10-16 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/chongyang_ZH-CN10246105371_1920x1080.jpg"
 link: "/search?q=%e9%87%8d%e9%98%b3%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "复兴公园里跳探戈的人们，中国上海 (© GARDEL Bertrand/hemis.fr/Getty Images)"
-image_hash: "d6a368e2f91cafd9a29d98683c01d514"
+image_hash: "6847ffb586186a43771d47f40e65a3ef"
 image_filename: "chongyang_ZH-CN10246105371_1920x1080.jpg"
 ---
