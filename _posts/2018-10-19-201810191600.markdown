@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "瓦莱塔，马耳他"
+date:   "2018-10-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/VallettaMalta_ZH-CN11321825930_1920x1080.jpg"
+link: "/search?q=%e7%93%a6%e8%8e%b1%e5%a1%94&form=hpcapt&mkt=zh-cn"
+copyright: "瓦莱塔，马耳他 (© Adrian Malanca/Getty Images)"
+image_hash: "c46f18cb2230509573759701eb34ca09"
+image_filename: "VallettaMalta_ZH-CN11321825930_1920x1080.jpg"
+---
