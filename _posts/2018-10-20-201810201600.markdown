@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "塞万提斯国际艺术节，墨西哥瓜纳华托州"
+date:   "2018-10-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/FICPlanets_ZH-CN11696191570_1920x1080.jpg"
+link: "/search?q=%e5%a1%9e%e4%b8%87%e6%8f%90%e6%96%af%e5%9b%bd%e9%99%85%e8%89%ba%e6%9c%af%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "塞万提斯国际艺术节，墨西哥瓜纳华托州 (© Hector Vivas/Getty Images)"
+image_hash: "118bba890f6504a6472bf1cd787033d1"
+image_filename: "FICPlanets_ZH-CN11696191570_1920x1080.jpg"
+---
