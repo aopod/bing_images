@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "液氮"
+date:   "2018-10-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LiquidNitrogen_ZH-CN9276021591_1920x1080.jpg"
+link: "/search?q=%e6%b6%b2%e6%b0%ae&form=hpcapt&mkt=zh-cn"
+copyright: "液氮 (© Sunny/Getty Images)"
+image_hash: "52e979b4794e9a5f7ae9937a76a24c34"
+image_filename: "LiquidNitrogen_ZH-CN9276021591_1920x1080.jpg"
+---
