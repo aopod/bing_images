@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "大教堂广场上方的白鸽装置艺术，意大利阿马尔菲"
+date:   "2018-10-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/DovesPiazza_ZH-CN11204937806_1920x1080.jpg"
+link: "/search?q=%e7%99%bd%e9%b8%bd%e8%a3%85%e7%bd%ae%e8%89%ba%e6%9c%af&form=hpcapt&mkt=zh-cn"
+copyright: "大教堂广场上方的白鸽装置艺术，意大利阿马尔菲 (© LatitudeStock – TTL/Getty Images)"
+image_hash: "3945bd4ec5f239b4c37fa8a214e13ade"
+image_filename: "DovesPiazza_ZH-CN11204937806_1920x1080.jpg"
+---
