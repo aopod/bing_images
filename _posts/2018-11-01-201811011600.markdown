@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "卡拉维拉人偶，墨西哥亡灵节"
+date:   "2018-11-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/DeadPhotographer_ZH-CN9480942912_1920x1080.jpg"
+link: "/search?q=%e4%ba%a1%e7%81%b5%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "卡拉维拉人偶，墨西哥亡灵节 (© PvE/Alamy)"
+image_hash: "020da3097d43c3fb2a478025aa9302f6"
+image_filename: "DeadPhotographer_ZH-CN9480942912_1920x1080.jpg"
+---
