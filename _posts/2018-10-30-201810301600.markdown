@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "幽灵电影院"
+title:  "【今日万圣夜】幽灵电影院"
 date:   "2018-10-30 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/TheaterLostSouls_ZH-CN9247537981_1920x1080.jpg"
 link: "/search?q=%e4%b8%87%e5%9c%a3%e5%a4%9c&form=hpcapt&mkt=zh-cn"
-copyright: "幽灵电影院 (© Getty | Shutterstock)"
-image_hash: "00ff167618f67d10df99582be0a44975"
+copyright: "【今日万圣夜】幽灵电影院 (© Getty | Shutterstock)"
+image_hash: "582ba4c8983f904666e487a35234894b"
 image_filename: "TheaterLostSouls_ZH-CN9247537981_1920x1080.jpg"
 ---
