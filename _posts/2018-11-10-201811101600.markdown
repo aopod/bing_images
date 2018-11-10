@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "帝国战争博物馆北馆内的装置艺术‘Blood Swept Lands and Seas of Red’，英国曼彻斯特"
+date:   "2018-11-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WavePoppy_ZH-CN9071800685_1920x1080.jpg"
+link: "/search?q=%e5%b8%9d%e5%9b%bd%e6%88%98%e4%ba%89%e5%8d%9a%e7%89%a9%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "帝国战争博物馆北馆内的装置艺术‘Blood Swept Lands and Seas of Red’，英国曼彻斯特 (© Christopher Furlong/Getty Images)"
+image_hash: "c3a7068794bbf134a3021d4729d8d296"
+image_filename: "WavePoppy_ZH-CN9071800685_1920x1080.jpg"
+---
