@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "奇里比克特山脉国家自然公园的古代岩画，哥伦比亚"
+date:   "2018-11-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ChiribiqueteNP_ZH-CN10719426351_1920x1080.jpg"
+link: "/search?q=%e5%a5%87%e9%87%8c%e6%af%94%e5%85%8b%e7%89%b9%e5%b1%b1%e8%84%88%e5%9b%bd%e5%ae%b6%e8%87%aa%e7%84%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "奇里比克特山脉国家自然公园的古代岩画，哥伦比亚 (© Steve Winter/Getty Images)"
+image_hash: "b7ce2cad53348d324ad8b04e30952408"
+image_filename: "ChiribiqueteNP_ZH-CN10719426351_1920x1080.jpg"
+---
