@@ -5,6 +5,6 @@ date:   "2018-11-13 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/LeGivre_ZH-CN7576437900_1920x1080.jpg"
 link: "/search?q=%e8%8e%ab%e5%a5%88&form=hpcapt&mkt=zh-cn"
 copyright: "奥赛博物馆展出的莫奈作品，法国巴黎 (Photo © VCG Wilson/Corbis via Getty Images)"
-image_hash: "65e93344c799c55e3fc2568d577d0ce8"
+image_hash: "682d858615c0b9ea07d16b9d0a3a4acc"
 image_filename: "LeGivre_ZH-CN7576437900_1920x1080.jpg"
 ---

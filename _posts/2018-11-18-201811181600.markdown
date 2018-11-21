@@ -5,6 +5,6 @@ date:   "2018-11-18 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/NarrowsZion_ZH-CN9686302838_1920x1080.jpg"
 link: "/search?q=%e9%94%a1%e5%ae%89%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "锡安国家公园内的维尔京河，美国犹他州 (© Justinreznick/Getty Images)"
-image_hash: "a2d2b96a5c113e78bc7a0f8a508cbf73"
+image_hash: "93276f79e5c1a85631f34dbc7cdc809b"
 image_filename: "NarrowsZion_ZH-CN9686302838_1920x1080.jpg"
 ---

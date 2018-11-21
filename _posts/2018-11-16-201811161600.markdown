@@ -5,6 +5,6 @@ date:   "2018-11-16 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/SpiritBearSleeps_ZH-CN7690026884_1920x1080.jpg"
 link: "/search?q=%e6%9f%af%e8%8e%ab%e5%be%b7%e7%86%8a&form=hpcapt&mkt=zh-cn"
 copyright: "沉睡的柯莫德熊，加拿大英属哥伦比亚 (© John E Marriott/SuperStock)"
-image_hash: "e7fecb6452d70a84623068a512a39db6"
+image_hash: "5afd7262f669a243cba0dc33af6c7e52"
 image_filename: "SpiritBearSleeps_ZH-CN7690026884_1920x1080.jpg"
 ---
