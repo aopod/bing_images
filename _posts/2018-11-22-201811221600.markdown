@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "科莫湖，意大利瓦伦纳"
+date:   "2018-11-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/VarennaSnow_ZH-CN7673479242_1920x1080.jpg"
+link: "/search?q=%e7%a7%91%e8%8e%ab%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "科莫湖，意大利瓦伦纳 (© Andrea Comi/Getty Images)"
+image_hash: "87245e39dac740975d8815c1a3d62c39"
+image_filename: "VarennaSnow_ZH-CN7673479242_1920x1080.jpg"
+---
