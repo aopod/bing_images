@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "艾伦·图灵的笔记本"
+date:   "2018-12-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AlanTuringNotebook_ZH-CN7743633207_1920x1080.jpg"
+link: "/search?q=%e8%89%be%e4%bc%a6%c2%b7%e5%9b%be%e7%81%b5&form=hpcapt&mkt=zh-cn"
+copyright: "艾伦·图灵的笔记本 (© Spencer Platt/Getty Images News)"
+image_hash: "1f21e53d414fe112a42455a2bcb045eb"
+image_filename: "AlanTuringNotebook_ZH-CN7743633207_1920x1080.jpg"
+---
