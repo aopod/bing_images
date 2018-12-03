@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "斯芬克斯天文台，瑞士"
+date:   "2018-12-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SphinxObservatory_ZH-CN7733546261_1920x1080.jpg"
+link: "/search?q=%e6%96%af%e8%8a%ac%e5%85%8b%e6%96%af%e8%a7%82%e6%99%af%e5%8f%b0&form=hpcapt&mkt=zh-cn"
+copyright: "斯芬克斯天文台，瑞士 (© Jan Greune/Alamy)"
+image_hash: "cedc20dce1fc64d4ca111160ac254067"
+image_filename: "SphinxObservatory_ZH-CN7733546261_1920x1080.jpg"
+---
