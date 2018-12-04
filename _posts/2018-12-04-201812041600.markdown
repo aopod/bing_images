@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "室外冰壶锦标赛，新西兰"
+date:   "2018-12-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CurlingBonspiel_ZH-CN6638213482_1920x1080.jpg"
+link: "/search?q=%e5%86%b0%e5%a3%b6%e4%b8%96%e7%95%8c%e6%9d%af&form=hpcapt&mkt=zh-cn"
+copyright: "室外冰壶锦标赛，新西兰 (© David Wall/Danita Delimont)"
+image_hash: "60571557eff2891508591afed522546b"
+image_filename: "CurlingBonspiel_ZH-CN6638213482_1920x1080.jpg"
+---
