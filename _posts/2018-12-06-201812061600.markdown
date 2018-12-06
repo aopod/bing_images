@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【今日大雪】被大雪覆盖的合掌屋，日本白川乡"
+date:   "2018-12-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TaisetsuShirakawago_ZH-CN11784781173_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e9%9b%aa&form=hpcapt&mkt=zh-cn"
+copyright: "【今日大雪】被大雪覆盖的合掌屋，日本白川乡 (© Toyofumi Mori/Getty Images)"
+image_hash: "a4021697ce62d7c6a4ee670e0781414c"
+image_filename: "TaisetsuShirakawago_ZH-CN11784781173_1920x1080.jpg"
+---
