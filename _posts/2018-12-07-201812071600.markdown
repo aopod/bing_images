@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "班夫国家公园内的双杰克湖，加拿大阿尔伯塔省"
+date:   "2018-12-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BanffEvergreens_ZH-CN11540783621_1920x1080.jpg"
+link: "/search?q=%e5%8f%8c%e6%9d%b0%e5%85%8b%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "班夫国家公园内的双杰克湖，加拿大阿尔伯塔省 (© Aurora Photos/Offset by Shutterstock)"
+image_hash: "623ea3355969e9050fd544e608d070f2"
+image_filename: "BanffEvergreens_ZH-CN11540783621_1920x1080.jpg"
+---
