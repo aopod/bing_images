@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "乞力马扎罗山，肯尼亚"
+date:   "2018-12-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KilimanjaroMawenzi_ZH-CN7924585833_1920x1080.jpg"
+link: "/search?q=%e5%9b%bd%e9%99%85%e5%b1%b1%e5%b2%b3%e6%97%a5&form=hpcapt&mkt=zh-cn"
+copyright: "乞力马扎罗山，肯尼亚 (© Lucas Vallecillos/Alamy Stock Photo)"
+image_hash: "72ac3b41671b356839747a0ce8430891"
+image_filename: "KilimanjaroMawenzi_ZH-CN7924585833_1920x1080.jpg"
+---
