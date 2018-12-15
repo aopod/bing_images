@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "运河旁的节日装饰品，意大利穆拉诺岛"
+date:   "2018-12-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/MuranoChristmas_ZH-CN11783971861_1920x1080.jpg"
+link: "/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%ef%bc%8c%e7%a9%86%e6%8b%89%e8%af%ba&form=hpcapt&mkt=zh-cn"
+copyright: "运河旁的节日装饰品，意大利穆拉诺岛 (© John Warburton-Lee/DanitaDelimont.com)"
+image_hash: "9493f37cf93ec3ff60bab33052f49a73"
+image_filename: "MuranoChristmas_ZH-CN11783971861_1920x1080.jpg"
+---
