@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "名花之里冬季彩灯展，日本桑名市"
+date:   "2018-12-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/WinterIllumination_ZH-CN9373805444_1920x1080.jpg"
+link: "/search?q=%e5%90%8d%e8%8a%b1%e4%b9%8b%e9%87%8c&form=hpcapt&mkt=zh-cn"
+copyright: "名花之里冬季彩灯展，日本桑名市 (© Julian Krakowiak/Alamy)"
+image_hash: "a626e5fd896ca4ff82eacf03a66016e6"
+image_filename: "WinterIllumination_ZH-CN9373805444_1920x1080.jpg"
+---
