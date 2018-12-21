@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "黄石国家公园里正在升起的月亮"
+date:   "2018-12-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ColdMoonRising_ZH-CN6131399146_1920x1080.jpg"
+link: "/search?q=%e6%ad%a3%e5%9c%a8%e5%8d%87%e8%b5%b7%e7%9a%84%e6%9c%88%e4%ba%ae+&form=hpcapt&mkt=zh-cn"
+copyright: "黄石国家公园里正在升起的月亮  (© Tom Murphy/Getty Images)"
+image_hash: "43b5340ea94cb318335dc721fa92c1ac"
+image_filename: "ColdMoonRising_ZH-CN6131399146_1920x1080.jpg"
+---
