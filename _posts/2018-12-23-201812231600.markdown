@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "萨尔茨堡，奥地利"
+date:   "2018-12-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/SilentNight_ZH-CN6692349673_1920x1080.jpg"
+link: "/search?q=%e8%90%a8%e5%b0%94%e8%8c%a8%e5%a0%a1%e5%a5%a5%e5%9c%b0%e5%88%a9&form=hpcapt&mkt=zh-cn"
+copyright: "萨尔茨堡，奥地利 (© MacEaton/Alamy)"
+image_hash: "fc5b09999c874a1220da5e19dc2413af"
+image_filename: "SilentNight_ZH-CN6692349673_1920x1080.jpg"
+---
