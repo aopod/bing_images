@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "毕士达喷泉，纽约"
+date:   "2018-12-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BethesdaSnow_ZH-CN3087618718_1920x1080.jpg"
+link: "/search?q=%e6%af%95%e5%a3%ab%e8%be%be%e5%96%b7%e6%b3%89&form=hpcapt&mkt=zh-cn"
+copyright: "毕士达喷泉，纽约 (© Mitchell Funk/Getty Images)"
+image_hash: "77b7992f8d4d4d35d5d3236d26ca4e2e"
+image_filename: "BethesdaSnow_ZH-CN3087618718_1920x1080.jpg"
+---
