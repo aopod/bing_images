@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "发明家尼古拉·特斯拉和他的“放大发射机”"
+date:   "2019-01-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TeslaCoil_ZH-CN4579455505_1920x1080.jpg"
+link: "/search?q=%e5%b0%bc%e5%8f%a4%e6%8b%89%e7%89%b9%e6%96%af%e6%8b%89&form=hpcapt&mkt=zh-cn"
+copyright: "发明家尼古拉·特斯拉和他的“放大发射机” (© Nikola Tesla Museum/Science Photo Library)"
+image_hash: "c4ad77afe99275c036a66053c941d55e"
+image_filename: "TeslaCoil_ZH-CN4579455505_1920x1080.jpg"
+---
