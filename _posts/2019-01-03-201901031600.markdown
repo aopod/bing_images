@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "兰茨胡特的触觉地图，德国"
+date:   "2019-01-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/LandshutReliefMap_ZH-CN9611715870_1920x1080.jpg"
+link: "/search?q=%e8%a7%a6%e8%a7%89%e5%9c%b0%e5%9b%be&form=hpcapt&mkt=zh-cn"
+copyright: "兰茨胡特的触觉地图，德国 (© Zoonar GmbH/Alamy)"
+image_hash: "376b5c7fa07941f72a5ae94c432d440a"
+image_filename: "LandshutReliefMap_ZH-CN9611715870_1920x1080.jpg"
+---
