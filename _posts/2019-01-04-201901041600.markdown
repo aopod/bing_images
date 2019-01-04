@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巴黎歌剧院穹顶上的夏加尔画作"
+date:   "2019-01-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ParisOpera_ZH-CN9524486957_1920x1080.jpg"
+link: "/search?q=%e5%b7%b4%e9%bb%8e%e6%ad%8c%e5%89%a7%e9%99%a2&form=hpcapt&mkt=zh-cn"
+copyright: "巴黎歌剧院穹顶上的夏加尔画作 (© Stephane Gautier/agefotostock)"
+image_hash: "cd67421d68546badab4ca56969a8f65b"
+image_filename: "ParisOpera_ZH-CN9524486957_1920x1080.jpg"
+---
