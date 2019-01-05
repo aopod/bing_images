@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "哈尔滨冰雪节，中国"
+date:   "2019-01-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/TwilightHarbin_ZH-CN9418965212_1920x1080.jpg"
+link: "/search?q=%e5%93%88%e5%b0%94%e6%bb%a8%e5%86%b0%e9%9b%aa%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "哈尔滨冰雪节，中国 (© Gavin Hellier/Getty Images)"
+image_hash: "45406ad27bfa2336698b2916445070cb"
+image_filename: "TwilightHarbin_ZH-CN9418965212_1920x1080.jpg"
+---
