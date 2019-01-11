@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "“西伯利亚杯”冬季风筝冲浪比赛，俄罗斯新西伯利亚"
+date:   "2019-01-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Snowkiters_ZH-CN3098762517_1920x1080.jpg"
+link: "/search?q=%e8%a5%bf%e4%bc%af%e5%88%a9%e4%ba%9a%e6%9d%af&form=hpcapt&mkt=zh-cn"
+copyright: "“西伯利亚杯”冬季风筝冲浪比赛，俄罗斯新西伯利亚 (© Kirill Kukhmar/Getty Images)"
+image_hash: "5411efcc6489bf18b2cf9a3f82ab8895"
+image_filename: "Snowkiters_ZH-CN3098762517_1920x1080.jpg"
+---
