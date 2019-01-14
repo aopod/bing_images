@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "大英博物馆独特的屋顶及其周边地区"
+date:   "2019-01-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BM1759_ZH-CN2713615652_1920x1080.jpg"
+link: "/search?q=%e5%a4%a7%e8%8b%b1%e5%8d%9a%e7%89%a9%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "大英博物馆独特的屋顶及其周边地区 (© Vladimir Zakharov/Getty Images)"
+image_hash: "9743faa7fa3afa1dfc221c8f84a4f917"
+image_filename: "BM1759_ZH-CN2713615652_1920x1080.jpg"
+---
