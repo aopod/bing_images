@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一名登山者攀爬阿萨巴斯卡冰川时，北极光当空闪耀，加拿大贾斯珀国家公园"
+date:   "2019-01-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AthabascaCave_ZH-CN2654280175_1920x1080.jpg"
+link: "/search?q=%e9%98%bf%e8%90%a8%e5%b7%b4%e6%96%af%e5%8d%a1%e5%86%b0%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "一名登山者攀爬阿萨巴斯卡冰川时，北极光当空闪耀，加拿大贾斯珀国家公园 (© Paul Zizka/Aurora Photos)"
+image_hash: "b551c54929073ba265ba5d3638085e5d"
+image_filename: "AthabascaCave_ZH-CN2654280175_1920x1080.jpg"
+---
