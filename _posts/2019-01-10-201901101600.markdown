@@ -5,6 +5,6 @@ date:   "2019-01-10 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/NapoleonsHat_ZH-CN2968205603_1920x1080.jpg"
 link: "/search?q=%e6%b3%b0%e5%a4%ab%e5%8a%b3%e7%89%b9%e9%95%87%e6%91%a9%e6%b4%9b%e5%93%a5&form=hpcapt&mkt=zh-cn"
 copyright: "泰夫劳特镇，摩洛哥 (© Doug Pearson Photography/plainpicture)"
-image_hash: "17f177b692af881721a10c8aaac8f54e"
+image_hash: "745281a3720087f788eddce05c8260b0"
 image_filename: "NapoleonsHat_ZH-CN2968205603_1920x1080.jpg"
 ---
