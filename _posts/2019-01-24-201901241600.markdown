@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "国际面具狂欢节上的表演者，保加利亚佩尔尼克"
+date:   "2019-01-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KukeriCostume_ZH-CN7695643694_1920x1080.jpg"
+link: "/search?q=%e9%9d%a2%e5%85%b7%e7%8b%82%e6%ac%a2%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "国际面具狂欢节上的表演者，保加利亚佩尔尼克 (© djumandji/Getty Images Plus)"
+image_hash: "5367131daff8ef1f21de6bad332fcc10"
+image_filename: "KukeriCostume_ZH-CN7695643694_1920x1080.jpg"
+---
