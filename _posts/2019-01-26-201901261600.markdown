@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "欧洲被害犹太人纪念碑，德国柏林"
+date:   "2019-01-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/HolocaustMemorial_ZH-CN7460471446_1920x1080.jpg"
+link: "/search?q=%e7%ba%aa%e5%bf%b5%e7%a2%91&form=hpcapt&mkt=zh-cn"
+copyright: "欧洲被害犹太人纪念碑，德国柏林 (© McPHOTO/age fotostock)"
+image_hash: "90ae3778291385620ea62b857515d51d"
+image_filename: "HolocaustMemorial_ZH-CN7460471446_1920x1080.jpg"
+---
