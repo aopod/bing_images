@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "设得兰群岛上的一座老农场，苏格兰"
+date:   "2019-01-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/UpHellyAa_ZH-CN7287698551_1920x1080.jpg"
+link: "/search?q=%e5%86%9c%e5%9c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "设得兰群岛上的一座老农场，苏格兰 (© Michael Runkel/Getty Images)"
+image_hash: "64b2f3523cc692988de2f70fd8654ec6"
+image_filename: "UpHellyAa_ZH-CN7287698551_1920x1080.jpg"
+---
