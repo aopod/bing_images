@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "雪地里的一只丹顶鹤，日本北海道"
+date:   "2019-02-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/JapanCrane_ZH-CN7122024216_1920x1080.jpg"
+link: "/search?q=%e4%b8%b9%e9%a1%b6%e9%b9%a4&form=hpcapt&mkt=zh-cn"
+copyright: "雪地里的一只丹顶鹤，日本北海道 (© Regis Cavignaux/Getty Images)"
+image_hash: "af0d34dea952f0048be29587fc70c496"
+image_filename: "JapanCrane_ZH-CN7122024216_1920x1080.jpg"
+---
