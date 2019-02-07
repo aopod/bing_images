@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马尾瀑布形成的火瀑，美国加利福尼亚州优胜美地国家公园"
+date:   "2019-02-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/YNPFirefall_ZH-CN6411148793_1920x1080.jpg"
+link: "/search?q=%e7%81%ab%e7%80%91&form=hpcapt&mkt=zh-cn"
+copyright: "马尾瀑布形成的火瀑，美国加利福尼亚州优胜美地国家公园 (© Nimia)"
+image_hash: "3d5f54fcbb630d699d59d98d8bf5dd5b"
+image_filename: "YNPFirefall_ZH-CN6411148793_1920x1080.jpg"
+---
