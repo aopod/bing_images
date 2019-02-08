@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "花团锦簇的扁桃果园，加利福尼亚州萨克拉门托山谷"
+date:   "2019-02-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AlmondOrchard_ZH-CN6176656132_1920x1080.jpg"
+link: "/search?q=%e6%89%81%e6%a1%83%e6%9e%9c%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "花团锦簇的扁桃果园，加利福尼亚州萨克拉门托山谷 (© Anthony Dunn/Alamy)"
+image_hash: "a82f295f49f5ecc92bc653c9a49a0e94"
+image_filename: "AlmondOrchard_ZH-CN6176656132_1920x1080.jpg"
+---
