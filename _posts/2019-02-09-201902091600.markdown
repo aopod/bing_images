@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "留声机指针划过唱片时的扫描电子显微图"
+date:   "2019-02-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/StylusGroove_ZH-CN6106476225_1920x1080.jpg"
+link: "/search?q=%e7%95%99%e5%a3%b0%e6%9c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "留声机指针划过唱片时的扫描电子显微图 (© Susumu Nishinaga/Science Photo Library)"
+image_hash: "498f5e3d236dbe54b2bffc84fb6f0aad"
+image_filename: "StylusGroove_ZH-CN6106476225_1920x1080.jpg"
+---
