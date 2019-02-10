@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一只参加威斯敏斯特犬业俱乐部狗展的可蒙犬，纽约"
+date:   "2019-02-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/KomondorKennel_ZH-CN6009722858_1920x1080.jpg"
+link: "/search?q=%e5%8f%af%e8%92%99%e7%8a%ac&form=hpcapt&mkt=zh-cn"
+copyright: "一只参加威斯敏斯特犬业俱乐部狗展的可蒙犬，纽约 (© Mike Segar/Reuters)"
+image_hash: "3ce83b72f3d3606e1a7a118c15aeb320"
+image_filename: "KomondorKennel_ZH-CN6009722858_1920x1080.jpg"
+---
