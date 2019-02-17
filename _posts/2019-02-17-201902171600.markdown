@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "鸟瞰尾矿池，澳大利亚"
+date:   "2019-02-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/AbstractSaltBeds_ZH-CN8351691359_1920x1080.jpg"
+link: "/search?q=%e7%9b%90%e6%bb%a9&form=hpcapt&mkt=zh-cn"
+copyright: "鸟瞰尾矿池，澳大利亚 (© Amazing Aerial/Offset)"
+image_hash: "58a3139bf1c2e01d7e614c21421e7254"
+image_filename: "AbstractSaltBeds_ZH-CN8351691359_1920x1080.jpg"
+---
