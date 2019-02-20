@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巴斯，英国萨默赛特"
+date:   "2019-02-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/BathBach_ZH-CN4601637280_1920x1080.jpg"
+link: "/search?q=%e5%b7%b4%e6%96%af&form=hpcapt&mkt=zh-cn"
+copyright: "巴斯，英国萨默赛特 (© Rob Cousins/Getty Images)"
+image_hash: "61eca5652c8a4f10b3b109b011ec5fe2"
+image_filename: "BathBach_ZH-CN4601637280_1920x1080.jpg"
+---
