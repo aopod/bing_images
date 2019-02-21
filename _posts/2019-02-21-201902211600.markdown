@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一群沙丘鹤在卡尼附近的普拉特河上空飞行，内布拉斯加州"
+date:   "2019-02-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/PlatteRiver_ZH-CN4687283533_1920x1080.jpg"
+link: "/search?q=%e6%b2%99%e4%b8%98%e9%b9%a4&form=hpcapt&mkt=zh-cn"
+copyright: "一群沙丘鹤在卡尼附近的普拉特河上空飞行，内布拉斯加州 (© Diana Robinson Photography/Getty Images)"
+image_hash: "970a88f930f4c66e4540560c7fd67784"
+image_filename: "PlatteRiver_ZH-CN4687283533_1920x1080.jpg"
+---
