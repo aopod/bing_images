@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一处贯穿山峰的栈道，法国夏蒙尼"
+date:   "2019-02-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/ChamonixWalkway_ZH-CN4774583061_1920x1080.jpg"
+link: "/search?q=%e6%a0%88%e9%81%93&form=hpcapt&mkt=zh-cn"
+copyright: "一处贯穿山峰的栈道，法国夏蒙尼 (© Jakub Połomski/Offset)"
+image_hash: "ec37eb1aa281ed9127dd1edaf02998ab"
+image_filename: "ChamonixWalkway_ZH-CN4774583061_1920x1080.jpg"
+---
