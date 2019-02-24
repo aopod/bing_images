@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "加勒比海上空的积云"
+date:   "2019-02-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/CumulusCaribbean_ZH-CN4884493707_1920x1080.jpg"
+link: "/search?q=%e5%8a%a0%e5%8b%92%e6%af%94%e6%b5%b7&form=hpcapt&mkt=zh-cn"
+copyright: "加勒比海上空的积云 (© F. M. Kearney/plainpicture)"
+image_hash: "4a2fd37d091c1d45763046df5a13c8c2"
+image_filename: "CumulusCaribbean_ZH-CN4884493707_1920x1080.jpg"
+---
