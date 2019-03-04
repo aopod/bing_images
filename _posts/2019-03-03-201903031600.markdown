@@ -5,6 +5,6 @@ date:   "2019-03-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/ElephantMarch_ZH-CN8771717837_1920x1080.jpg"
 link: "/search?q=%e8%b1%a1%e7%be%a4&form=hpcapt&mkt=zh-cn"
 copyright: "达马拉兰地区的象群，纳米比亚 (© Michael Poliza/Getty Images)"
-image_hash: "1fc33584cfa150783d1985de6101eff3"
+image_hash: "d11e4374277799933c7adb6d2bbc60df"
 image_filename: "ElephantMarch_ZH-CN8771717837_1920x1080.jpg"
 ---

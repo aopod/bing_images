@@ -5,6 +5,6 @@ date:   "2019-02-28 16:00:00 +0800"
 image_url: "http://cn.bing.com/az/hprichbg/rb/PhillisWheatley_ZH-CN8917971934_1920x1080.jpg"
 link: "/search?q=%e5%a6%87%e5%a5%b3%e7%ba%aa%e5%bf%b5%e9%a6%86&form=hpcapt&mkt=zh-cn"
 copyright: "菲利斯·惠特利和阿比盖尔·亚当斯的雕像，马萨诸塞州波士顿妇女纪念馆 (© Education Images/UIG via Getty Images)"
-image_hash: "e742d8dabec6f212616f1f4707c1115f"
+image_hash: "a76c87eb347cbf9485b2fa42fa6b0a36"
 image_filename: "PhillisWheatley_ZH-CN8917971934_1920x1080.jpg"
 ---
