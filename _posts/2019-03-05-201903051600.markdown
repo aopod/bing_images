@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "位于地中海的切法卢，意大利西西里岛"
+date:   "2019-03-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/az/hprichbg/rb/Cefalu_ZH-CN9108906653_1920x1080.jpg"
+link: "/search?q=%e5%88%87%e6%b3%95%e5%8d%a2&form=hpcapt&mkt=zh-cn"
+copyright: "位于地中海的切法卢，意大利西西里岛 (© Tuul & Bruno Morandi/eStock Photo)"
+image_hash: "8fcd79c767b37afe6a2041accba540dc"
+image_filename: "Cefalu_ZH-CN9108906653_1920x1080.jpg"
+---
