@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圆形农田，科罗拉多州摩根县"
+date:   "2019-03-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AgriculturalPi_ZH-CN9754138523_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9c%86%e5%bd%a2%e5%86%9c%e7%94%b0&form=hpcapt&mkt=zh-cn"
+copyright: "圆形农田，科罗拉多州摩根县 (© Jim Wark/Getty Images)"
+image_hash: "84d6f5070a773f3aa6e2b5b5a53a3435"
+image_filename: "th?id=OHR.AgriculturalPi_ZH-CN9754138523_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+---
