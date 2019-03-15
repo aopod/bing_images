@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "黎明时分薄雾草原上的白斑鹿，印度中央邦坎哈国家公园"
+date:   "2019-03-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ChitalDawn_ZH-CN0851079165_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%99%bd%e6%96%91%e9%b9%bf&form=hpcapt&mkt=zh-cn"
+copyright: "黎明时分薄雾草原上的白斑鹿，印度中央邦坎哈国家公园 (© Pete Oxford/Minden Pictures)"
+image_hash: "ec7759e03c18a755a9b144dd9443461b"
+image_filename: "th?id=OHR.ChitalDawn_ZH-CN0851079165_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+---
