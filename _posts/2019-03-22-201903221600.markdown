@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "美国南部上空云层中出现的瀑布状空洞图像，美国国家航空航天局Terra卫星拍摄"
+date:   "2019-03-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HolePunchClouds_ZH-CN1184083504_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%80%91%e5%b8%83%e7%8a%b6%e7%a9%ba%e6%b4%9e%e5%9b%be%e5%83%8f&form=hpcapt&mkt=zh-cn"
+copyright: "美国南部上空云层中出现的瀑布状空洞图像，美国国家航空航天局Terra卫星拍摄 (© NASA)"
+image_hash: "9e0de6cb1538b764cdeea34a4ff66654"
+image_filename: "th?id=OHR.HolePunchClouds_ZH-CN1184083504_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+---
