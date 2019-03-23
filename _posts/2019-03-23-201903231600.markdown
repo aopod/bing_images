@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "埃克森瓦尔迪兹漏油事件30年后，阿拉斯加威廉王子湾的海獭"
+date:   "2019-03-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PWSRecovery_ZH-CN1234475074_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a8%81%e5%bb%89%e7%8e%8b%e5%ad%90%e6%b9%be&form=hpcapt&mkt=zh-cn"
+copyright: "埃克森瓦尔迪兹漏油事件30年后，阿拉斯加威廉王子湾的海獭 (© Patrick Endres/plainpicture)"
+image_hash: "79890cf54f2831661f8915a1d8044899"
+image_filename: "th?id=OHR.PWSRecovery_ZH-CN1234475074_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+---
