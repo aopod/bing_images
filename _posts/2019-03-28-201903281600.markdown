@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "曙光村，印度"
+date:   "2019-03-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AurovilleIndia_ZH-CN4983141175_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%9b%99%e5%85%89%e6%9d%91&form=hpcapt&mkt=zh-cn"
+copyright: "曙光村，印度 (© Vikram Ramakrishnan/Shutterstock)"
+image_hash: "1486fec7fc52b0aa4531ad76adec5448"
+image_filename: "th?id=OHR.AurovilleIndia_ZH-CN4983141175_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+---
