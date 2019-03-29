@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "2011年在“地球一小时”前亮灯的纽约帝国大厦"
+date:   "2019-03-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.EarthHourNYC_ZH-CN5111448023_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%ba%bd%e7%ba%a6%e5%b8%9d%e5%9b%bd%e5%a4%a7%e5%8e%a6&form=hpcapt&mkt=zh-cn"
+copyright: "2011年在“地球一小时”前亮灯的纽约帝国大厦 (© Eric Thayer/Reuters)"
+image_hash: "27760c0e5100fbcd241b9058bc998e3a"
+image_filename: "th?id=OHR.EarthHourNYC_ZH-CN5111448023_1920x1080.jpg&rf=NorthMale_1920x1080.jpg&pid=hp"
+---
