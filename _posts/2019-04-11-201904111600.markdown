@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "华盛顿山天文台，新罕布什尔州"
+date:   "2019-04-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BigWindDay_ZH-CN1837859776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8d%8e%e7%9b%9b%e9%a1%bf%e5%b1%b1%e5%a4%a9%e6%96%87%e5%8f%b0&form=hpcapt&mkt=zh-cn"
+copyright: "华盛顿山天文台，新罕布什尔州 (© Mike Theiss/Getty Images)"
+image_hash: "fc3c120511c7ecd89f14c73f2ba715da"
+image_filename: "th?id=OHR.BigWindDay_ZH-CN1837859776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
