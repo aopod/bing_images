@@ -5,6 +5,6 @@ date:   "2019-04-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.ChilehausHH_ZH-CN3895221092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%97%8b%e8%bd%ac%e6%a5%bc%e6%a2%af&form=hpcapt&mkt=zh-cn"
 copyright: "智利屋中的旋转楼梯，德国汉堡 (© Rüdiger Hess/geo-select FotoArt)"
-image_hash: "3b51ffdf68eee0d1735af93285bfd349"
+image_hash: "ca9be42d0665fdd93d5ba5e3d1cf7edc"
 image_filename: "th?id=OHR.ChilehausHH_ZH-CN3895221092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

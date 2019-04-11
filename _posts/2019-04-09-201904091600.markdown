@@ -3,8 +3,8 @@ layout: post
 title:  "桑布鲁国家公园里摔跤的狮子幼崽，肯尼亚"
 date:   "2019-04-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SibWrestling_ZH-CN4106007210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
-link: "/search?q=%e6%9b%b4%e5%90%8d&form=hpcapt&mkt=zh-cn"
+link: "/search?q=%e7%8b%ae%e5%ad%90%e5%b9%bc%e5%b4%bd&form=hpcapt&mkt=zh-cn"
 copyright: "桑布鲁国家公园里摔跤的狮子幼崽，肯尼亚 (© Mark C. Ross/Getty Images)"
-image_hash: "f739687f1304d10d126f6a150ea4d794"
+image_hash: "e2bf531bb0c333894599b2cf312e540f"
 image_filename: "th?id=OHR.SibWrestling_ZH-CN4106007210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

@@ -5,6 +5,6 @@ date:   "2019-04-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.QingmingBridge_ZH-CN3844222543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%b8%85%e6%98%8e&form=hpcapt&mkt=zh-cn"
 copyright: "【今日清明】 (© Hanyu Qiu/Shutterstock)"
-image_hash: "ac6caabb436b45a06353a8018b13a1cb"
+image_hash: "336f4f58c4a7d2b57c1bf746d8c4dfeb"
 image_filename: "th?id=OHR.QingmingBridge_ZH-CN3844222543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

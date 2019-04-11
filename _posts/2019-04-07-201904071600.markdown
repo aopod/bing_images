@@ -5,6 +5,6 @@ date:   "2019-04-07 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.WallaceMonument_ZH-CN4008495741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%8d%8e%e8%8e%b1%e5%a3%ab%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=hpcapt&mkt=zh-cn"
 copyright: "俯瞰苏格兰斯特灵的华莱士国家纪念碑 (© Elena Korchenko/age fotostock)"
-image_hash: "b6989f559eb02e7e3724a794cba1ce5e"
+image_hash: "e717ebd308a457b5cbfe37128a2422a4"
 image_filename: "th?id=OHR.WallaceMonument_ZH-CN4008495741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

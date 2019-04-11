@@ -5,6 +5,6 @@ date:   "2019-04-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.GTNPBeaver_ZH-CN3940626643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%b5%b7%e7%8b%b8&form=hpcapt&mkt=zh-cn"
 copyright: "一只在大提顿国家公园里游泳的海狸 (© Charlie Hamilton James/Getty Images)"
-image_hash: "3fa5e74e39aefbaf8d6a0576c7d7b87b"
+image_hash: "9b9adbaebd2fbdeebae0b12d65a66282"
 image_filename: "th?id=OHR.GTNPBeaver_ZH-CN3940626643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
