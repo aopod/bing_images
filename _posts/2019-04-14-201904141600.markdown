@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "高山桉树的树皮，澳大利亚塔斯马尼亚"
+date:   "2019-04-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AlpineEucalyptBark_ZH-CN2046783535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a1%89%e6%a0%91&form=hpcapt&mkt=zh-cn"
+copyright: "高山桉树的树皮，澳大利亚塔斯马尼亚 (© Australian Scenics/Getty Images)"
+image_hash: "cf26218c42802c5545358613a6d4a9a8"
+image_filename: "th?id=OHR.AlpineEucalyptBark_ZH-CN2046783535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
