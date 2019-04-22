@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巴特罗之家，西班牙巴塞罗那"
+date:   "2019-04-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.CasaBatllo_ZH-CN2826447794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b7%b4%e7%89%b9%e7%bd%97%e4%b9%8b%e5%ae%b6&form=hpcapt&mkt=zh-cn"
+copyright: "巴特罗之家，西班牙巴塞罗那 (© Jon Arnold Images Ltd/Alamy)"
+image_hash: "e30f795b0075f84aa432d3f007e32a74"
+image_filename: "th?id=OHR.CasaBatllo_ZH-CN2826447794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
