@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圣米格尔·德阿连德，墨西哥"
+date:   "2019-05-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AmericanCulturalCapital_ZH-CN8717487767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9c%a3%e7%b1%b3%e6%a0%bc%e5%b0%94%c2%b7%e5%be%b7%e9%98%bf%e8%bf%9e%e5%be%b7&form=hpcapt&mkt=zh-cn"
+copyright: "圣米格尔·德阿连德，墨西哥 (© ferrantraite/Getty Images)"
+image_hash: "3bf07f89ae9cf06e7cf1a0c4261e4474"
+image_filename: "th?id=OHR.AmericanCulturalCapital_ZH-CN8717487767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
