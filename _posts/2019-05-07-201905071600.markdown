@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "黄昏时佩吉海湾的灯塔，加拿大新斯科舍省"
+date:   "2019-05-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.LightHouseNS_ZH-CN9060766128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%bd%a9%e5%90%89%e6%b5%b7%e6%b9%be%e7%9a%84%e7%81%af%e5%a1%94&form=HPCAPT&mkt=zh-cn"
+copyright: "黄昏时佩吉海湾的灯塔，加拿大新斯科舍省 (© Darwin Wiggett/Offset)"
+image_hash: "9d15e2cd4784441af6b203a2dd5f7412"
+image_filename: "th?id=OHR.LightHouseNS_ZH-CN9060766128_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
