@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "the Pura Meduwe Karang神庙中雕刻艺术家W.O.J.Nieuwenkamp的作品，印度尼西亚巴厘岛"
+date:   "2019-05-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BicycleRelief_ZH-CN4483533362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=W.O.J.Nieuwenkamp%e7%9a%84%e4%bd%9c%e5%93%81&form=hpcapt&mkt=zh-cn"
+copyright: "the Pura Meduwe Karang神庙中雕刻艺术家W.O.J.Nieuwenkamp的作品，印度尼西亚巴厘岛 (© John Elk III/Getty Images)"
+image_hash: "1bfd8b77cfd52b9bb6af0c3eba63c988"
+image_filename: "th?id=OHR.BicycleRelief_ZH-CN4483533362_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
