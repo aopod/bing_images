@@ -5,6 +5,6 @@ date:   "2019-05-15 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.xiaoicepainting_ZH-CN8581660984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%bf%85%e5%ba%94%e7%be%8e%e5%9b%be&form=hpcapt&mkt=zh-cn"
 copyright: "来自人工智能的画作《思念》 (© 微软小冰)"
-image_hash: "6a5c3ea885e56eb29e0303906ec0cb86"
+image_hash: "9fd23e5873dc5a2062861db9aa13d0cd"
 image_filename: "th?id=OHR.xiaoicepainting_ZH-CN8581660984_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
