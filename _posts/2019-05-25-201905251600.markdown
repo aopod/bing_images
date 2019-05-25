@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圣米歇尔山"
+date:   "2019-05-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MarathonduMont_ZH-CN5049722437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9c%a3%e7%b1%b3%e6%ad%87%e5%b0%94%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "圣米歇尔山 (© Leroy Francis/Getty Images)"
+image_hash: "02a3db999f76ec114c45de97cecc30ac"
+image_filename: "th?id=OHR.MarathonduMont_ZH-CN5049722437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
