@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "苏格兰福斯湾的巴斯岩"
+date:   "2019-06-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BassRock_ZH-CN4418828352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b7%b4%e6%96%af%e5%b2%a9&form=hpcapt&mkt=zh-cn"
+copyright: "苏格兰福斯湾的巴斯岩 (© Richard Shucksmith/Minden Pictures)"
+image_hash: "fed032e80dedbe19d2d0d364559ab93e"
+image_filename: "th?id=OHR.BassRock_ZH-CN4418828352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
