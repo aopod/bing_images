@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "秘鲁亚马逊坦博帕塔国家保护区中的树冠"
+date:   "2019-06-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PeruvianRainforest_ZH-CN4066508593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a0%91%e5%86%a0&form=hpcapt&mkt=zh-cn"
+copyright: "秘鲁亚马逊坦博帕塔国家保护区中的树冠 (© Patrick Brandenburg/Tandem Stills + Motion)"
+image_hash: "73a0f621c340498bb1abbfb4abf79258"
+image_filename: "th?id=OHR.PeruvianRainforest_ZH-CN4066508593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
