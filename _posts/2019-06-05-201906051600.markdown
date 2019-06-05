@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "诺曼底入侵后的桑树港遗址，法国诺曼底Arromanches les Bains"
+date:   "2019-06-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MulberryArtificialHarbour_ZH-CN3973249802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a1%91%e6%a0%91%e6%b8%af%e9%81%97%e5%9d%80&form=hpcapt&mkt=zh-cn"
+copyright: "诺曼底入侵后的桑树港遗址，法国诺曼底Arromanches les Bains (© Javier Gil/Alamy)"
+image_hash: "322f403bcc2f26ce656e9dd2d74856ea"
+image_filename: "th?id=OHR.MulberryArtificialHarbour_ZH-CN3973249802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
