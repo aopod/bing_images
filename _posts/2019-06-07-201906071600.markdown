@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "吉利群岛上生长着珊瑚的人工珊瑚礁，印度尼西亚"
+date:   "2019-06-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Biorocks_ZH-CN7851264095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%ba%ba%e5%b7%a5%e7%8f%8a%e7%91%9a%e7%a4%81&form=hpcapt&mkt=zh-cn"
+copyright: "吉利群岛上生长着珊瑚的人工珊瑚礁，印度尼西亚 (© fenkieandreas/Getty Images Plus)"
+image_hash: "bd387e698721119c5d71eb9f1ee89b5b"
+image_filename: "th?id=OHR.Biorocks_ZH-CN7851264095_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
