@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "富士山与丛生福禄考花田，日本山梨县"
+date:   "2019-06-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FujiSakura_ZH-CN8005792871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1%e4%b8%8e%e4%b8%9b%e7%94%9f%e7%a6%8f%e7%a6%84%e8%80%83%e8%8a%b1%e7%94%b0&form=hpcapt&mkt=zh-cn"
+copyright: "富士山与丛生福禄考花田，日本山梨县 (© Srinil/shutterstock)"
+image_hash: "2255f8bd2be9c629d097f53df02d25c9"
+image_filename: "th?id=OHR.FujiSakura_ZH-CN8005792871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
