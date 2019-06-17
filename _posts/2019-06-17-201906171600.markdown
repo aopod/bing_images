@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "勃艮第蜗牛，也称为食用蜗牛"
+date:   "2019-06-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HelixPomatia_ZH-CN9785223494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8b%83%e8%89%ae%e7%ac%ac%e8%9c%97%e7%89%9b&form=hpcapt&mkt=zh-cn"
+copyright: "勃艮第蜗牛，也称为食用蜗牛 (© Heidi and Hans-Juergen Koch/Minden Pictures)"
+image_hash: "a727978a2a93fcff07b5f68194efd057"
+image_filename: "th?id=OHR.HelixPomatia_ZH-CN9785223494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
