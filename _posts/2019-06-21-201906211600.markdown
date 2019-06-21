@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马瑙斯附近的亚马逊河流域鸟瞰图，巴西"
+date:   "2019-06-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ManausBasin_ZH-CN4303809335_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%ba%9a%e9%a9%ac%e9%80%8a%e6%b2%b3%e6%b5%81%e5%9f%9f&form=hpcapt&mkt=zh-cn"
+copyright: "马瑙斯附近的亚马逊河流域鸟瞰图，巴西 (© Art Wolfe/Danita Delimont)"
+image_hash: "07ece3432192b0fc7e57b9ff5853ebe9"
+image_filename: "th?id=OHR.ManausBasin_ZH-CN4303809335_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
