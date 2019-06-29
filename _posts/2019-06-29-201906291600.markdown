@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "金拟花鮨鱼群游过珊瑚，印度洋马约特岛"
+date:   "2019-06-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.RedAnthiasCoralMayotte_ZH-CN5646370533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%87%91%e6%8b%9f%e8%8a%b1%e9%ae%a8%e9%b1%bc%e7%be%a4&form=hpcapt&mkt=zh-cn"
+copyright: "金拟花鮨鱼群游过珊瑚，印度洋马约特岛 (© Gabriel Barathieu/Minden Pictures)"
+image_hash: "064711c281b985078f49867cdb87d387"
+image_filename: "th?id=OHR.RedAnthiasCoralMayotte_ZH-CN5646370533_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
