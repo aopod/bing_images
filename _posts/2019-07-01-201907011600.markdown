@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "2017年8月21日的一组日食镜头"
+date:   "2019-07-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BailysBeads_ZH-CN5728297739_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%97%a5%e9%a3%9f&form=hpcapt&mkt=zh-cn"
+copyright: "2017年8月21日的一组日食镜头 (© Lindsay Daniels/Tandem Stills + Motion)"
+image_hash: "7d37fb14747bb4185a53fcf2a49e68ff"
+image_filename: "th?id=OHR.BailysBeads_ZH-CN5728297739_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
