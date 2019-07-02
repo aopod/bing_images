@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "特兰西瓦尼亚的川斯发格拉山公路，罗马尼亚"
+date:   "2019-07-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Transfagarasan_ZH-CN5760731327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b7%9d%e6%96%af%e5%8f%91%e6%a0%bc%e6%8b%89%e5%b1%b1%e5%85%ac%e8%b7%af&form=hpcapt&mkt=zh-cn"
+copyright: "特兰西瓦尼亚的川斯发格拉山公路，罗马尼亚 (© Calin Stan/Shutterstock)"
+image_hash: "bb378965e1840e0c9b9748501ea06cc8"
+image_filename: "th?id=OHR.Transfagarasan_ZH-CN5760731327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
