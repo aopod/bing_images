@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "舍夫沙万的蓝色墙壁，摩洛哥"
+date:   "2019-07-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ChefchaouenMorocco_ZH-CN6127993429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%88%8d%e5%a4%ab%e6%b2%99%e4%b8%87&form=hpcapt&mkt=zh-cn"
+copyright: "舍夫沙万的蓝色墙壁，摩洛哥 (© Tatsuya Ohinata/Getty Images)"
+image_hash: "4e449d5f36bb70b30ec1913ea4819861"
+image_filename: "th?id=OHR.ChefchaouenMorocco_ZH-CN6127993429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
