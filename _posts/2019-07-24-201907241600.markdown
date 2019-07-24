@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "清晨暴雨中的Cathedral，澳大利亚布法罗山"
+date:   "2019-07-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.CathedralMountBuffalo_ZH-CN4341947983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Cathedral&form=hpcapt&mkt=zh-cn"
+copyright: "清晨暴雨中的Cathedral，澳大利亚布法罗山 (© Ilya Genkin/Alamy)"
+image_hash: "5c4b7b7d11456918494bc1ecea07951c"
+image_filename: "th?id=OHR.CathedralMountBuffalo_ZH-CN4341947983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
