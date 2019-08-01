@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "克拉莫克湖上的倒影，英国坎布里亚湖区"
+date:   "2019-08-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.CrummockWater_ZH-CN9317792500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%85%8b%e6%8b%89%e8%8e%ab%e5%85%8b%e6%b9%96%e4%b8%8a%e7%9a%84%e5%80%92%e5%bd%b1&form=hpcapt&mkt=zh-cn"
+copyright: "克拉莫克湖上的倒影，英国坎布里亚湖区 (© Damian Harrison/Alamy)"
+image_hash: "18d2d0bfd70ef9b95aaa1a269e581ffb"
+image_filename: "th?id=OHR.CrummockWater_ZH-CN9317792500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
