@@ -5,6 +5,6 @@ date:   "2019-07-28 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.TrilliumLake_ZH-CN4079462365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%bb%b6%e9%be%84%e8%8d%89%e6%b9%96&form=hpcapt&mkt=zh-cn"
 copyright: "胡德山国家森林里的延龄草湖，俄勒冈州 (© Frank Krahmer/Getty Images)"
-image_hash: "bec8781f72f12cf3d3860b1e7ba5a3fd"
+image_hash: "35b71ee86b55a8e534bd81baeecd60cf"
 image_filename: "th?id=OHR.TrilliumLake_ZH-CN4079462365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
