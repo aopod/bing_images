@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "安博塞利国家公园的大象，肯尼亚"
+date:   "2019-08-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AmboseliHerd_ZH-CN0249135007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a4%a7%e8%b1%a1&form=hpcapt&mkt=zh-cn"
+copyright: "安博塞利国家公园的大象，肯尼亚 (© Adam Bannister/Offset)"
+image_hash: "dd231803cdd1b0d43a1bdbb640cba6b2"
+image_filename: "th?id=OHR.AmboseliHerd_ZH-CN0249135007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
