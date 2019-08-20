@@ -5,6 +5,6 @@ date:   "2019-08-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MagdalenCave_ZH-CN6279630125_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%a9%ac%e6%a0%bc%e8%be%be%e4%bc%a6%e7%be%a4%e5%b2%9b%e6%b4%9e%e7%a9%b4%e5%86%85%e9%83%a8&form=hpcapt&mkt=zh-cn"
 copyright: "马格达伦群岛洞穴内部，加拿大魁北克 (© Virginie Fréchette/Getty Images)"
-image_hash: "cf3dd8b6d922c21bafb88b67efe07b8a"
+image_hash: "79f1468d424b27f3ec01ed5f00eba41c"
 image_filename: "th?id=OHR.MagdalenCave_ZH-CN6279630125_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
