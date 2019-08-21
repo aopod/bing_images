@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "哈利法塔湖中的迪拜喷泉，迪拜哈利法塔"
+date:   "2019-08-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.DubaiFountain_ZH-CN7944507087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%bf%aa%e6%8b%9c%e5%96%b7%e6%b3%89&form=hpcapt&mkt=zh-cn"
+copyright: "哈利法塔湖中的迪拜喷泉，迪拜哈利法塔 (© Eli Asenova/Getty Images)"
+image_hash: "7d003670d0e5664f45c329fb88050658"
+image_filename: "th?id=OHR.DubaiFountain_ZH-CN7944507087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
