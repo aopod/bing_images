@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Gharial野生动物保护区中的两只玫瑰环鹦鹉，印度中央邦"
+date:   "2019-08-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ParrotsIndia_ZH-CN8386276023_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%8e%ab%e7%91%b0%e7%8e%af%e9%b9%a6%e9%b9%89&form=hpcapt&mkt=zh-cn"
+copyright: "Gharial野生动物保护区中的两只玫瑰环鹦鹉，印度中央邦 (© Pete Oxford/Minden Pictures)"
+image_hash: "83be1a120f8ce9eef03eb0a557b67367"
+image_filename: "th?id=OHR.ParrotsIndia_ZH-CN8386276023_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
