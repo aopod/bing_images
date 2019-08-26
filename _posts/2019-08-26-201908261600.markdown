@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "苏门答腊海岸正在喷发的喀拉喀托火山，印度尼西亚"
+date:   "2019-08-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Krakatoa_ZH-CN8471800710_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%96%80%e6%8b%89%e5%96%80%e6%89%98%e7%81%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "苏门答腊海岸正在喷发的喀拉喀托火山，印度尼西亚 (© Martin Rietze/Alamy)"
+image_hash: "cfd15fe9d6df32636f037823a68c681c"
+image_filename: "th?id=OHR.Krakatoa_ZH-CN8471800710_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
