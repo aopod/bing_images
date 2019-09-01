@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "拉姆绍的Wimbachklamm峡谷，德国巴伐利亚"
+date:   "2019-09-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.RamsauWimbachklamm_ZH-CN1602837695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Wimbachklamm%e5%b3%a1%e8%b0%b7&form=hpcapt&mkt=zh-cn"
+copyright: "拉姆绍的Wimbachklamm峡谷，德国巴伐利亚 (© Westend61 GmbH/Alamy)"
+image_hash: "9f822f5607e3cec381408303a73c1986"
+image_filename: "th?id=OHR.RamsauWimbachklamm_ZH-CN1602837695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
