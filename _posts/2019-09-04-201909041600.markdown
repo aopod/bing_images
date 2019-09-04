@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "乌布的德格拉朗梯田，印度尼西亚巴厘岛"
+date:   "2019-09-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Tegallalang_ZH-CN1855493751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%be%b7%e6%a0%bc%e6%8b%89%e6%9c%97%e6%a2%af%e7%94%b0&form=hpcapt&mkt=zh-cn"
+copyright: "乌布的德格拉朗梯田，印度尼西亚巴厘岛 (© gorgeoussab/Shutterstock)"
+image_hash: "2ee102451a0e3495f2818925c3c0588d"
+image_filename: "th?id=OHR.Tegallalang_ZH-CN1855493751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
