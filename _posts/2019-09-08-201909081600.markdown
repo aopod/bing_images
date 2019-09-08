@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "中部海岸的葡萄园，加利福尼亚大阿罗约"
+date:   "2019-09-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ArroyoGrande_ZH-CN2178202888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%91%a1%e8%90%84%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "中部海岸的葡萄园，加利福尼亚大阿罗约 (© Ian Shive/Tandem Motion + Stills)"
+image_hash: "0c3f80aef23ac164010b2c39356bc0b2"
+image_filename: "th?id=OHR.ArroyoGrande_ZH-CN2178202888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
