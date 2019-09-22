@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "秋分时日的卡斯蒂略金字塔，墨西哥奇琴伊察"
+date:   "2019-09-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FeatherSerpent_ZH-CN5706017355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8d%a1%e6%96%af%e8%92%82%e7%95%a5%e9%87%91%e5%ad%97%e5%a1%94&form=hpcapt&mkt=zh-cn"
+copyright: "秋分时日的卡斯蒂略金字塔，墨西哥奇琴伊察 (© Somatuscani/Getty Images Plus)"
+image_hash: "659edf49a55ea9088b5e019af78ca700"
+image_filename: "th?id=OHR.FeatherSerpent_ZH-CN5706017355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
