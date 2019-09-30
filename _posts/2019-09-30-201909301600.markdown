@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "【国庆70周年】"
+date:   "2019-09-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.NationalDay70_ZH-CN1636316274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9b%bd%e5%ba%8670%e5%91%a8%e5%b9%b4&form=hpcapt&mkt=zh-cn"
+copyright: "【国庆70周年】 (© Prasit Rodphan/Alamy Stock Photo)"
+image_hash: "ae75194f15f0ea361fc26c1205abe4c8"
+image_filename: "th?id=OHR.NationalDay70_ZH-CN1636316274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
