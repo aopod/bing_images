@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "木星增强色彩后的一组镜头"
+date:   "2019-10-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.JupiterJunoCam_ZH-CN1843443643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%9c%a8%e6%98%9f&form=hpcapt&mkt=zh-cn"
+copyright: "木星增强色彩后的一组镜头 (© Enhanced Image by Gerald Eichstädt and Sean Doran, CC BY-NC-SA, based on images provided Courtesy of NASA/JPL-Caltech/SwRI/MSSS)"
+image_hash: "9d04295cad4baea0c5e09c100a83e98c"
+image_filename: "th?id=OHR.JupiterJunoCam_ZH-CN1843443643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
