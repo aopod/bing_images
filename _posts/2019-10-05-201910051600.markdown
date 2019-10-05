@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马尔堡峡湾鸟瞰图，新西兰"
+date:   "2019-10-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MarlboroughSounds_ZH-CN2539444443_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a9%ac%e5%b0%94%e5%a0%a1%e5%b3%a1%e6%b9%be&form=hpcapt&mkt=zh-cn"
+copyright: "马尔堡峡湾鸟瞰图，新西兰 (© Mathias Ortmann/Getty Images)"
+image_hash: "cc920e6ee91f452bb568f85acfbceac0"
+image_filename: "th?id=OHR.MarlboroughSounds_ZH-CN2539444443_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
