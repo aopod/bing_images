@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿尔伯塔的日出，加拿大"
+date:   "2019-10-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AlbertaThanksgiving_ZH-CN5899007960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%98%bf%e5%b0%94%e4%bc%af%e5%a1%94%e7%9a%84%e6%97%a5%e5%87%ba&form=hpcapt&mkt=zh-cn"
+copyright: "阿尔伯塔的日出，加拿大 (© Ambre Haller/Moment/Getty Images)"
+image_hash: "54ba1f944ffa5b13a8ce1916c597b336"
+image_filename: "th?id=OHR.AlbertaThanksgiving_ZH-CN5899007960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
