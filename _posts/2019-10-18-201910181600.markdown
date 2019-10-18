@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "半月湾南瓜地鸟瞰图，加利福尼亚"
+date:   "2019-10-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HalfMoonBayPumpkin_ZH-CN6219747714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8d%8a%e6%9c%88%e6%b9%be%e5%8d%97%e7%93%9c%e5%9c%b0&form=hpcapt&mkt=zh-cn"
+copyright: "半月湾南瓜地鸟瞰图，加利福尼亚 (© Tinker Street/Michael O'Neal/Gallery Stock)"
+image_hash: "4a7f796bc581beefa84be069546ba1a6"
+image_filename: "th?id=OHR.HalfMoonBayPumpkin_ZH-CN6219747714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
