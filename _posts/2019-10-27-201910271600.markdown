@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Fort Rock Valley Historical Homestead博物馆，俄勒冈"
+date:   "2019-10-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FortRockHomestead_ZH-CN0775183699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Fort+Rock+Valley+Historical+Homestead%e5%8d%9a%e7%89%a9%e9%a6%86&form=hpcapt&mkt=zh-cn"
+copyright: "Fort Rock Valley Historical Homestead博物馆，俄勒冈 (© Prisma by Dukas Presseagentur GmbH/Alamy)"
+image_hash: "ae7e1f6bb240d4a4591b284090ce4032"
+image_filename: "th?id=OHR.FortRockHomestead_ZH-CN0775183699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
