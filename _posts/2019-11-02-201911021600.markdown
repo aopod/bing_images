@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "喜马拉雅山脉的钱德拉塔尔湖，印度"
+date:   "2019-11-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ChandraTal_ZH-CN2809744505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%92%b1%e5%be%b7%e6%8b%89%e5%a1%94%e5%b0%94%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "喜马拉雅山脉的钱德拉塔尔湖，印度 (© f9photos/Getty Images Plus)"
+image_hash: "10049fd1a948eb65bd8ab1d532b2af96"
+image_filename: "th?id=OHR.ChandraTal_ZH-CN2809744505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
