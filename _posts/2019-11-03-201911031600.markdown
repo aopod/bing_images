@@ -5,6 +5,6 @@ date:   "2019-11-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MtDiablo_ZH-CN2888586273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%bb%a3%e9%98%bf%e5%b8%83%e6%b4%9b%e5%b3%b0%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "代阿布洛峰州立公园，加利福尼亚 (© Yuval Helfman/Getty Images)"
-image_hash: "e41952c9adebba799d79bd35cc00e4c6"
+image_hash: "b9bcee6359569a1d91c6af0fd186b82b"
 image_filename: "th?id=OHR.MtDiablo_ZH-CN2888586273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

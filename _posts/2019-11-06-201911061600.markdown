@@ -5,6 +5,6 @@ date:   "2019-11-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.LouvreAutumn_ZH-CN3206208609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%9d%9c%e4%b9%90%e4%b8%bd%e8%8a%b1%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "秋日里通往卢浮宫的杜乐丽花园，法国巴黎 (© Brian A. Jackson/Getty Images Plus)"
-image_hash: "d51f1f0165be4a4c34a51cbfdaf144b7"
+image_hash: "90ab8b71d4086701adc95e2b070b6ae6"
 image_filename: "th?id=OHR.LouvreAutumn_ZH-CN3206208609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
