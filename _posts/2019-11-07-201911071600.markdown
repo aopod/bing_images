@@ -5,6 +5,6 @@ date:   "2019-11-07 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Lidong2019_ZH-CN0761273672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%bb%8a%e6%97%a5%e7%ab%8b%e5%86%ac&form=hpcapt&mkt=zh-cn"
 copyright: "【今日立冬】 (© zhouyousifang/Getty Images)"
-image_hash: "0db0274c31f83ae9a6287740457c9526"
+image_hash: "0caf032f0888bd9d701838a2a670f849"
 image_filename: "th?id=OHR.Lidong2019_ZH-CN0761273672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
