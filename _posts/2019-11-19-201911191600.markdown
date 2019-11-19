@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "瑟门山国家公园里的狮尾狒狒，埃塞俄比亚北部"
+date:   "2019-11-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SimienGelada_ZH-CN1529423800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%8b%ae%e5%b0%be%e7%8b%92%e7%8b%92&form=hpcapt&mkt=zh-cn"
+copyright: "瑟门山国家公园里的狮尾狒狒，埃塞俄比亚北部 (© Marco Gaiotti/plainpicture)"
+image_hash: "c155c118cc6dfc64b830827fe8a842e8"
+image_filename: "th?id=OHR.SimienGelada_ZH-CN1529423800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
