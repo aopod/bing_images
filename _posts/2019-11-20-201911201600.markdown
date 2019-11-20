@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Lantignie的景色，法国博若莱"
+date:   "2019-11-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BeaujolaisRegion_ZH-CN1585928268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Lantignie&form=hpcapt&mkt=zh-cn"
+copyright: "Lantignie的景色，法国博若莱 (© Jon Arnold/Danita Delimont)"
+image_hash: "99950fa3cf4c0bcacc42c2910aac628e"
+image_filename: "th?id=OHR.BeaujolaisRegion_ZH-CN1585928268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
