@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "高地牛，荷兰德伦特省"
+date:   "2019-11-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HairyHighlanders_ZH-CN5546635143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%ab%98%e5%9c%b0%e7%89%9b&form=hpcapt&mkt=zh-cn"
+copyright: "高地牛，荷兰德伦特省 (© defotoberg/Shutterstock)"
+image_hash: "556980dc05d6e5d274b16b5ac610980b"
+image_filename: "th?id=OHR.HairyHighlanders_ZH-CN5546635143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
