@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿斯本附近的褐铃山，科罗拉多州"
+date:   "2019-11-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AspenHiking_ZH-CN5769117414_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%a4%90%e9%93%83%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "阿斯本附近的褐铃山，科罗拉多州 (© Christopher E. Herbert/Getty Images)"
+image_hash: "c23c632b8d5d55e79f3617e7983902e9"
+image_filename: "th?id=OHR.AspenHiking_ZH-CN5769117414_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
