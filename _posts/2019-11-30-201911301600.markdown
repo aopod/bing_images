@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "“哈雷六号”科考站上空的南极光，南极洲"
+date:   "2019-11-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HalleyVI_ZH-CN6048621088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8d%97%e6%9e%81%e5%85%89&form=hpcapt&mkt=zh-cn"
+copyright: "“哈雷六号”科考站上空的南极光，南极洲 (© Stuart Holroyd/Alamy)"
+image_hash: "70c7beaacc53c9bbcf13e1a49dff70c7"
+image_filename: "th?id=OHR.HalleyVI_ZH-CN6048621088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
