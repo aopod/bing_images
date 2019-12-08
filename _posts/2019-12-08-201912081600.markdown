@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一枚微芯片的特写"
+date:   "2019-12-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BlueChip_ZH-CN7376022522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%be%ae%e8%8a%af%e7%89%87&form=hpcapt&mkt=zh-cn"
+copyright: "一枚微芯片的特写 (© Bobkov Evgeniy/Shutterstock)"
+image_hash: "e0e27c202e18d63cb9560873b0770b48"
+image_filename: "th?id=OHR.BlueChip_ZH-CN7376022522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
