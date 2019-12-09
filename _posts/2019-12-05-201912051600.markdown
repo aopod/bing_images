@@ -5,6 +5,6 @@ date:   "2019-12-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.NambungPinnacles_ZH-CN7198283991_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%b0%96%e5%b3%b0%e7%9f%b3%e9%98%b5&form=hpcapt&mkt=zh-cn"
 copyright: "南邦国家公园的尖峰石阵，西澳大利亚州 (© Frank Krahmer/Getty Images Plus)"
-image_hash: "2d29b0da4cabb6b03b84d3c1c20e1825"
+image_hash: "47b3bfb165314a72aff06d7d350aad04"
 image_filename: "th?id=OHR.NambungPinnacles_ZH-CN7198283991_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
