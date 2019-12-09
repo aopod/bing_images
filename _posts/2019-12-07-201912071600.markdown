@@ -5,6 +5,6 @@ date:   "2019-12-07 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.PurpleWeekend_ZH-CN7324572668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%91%a9%e6%89%98%e8%bd%a6&form=hpcapt&mkt=zh-cn"
 copyright: "装饰有多个镜子、灯和空气喇叭的摩托车 (© stocknshares/Getty Images)"
-image_hash: "99be11f6f1b8da5b622b7a3c3907b9bd"
+image_hash: "e670a1cf58dfeab4f1e8308f022f80ef"
 image_filename: "th?id=OHR.PurpleWeekend_ZH-CN7324572668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
