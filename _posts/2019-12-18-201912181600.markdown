@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "福吉谷国家历史公园中的小屋，宾夕法尼亚"
+date:   "2019-12-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ValleyForge_ZH-CN8129420249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%a6%8f%e5%90%89%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%8e%86%e5%8f%b2%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "福吉谷国家历史公园中的小屋，宾夕法尼亚 (© Mark C. Morris/Shutterstock)"
+image_hash: "e8d19131a1cb32e0a5edd92e17a0d367"
+image_filename: "th?id=OHR.ValleyForge_ZH-CN8129420249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
