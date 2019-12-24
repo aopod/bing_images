@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "华沙的圣诞节日装饰，波兰"
+date:   "2019-12-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.WarsawXmas_ZH-CN5981724395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9c%a3%e8%af%9e%e8%8a%82%e6%97%a5%e8%a3%85%e9%a5%b0&form=hpcapt&mkt=zh-cn"
+copyright: "华沙的圣诞节日装饰，波兰 (© David Milsen/Alamy)"
+image_hash: "642a9084af583278ddc2f5b95ed8bfb7"
+image_filename: "th?id=OHR.WarsawXmas_ZH-CN5981724395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
