@@ -5,6 +5,6 @@ date:   "2019-12-19 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MauiEucalyptus_ZH-CN5616197787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%bd%a9%e8%99%b9%e6%a1%89%e6%a0%91&form=hpcapt&mkt=zh-cn"
 copyright: "哈纳公路沿线的彩虹桉树，毛伊岛 (© GlowingEarth/Getty Images Plus)"
-image_hash: "4bd8ce440fc590d9e8a30ed9def21220"
+image_hash: "c3feb09f2c6271cf08b79e90e2934a1b"
 image_filename: "th?id=OHR.MauiEucalyptus_ZH-CN5616197787_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
