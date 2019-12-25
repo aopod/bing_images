@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "位于Praprotno村之上的圣托马斯教堂"
+date:   "2019-12-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SloveniaAlps_ZH-CN6052706424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9c%a3%e6%89%98%e9%a9%ac%e6%96%af%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn"
+copyright: "位于Praprotno村之上的圣托马斯教堂 (© Guy Edwardes/Minden Pictures)"
+image_hash: "aa88059c103742a0bd2ff4b8e8c5b960"
+image_filename: "th?id=OHR.SloveniaAlps_ZH-CN6052706424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
