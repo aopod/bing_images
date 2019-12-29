@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "图森附近索诺兰沙漠中的巨柱仙人掌，亚利桑那州"
+date:   "2019-12-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SkyIslands_ZH-CN6229467399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b7%a8%e6%9f%b1%e4%bb%99%e4%ba%ba%e6%8e%8c&form=hpcapt&mkt=zh-cn"
+copyright: "图森附近索诺兰沙漠中的巨柱仙人掌，亚利桑那州 (© Jack Dykinga/Minden Pictures)"
+image_hash: "f8c7e3509ac8cb24f35825518f417194"
+image_filename: "th?id=OHR.SkyIslands_ZH-CN6229467399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
