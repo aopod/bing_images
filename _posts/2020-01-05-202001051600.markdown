@@ -5,6 +5,6 @@ date:   "2020-01-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.TrakaiLithuania_ZH-CN0447602818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%89%b9%e6%8b%89%e5%87%af%e5%9f%8e%e5%a0%a1%e5%8d%9a%e7%89%a9%e9%a6%86&form=hpcapt&mkt=zh-cn"
 copyright: "特拉凯城堡博物馆，立陶宛特拉凯 (© Andrius Aleksandravicius/Alamy)"
-image_hash: "6476157bfd114d82ca173351ff60c9d9"
+image_hash: "a531c885359515a95e2144b725228b55"
 image_filename: "th?id=OHR.TrakaiLithuania_ZH-CN0447602818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

@@ -5,6 +5,6 @@ date:   "2020-01-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SnowdoniaDolwyddelan_ZH-CN0238391772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a4%9a%e5%b0%94%e5%a8%81%e6%b3%bd%e5%85%b0%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn"
 copyright: "斯诺多尼亚国家公园多尔威泽兰城堡，英国威尔士康威 (© Sebastian Wasek/Sime/eStock Photo)"
-image_hash: "930b5d216f383a57cbdf2ac4ced765ec"
+image_hash: "d7dc8a6c0d3fc8ada3a051c54145a5b2"
 image_filename: "th?id=OHR.SnowdoniaDolwyddelan_ZH-CN0238391772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
