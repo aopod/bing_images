@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阳光照耀下的火山岩山脊，冰岛埃亚菲亚德拉冰盖"
+date:   "2020-01-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SunlitScree_ZH-CN7556627842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%81%ab%e5%b1%b1%e5%b2%a9&form=HPCAPT&mkt=zh-cn"
+copyright: "阳光照耀下的火山岩山脊，冰岛埃亚菲亚德拉冰盖 (© Erlend Haarberg/Minden Pictures)"
+image_hash: "52863cf7d50330fddd4be78bfbc41728"
+image_filename: "th?id=OHR.SunlitScree_ZH-CN7556627842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
