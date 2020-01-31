@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从上魏斯巴赫山地列车的车站向外看，德国图林根"
+date:   "2020-01-31 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.OberweissbacherBergbahn_ZH-CN1289048050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%ad%8f%e6%96%af%e5%b7%b4%e8%b5%ab%e5%b1%b1%e5%9c%b0%e5%88%97%e8%bd%a6&form=hpcapt&mkt=zh-cn"
+copyright: "从上魏斯巴赫山地列车的车站向外看，德国图林根 (© golero/iStock/Getty Images Plus)"
+image_hash: "56e57478754b9e4f7f9bcd2f75da2959"
+image_filename: "th?id=OHR.OberweissbacherBergbahn_ZH-CN1289048050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
