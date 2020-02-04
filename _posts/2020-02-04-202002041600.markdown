@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "亚伯拉罕湖中的冰泡，加拿大艾伯塔省"
+date:   "2020-02-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AlbertaBubbles_ZH-CN1528424173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%86%b0%e6%b3%a1&form=hpcapt&mkt=zh-cn"
+copyright: "亚伯拉罕湖中的冰泡，加拿大艾伯塔省 (© robertharding/Alamy)"
+image_hash: "e4c558091022b638cc88f17a0aa68cbc"
+image_filename: "th?id=OHR.AlbertaBubbles_ZH-CN1528424173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
