@@ -5,6 +5,6 @@ date:   "2020-02-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SneezeSpring_ZH-CN1577114008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%9b%aa%e8%8a%b1%e8%8e%b2&form=hpcapt&mkt=zh-cn"
 copyright: "一朵盛开的雪花莲 (© Péter Hegedűs/Getty Images)"
-image_hash: "920ece4e7cffdf025eb3c4ed39b0228a"
+image_hash: "3f8a91c5463a41b6670dfa9dd4a5a277"
 image_filename: "th?id=OHR.SneezeSpring_ZH-CN1577114008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
