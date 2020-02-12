@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巨大的冰柱悬挂在Abiqua瀑布周围的玄武岩石墙上，俄勒冈"
+date:   "2020-02-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AbiquaFalls_ZH-CN2781539758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Abiqua%e7%80%91%e5%b8%83&form=hpcapt&mkt=zh-cn"
+copyright: "巨大的冰柱悬挂在Abiqua瀑布周围的玄武岩石墙上，俄勒冈 (© Joshua Meador/Tandem Stills + Motion)"
+image_hash: "b147fd6d953aaacd9cd8bf29ef79d3eb"
+image_filename: "th?id=OHR.AbiquaFalls_ZH-CN2781539758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
