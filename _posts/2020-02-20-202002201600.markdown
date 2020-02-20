@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "施塔弗尔湖畔乌芬附近的桦树大道，德国巴伐利亚"
+date:   "2020-02-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.UffingStaffelseeWinter_ZH-CN4001263375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a1%a6%e6%a0%91%e5%a4%a7%e9%81%93&form=hpcapt&mkt=zh-cn"
+copyright: "施塔弗尔湖畔乌芬附近的桦树大道，德国巴伐利亚 (© Reinhard Schmid/eStock Photo)"
+image_hash: "7f86ba6133f8afb68e1ab47e0f4d6dd5"
+image_filename: "th?id=OHR.UffingStaffelseeWinter_ZH-CN4001263375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
