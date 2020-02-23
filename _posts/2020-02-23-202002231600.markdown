@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "朝圣者将风马旗扔向甘登寺上方的空中为新年祈福，中国西藏"
+date:   "2020-02-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Windhorses_ZH-CN5349922758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a3%8e%e9%a9%ac%e6%97%97&form=hpcapt&mkt=zh-cn"
+copyright: "朝圣者将风马旗扔向甘登寺上方的空中为新年祈福，中国西藏 (© Ian Cumming/plainpicture)"
+image_hash: "ddbbdd107194585bcc6cc297ae441266"
+image_filename: "th?id=OHR.Windhorses_ZH-CN5349922758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
