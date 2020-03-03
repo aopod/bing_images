@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Dos Ojos自然公园里El Pit Cenote的潜水员，墨西哥金塔纳罗奥"
+date:   "2020-03-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ElPit_ZH-CN1174143508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%bd%9c%e6%b0%b4%e5%91%98&form=hpcapt&mkt=zh-cn"
+copyright: "Dos Ojos自然公园里El Pit Cenote的潜水员，墨西哥金塔纳罗奥 (© Christia Vizl/Tandem Stills + Motion)"
+image_hash: "01a8ca589055f2982c01bf0ea2429b73"
+image_filename: "th?id=OHR.ElPit_ZH-CN1174143508_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
