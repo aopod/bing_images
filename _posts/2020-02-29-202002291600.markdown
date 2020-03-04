@@ -5,6 +5,6 @@ date:   "2020-02-29 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.FlowingClouds_ZH-CN0721854476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%b5%81%e4%ba%91&form=hpcapt&mkt=zh-cn"
 copyright: "大西洋和特内里费山脉上空的流云，西班牙加那利群岛 (© MikeMareen/iStock/Getty Images Plus)"
-image_hash: "9324e5e4add89f77e6e6f67d5dd37dba"
+image_hash: "a33f6ec95ac4cf290857fd3a3582c984"
 image_filename: "th?id=OHR.FlowingClouds_ZH-CN0721854476_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
