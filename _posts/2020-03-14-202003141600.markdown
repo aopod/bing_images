@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "缅因州达马里斯科塔地区的佩马基德灯塔"
+date:   "2020-03-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MetamorphicRocks_ZH-CN9753251368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%bd%a9%e9%a9%ac%e5%9f%ba%e5%be%b7%e7%81%af%e5%a1%94&form=hpcapt&mkt=zh-cn"
+copyright: "缅因州达马里斯科塔地区的佩马基德灯塔 (© Tom Whitney/Adobe Stock)"
+image_hash: "8b410f8bc1bf8a17915ea5acf7e8d334"
+image_filename: "th?id=OHR.MetamorphicRocks_ZH-CN9753251368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
