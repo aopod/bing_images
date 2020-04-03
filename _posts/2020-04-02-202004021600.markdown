@@ -5,6 +5,6 @@ date:   "2020-04-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.PlaceofRainbows_ZH-CN7878813025_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e7%80%91%e5%b8%83&form=hpcapt&mkt=zh-cn"
 copyright: "维多利亚瀑布上的彩虹，赞比亚 (© Dietmar Temps/Shutterstock)"
-image_hash: "5ae21f50597d57a8df1719a73b77a35f"
+image_hash: "4650ea6443dd915442c949551fefc6c4"
 image_filename: "th?id=OHR.PlaceofRainbows_ZH-CN7878813025_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
