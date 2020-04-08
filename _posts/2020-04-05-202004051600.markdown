@@ -5,6 +5,6 @@ date:   "2020-04-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CastleDay_ZH-CN8752542375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a7%ac%e8%b7%af%e5%9f%8e&form=hpcapt&mkt=zh-cn"
 copyright: "盛开的樱花和姬路城，日本姬路 (© Tororo/Getty Images)"
-image_hash: "dd600fec1c60da424f717add65b516c6"
+image_hash: "ba1bbd8bbe9e78c40d3a4c9ae13ec109"
 image_filename: "th?id=OHR.CastleDay_ZH-CN8752542375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
