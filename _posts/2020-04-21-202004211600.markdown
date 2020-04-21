@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "怀波瓦森林中一棵名为Te Matua Ngahere的巨型贝壳杉树 ，新西兰北地"
+date:   "2020-04-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.KauriTree_ZH-CN3695568740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%80%80%e6%b3%a2%e7%93%a6%e6%a3%ae%e6%9e%97&form=hpcapt&mkt=zh-cn"
+copyright: "怀波瓦森林中一棵名为Te Matua Ngahere的巨型贝壳杉树 ，新西兰北地 (© Kim Westerskov/Getty Images)"
+image_hash: "813ff148cfd48ffeb60f8bbedf885184"
+image_filename: "th?id=OHR.KauriTree_ZH-CN3695568740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
