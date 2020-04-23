@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "由哈勃太空望远镜拍摄的大麦哲伦星云"
+date:   "2020-04-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MegellanicCloud_ZH-CN5132305226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a4%a7%e9%ba%a6%e5%93%b2%e4%bc%a6%e6%98%9f%e4%ba%91&form=hpcapt&mkt=zh-cn"
+copyright: "由哈勃太空望远镜拍摄的大麦哲伦星云 (© ESA/Hubble/NASA)"
+image_hash: "b4e20d0a9609ff04429c454d6873db1d"
+image_filename: "th?id=OHR.MegellanicCloud_ZH-CN5132305226_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
