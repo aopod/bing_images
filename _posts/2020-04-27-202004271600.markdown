@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "索尔茲伯里大教堂与放牧的羊群，英格兰"
+date:   "2020-04-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SalisburyCathedral_ZH-CN6366350896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%b4%a2%e5%b0%94%e8%8c%b2%e4%bc%af%e9%87%8c%e5%a4%a7%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn"
+copyright: "索尔茲伯里大教堂与放牧的羊群，英格兰 (© Slawek Staszczuk Photo/Alamy)"
+image_hash: "262f92eb1748b3ca677db0def16f4202"
+image_filename: "th?id=OHR.SalisburyCathedral_ZH-CN6366350896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
