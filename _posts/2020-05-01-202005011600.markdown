@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Kalaat M'Gouna的古堡遗址，摩洛哥"
+date:   "2020-05-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.KasbahRoses_ZH-CN8429310380_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Kalaat+M%27Gouna&form=hpcapt&mkt=zh-cn"
+copyright: "Kalaat M'Gouna的古堡遗址，摩洛哥 (© Leonid Andronov/Getty Images)"
+image_hash: "d6045c7fb7bd35fdfd108f7f0df9ae72"
+image_filename: "th?id=OHR.KasbahRoses_ZH-CN8429310380_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
