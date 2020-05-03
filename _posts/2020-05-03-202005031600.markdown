@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "乌尤尼盐沼，玻利维亚"
+date:   "2020-05-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.LastJedi_ZH-CN8789881870_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%b9%8c%e5%b0%a4%e5%b0%bc%e7%9b%90%e6%b2%bc&form=hpcapt&mkt=zh-cn"
+copyright: "乌尤尼盐沼，玻利维亚 (© Ignacio Palacios/Getty Images)"
+image_hash: "f63151a3796bdf850657146e08773c13"
+image_filename: "th?id=OHR.LastJedi_ZH-CN8789881870_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
