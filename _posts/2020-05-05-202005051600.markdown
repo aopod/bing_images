@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "库斯科附近萨克塞华曼的印加要塞，秘鲁"
+date:   "2020-05-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SiegeofCusco_ZH-CN9108219313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8d%b0%e5%8a%a0%e8%a6%81%e5%a1%9e&form=hpcapt&mkt=zh-cn"
+copyright: "库斯科附近萨克塞华曼的印加要塞，秘鲁 (© Susanne Kremer/eStock Photo)"
+image_hash: "cbc47748b23dd4e240f2efde954ed178"
+image_filename: "th?id=OHR.SiegeofCusco_ZH-CN9108219313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
