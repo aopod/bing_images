@@ -5,6 +5,6 @@ date:   "2020-05-07 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AdelaideVineyard_ZH-CN8408417885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%98%bf%e5%be%b7%e8%8e%b1%e5%be%b7%e5%b1%b1&form=hpcapt&mkt=zh-cn"
 copyright: "阿德莱德山的葡萄园，澳大利亚 (© Ben Goode/iStock/Getty Images Plus)"
-image_hash: "0c1bfd6be3cbcef1d2eb6262fba41c69"
+image_hash: "c3880fbbe95fa8d8854520e4043ba869"
 image_filename: "th?id=OHR.AdelaideVineyard_ZH-CN8408417885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

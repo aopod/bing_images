@@ -5,6 +5,6 @@ date:   "2020-05-08 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BarnOwlMigration_ZH-CN8579914070_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%bb%93%e9%b8%ae&form=hpcapt&mkt=zh-cn"
 copyright: "一只停在树枝上的仓鸮 (© blickwinkel/Alamy)"
-image_hash: "29f93aa777a1f07d7c3acdb5f1e15f63"
+image_hash: "ff4b0c72426bb58c5fe4b17d9826a4d9"
 image_filename: "th?id=OHR.BarnOwlMigration_ZH-CN8579914070_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
