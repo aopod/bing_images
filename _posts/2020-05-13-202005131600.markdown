@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "以阿贡火山为背景Sidemen山谷中的稻田，印度尼西亚巴厘岛"
+date:   "2020-05-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BaliRiceHarvest_ZH-CN9267319542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%98%bf%e8%b4%a1%e7%81%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "以阿贡火山为背景Sidemen山谷中的稻田，印度尼西亚巴厘岛 (© Jon Arnold/Danita Delimont)"
+image_hash: "3e37533b8f68abb2de3768b1d15e4abf"
+image_filename: "th?id=OHR.BaliRiceHarvest_ZH-CN9267319542_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
