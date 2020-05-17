@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "卡齐兰加国家公园的亚洲象群，印度阿萨姆邦"
+date:   "2020-05-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ElephantHerd_ZH-CN0652209931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%ba%9a%e6%b4%b2%e8%b1%a1&form=hpcapt&mkt=zh-cn"
+copyright: "卡齐兰加国家公园的亚洲象群，印度阿萨姆邦 (© Parameswaran Pillai Karunakaran/Minden Pictures)"
+image_hash: "5b5c9d25485d7e82b419398dabe9240a"
+image_filename: "th?id=OHR.ElephantHerd_ZH-CN0652209931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
