@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "格里博耶多夫运河和滴血救世主教堂，俄罗斯圣彼得堡"
+date:   "2020-06-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.GriboyedovCanal_ZH-CN7887366015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%bb%b4%e8%a1%80%e6%95%91%e4%b8%96%e4%b8%bb%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn"
+copyright: "格里博耶多夫运河和滴血救世主教堂，俄罗斯圣彼得堡 (© Tomas Sereda/Getty Images)"
+image_hash: "2a16f899d565e1c0e38e4c93f88d6250"
+image_filename: "th?id=OHR.GriboyedovCanal_ZH-CN7887366015_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
