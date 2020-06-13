@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "火灾烧毁大部分森林后，野花遍地的凯尔特河野营地"
+date:   "2020-06-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.WildflowersBC_ZH-CN8732388724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%87%af%e5%b0%94%e7%89%b9%e6%b2%b3%e9%87%8e%e8%90%a5%e5%9c%b0&form=hpcapt&mkt=zh-cn"
+copyright: "火灾烧毁大部分森林后，野花遍地的凯尔特河野营地 (© Debra Brash/plainpicture)"
+image_hash: "b99218d75eacf4257c38ba90aedc2a49"
+image_filename: "th?id=OHR.WildflowersBC_ZH-CN8732388724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
