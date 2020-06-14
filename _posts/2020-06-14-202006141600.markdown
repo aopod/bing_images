@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "梅德威海滩棕榈树间散步的冲浪者，印尼巴厘岛"
+date:   "2020-06-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SurfSeason_ZH-CN9212464908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a2%85%e5%be%b7%e5%a8%81%e6%b5%b7%e6%bb%a9&form=hpcapt&mkt=zh-cn"
+copyright: "梅德威海滩棕榈树间散步的冲浪者，印尼巴厘岛 (© helivideo/GettyImages)"
+image_hash: "e3e899157894aab6031dd65cfba7368d"
+image_filename: "th?id=OHR.SurfSeason_ZH-CN9212464908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
