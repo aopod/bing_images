@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一只带着幼崽的长胡子皇狨猴"
+date:   "2020-06-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BeardedTamarin_ZH-CN0250190365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%9a%87%e7%8b%a8%e7%8c%b4&form=hpcapt&mkt=zh-cn"
+copyright: "一只带着幼崽的长胡子皇狨猴 (© Chris White/iStock/Getty Images Plus)"
+image_hash: "84cfa65185d7a1bd123bf78cf2ba1954"
+image_filename: "th?id=OHR.BeardedTamarin_ZH-CN0250190365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
