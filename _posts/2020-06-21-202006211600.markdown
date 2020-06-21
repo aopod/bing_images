@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "伯斯国家植物园针垫花上的一只雄性南方双领太阳鸟，南非开普敦"
+date:   "2020-06-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SouthernSunbird_ZH-CN0426670987_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a4%aa%e9%98%b3%e9%b8%9f&form=hpcapt&mkt=zh-cn"
+copyright: "伯斯国家植物园针垫花上的一只雄性南方双领太阳鸟，南非开普敦 (© Martin Willis/Minden Pictures)"
+image_hash: "81bda01e297045e597dff305704147e5"
+image_filename: "th?id=OHR.SouthernSunbird_ZH-CN0426670987_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
