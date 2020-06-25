@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "穆龙达瓦附近的格兰迪尔猴面包树林，马达加斯加"
+date:   "2020-06-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AdansoniaGrandidieri_ZH-CN1154912052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a0%bc%e5%85%b0%e8%bf%aa%e5%b0%94%e7%8c%b4%e9%9d%a2%e5%8c%85%e6%a0%91&form=hpcapt&mkt=zh-cn"
+copyright: "穆龙达瓦附近的格兰迪尔猴面包树林，马达加斯加 (© Thomas Marent/Minden Pictures)"
+image_hash: "57ec87b07836c7ffa447150d6505cc5c"
+image_filename: "th?id=OHR.AdansoniaGrandidieri_ZH-CN1154912052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
