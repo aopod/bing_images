@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Madonna della Corona教堂，意大利"
+date:   "2020-06-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MtBaldoSantuario_ZH-CN2301293454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Madonna+della+Corona%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn"
+copyright: "Madonna della Corona教堂，意大利 (© Volodymyr Kalyniuk/Alamy)"
+image_hash: "bb6983ee6f9b4f7a6c52593989322afa"
+image_filename: "th?id=OHR.MtBaldoSantuario_ZH-CN2301293454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
