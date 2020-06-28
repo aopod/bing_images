@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "索维拉附近摩洛哥坚果树上的山羊，摩洛哥"
+date:   "2020-06-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ArganGoats_ZH-CN5346845518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%b4%a2%e7%bb%b4%e6%8b%89&form=hpcapt&mkt=zh-cn"
+copyright: "索维拉附近摩洛哥坚果树上的山羊，摩洛哥 (© Nizz/Shutterstock)"
+image_hash: "1d91cdf13a8282a02baa870e22e29ddc"
+image_filename: "th?id=OHR.ArganGoats_ZH-CN5346845518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
