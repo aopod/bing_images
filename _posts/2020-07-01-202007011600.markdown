@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "土耳其棉花堡附近希腊古城希拉波利斯的剧院鸟瞰图"
+date:   "2020-07-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HierapolisTurkey_ZH-CN6067183569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b8%8c%e6%8b%89%e6%b3%a2%e5%88%a9%e6%96%af&form=hpcapt&mkt=zh-cn"
+copyright: "土耳其棉花堡附近希腊古城希拉波利斯的剧院鸟瞰图 (© Amazing Aerial Agency/Offset by Shutterstock)"
+image_hash: "e3a8aff67286027c3426e2811928bfa0"
+image_filename: "th?id=OHR.HierapolisTurkey_ZH-CN6067183569_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
