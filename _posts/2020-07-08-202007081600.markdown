@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "位于科罗拉多南部圣胡安山脉的美国盆地"
+date:   "2020-07-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ColoradoColumbine_ZH-CN0901580141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9c%a3%e8%83%a1%e5%ae%89%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn"
+copyright: "位于科罗拉多南部圣胡安山脉的美国盆地 (© Blaine Harrington III/Alamy)"
+image_hash: "2bca1e176b879f5b4839ac7c88b32392"
+image_filename: "th?id=OHR.ColoradoColumbine_ZH-CN0901580141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
