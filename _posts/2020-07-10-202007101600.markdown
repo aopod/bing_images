@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Bàu Cá Cái的红树林，越南广义"
+date:   "2020-07-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MangroveForest_ZH-CN1141787046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%b6%8a%e5%8d%97%e5%b9%bf%e4%b9%89&form=hpcapt&mkt=zh-cn"
+copyright: "Bàu Cá Cái的红树林，越南广义 (© Robert Harding World Imagery/Offset)"
+image_hash: "d9e19a220f2ee3c76ed5baa6060c585d"
+image_filename: "th?id=OHR.MangroveForest_ZH-CN1141787046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
