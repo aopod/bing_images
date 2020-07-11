@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "埃热泽尔斯湖面上的波纹，拉脱维亚拉特加尔地区"
+date:   "2020-07-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.WaterRipplesVideo_ZH-CN8790763092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9f%83%e7%83%ad%e6%b3%bd%e5%b0%94%e6%96%af%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "埃热泽尔斯湖面上的波纹，拉脱维亚拉特加尔地区 (© Eaglewood Films/Nimia)"
+image_hash: "8156d11746d55d561fd662d98f1f0743"
+image_filename: "th?id=OHR.WaterRipplesVideo_ZH-CN8790763092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
