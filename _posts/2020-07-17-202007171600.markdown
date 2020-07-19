@@ -5,6 +5,6 @@ date:   "2020-07-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.NineSpotted_ZH-CN0422284522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%b9%9d%e6%96%91%e8%9b%be&form=hpcapt&mkt=zh-cn"
 copyright: "九斑蛾，瑞士 (© Thomas Marent/Minden Pictures)"
-image_hash: "db3c32e6b36b9f304ebd2ce85820c14d"
+image_hash: "fe9ea5c15fcb3687afcbfe801e9a7d99"
 image_filename: "th?id=OHR.NineSpotted_ZH-CN0422284522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
