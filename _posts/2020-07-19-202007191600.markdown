@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "穿过月球上史密斯海的“地出”"
+date:   "2020-07-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.EarthriseSequence_ZH-CN0750195611_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8f%b2%e5%af%86%e6%96%af%e6%b5%b7&form=hpcapt&mkt=zh-cn"
+copyright: "穿过月球上史密斯海的“地出” (© Image Science and Analysis Laboratory, NASA-Johnson Space Center)"
+image_hash: "9c767b14e27527b152d66faabe9edb36"
+image_filename: "th?id=OHR.EarthriseSequence_ZH-CN0750195611_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
