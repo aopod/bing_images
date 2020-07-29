@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "站在河马身上的锤头鹳，津巴布韦马纳潭国家公园"
+date:   "2020-07-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HamerkopHunting_ZH-CN3632585255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%94%a4%e5%a4%b4%e9%b9%b3&form=hpcapt&mkt=zh-cn"
+copyright: "站在河马身上的锤头鹳，津巴布韦马纳潭国家公园 (© David Fettes/Getty Images)"
+image_hash: "295535eef24cf9e3916cd09063dd7e22"
+image_filename: "th?id=OHR.HamerkopHunting_ZH-CN3632585255_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
