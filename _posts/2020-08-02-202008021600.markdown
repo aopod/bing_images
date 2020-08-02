@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "图森北部托托利塔山麓上空的雷暴，亚利桑那州索诺拉沙漠"
+date:   "2020-08-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SaguaroLightning_ZH-CN4157442270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%b4%a2%e8%af%ba%e6%8b%89%e6%b2%99%e6%bc%a0&form=hpcapt&mkt=zh-cn"
+copyright: "图森北部托托利塔山麓上空的雷暴，亚利桑那州索诺拉沙漠 (© Jack Dykinga/Minden Pictures)"
+image_hash: "bbbeb91ed16f303cf68cbdcc5d0d9bd5"
+image_filename: "th?id=OHR.SaguaroLightning_ZH-CN4157442270_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
