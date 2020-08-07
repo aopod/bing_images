@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "鸟瞰戈梅拉岛上管风琴形状的玄武岩，西班牙加那利群岛"
+date:   "2020-08-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.LosOrganos_ZH-CN5283582047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%88%88%e6%a2%85%e6%8b%89%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+copyright: "鸟瞰戈梅拉岛上管风琴形状的玄武岩，西班牙加那利群岛 (© Martin Siepmann/Image BROKER/Offset by Shutterstock)"
+image_hash: "ec8d73ceb4d3cdfc6dab5681de21eabe"
+image_filename: "th?id=OHR.LosOrganos_ZH-CN5283582047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
