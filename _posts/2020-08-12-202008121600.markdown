@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "彩岩国家湖滨区的岩洞，密歇根"
+date:   "2020-08-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PRNLCavern_ZH-CN6078882650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%bd%a9%e5%b2%a9%e5%9b%bd%e5%ae%b6%e6%b9%96%e6%bb%a8%e5%8c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "彩岩国家湖滨区的岩洞，密歇根 (© Kenneth Keifer/Getty Images)"
+image_hash: "c90a8e9fb4e8351e88cfcde71bee668d"
+image_filename: "th?id=OHR.PRNLCavern_ZH-CN6078882650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
