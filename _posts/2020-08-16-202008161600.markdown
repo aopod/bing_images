@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "中爪哇省的婆罗浮屠，印度尼西亚"
+date:   "2020-08-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BorobudurTemple_ZH-CN7851562404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a9%86%e7%bd%97%e6%b5%ae%e5%b1%a0&form=hpcapt&mkt=zh-cn"
+copyright: "中爪哇省的婆罗浮屠，印度尼西亚 (© Oleh Slobodeniuk/Getty Images)"
+image_hash: "f410fc24a9ce57743581652ef136a3fc"
+image_filename: "th?id=OHR.BorobudurTemple_ZH-CN7851562404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
