@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "格里姆瑟尔山口Totesee山地湖中倒映出的星星，瑞士伯尔尼"
+date:   "2020-08-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AugustStargazing_ZH-CN9929724138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%98%9f%e7%a9%ba&form=hpcapt&mkt=zh-cn"
+copyright: "格里姆瑟尔山口Totesee山地湖中倒映出的星星，瑞士伯尔尼 (© magodevita/Getty Images)"
+image_hash: "fa72e885a39454d9bb8566578b6a0e14"
+image_filename: "th?id=OHR.AugustStargazing_ZH-CN9929724138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
