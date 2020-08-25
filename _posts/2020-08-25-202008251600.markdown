@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "奥卡诺根的斑点湖，加拿大不列颠哥伦比亚省"
+date:   "2020-08-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.OkanaganSpots_ZH-CN0873231776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%96%91%e7%82%b9%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "奥卡诺根的斑点湖，加拿大不列颠哥伦比亚省 (© Galyna Andrushko/Shutterstock)"
+image_hash: "b21a1d840504c0dad23a6a4575bb4b54"
+image_filename: "th?id=OHR.OkanaganSpots_ZH-CN0873231776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
