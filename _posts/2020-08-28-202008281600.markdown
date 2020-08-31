@@ -5,6 +5,6 @@ date:   "2020-08-28 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CorsicaFort_ZH-CN4696260710_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%90%89%e5%a5%88%e5%b0%94%e7%be%a4%e5%b2%9b&form=hpcapt&mkt=zh-cn"
 copyright: "鸟瞰桑吉奈尔群岛，法国科西嘉 (© sam74100/Getty Images Plus)"
-image_hash: "e8457383afffc4558df424cf2642f9c3"
+image_hash: "ac6911a4bb817048b066393eef1fc289"
 image_filename: "th?id=OHR.CorsicaFort_ZH-CN4696260710_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

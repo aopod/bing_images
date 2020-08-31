@@ -5,6 +5,6 @@ date:   "2020-08-27 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MonteCristo_ZH-CN4343811693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%bc%8a%e5%a4%ab%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn"
 copyright: "伊夫城堡，法国马赛 (© Boris Stroujko/Shutterstock)"
-image_hash: "91d2a766ac3f9c5186717169d5339cbb"
+image_hash: "28afc8c9c5561a99d9807a027a696197"
 image_filename: "th?id=OHR.MonteCristo_ZH-CN4343811693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
