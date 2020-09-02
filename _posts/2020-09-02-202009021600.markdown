@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "陆家嘴金融贸易区，中国上海"
+date:   "2020-09-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FinancialTowers_ZH-CN6494148642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%99%86%e5%ae%b6%e5%98%b4%e9%87%91%e8%9e%8d%e8%b4%b8%e6%98%93%e5%8c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "陆家嘴金融贸易区，中国上海 (© Jackal Pan/Getty Images)"
+image_hash: "099989f269a07ea0c8048d96bd6663aa"
+image_filename: "th?id=OHR.FinancialTowers_ZH-CN6494148642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
