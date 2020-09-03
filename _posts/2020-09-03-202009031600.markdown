@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一头公牛站在皮库山前的田野中，亚速尔群岛皮科岛"
+date:   "2020-09-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PicoIsland_ZH-CN6719354511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%9a%ae%e5%ba%93%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "一头公牛站在皮库山前的田野中，亚速尔群岛皮科岛 (© Atmo-Sphere/Getty Images)"
+image_hash: "bdb30ee466bc4803eadad4815f2494ea"
+image_filename: "th?id=OHR.PicoIsland_ZH-CN6719354511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
