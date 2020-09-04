@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "锯齿国家森林里的海狸坝，爱达荷州"
+date:   "2020-09-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BeaverDam_ZH-CN6855160492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%b5%b7%e7%8b%b8%e5%9d%9d&form=hpcapt&mkt=zh-cn"
+copyright: "锯齿国家森林里的海狸坝，爱达荷州 (© Charles Knowles/Alamy)"
+image_hash: "6fed7c2f46b0dd78f50d7760490bf828"
+image_filename: "th?id=OHR.BeaverDam_ZH-CN6855160492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
