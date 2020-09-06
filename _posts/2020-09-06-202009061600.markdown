@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "辉柏嘉展出的铅笔，德国施泰因"
+date:   "2020-09-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BleistifteFaber_ZH-CN7204563488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%be%89%e6%9f%8f%e5%98%89&form=hpcapt&mkt=zh-cn"
+copyright: "辉柏嘉展出的铅笔，德国施泰因 (© Rüdiger Hess/geo-select FotoArt)"
+image_hash: "db7d71cfac198b66d1743e5f835f2d73"
+image_filename: "th?id=OHR.BleistifteFaber_ZH-CN7204563488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
