@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Khuean Srinagarindra国家公园的Huay Mae Khamin瀑布，泰国"
+date:   "2020-09-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.KanchanaburiWaterfall_ZH-CN7582684869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Huay-Mae+Khamin%e7%80%91%e5%b8%83&form=hpcapt&mkt=zh-cn"
+copyright: "Khuean Srinagarindra国家公园的Huay Mae Khamin瀑布，泰国 (© ImpaKPro/Getty Images)"
+image_hash: "c83796392e3c7e8327c1a5be39a9fd52"
+image_filename: "th?id=OHR.KanchanaburiWaterfall_ZH-CN7582684869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
