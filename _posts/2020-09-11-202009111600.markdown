@@ -5,6 +5,6 @@ date:   "2020-09-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MedievalRocamadour_ZH-CN7063423495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%bd%97%e5%8d%a1%e9%a9%ac%e6%9d%9c%e5%b0%94&form=hpcapt&mkt=zh-cn"
 copyright: "罗卡马杜尔，法国 (© Rrrainbow/Getty Images)"
-image_hash: "68bf7b9787144bfd4e242e48c45aa957"
+image_hash: "5e2b966f23100fe35fdf2e09ba946cf0"
 image_filename: "th?id=OHR.MedievalRocamadour_ZH-CN7063423495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

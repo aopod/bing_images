@@ -5,6 +5,6 @@ date:   "2020-09-12 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SangreCristoDunes_ZH-CN7193190503_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a4%a7%e6%b2%99%e4%b8%98%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "以桑格雷－德克里斯托山为背景的沙丘，科罗拉多州大沙丘国家公园 (© Tim Fitzharris/Minden Pictures)"
-image_hash: "54a06986ba30c74b08e8696ee6fe32cb"
+image_hash: "49fd15af3b277166d7e1766bb1b3d417"
 image_filename: "th?id=OHR.SangreCristoDunes_ZH-CN7193190503_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
