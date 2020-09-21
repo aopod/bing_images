@@ -5,6 +5,6 @@ date:   "2020-09-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.IcelandicRettir_ZH-CN7738923773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%86%b0%e5%b2%9b%e7%be%8a&form=hpcapt&mkt=zh-cn"
 copyright: "为圈羊节准备的冰岛羊 (© Pieter Tytgat/Getty Images)"
-image_hash: "3e4e9cc5dbb128e31240e5f2b82c2101"
+image_hash: "4a013912a310d70b9f2f1beecf77d8fb"
 image_filename: "th?id=OHR.IcelandicRettir_ZH-CN7738923773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

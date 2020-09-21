@@ -5,6 +5,6 @@ date:   "2020-09-15 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CityofGuanajuato_ZH-CN7559565626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%93%9c%e7%ba%b3%e5%8d%8e%e6%89%98&form=hpcapt&mkt=zh-cn"
 copyright: "瓜纳华托，墨西哥 (© AI NISHINO/Alamy)"
-image_hash: "52819be9a9310412b0832dd6ccdfe399"
+image_hash: "71536d2a05b0489c7254164638a099aa"
 image_filename: "th?id=OHR.CityofGuanajuato_ZH-CN7559565626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
