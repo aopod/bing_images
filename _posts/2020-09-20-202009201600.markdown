@@ -5,6 +5,6 @@ date:   "2020-09-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.DorsetHeather_ZH-CN8284282373_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%96%af%e5%a1%94%e5%be%b7%e5%85%b0&form=hpcapt&mkt=zh-cn"
 copyright: "斯塔德兰附近荒野上丛生的紫色和粉红色帚石楠，英国多塞特郡 (© allou/iStock/Getty Images Plus)"
-image_hash: "2e170280186cf2988fa3b5e6e3fd2fc8"
+image_hash: "f81126e82e41fb5ed2a7a4a5f73db602"
 image_filename: "th?id=OHR.DorsetHeather_ZH-CN8284282373_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
