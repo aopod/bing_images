@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "为牛下山节（即把牛从高山牧场赶回）装饰的牛，奥地利坦海姆塔尔"
+date:   "2020-09-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Almabtrieb_ZH-CN8639425400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a5%a5%e5%9c%b0%e5%88%a9%e5%9d%a6%e6%b5%b7%e5%a7%86%e5%a1%94%e5%b0%94&form=hpcapt&mkt=zh-cn"
+copyright: "为牛下山节（即把牛从高山牧场赶回）装饰的牛，奥地利坦海姆塔尔 (© Hans Lippert/Alamy)"
+image_hash: "dc3a4757bff7e1bf2d0ef5dbca2f6340"
+image_filename: "th?id=OHR.Almabtrieb_ZH-CN8639425400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
