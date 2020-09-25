@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "沃特金斯格伦州立公园的彩虹瀑布，纽约州北部芬格湖群"
+date:   "2020-09-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.WatkinsGlen_ZH-CN1271268069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%b2%83%e7%89%b9%e9%87%91%e6%96%af%e6%a0%bc%e4%bc%a6%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "沃特金斯格伦州立公园的彩虹瀑布，纽约州北部芬格湖群 (© Kenneth Keifer/Alamy)"
+image_hash: "69c6c79e004cc596715012b2c1ba0f08"
+image_filename: "th?id=OHR.WatkinsGlen_ZH-CN1271268069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
