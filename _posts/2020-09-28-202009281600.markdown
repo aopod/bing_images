@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "日内瓦湖岸上陡峭的拉沃葡萄园梯田，瑞士"
+date:   "2020-09-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Lavaux_ZH-CN1891785892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%8b%89%e6%b2%83%e8%91%a1%e8%90%84%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "日内瓦湖岸上陡峭的拉沃葡萄园梯田，瑞士 (© Yves Marcoux/plainpicture)"
+image_hash: "4a97932f372de700d9382595ba9cf67c"
+image_filename: "th?id=OHR.Lavaux_ZH-CN1891785892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
