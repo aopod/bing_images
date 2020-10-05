@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "运城盐湖，中国山西"
+date:   "2020-10-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.YunchengSaltLake_ZH-CN2717775996_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%bf%90%e5%9f%8e%e7%9b%90%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "运城盐湖，中国山西 (© Xinhua/Alamy)"
+image_hash: "4b1fd9a8f61ae858beed222cf9c5b6e9"
+image_filename: "th?id=OHR.YunchengSaltLake_ZH-CN2717775996_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
