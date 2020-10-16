@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "布里瓦德附近的皮斯加国家森林，北卡罗来纳州"
+date:   "2020-10-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PisgahNationalForest_ZH-CN0944504238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%9a%ae%e6%96%af%e5%8a%a0%e5%9b%bd%e5%ae%b6%e6%a3%ae%e6%9e%97&form=hpcapt&mkt=zh-cn"
+copyright: "布里瓦德附近的皮斯加国家森林，北卡罗来纳州 (© Adam Jones/Danita Delimont)"
+image_hash: "c907ae10a7e126fae91b0d38e6c0a6f2"
+image_filename: "th?id=OHR.PisgahNationalForest_ZH-CN0944504238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
