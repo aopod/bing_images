@@ -5,6 +5,6 @@ date:   "2020-10-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AmericanFlyer_ZH-CN7955219009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%be%8e%e6%b4%b2%e7%ba%a2%e9%b9%b3&form=hpcapt&mkt=zh-cn"
 copyright: "俯瞰正在飞越洛斯罗克斯群岛国家公园的美洲红鹳，委内瑞拉 (© Cristian Lourenco/Getty Images)"
-image_hash: "9f4c824b35fa501c7a7d5dfb4f8dbbfc"
+image_hash: "140f8d9935d56ea6e92cc2c77bac8c30"
 image_filename: "th?id=OHR.AmericanFlyer_ZH-CN7955219009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

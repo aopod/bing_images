@@ -5,6 +5,6 @@ date:   "2020-10-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.OchreSeaStar_ZH-CN0656056433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%b5%b7%e6%98%9f&form=hpcapt&mkt=zh-cn"
 copyright: "在加州海岸海藻上的赭色海星 (© Ralph Pace/Minden Pictures)"
-image_hash: "b8eb6e512c6027c25f878b467df881ef"
+image_hash: "d9c2f14501f0186ad8d1b52cdeae9ac1"
 image_filename: "th?id=OHR.OchreSeaStar_ZH-CN0656056433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

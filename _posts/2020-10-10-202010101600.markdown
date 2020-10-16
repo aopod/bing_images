@@ -5,6 +5,6 @@ date:   "2020-10-10 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.GeghardMonastery_ZH-CN8114246142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%a0%bc%e5%8a%a0%e5%b0%94%e5%be%b7%e4%bf%ae%e9%81%93%e9%99%a2&form=hpcapt&mkt=zh-cn"
 copyright: "格加尔德修道院，亚美尼亚 (© traumlichtfabrik/Getty Images)"
-image_hash: "184c8c03a64f0b25bb6917df43f6a502"
+image_hash: "3b2b51319a8e28190d884908204898e3"
 image_filename: "th?id=OHR.GeghardMonastery_ZH-CN8114246142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
