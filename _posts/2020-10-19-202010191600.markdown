@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "比弗湖自然中心内光秃秃的树和红盖鳞毛蕨，纽约"
+date:   "2020-10-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BLNC_ZH-CN1521633936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%af%94%e5%bc%97%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "比弗湖自然中心内光秃秃的树和红盖鳞毛蕨，纽约 (© Chris Murray/Alamy)"
+image_hash: "65993f68c96b8c1f7763c5d8a08072e7"
+image_filename: "th?id=OHR.BLNC_ZH-CN1521633936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
