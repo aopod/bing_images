@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Bents的旧百货商店，加拿大萨斯喀彻温省"
+date:   "2020-10-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BentsGeneral_ZH-CN7629263267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%90%a8%e6%96%af%e5%96%80%e5%bd%bb%e6%b8%a9%e7%9c%81&form=hpcapt&mkt=zh-cn"
+copyright: "Bents的旧百货商店，加拿大萨斯喀彻温省 (© ImagineGolf/Getty Images)"
+image_hash: "1b05558ca9d801ad102b872cc12cdb2d"
+image_filename: "th?id=OHR.BentsGeneral_ZH-CN7629263267_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
