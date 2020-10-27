@@ -5,6 +5,6 @@ date:   "2020-10-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.UNBuilding_ZH-CN7730281645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%81%94%e5%90%88%e5%9b%bd%e6%80%bb%e9%83%a8%e5%a4%a7%e6%a5%bc&form=hpcapt&mkt=zh-cn"
 copyright: "纽约市的天际线与联合国总部大楼 (© Sean Pavone/Alamy)"
-image_hash: "5136e9f5a7272097e07fab9f3e299de4"
+image_hash: "334ee14478c0b19146508ff0eaefaba9"
 image_filename: "th?id=OHR.UNBuilding_ZH-CN7730281645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

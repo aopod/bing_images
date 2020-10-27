@@ -5,6 +5,6 @@ date:   "2020-10-26 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CambronBridge_ZH-CN8106321592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%ba%a8%e8%8c%a8%e7%bb%b4%e5%b0%94&form=hpcapt&mkt=zh-cn"
 copyright: "亨茨维尔附近绿色山公园中的Cambron Covered Bridge，阿拉巴马州  (© Jens Lambert/Shutterstock)"
-image_hash: "352adf64a992cd69808546f54a4959d4"
+image_hash: "9f9fa6eb0b297081649e422ac717448e"
 image_filename: "th?id=OHR.CambronBridge_ZH-CN8106321592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
