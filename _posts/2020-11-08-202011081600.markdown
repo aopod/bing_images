@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巴罗洛葡萄园的山丘，意大利皮埃蒙特"
+date:   "2020-11-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PiedmontRegion_ZH-CN9956166156_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b7%b4%e7%bd%97%e6%b4%9b%e8%91%a1%e8%90%84%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "巴罗洛葡萄园的山丘，意大利皮埃蒙特 (© Marco Arduino/eStock Photo)"
+image_hash: "9b56956177af7d79673c0e203408a7b9"
+image_filename: "th?id=OHR.PiedmontRegion_ZH-CN9956166156_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
