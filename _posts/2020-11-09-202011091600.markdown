@@ -5,6 +5,6 @@ date:   "2020-11-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.LakotaBadlands_ZH-CN0151830089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%81%b6%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "恶地国家公园，南达科他州 (© Dennis Frates/Alamy)"
-image_hash: "598006c237fce026960b92aca6427603"
+image_hash: "d6408f16935e2ee13e49ee1923f4e43d"
 image_filename: "th?id=OHR.LakotaBadlands_ZH-CN0151830089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

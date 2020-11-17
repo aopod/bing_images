@@ -5,6 +5,6 @@ date:   "2020-11-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.LupineNZ_ZH-CN0613960648_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%be%bd%e6%89%87%e8%b1%86&form=hpcapt&mkt=zh-cn"
 copyright: "特卡波湖岸上的羽扇豆，新西兰 (© Stanislav Kachyna/Shutterstock)"
-image_hash: "cd78f03db7b2b939e06915966bff399a"
+image_hash: "5ad3902af7486005f8ccd7544929659a"
 image_filename: "th?id=OHR.LupineNZ_ZH-CN0613960648_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
