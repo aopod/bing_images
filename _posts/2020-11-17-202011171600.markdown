@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "被北极光映衬出轮廓的因努伊特石堆，加拿大西北地区"
+date:   "2020-11-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.InukshukLights_ZH-CN0756858983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8c%97%e6%9e%81%e5%85%89%e6%98%a0&form=hpcapt&mkt=zh-cn"
+copyright: "被北极光映衬出轮廓的因努伊特石堆，加拿大西北地区 (© Mark Duffy/Alamy)"
+image_hash: "c33dd6ef6f8c384717e9b5e15f3920d7"
+image_filename: "th?id=OHR.InukshukLights_ZH-CN0756858983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
