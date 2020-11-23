@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巨浪冲击着阿斯洛玛尔州立海滩的岩石，加利福尼亚州帕西菲克格罗夫"
+date:   "2020-11-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AsilomarSB_ZH-CN1074865975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%98%bf%e6%96%af%e6%b4%9b%e7%8e%9b%e5%b0%94%e5%b7%9e%e7%ab%8b%e6%b5%b7%e6%bb%a9&form=hpcapt&mkt=zh-cn"
+copyright: "巨浪冲击着阿斯洛玛尔州立海滩的岩石，加利福尼亚州帕西菲克格罗夫 (© Sheila Haddad/Danita Delimont)"
+image_hash: "4995537d1e300cae0f9f7e05d16dcd25"
+image_filename: "th?id=OHR.AsilomarSB_ZH-CN1074865975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
