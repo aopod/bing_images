@@ -5,6 +5,6 @@ date:   "2020-11-24 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CPMall_ZH-CN1202155438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%b8%ad%e5%a4%ae%e5%85%ac%e5%9b%ad%e8%b4%ad%e7%89%a9%e4%b8%ad%e5%bf%83&form=hpcapt&mkt=zh-cn"
 copyright: "中央公园购物中心的美国榆树丛，纽约市 (© AWL Images/Danita Delimont)"
-image_hash: "314910c0ce1ca6c9e4420796204d5a22"
+image_hash: "55326519e5d31ae21e10826373cda48c"
 image_filename: "th?id=OHR.CPMall_ZH-CN1202155438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

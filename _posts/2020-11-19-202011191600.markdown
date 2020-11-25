@@ -5,6 +5,6 @@ date:   "2020-11-19 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MontBlancPeak_ZH-CN0459151326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%8b%83%e6%9c%97%e5%b3%b0&form=hpcapt&mkt=zh-cn"
 copyright: "鸟瞰勃朗峰山脉中的南针峰，法国 (© Amazing Aerial Agency/Offset by Shutterstock)"
-image_hash: "bd5d534d8f7b997435f0868ad2987f9a"
+image_hash: "cc142ff287b219d152ecd508dc67ef09"
 image_filename: "th?id=OHR.MontBlancPeak_ZH-CN0459151326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

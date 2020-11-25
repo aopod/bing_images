@@ -5,6 +5,6 @@ date:   "2020-11-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.NCHighCountry_ZH-CN0617631531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%99%ae%e8%8e%b1%e6%96%af%e6%b9%96&form=hpcapt&mkt=zh-cn"
 copyright: "普莱斯湖中冰封的秋叶，北卡罗莱纳州朱利安·普莱斯纪念公园 (© Richard Bernabe/Offset by Shutterstock)"
-image_hash: "518bfbb97aeb11d4821a4409833e3e00"
+image_hash: "4204a7ace5e9d4358b65fcbf8ec6f90d"
 image_filename: "th?id=OHR.NCHighCountry_ZH-CN0617631531_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

@@ -5,6 +5,6 @@ date:   "2020-11-21 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Dromling_ZH-CN0730577626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=Dr%c3%b6mling%e6%b9%bf%e5%9c%b0&form=hpcapt&mkt=zh-cn"
 copyright: "Drömling湿地中的灰鹤，德国 (© Mike Friedrichs/Getty Images)"
-image_hash: "442e2b414a95e8120a8c5e94c9399c54"
+image_hash: "c45fdd36d4b9597d7b4dc314f28f8e07"
 image_filename: "th?id=OHR.Dromling_ZH-CN0730577626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
