@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "部分被雪覆盖的Val Cervara山坡上的老山毛榉林，意大利蒙帕赛诺"
+date:   "2020-11-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ValCervara_ZH-CN1889046979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Val+Cervara%e5%b1%b1%e5%9d%a1&form=hpcapt&mkt=zh-cn"
+copyright: "部分被雪覆盖的Val Cervara山坡上的老山毛榉林，意大利蒙帕赛诺 (© Bruno D'Amicis/Minden Pictures)"
+image_hash: "beea5e4c5c93915214802163cecdd22a"
+image_filename: "th?id=OHR.ValCervara_ZH-CN1889046979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
