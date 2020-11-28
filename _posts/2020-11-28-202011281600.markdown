@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "塔拉纳基山，新西兰艾格蒙特国家公园"
+date:   "2020-11-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MountTaranaki_ZH-CN1962085466_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a1%94%e6%8b%89%e7%ba%b3%e5%9f%ba%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "塔拉纳基山，新西兰艾格蒙特国家公园 (© Francesco Vaninetti/plainpicture)"
+image_hash: "e6891b81df37c5e1758184d86597d20e"
+image_filename: "th?id=OHR.MountTaranaki_ZH-CN1962085466_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
