@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "杜拉通河谷中的Nuestra Señora de la Hoz老修道院，西班牙塞哥维亚"
+date:   "2020-11-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HocesDuraton_ZH-CN2152159552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%9d%9c%e6%8b%89%e9%80%9a%e6%b2%b3%e8%b0%b7&form=hpcapt&mkt=zh-cn"
+copyright: "杜拉通河谷中的Nuestra Señora de la Hoz老修道院，西班牙塞哥维亚 (© Arco Images GmbH/Alamy)"
+image_hash: "39d5031b7e9e717784cdfb93f6d45c78"
+image_filename: "th?id=OHR.HocesDuraton_ZH-CN2152159552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
