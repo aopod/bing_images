@@ -5,6 +5,6 @@ date:   "2020-12-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.PLNP_ZH-CN8120863549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%99%ae%e5%88%a9%e7%89%b9%e7%bb%b4%e9%87%87%e6%b9%96&form=hpcapt&mkt=zh-cn"
 copyright: "普利特维采湖群国家公园中的高架步道，克罗地亚 (© Alessandro Laporta/Offset by Shutterstock)"
-image_hash: "b64ff3f5f917ede6ecfb2c2cefda0a27"
+image_hash: "f4aefccf9392203f45d7ff4fd7a09f83"
 image_filename: "th?id=OHR.PLNP_ZH-CN8120863549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

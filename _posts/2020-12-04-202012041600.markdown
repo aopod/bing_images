@@ -5,6 +5,6 @@ date:   "2020-12-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BenasqueValley_ZH-CN7931589735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%b4%9d%e7%ba%b3%e6%96%af%e5%85%8b&form=hpcapt&mkt=zh-cn"
 copyright: "贝纳斯克，西班牙韦斯卡 (© Miscelleneoustock/Alamy)"
-image_hash: "987ca5ccaaaff54b0a9fe25a1512e1f8"
+image_hash: "cbf201be3da0b16a00b15aa6aa200930"
 image_filename: "th?id=OHR.BenasqueValley_ZH-CN7931589735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
