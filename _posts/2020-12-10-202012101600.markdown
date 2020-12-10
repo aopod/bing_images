@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "以布兰卡山脉为背景的安地斯皇后（莴氏普亚凤梨），秘鲁"
+date:   "2020-12-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.QueenoftheAndes_ZH-CN9019108680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b8%83%e5%85%b0%e5%8d%a1%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn"
+copyright: "以布兰卡山脉为背景的安地斯皇后（莴氏普亚凤梨），秘鲁 (© Cyril Ruoso/Minden Pictures)"
+image_hash: "f82f1fb22056e750166a578712b6a804"
+image_filename: "th?id=OHR.QueenoftheAndes_ZH-CN9019108680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
