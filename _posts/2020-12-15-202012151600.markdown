@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "雾气环绕的森林，喀拉拉邦慕那尔市，印度"
+date:   "2020-12-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MunnarMist_ZH-CN8816703625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%96%80%e6%8b%89%e6%8b%89%e9%82%a6%e6%85%95%e9%82%a3%e5%b0%94%e5%b8%82&FORM=HPCAPT&mkt=zh-cn"
+copyright: "雾气环绕的森林，喀拉拉邦慕那尔市，印度 (© Ahammed Riswan/EyeEm/Getty Images)"
+image_hash: "3665f65cc49fed4e82f04091f2734f8a"
+image_filename: "th?id=OHR.MunnarMist_ZH-CN8816703625_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
