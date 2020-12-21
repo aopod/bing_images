@@ -5,6 +5,6 @@ date:   "2020-12-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CastleriggStone_ZH-CN8015482045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=Castlerigg%e7%9f%b3%e5%9c%88&form=hpcapt&mkt=zh-cn"
 copyright: "凯西克附近的Castlerigg石圈，英国坎布里亚 (© Alan Copson/plainpicture)"
-image_hash: "6b1821c5e038b9ac0c59e730d4281a4c"
+image_hash: "addb92b7b7dc9800b8ac0bb1c5b643fe"
 image_filename: "th?id=OHR.CastleriggStone_ZH-CN8015482045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
