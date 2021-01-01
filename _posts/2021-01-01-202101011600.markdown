@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "峰牙－己榜国家公园中的韩松洞，越南"
+date:   "2021-01-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.LargestCave_ZH-CN2069899703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%9f%a9%e6%9d%be%e6%b4%9e&form=hpcapt&mkt=zh-cn"
+copyright: "峰牙－己榜国家公园中的韩松洞，越南 (© David A Knight/Shutterstock)"
+image_hash: "6e67bbbc2fbd3d83ef513c71c201a31c"
+image_filename: "th?id=OHR.LargestCave_ZH-CN2069899703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
