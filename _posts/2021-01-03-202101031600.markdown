@@ -5,6 +5,6 @@ date:   "2021-01-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.DiamondBeach_ZH-CN3165398805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%92%bb%e7%9f%b3%e5%86%b0%e6%b2%99%e6%bb%a9&form=hpcapt&mkt=zh-cn"
 copyright: "冰河湖对面的钻石冰沙滩，冰岛 (© surangaw/Getty Images)"
-image_hash: "ab53e3c6060788e3f42cb1e01c769ada"
+image_hash: "4f58054ad5834b0458967a0fb9467772"
 image_filename: "th?id=OHR.DiamondBeach_ZH-CN3165398805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

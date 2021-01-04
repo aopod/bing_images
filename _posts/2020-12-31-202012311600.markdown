@@ -5,6 +5,6 @@ date:   "2020-12-31 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.LoonyDook_ZH-CN1879420705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%8c%97%e6%9e%81%e7%86%8a&form=hpcapt&mkt=zh-cn"
 copyright: "斯瓦尔巴群岛附近水域的北极熊，挪威 (© Westend61/Getty Images)"
-image_hash: "708498c78b14115b3ea843b555a89497"
+image_hash: "7d378467338f721e7a59306bbab9f615"
 image_filename: "th?id=OHR.LoonyDook_ZH-CN1879420705_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

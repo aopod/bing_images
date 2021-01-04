@@ -5,6 +5,6 @@ date:   "2021-01-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.RedFrontMacaw_ZH-CN6432596112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%ba%a2%e9%a2%9d%e9%87%91%e5%88%9a%e9%b9%a6%e9%b9%89&form=hpcapt&mkt=zh-cn"
 copyright: "奥梅雷克的红额金刚鹦鹉，玻利维亚科恰班巴 (© Bernard Castelein/Minden Pictures)"
-image_hash: "4576a6227e2ad4b3b2b9fa9cf73f4404"
+image_hash: "ea30e439d92fd6ebaccc0161cacb343a"
 image_filename: "th?id=OHR.RedFrontMacaw_ZH-CN6432596112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
