@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "巴黎先贤祠内的傅科摆，法国"
+date:   "2021-01-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FoucaultsPendulum_ZH-CN9435794626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b7%b4%e9%bb%8e%e5%85%88%e8%b4%a4%e7%a5%a0&form=hpcapt&mkt=zh-cn"
+copyright: "巴黎先贤祠内的傅科摆，法国 (© Adolf/Adobe Stock)"
+image_hash: "c8b195fa661cfaeb673cfdad30e78d35"
+image_filename: "th?id=OHR.FoucaultsPendulum_ZH-CN9435794626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
