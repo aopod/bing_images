@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "被丛林包围着的玛雅古城卡拉克穆尔遗址，墨西哥坎佩切"
+date:   "2021-01-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Calakmul_ZH-CN5969688954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8d%a1%e6%8b%89%e5%85%8b%e7%a9%86%e5%b0%94%e9%81%97%e5%9d%80&form=hpcapt&mkt=zh-cn"
+copyright: "被丛林包围着的玛雅古城卡拉克穆尔遗址，墨西哥坎佩切 (© Alfredo Matus/Shutterstock)"
+image_hash: "384db7c70914db342940d5cb5ed970ef"
+image_filename: "th?id=OHR.Calakmul_ZH-CN5969688954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
