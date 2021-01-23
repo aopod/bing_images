@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "库纳族人的手工艺品，巴拿马圣布拉斯群岛"
+date:   "2021-01-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Molas_ZH-CN6808431428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%ba%93%e7%ba%b3%e6%97%8f&form=hpcapt&mkt=zh-cn"
+copyright: "库纳族人的手工艺品，巴拿马圣布拉斯群岛 (© Lars Schneider/Tandem Stills + Motion)"
+image_hash: "424757cd012f70113f423f8240ba11ab"
+image_filename: "th?id=OHR.Molas_ZH-CN6808431428_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
