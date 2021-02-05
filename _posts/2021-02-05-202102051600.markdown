@@ -5,6 +5,6 @@ date:   "2021-02-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MountSefton_ZH-CN4956097627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a1%9e%e5%a4%ab%e9%a1%bf%e5%b1%b1&form=hpcapt&mkt=zh-cn"
 copyright: "奥拉基库克山国家公园中的塞夫顿山，新西兰南岛 (© AWL Images/Danita Delimont)"
-image_hash: "e7c19e86ae78a8d8aba6c2cfcfd5ae20"
+image_hash: "444767d4b31ef90891b7a32bbacafc71"
 image_filename: "th?id=OHR.MountSefton_ZH-CN4956097627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
