@@ -5,6 +5,6 @@ date:   "2021-02-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MountNemrut_ZH-CN4681788604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%86%85%e5%a7%86%e9%b2%81%e7%89%b9%e5%b1%b1&form=hpcapt&mkt=zh-cn"
 copyright: "内姆鲁特山上巨大的石灰岩雕像，土耳其阿德亚曼 (© Peerakit JIrachetthakun/Getty Images)"
-image_hash: "8e96102b6ad68ddce2ffcd8732f8d6f2"
+image_hash: "6fbee63922dc6c2377dbe077dd4c31f9"
 image_filename: "th?id=OHR.MountNemrut_ZH-CN4681788604_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

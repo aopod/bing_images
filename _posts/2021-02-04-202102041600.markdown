@@ -5,6 +5,6 @@ date:   "2021-02-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.TheWave_ZH-CN4856809836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%9c%b1%e7%ba%a2%e6%82%ac%e5%b4%96%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=hpcapt&mkt=zh-cn"
 copyright: "波浪谷中的砂岩层和积水，亚利桑那州朱红悬崖国家纪念碑 (© Dennis Frates/Alamy)"
-image_hash: "ea6d5982b00ab676dd7a365a9e614e45"
+image_hash: "c1cb8a5603eb84795cb7f1e6465c4cc4"
 image_filename: "th?id=OHR.TheWave_ZH-CN4856809836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
