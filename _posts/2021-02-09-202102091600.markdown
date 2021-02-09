@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿瓜内格拉山口上的融凝冰柱，智利科金博"
+date:   "2021-02-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PenitentSnow_ZH-CN5304842520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%9e%8d%e5%87%9d%e5%86%b0%e6%9f%b1&form=hpcapt&mkt=zh-cn"
+copyright: "阿瓜内格拉山口上的融凝冰柱，智利科金博 (© Art Wolfe/Danita Delimont)"
+image_hash: "d28225aaf9b50424b9fd4f7d8420a635"
+image_filename: "th?id=OHR.PenitentSnow_ZH-CN5304842520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
