@@ -5,6 +5,6 @@ date:   "2021-02-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.VerzascaValley_ZH-CN8308636990_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%8b%89%e9%9f%a6%e5%b0%94%e6%b3%b0%e4%bd%90&form=hpcapt&mkt=zh-cn"
 copyright: "拉韦尔泰佐附近一条河里的石头，瑞士塞斯卡山谷 (© Robert Seitz/Offset by Shutterstock)"
-image_hash: "0da5abeb96aee2b99f701c4554261bc8"
+image_hash: "595594dce90195ab7a683aba44e9b4d8"
 image_filename: "th?id=OHR.VerzascaValley_ZH-CN8308636990_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
