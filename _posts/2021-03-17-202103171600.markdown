@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "2013年正在喷发的埃特纳火山，意大利西西里岛"
+date:   "2021-03-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MtEtna_ZH-CN9127683040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9f%83%e7%89%b9%e7%ba%b3%e7%81%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "2013年正在喷发的埃特纳火山，意大利西西里岛 (© Wead/Alamy Live News)"
+image_hash: "6f684ad5f9f2bb017f83d406da057b08"
+image_filename: "th?id=OHR.MtEtna_ZH-CN9127683040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
