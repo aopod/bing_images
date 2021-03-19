@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "帕尼迪斯沙丘上的日晷，立陶宛库尔斯沙嘴"
+date:   "2021-03-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ParnidisSundial_ZH-CN9575177836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%ba%93%e5%b0%94%e6%96%af%e6%b2%99%e5%98%b4&form=hpcapt&mkt=zh-cn"
+copyright: "帕尼迪斯沙丘上的日晷，立陶宛库尔斯沙嘴 (© amoklv/Getty Images)"
+image_hash: "3670f7d6b089c40b7a7f3db7f689e210"
+image_filename: "th?id=OHR.ParnidisSundial_ZH-CN9575177836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
