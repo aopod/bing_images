@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马尼亚河的卫星图像，马达加斯加"
+date:   "2021-03-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.LoftedMadagascar_ZH-CN0062899981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a9%ac%e5%b0%bc%e4%ba%9a%e6%b2%b3&form=hpcapt&mkt=zh-cn"
+copyright: "马尼亚河的卫星图像，马达加斯加 (© NASA Earth Observatory image by Joshua Stevens, using Landsat data from the US Geological Survey)"
+image_hash: "2da97986d9a29e1fcd3c0f007bf710a3"
+image_filename: "th?id=OHR.LoftedMadagascar_ZH-CN0062899981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
