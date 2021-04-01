@@ -5,6 +5,6 @@ date:   "2021-03-27 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.LlanberisSlate_ZH-CN1977606783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%8b%b1%e5%9b%bd%e5%8f%b2%e8%af%ba%e5%a4%9a%e5%b0%bc%e4%ba%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "斯诺登山与兰贝里斯山口，英国史诺多尼亚国家公园 (© Alan Novelli/Alamy)"
-image_hash: "f1c4c9941b13920effa40b7c21cf1318"
+image_hash: "2ec93c8768fbcb63f9d90a024c481d3d"
 image_filename: "th?id=OHR.LlanberisSlate_ZH-CN1977606783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
