@@ -5,6 +5,6 @@ date:   "2021-04-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SautduBrot_ZH-CN3361866139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=Areuse%e5%b3%a1%e8%b0%b7&form=hpcapt&mkt=zh-cn"
 copyright: "Areuse峡谷的Saut du Brot石桥，瑞士纳沙泰尔 (© Andreas Gerth/eStock Photo)"
-image_hash: "1aca6ec3ce60501ce332fe8e3aecbae3"
+image_hash: "86e206de2f7dd94a2c5e4b7626143193"
 image_filename: "th?id=OHR.SautduBrot_ZH-CN3361866139_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
