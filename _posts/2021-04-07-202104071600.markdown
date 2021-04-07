@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "正在打鸣求偶的雄性黑琴鸡，芬兰库萨莫"
+date:   "2021-04-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.TetraoTetrix_ZH-CN3813461274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%bb%91%e7%90%b4%e9%b8%a1&form=hpcapt&mkt=zh-cn"
+copyright: "正在打鸣求偶的雄性黑琴鸡，芬兰库萨莫 (© Oliver Smart/Alamy)"
+image_hash: "944a48054976632ca1c264a2d7de93c6"
+image_filename: "th?id=OHR.TetraoTetrix_ZH-CN3813461274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
