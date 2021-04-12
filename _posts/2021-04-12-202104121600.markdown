@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "大城历史公园中的帕喜善佩寺，泰国大城府"
+date:   "2021-04-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.WatPhraSiSanphet_ZH-CN5830557189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b8%95%e5%96%9c%e5%96%84%e4%bd%a9%e5%af%ba&form=hpcapt&mkt=zh-cn"
+copyright: "大城历史公园中的帕喜善佩寺，泰国大城府 (© travelstock44/Alamy)"
+image_hash: "9784abdbb50de2999ea47f5b4a795583"
+image_filename: "th?id=OHR.WatPhraSiSanphet_ZH-CN5830557189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
