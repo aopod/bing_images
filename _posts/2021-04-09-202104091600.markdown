@@ -5,6 +5,6 @@ date:   "2021-04-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SiblingBears_ZH-CN5349441901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%81%b0%e7%86%8a&form=hpcapt&mkt=zh-cn"
 copyright: "在迪纳利国家公园中玩耍的灰熊幼崽，阿拉斯加  (© Ron Niebrugge/Alamy)"
-image_hash: "fe53457b9a2f3ac8ae1eb3f7e650a01b"
+image_hash: "8b1f1a538411e51b9164e55d4a51874a"
 image_filename: "th?id=OHR.SiblingBears_ZH-CN5349441901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
