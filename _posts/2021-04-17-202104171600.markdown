@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "蒙塔尔巴诺埃利科纳，意大利西西里岛"
+date:   "2021-04-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MontalbanoElicona_ZH-CN7061762890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%92%99%e5%a1%94%e5%b0%94%e5%b7%b4%e8%af%ba%e5%9f%83%e5%88%a9%e7%a7%91%e7%ba%b3&form=hpcapt&mkt=zh-cn"
+copyright: "蒙塔尔巴诺埃利科纳，意大利西西里岛 (© Antonino Bartuccio/SOPA Collection/Offset by Shutterstock)"
+image_hash: "656a17abb9de29535f3fb3d39c00fb09"
+image_filename: "th?id=OHR.MontalbanoElicona_ZH-CN7061762890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
