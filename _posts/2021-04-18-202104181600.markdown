@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "大群的芒基蝠鲼跃出水面，墨西哥加利福尼亚湾"
+date:   "2021-04-18 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Mobula_ZH-CN7830551038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%9d%a0%e9%b2%bc&form=hpcapt&mkt=zh-cn"
+copyright: "大群的芒基蝠鲼跃出水面，墨西哥加利福尼亚湾 (© Mark Carwardine/Minden Pictures)"
+image_hash: "8d48b267707da113f2f57d726f6e58cd"
+image_filename: "th?id=OHR.Mobula_ZH-CN7830551038_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
