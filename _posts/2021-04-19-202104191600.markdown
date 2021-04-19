@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "乌布德格拉朗梯田，印度尼西亚巴厘岛"
+date:   "2021-04-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Ceking_ZH-CN7314711047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%b9%8c%e5%b8%83%e5%be%b7%e6%a0%bc%e6%8b%89%e6%9c%97%e6%a2%af%e7%94%b0&form=hpcapt&mkt=zh-cn"
+copyright: "乌布德格拉朗梯田，印度尼西亚巴厘岛 (© Michele Falzone/Alamy)"
+image_hash: "ccfe319dff12609e3c5c7f80f5193b0f"
+image_filename: "th?id=OHR.Ceking_ZH-CN7314711047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
