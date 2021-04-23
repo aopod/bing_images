@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "约书亚树国家公园中的仙人掌花园，加利福尼亚"
+date:   "2021-04-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ChollaGarden_ZH-CN8015525891_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%ba%a6%e4%b9%a6%e4%ba%9a%e6%a0%91%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "约书亚树国家公园中的仙人掌花园，加利福尼亚 (© Bryan Jolley/Tandem Stills + Motion)"
+image_hash: "08445e477def0cbdc544ab56e74778f7"
+image_filename: "th?id=OHR.ChollaGarden_ZH-CN8015525891_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
