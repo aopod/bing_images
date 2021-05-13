@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "上弗洛雷斯塔附近晨雾中亚马逊雨林，巴西马托格罗索"
+date:   "2021-05-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AltaFloresta_ZH-CN9153671055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%ba%9a%e9%a9%ac%e9%80%8a%e9%9b%a8%e6%9e%97&form=hpcapt&mkt=zh-cn"
+copyright: "上弗洛雷斯塔附近晨雾中亚马逊雨林，巴西马托格罗索 (© Pulsar Imagens/Alamy)"
+image_hash: "49675345194eae419cb8ff96cb7a838f"
+image_filename: "th?id=OHR.AltaFloresta_ZH-CN9153671055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
