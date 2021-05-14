@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "帕瑞纳天文台的望远镜和星迹，智利阿塔卡马沙漠"
+date:   "2021-05-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ParanalStars_ZH-CN9247250519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%b8%95%e7%91%9e%e7%ba%b3%e5%a4%a9%e6%96%87%e5%8f%b0&form=hpcapt&mkt=zh-cn"
+copyright: "帕瑞纳天文台的望远镜和星迹，智利阿塔卡马沙漠 (© Matteo Omied/Alamy)"
+image_hash: "c64fd7daaf655438ec3d32e6bdbf98c6"
+image_filename: "th?id=OHR.ParanalStars_ZH-CN9247250519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
