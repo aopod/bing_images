@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "鸟瞰瓜塔佩巨岩，哥伦比亚瓜塔佩"
+date:   "2021-05-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Guatape_ZH-CN9344556154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%93%9c%e5%a1%94%e4%bd%a9%e5%b7%a8%e5%b2%a9&form=hpcapt&mkt=zh-cn"
+copyright: "鸟瞰瓜塔佩巨岩，哥伦比亚瓜塔佩 (© Amazing Aerial Agency/Offset by Shutterstock)"
+image_hash: "97199fcfe82c354aaa8c630a1f7ec280"
+image_filename: "th?id=OHR.Guatape_ZH-CN9344556154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
