@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "奥勒松，挪威"
+date:   "2021-05-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Alesund_ZH-CN9437421934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a5%a5%e5%8b%92%e6%9d%be&form=hpcapt&mkt=zh-cn"
+copyright: "奥勒松，挪威 (© AWL Images/Offset by Shutterstock)"
+image_hash: "2e34c74a48cb02153572b0234b826304"
+image_filename: "th?id=OHR.Alesund_ZH-CN9437421934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
