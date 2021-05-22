@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "纽约公共图书馆总部翻新后的玫瑰主阅览室，纽约市"
+date:   "2021-05-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.RoseRoom_ZH-CN1841119971_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%ba%bd%e7%ba%a6%e5%85%ac%e5%85%b1%e5%9b%be%e4%b9%a6%e9%a6%86%e6%80%bb%e9%83%a8&form=hpcapt&mkt=zh-cn"
+copyright: "纽约公共图书馆总部翻新后的玫瑰主阅览室，纽约市 (© Sascha Kilmer/Getty Images)"
+image_hash: "bc02ed00c2115e248d4067ae4012a608"
+image_filename: "th?id=OHR.RoseRoom_ZH-CN1841119971_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
