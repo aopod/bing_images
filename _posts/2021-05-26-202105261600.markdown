@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马哈拉施特拉邦的Varandha Ghat，印度"
+date:   "2021-05-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.VarandhaGhat_ZH-CN1268827595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a9%ac%e5%93%88%e6%8b%89%e6%96%bd%e7%89%b9%e6%8b%89%e9%82%a6&form=hpcapt&mkt=zh-cn"
+copyright: "马哈拉施特拉邦的Varandha Ghat，印度 (© AmitRane1975/iStock/Getty Images Plus)"
+image_hash: "494a8d2aaeb75bf6c9c87134d2d8b84d"
+image_filename: "th?id=OHR.VarandhaGhat_ZH-CN1268827595_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
