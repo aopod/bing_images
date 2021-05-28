@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "武侯祠内红墙和竹林掩映下的小巷，中国成都"
+date:   "2021-05-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.RedAlley_ZH-CN2795378972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%ad%a6%e4%be%af%e7%a5%a0&form=hpcapt&mkt=zh-cn"
+copyright: "武侯祠内红墙和竹林掩映下的小巷，中国成都 (© Eastimages/Getty Images)"
+image_hash: "9f73b9bc98c10707f7e5e36a90c518c3"
+image_filename: "th?id=OHR.RedAlley_ZH-CN2795378972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
