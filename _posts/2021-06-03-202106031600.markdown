@@ -5,6 +5,6 @@ date:   "2021-06-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Pilat_ZH-CN0091553547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%9a%ae%e6%8b%89%e6%b2%99%e4%b8%98&form=hpcapt&mkt=zh-cn"
 copyright: "法国西南部阿卡雄湾的皮拉沙丘 (© aluxum/iStock/Getty Images Plus)"
-image_hash: "b300c5c02e592cd186aa4d5821438c50"
+image_hash: "285e8448a8df8ebf66c1661dc0cf5689"
 image_filename: "th?id=OHR.Pilat_ZH-CN0091553547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

@@ -5,6 +5,6 @@ date:   "2021-06-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.ToucanRainforest_ZH-CN0522556036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=canopy&form=hpcapt&mkt=zh-cn"
 copyright: "La Selva生物站热带雨林树冠上的黑嘴巨嘴鸟，哥斯达黎加 (© Greg Basco/Minden Pictures)"
-image_hash: "3353f3cd7e17220aff550ada2af315df"
+image_hash: "060bbf61287c6b47aa2fd13882880b42"
 image_filename: "th?id=OHR.ToucanRainforest_ZH-CN0522556036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
