@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "埃尔瓦什附近的格拉萨圣母堡，葡萄牙"
+date:   "2021-06-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ForteNossa_ZH-CN2163490377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9f%83%e5%b0%94%e7%93%a6%e4%bb%80&form=hpcapt&mkt=zh-cn"
+copyright: "埃尔瓦什附近的格拉萨圣母堡，葡萄牙 (© Luis Pina Photography/Shutterstock)"
+image_hash: "71c150c4c32365ecc5b44c3af9b6a7df"
+image_filename: "th?id=OHR.ForteNossa_ZH-CN2163490377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
