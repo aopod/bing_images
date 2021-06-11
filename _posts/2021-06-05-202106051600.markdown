@@ -5,6 +5,6 @@ date:   "2021-06-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.ArromanchesLesBains_ZH-CN0631947158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=Normandy&form=hpcapt&mkt=zh-cn"
 copyright: "阿罗芒什莱班的桑树港，法国诺曼底 (© agefotostock/Alamy)"
-image_hash: "10f5518028f2cffa7b765dad95d852bd"
+image_hash: "9018a30e1b018a3b5c104b96b0f28da7"
 image_filename: "th?id=OHR.ArromanchesLesBains_ZH-CN0631947158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
