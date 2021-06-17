@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Aerial view of Chapel Bridge over the river Reuss in Lucerne, Switzerland"
+date:   "2021-06-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ReussRiver_ZH-CN5897721217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Chapel&form=hpcapt&mkt=zh-cn"
+copyright: "Aerial view of Chapel Bridge over the river Reuss in Lucerne, Switzerland (© Neleman Initiative/Gallery Stock)"
+image_hash: "ab169d8c206fe825a9aa3afaaf1825d8"
+image_filename: "th?id=OHR.ReussRiver_ZH-CN5897721217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
