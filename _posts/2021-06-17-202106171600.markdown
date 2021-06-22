@@ -5,6 +5,6 @@ date:   "2021-06-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.ReussRiver_ZH-CN5897721217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%bd%97%e4%bc%8a%e6%96%af%e6%b2%b3&form=hpcapt&mkt=zh-cn"
 copyright: "鸟瞰罗伊斯河上的教堂桥，瑞士卢塞恩 (© Neleman Initiative/Gallery Stock)"
-image_hash: "1d4a8677e12eafeb40aa730b2faf9954"
+image_hash: "b756a1f79a3bd90b9bf7e8fe0770832a"
 image_filename: "th?id=OHR.ReussRiver_ZH-CN5897721217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

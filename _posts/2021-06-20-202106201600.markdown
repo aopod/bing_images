@@ -5,6 +5,6 @@ date:   "2021-06-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.RothschildGiraffe_ZH-CN9266877986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%95%bf%e9%a2%88%e9%b9%bf&form=hpcapt&mkt=zh-cn"
 copyright: "纳库鲁湖国家公园中的罗氏长颈鹿，肯尼亚 (© Theo Allofs/Minden Pictures)"
-image_hash: "ce5bb8d2e1e453bb80517221c5ede053"
+image_hash: "db5dd47b9350d376dd677d749ba98f51"
 image_filename: "th?id=OHR.RothschildGiraffe_ZH-CN9266877986_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

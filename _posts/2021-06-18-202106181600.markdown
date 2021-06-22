@@ -5,6 +5,6 @@ date:   "2021-06-18 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BurleighHeads_ZH-CN6052781534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%bc%af%e5%88%a9%e8%a7%92&form=hpcapt&mkt=zh-cn"
 copyright: "在伯利角冲浪的人们，澳大利亚黄金海岸 (© Vicki Smith/Getty Images)"
-image_hash: "e0bedceb00ef791fa89ddc264a286cdc"
+image_hash: "8fbf6889010251daf72348d3a262b3ee"
 image_filename: "th?id=OHR.BurleighHeads_ZH-CN6052781534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
