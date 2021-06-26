@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "大型火烈鸟迁徙到淡水区，印度"
+date:   "2021-06-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.GreaterFlamingosIndia_ZH-CN5655181892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%81%ab%e7%83%88%e9%b8%9f&form=hpcapt&mkt=zh-cn"
+copyright: "大型火烈鸟迁徙到淡水区，印度 (© Amresh Mishra/500px/Getty Images)"
+image_hash: "1a1fe284d8699bbd460b75f4991b3877"
+image_filename: "th?id=OHR.GreaterFlamingosIndia_ZH-CN5655181892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
