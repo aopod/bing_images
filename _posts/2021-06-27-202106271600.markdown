@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "戈佐岛上的Cittadella城堡,马耳他"
+date:   "2021-06-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Cittadella_ZH-CN0039969121_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a9%ac%e8%80%b3%e4%bb%96%e6%88%88%e4%bd%90%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+copyright: "戈佐岛上的Cittadella城堡,马耳他 (© Davide Seddio/Getty Images)"
+image_hash: "ce25aaa4cc096876545dec6e240abc33"
+image_filename: "th?id=OHR.Cittadella_ZH-CN0039969121_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
