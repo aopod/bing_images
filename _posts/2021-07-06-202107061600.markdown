@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "乌鲁米耶湖中的岩层，伊朗"
+date:   "2021-07-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.LakeUrmia_ZH-CN4941337431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%b9%8c%e9%b2%81%e7%b1%b3%e8%80%b6%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "乌鲁米耶湖中的岩层，伊朗 (© Ali/Adobe Stock)"
+image_hash: "f4bd5533785dbd9114618a0519ae0dbf"
+image_filename: "th?id=OHR.LakeUrmia_ZH-CN4941337431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
