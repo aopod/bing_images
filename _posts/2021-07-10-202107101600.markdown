@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "螺旋状芦荟"
+date:   "2021-07-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SpiralAloe_ZH-CN5594814833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%8a%a6%e8%8d%9f&form=hpcapt&mkt=zh-cn"
+copyright: "螺旋状芦荟 (© David Madison/Getty Images)"
+image_hash: "ce9f4352c90ad06a69f7857b7fa56d6d"
+image_filename: "th?id=OHR.SpiralAloe_ZH-CN5594814833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
