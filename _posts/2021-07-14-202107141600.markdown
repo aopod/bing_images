@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Ngo Dong河两岸的稻田美景，越南宁平省"
+date:   "2021-07-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.NgoDong_ZH-CN6211342982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%b6%8a%e5%8d%97%e5%ae%81%e5%b9%b3&form=hpcapt&mkt=zh-cn"
+copyright: "Ngo Dong河两岸的稻田美景，越南宁平省 (© Jeremy Woodhouse/Getty Images)"
+image_hash: "067b506d9f1d8bd192c5267fe20c3a62"
+image_filename: "th?id=OHR.NgoDong_ZH-CN6211342982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
