@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Mont Choisy Beach, Mauritius"
+date:   "2021-07-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MontChoisy_ZH-CN5381112230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Imager&form=hpcapt&mkt=zh-cn"
+copyright: "Mont Choisy Beach, Mauritius (© Robert Harding World Imagery/Offset by Shutterstock)"
+image_hash: "f611d240d07df3bc09e52b1972b5c157"
+image_filename: "th?id=OHR.MontChoisy_ZH-CN5381112230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
