@@ -5,6 +5,6 @@ date:   "2021-07-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.ZinnowitzSeebruecke_ZH-CN6706198565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=zzzz&form=hpcapt&mkt=zh-cn"
 copyright: "Zinnowitz pier on Usedom island in the Baltic Sea, Germany (© Frank Günther/Getty Images)"
-image_hash: "a7d02275d1936064fb4c055476d5d5ee"
+image_hash: "25f4269d8868ec7f9a1eb43178f23348"
 image_filename: "th?id=OHR.ZinnowitzSeebruecke_ZH-CN6706198565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
