@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "山脉中的朱砂湖，加拿大落基山脉"
+date:   "2021-07-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.VermilionLakes_ZH-CN3446257764_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%9c%b1%e7%a0%82%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "山脉中的朱砂湖，加拿大落基山脉 (© Glowing Earth Photography/Getty Images)"
+image_hash: "8899cb70496a4b2b82395521324391c8"
+image_filename: "th?id=OHR.VermilionLakes_ZH-CN3446257764_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
