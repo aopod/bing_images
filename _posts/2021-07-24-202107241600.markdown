@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "皮丘拉湖畔的乌代布尔城市宫殿，印度"
+date:   "2021-07-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.CityPalaceUdaipur_ZH-CN2773121437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%9a%ae%e4%b8%98%e6%8b%89%e6%b9%96%e7%95%94&form=hpcapt&mkt=zh-cn"
+copyright: "皮丘拉湖畔的乌代布尔城市宫殿，印度 (© Chaiyun Damkaew/Getty Images)"
+image_hash: "5270387ef0e1cfe0e1b2f154cffdfe6e"
+image_filename: "th?id=OHR.CityPalaceUdaipur_ZH-CN2773121437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
