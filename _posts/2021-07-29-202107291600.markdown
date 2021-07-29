@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Otter Cliffs, Acadia National Park, Maine"
+title:  "阿卡迪亚国家公园里的水獭悬崖，缅因州"
 date:   "2021-07-29 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.OtterCliff_ZH-CN3062794263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
-link: "/search?q=Acadia&form=hpcapt&mkt=zh-cn"
-copyright: "Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)"
-image_hash: "033292069dbc8223b8be2c4082f1caaa"
+link: "/search?q=%e9%98%bf%e5%8d%a1%e8%bf%aa%e4%ba%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "阿卡迪亚国家公园里的水獭悬崖，缅因州 (© dbimages/Alamy)"
+image_hash: "45f5e4196b9ddad1e3b4585863d686a7"
 image_filename: "th?id=OHR.OtterCliff_ZH-CN3062794263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
