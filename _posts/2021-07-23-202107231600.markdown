@@ -5,6 +5,6 @@ date:   "2021-07-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.JavanCousins_ZH-CN2694602511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%a0%91%e8%9b%99&form=hpcapt&mkt=zh-cn"
 copyright: "四只爪哇树蛙趴在树茎上，印度尼西亚 (© SnapRapid/Offset by Shutterstock)"
-image_hash: "11613e8fe5bcaad824e1cc432f42cfa4"
+image_hash: "46832591971e063740c057308e630b8d"
 image_filename: "th?id=OHR.JavanCousins_ZH-CN2694602511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

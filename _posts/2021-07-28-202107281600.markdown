@@ -5,6 +5,6 @@ date:   "2021-07-28 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.PantheraTigris_ZH-CN3331361509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%ad%9f%e5%8a%a0%e6%8b%89%e8%99%8e&form=hpcapt&mkt=zh-cn"
 copyright: "隐藏在高草丛中的老虎，印度阿萨姆邦 (© Sandesh Kadur/Minden Pictures)"
-image_hash: "ed4ae72db9f8c398b0cdc99e7a4be92b"
+image_hash: "69024d448e8af7a39c07939b7d41286c"
 image_filename: "th?id=OHR.PantheraTigris_ZH-CN3331361509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

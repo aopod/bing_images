@@ -5,6 +5,6 @@ date:   "2021-07-26 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AdlerPlanetarium_ZH-CN3108653374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%98%bf%e5%be%b7%e5%8b%92%e5%a4%a9%e6%96%87%e9%a6%86&form=hpcapt&mkt=zh-cn"
 copyright: "密歇根湖畔的阿德勒天文馆， 芝加哥伊利诺伊州 (© Amazing Aerial Agency/Offset by Shutterstock)"
-image_hash: "996a79433cf59f092316924fefd5fb9e"
+image_hash: "fdb5115c3426057967e823af48e23142"
 image_filename: "th?id=OHR.AdlerPlanetarium_ZH-CN3108653374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
