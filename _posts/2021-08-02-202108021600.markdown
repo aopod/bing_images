@@ -5,6 +5,6 @@ date:   "2021-08-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CasteldelMonte_ZH-CN4436589634_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%92%99%e7%89%b9%e5%9f%8e%e5%a0%a1&form=hpcapt&mkt=zh-cn"
 copyright: "蒙特城堡，意大利普利亚大区 (© Toni Spagone/Alamy)"
-image_hash: "be75b4252c9fbb00e1c4a1bb53d7dac0"
+image_hash: "101b71962db6b664aa1512174eafa0ae"
 image_filename: "th?id=OHR.CasteldelMonte_ZH-CN4436589634_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
