@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "从索尔兹伯里的峭壁上俯瞰爱丁堡，苏格兰荷里路德公园"
+date:   "2021-08-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SalisburyCrags_ZH-CN4712204475_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%8d%b7%e9%87%8c%e8%b7%af%e5%be%b7%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "从索尔兹伯里的峭壁上俯瞰爱丁堡，苏格兰荷里路德公园 (© Andrew Merry/Getty Images)"
+image_hash: "e5323e99de79bc8b6a98abf3e6aa1847"
+image_filename: "th?id=OHR.SalisburyCrags_ZH-CN4712204475_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
