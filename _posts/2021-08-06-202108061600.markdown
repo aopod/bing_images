@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "乌尤尼盐沼上的锥形盐堆，玻利维亚"
+date:   "2021-08-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SaltCones_ZH-CN4825397608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%b9%8c%e5%b0%a4%e5%b0%bc%e7%9b%90%e6%b2%bc&form=hpcapt&mkt=zh-cn"
+copyright: "乌尤尼盐沼上的锥形盐堆，玻利维亚 (© John Shaw/Minden Pictures)"
+image_hash: "9ce4b71d72491c142d077cc65e709ae9"
+image_filename: "th?id=OHR.SaltCones_ZH-CN4825397608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
