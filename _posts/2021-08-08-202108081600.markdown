@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "雕刻师在矿山湾创作的岩雕作品，新西兰北岛陶波湖"
+date:   "2021-08-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MineBay_ZH-CN4962056960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%99%b6%e6%b3%a2%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "雕刻师在矿山湾创作的岩雕作品，新西兰北岛陶波湖 (© Evgueni Zverev/Alamy)"
+image_hash: "28e7f735e0fb6edfbb7ce2059e08cea7"
+image_filename: "th?id=OHR.MineBay_ZH-CN4962056960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
