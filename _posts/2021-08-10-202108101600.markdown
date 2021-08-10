@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "拍摄于二连浩特恐龙博物馆中的英仙座流星雨，中国内蒙古"
+date:   "2021-08-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.DinoShower_ZH-CN1791773864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%8b%b1%e4%bb%99%e5%ba%a7%e6%b5%81%e6%98%9f%e9%9b%a8&form=hpcapt&mkt=zh-cn"
+copyright: "拍摄于二连浩特恐龙博物馆中的英仙座流星雨，中国内蒙古 (© bjdlzx/Getty Images)"
+image_hash: "0447ea3f84ef4e5f9a0a5db95f499495"
+image_filename: "th?id=OHR.DinoShower_ZH-CN1791773864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
