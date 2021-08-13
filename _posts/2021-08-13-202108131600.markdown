@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "死亡谷国家公园里的优比喜比火山口，加利福尼亚州"
+date:   "2021-08-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.UbehebeCrater_ZH-CN0157876978_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%ad%bb%e4%ba%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "死亡谷国家公园里的优比喜比火山口，加利福尼亚州 (© Albert Knapp/Alamy)"
+image_hash: "10f39dddc92b7ac87be5fba5f42e5051"
+image_filename: "th?id=OHR.UbehebeCrater_ZH-CN0157876978_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
