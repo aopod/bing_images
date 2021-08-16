@@ -5,6 +5,6 @@ date:   "2021-08-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.StrandbadTiefenbrunnen_ZH-CN0240023450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%8b%8f%e9%bb%8e%e4%b8%96%e6%b9%96&form=hpcapt&mkt=zh-cn"
 copyright: "苏黎世湖岸边的室外游泳池，瑞士 (© Amazing Aerial Agency/Offset by Shutterstock)"
-image_hash: "ab7b5f77afa9c826da6c2acc5616ad0e"
+image_hash: "dcf8c8382e59a367709e2cdca64b4619"
 image_filename: "th?id=OHR.StrandbadTiefenbrunnen_ZH-CN0240023450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
