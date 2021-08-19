@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "位于阿曼和迪拜酋长国边界的鲁卜哈利沙漠"
+date:   "2021-08-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.EmptyQuarter_ZH-CN0670918289_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%b2%81%e5%8d%9c%e5%93%88%e5%88%a9%e6%b2%99%e6%bc%a0&form=hpcapt&mkt=zh-cn"
+copyright: "位于阿曼和迪拜酋长国边界的鲁卜哈利沙漠 (© Daniel Schoenen/Offset by Shutterstock)"
+image_hash: "76b7773207ecdcffc8d0f1ef4fde6e6f"
+image_filename: "th?id=OHR.EmptyQuarter_ZH-CN0670918289_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
