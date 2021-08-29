@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "菲律宾马荣山的火山口冒烟"
+date:   "2021-08-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MayonVolcano_ZH-CN0183039911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a9%ac%e8%8d%a3%e7%81%ab%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "菲律宾马荣山的火山口冒烟 (© Per-Andre Hoffmann/Cavan)"
+image_hash: "e9d8a488616cb719f4a013f72cb44e40"
+image_filename: "th?id=OHR.MayonVolcano_ZH-CN0183039911_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
