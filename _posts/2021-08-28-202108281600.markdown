@@ -5,6 +5,6 @@ date:   "2021-08-28 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Ruskeala_ZH-CN0059931600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=Ruskeala%e5%b1%b1%e5%9c%b0%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "Ruskeala山地公园的地下湖， 俄罗斯卡累利阿 (© Konstantin Trubavin/Offset by Shutterstock)"
-image_hash: "fa677b9b42818d2590e1550d47ec78dd"
+image_hash: "cf3ba7744f8c397baea05c4ddbfb9e1d"
 image_filename: "th?id=OHR.Ruskeala_ZH-CN0059931600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
