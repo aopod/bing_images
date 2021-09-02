@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "比斯蒂荒野上的“外星孵化场”，新墨西哥州"
+date:   "2021-09-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AlienEggs_ZH-CN0732640719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%af%94%e6%96%af%e8%92%82%e8%8d%92%e9%87%8e&form=hpcapt&mkt=zh-cn"
+copyright: "比斯蒂荒野上的“外星孵化场”，新墨西哥州 (© Ian Shive/Tandem Stills + Motion)"
+image_hash: "dc8508f4898bd2e1b5ffef2c750eb3f7"
+image_filename: "th?id=OHR.AlienEggs_ZH-CN0732640719_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
