@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "River Avon in Bath, England"
+title:  "英国巴斯的埃文河"
 date:   "2021-09-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.JaneAusten_ZH-CN2508681308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
-link: "/search?q=England&form=hpcapt&mkt=zh-cn"
-copyright: "River Avon in Bath, England (© Robert Harding World Imagery/Offset by Shutterstock)"
-image_hash: "cf71a88e3c4329d76eb8b3c056e1dccf"
+link: "/search?q=%e5%9f%83%e6%96%87%e6%b2%b3&form=hpcapt&mkt=zh-cn"
+copyright: "英国巴斯的埃文河 (© Robert Harding World Imagery/Offset by Shutterstock)"
+image_hash: "227e82da0566d25221d9cd9ac1b6a6fc"
 image_filename: "th?id=OHR.JaneAusten_ZH-CN2508681308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
