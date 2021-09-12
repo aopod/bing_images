@@ -5,6 +5,6 @@ date:   "2021-09-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AsianElephants_ZH-CN2736490825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%ba%9a%e6%b4%b2%e8%b1%a1&form=hpcapt&mkt=zh-cn"
 copyright: "印度西孟加拉邦的亚洲象 (© Avijan Saha/Minden Pictures)"
-image_hash: "ec3366c1a8609594c9ca807d5b86d7ab"
+image_hash: "1bf49f40b97085ab41368ec3a67ba0b6"
 image_filename: "th?id=OHR.AsianElephants_ZH-CN2736490825_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

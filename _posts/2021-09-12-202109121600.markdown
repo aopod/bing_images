@@ -5,6 +5,6 @@ date:   "2021-09-12 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.VeniceBeach_ZH-CN9971532384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a8%81%e5%b0%bc%e6%96%af%e6%b5%b7%e6%bb%a9%e6%bb%91%e6%9d%bf%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "威尼斯海滩滑板公园鸟瞰图，洛杉矶 (© Ingus Kruklitis/Getty Images)"
-image_hash: "2ee4492a25109103de36aff4697ed344"
+image_hash: "f728957db5678bf0280f65ba362ca619"
 image_filename: "th?id=OHR.VeniceBeach_ZH-CN9971532384_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
