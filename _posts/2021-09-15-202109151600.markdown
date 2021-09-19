@@ -5,6 +5,6 @@ date:   "2021-09-15 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.HouseboatKerala_ZH-CN0318796630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%98%bf%e6%8b%89%e6%99%ae%e6%89%8e&form=hpcapt&mkt=zh-cn"
 copyright: "阿拉普扎的船屋，印度喀拉拉邦 (© Martin Harvey/The Image Bank/Getty Images)"
-image_hash: "ca30f3709c32a65484321480e9449951"
+image_hash: "1222c66fec47dff2e9c192c2602a720a"
 image_filename: "th?id=OHR.HouseboatKerala_ZH-CN0318796630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

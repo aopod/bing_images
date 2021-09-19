@@ -5,6 +5,6 @@ date:   "2021-09-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BirnbeckPier_ZH-CN0177628993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%bb%a8%e6%b5%b7%e9%9f%a6%e6%96%af%e9%a1%bf&form=hpcapt&mkt=zh-cn"
 copyright: "布里斯托尔海峡的伯恩贝克码头，英国滨海韦斯顿北索美塞得 (© Stephen Davies/Adobe Stock)"
-image_hash: "40bcea3d8f0fc5bac2ab8d6a1c80b7ae"
+image_hash: "0e1ca952f9108cc8529f5f643282a686"
 image_filename: "th?id=OHR.BirnbeckPier_ZH-CN0177628993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

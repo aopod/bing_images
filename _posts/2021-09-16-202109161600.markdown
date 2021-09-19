@@ -5,6 +5,6 @@ date:   "2021-09-16 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BenagilCave_ZH-CN0480408879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%b4%9d%e7%ba%b3%e5%90%89%e5%b0%94%e6%b5%b7%e6%bb%a9%e6%b4%9e%e7%a9%b4&form=hpcapt&mkt=zh-cn"
 copyright: "贝纳吉尔洞穴，葡萄牙阿尔加维 (© Michael Malorny/Offset by Shutterstock)"
-image_hash: "8ffdcd64f4bd19a87d7955b63b9e1170"
+image_hash: "6a4cd01460a1a7e05516abfffe69de1d"
 image_filename: "th?id=OHR.BenagilCave_ZH-CN0480408879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
