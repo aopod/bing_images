@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Cusco Cathedral on the Plaza de Armas, Cusco, Peru"
+date:   "2021-09-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.CuscoCathedral_ZH-CN9834821723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=+Armas&form=hpcapt&mkt=zh-cn"
+copyright: "Cusco Cathedral on the Plaza de Armas, Cusco, Peru (© sharptoyou/Shutterstock)"
+image_hash: "843b72d73f98ee8a1b1908aaa005ffa3"
+image_filename: "th?id=OHR.CuscoCathedral_ZH-CN9834821723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
