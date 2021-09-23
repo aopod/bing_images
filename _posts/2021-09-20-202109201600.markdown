@@ -5,6 +5,6 @@ date:   "2021-09-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MidAutumnFestival2021_ZH-CN7657484762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%b8%ad%e7%a7%8b&form=hpcapt&mkt=zh-cn"
 copyright: "【中秋快乐】 （ © shutterstock ）"
-image_hash: "56419dff6949b71c5e255f35d779f39f"
+image_hash: "af4ae54158413e2a5e43ada98201072b"
 image_filename: "th?id=OHR.MidAutumnFestival2021_ZH-CN7657484762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

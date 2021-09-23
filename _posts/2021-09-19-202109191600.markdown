@@ -5,6 +5,6 @@ date:   "2021-09-19 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BlackSun_ZH-CN0889682619_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%a4%8b%e9%b8%9f&form=hpcapt&mkt=zh-cn"
 copyright: "秋季在湿地上空迁徙的椋鸟群 (© Viking/Alamy)"
-image_hash: "a413d940bf34a78cdf3f6e45d98bfc77"
+image_hash: "b324e8ab813311a00bfa89c23bd4ab2b"
 image_filename: "th?id=OHR.BlackSun_ZH-CN0889682619_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
