@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "潘塔纳尔湿地的风信子金刚鹦鹉，巴西"
+title:  "【 国庆快乐 】（ © GettyImages ）"
 date:   "2021-09-30 16:00:00 +0800"
-image_url: "http://cn.bing.com/th?id=OHR.HyacinthMacaws_ZH-CN1191345036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
-link: "/search?q=%e9%a3%8e%e4%bf%a1%e5%ad%90%e9%87%91%e5%88%9a%e9%b9%a6%e9%b9%89h&form=hpcapt&mkt=zh-cn"
-copyright: "潘塔纳尔湿地的风信子金刚鹦鹉，巴西 (© David Pattyn/Minden Pictures)"
-image_hash: "56974ee88835f0bb78072b501b4f2c9d"
-image_filename: "th?id=OHR.HyacinthMacaws_ZH-CN1191345036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+image_url: "http://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN5381900085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9b%bd%e5%ba%86%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "【 国庆快乐 】（ © GettyImages ）"
+image_hash: "bfc72afed6c39d5658358691ffad1c91"
+image_filename: "th?id=OHR.TheNationaDay_ZH-CN5381900085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
