@@ -5,6 +5,6 @@ date:   "2021-09-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CuscoCathedral_ZH-CN9834821723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%ba%93%e6%96%af%e7%a7%91%e5%a4%a7%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn"
 copyright: "武器广场上的库斯科大教堂，秘鲁 (© sharptoyou/Shutterstock)"
-image_hash: "51adcae9f4e69ec2e7d6418dc8d76a62"
+image_hash: "fd2c6023d099f55b771b0a5eaf313135"
 image_filename: "th?id=OHR.CuscoCathedral_ZH-CN9834821723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
