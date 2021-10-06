@@ -5,6 +5,6 @@ date:   "2021-09-30 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN5381900085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%9b%bd%e5%ba%86%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "【 国庆快乐 】（ © GettyImages ）"
-image_hash: "bfc72afed6c39d5658358691ffad1c91"
+image_hash: "3d7a98859d23e511bc7e3e3cc4557343"
 image_filename: "th?id=OHR.TheNationaDay_ZH-CN5381900085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
