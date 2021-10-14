@@ -5,6 +5,6 @@ date:   "2021-10-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.ProseccoHills_ZH-CN3931715664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%99%ae%e7%bd%97%e5%a1%9e%e5%85%8b%e5%b1%b1%e4%b8%98&form=hpcapt&mkt=zh-cn"
 copyright: "世界著名气泡酒产地普罗塞克山丘,意大利威尼托 (© Olimpio Fantuz/Sime/eStock Photo)"
-image_hash: "e8091504eac088fd79beb89e354c4aee"
+image_hash: "e13cb7b7a6b04b06261a19ded604ac5a"
 image_filename: "th?id=OHR.ProseccoHills_ZH-CN3931715664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

@@ -5,6 +5,6 @@ date:   "2021-10-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AbaloneShell_ZH-CN3205304974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%b2%8d%e9%b1%bc%e8%b4%9d%e5%a3%b3&form=hpcapt&mkt=zh-cn"
 copyright: "五彩缤纷的鲍鱼贝壳，新西兰 (© Lynda Harper/Minden Pictures)"
-image_hash: "19937623908a8ddbf970064cde40410e"
+image_hash: "630eeb06cd01a9e62161b3a966902b46"
 image_filename: "th?id=OHR.AbaloneShell_ZH-CN3205304974_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

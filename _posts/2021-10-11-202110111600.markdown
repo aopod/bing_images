@@ -5,6 +5,6 @@ date:   "2021-10-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.StMalo_ZH-CN3452597997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%9c%a3%e9%a9%ac%e6%b4%9b&form=hpcapt&mkt=zh-cn"
 copyright: "布列塔尼大区的城市圣马洛，法国 (© Mathieu Rivrin/Moment/Getty Images)"
-image_hash: "f155f26de8079b5a01e8116f292e23b8"
+image_hash: "6f9fb4de10ef2c789df2ed3e8a8c4051"
 image_filename: "th?id=OHR.StMalo_ZH-CN3452597997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
