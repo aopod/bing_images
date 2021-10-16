@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "华卡雷瓦雷瓦森林的红木纪念树林，新西兰北岛"
+date:   "2021-10-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Whakarewarewa_ZH-CN4957778498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8d%8e%e5%8d%a1%e9%9b%b7%e7%93%a6%e9%9b%b7%e7%93%a6&form=hpcapt&mkt=zh-cn"
+copyright: "华卡雷瓦雷瓦森林的红木纪念树林，新西兰北岛 (© Michael Breitung/Huber/eStock Photo)"
+image_hash: "fe429bf30178a4a9e451a9773c9c9ffe"
+image_filename: "th?id=OHR.Whakarewarewa_ZH-CN4957778498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
