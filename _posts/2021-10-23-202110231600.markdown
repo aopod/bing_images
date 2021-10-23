@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "像巨大指纹一样的Bavljenac岛，克罗地亚"
+date:   "2021-10-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Bavljenac_ZH-CN1739905750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%85%8b%e7%bd%97%e5%9c%b0%e4%ba%9a&form=hpcapt&mkt=zh-cn"
+copyright: "像巨大指纹一样的Bavljenac岛，克罗地亚 (© Julien Duval/Amazing Aerial Agency)"
+image_hash: "c3f6dee0146091ffe4c7e8ac60bf22f1"
+image_filename: "th?id=OHR.Bavljenac_ZH-CN1739905750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
