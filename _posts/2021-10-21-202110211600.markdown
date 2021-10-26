@@ -5,6 +5,6 @@ date:   "2021-10-21 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Neowise_ZH-CN1308687945_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%96%b0%e6%99%ba%e5%bd%97%e6%98%9f&form=hpcapt&mkt=zh-cn"
 copyright: "划过湖面上空的新智彗星，加拿大贾斯珀国家公园 (© Stocktrek Images, Inc./Alamy)"
-image_hash: "3769f5dc71d0b10b4fe6d636f463db2d"
+image_hash: "2cf590872c779ba5cad5c6583b04cbe6"
 image_filename: "th?id=OHR.Neowise_ZH-CN1308687945_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
