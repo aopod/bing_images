@@ -5,6 +5,6 @@ date:   "2021-10-27 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Dargavs_ZH-CN2721319869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%8c%97%e5%a5%a5%e5%a1%9e%e6%a2%af-%e9%98%bf%e5%85%b0%e5%85%b1%e5%92%8c%e5%9b%bd&form=hpcapt&mkt=zh-cn"
 copyright: "北奥塞梯-阿兰共和国的一片墓地，俄罗斯 (© Yakov Oskanov/Shutterstock)"
-image_hash: "dec07a53720e890136b8ff091f6cb118"
+image_hash: "92c907559181bd253b55ec3059e3494a"
 image_filename: "th?id=OHR.Dargavs_ZH-CN2721319869_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

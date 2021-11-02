@@ -5,6 +5,6 @@ date:   "2021-10-29 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MistyForest_ZH-CN3024731044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%9d%be%e6%a0%91&form=hpcapt&mkt=zh-cn"
 copyright: "薄雾笼罩的松树林，越南 (© Thanh Thuy/Moment/Getty Images)"
-image_hash: "48e8d04dec01b85465376e71c77f18b6"
+image_hash: "d50d04342d129d9e600e5d3d52496890"
 image_filename: "th?id=OHR.MistyForest_ZH-CN3024731044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
