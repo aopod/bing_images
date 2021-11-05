@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Pont Rouge"
+title:  "帕尔默河上的红桥，加拿大魁北克省"
 date:   "2021-11-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.PontRouge_ZH-CN0788212424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
-link: "/search?q=Pon&form=hpcapt&mkt=zh-cn"
-copyright: "Pont Rouge (Red Bridge) over the Palmer River in Sainte-Agathe-de-Lotbinière, Quebec, Canada (© Jean Surprenant/Getty Images)"
-image_hash: "12d274b8e005a1e928d755375d637d1e"
+link: "/search?q=%e9%ad%81%e5%8c%97%e5%85%8b&form=hpcapt&mkt=zh-cn"
+copyright: "帕尔默河上的红桥，加拿大魁北克省 (© Jean Surprenant/Getty Images)"
+image_hash: "ff71d3897b0298603349c073a86d1910"
 image_filename: "th?id=OHR.PontRouge_ZH-CN0788212424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

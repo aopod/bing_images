@@ -5,6 +5,6 @@ date:   "2021-10-30 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.YorkMinster_ZH-CN3129176050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%ba%a6%e5%85%8b%e5%a4%a7%e6%95%99%e5%a0%82&form=hpcapt&mkt=zh-cn"
 copyright: "约克大教堂墙上的怪诞雕塑，英格兰北约克郡 (© John Potter/Alamy)"
-image_hash: "0f634e3b16c7aae2fe7e5bd91debf60f"
+image_hash: "e0a38f154f5c47fe4ace4f46f9848db4"
 image_filename: "th?id=OHR.YorkMinster_ZH-CN3129176050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
