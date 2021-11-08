@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "悬崖上雕刻的古老岩石墓葬，土耳其达利安附近"
+date:   "2021-11-08 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.DalyanTombs_ZH-CN1519154607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9c%9f%e8%80%b3%e5%85%b6&form=hpcapt&mkt=zh-cn"
+copyright: "悬崖上雕刻的古老岩石墓葬，土耳其达利安附近 (© Reinhard Schmid/eStock Photo)"
+image_hash: "aeb18d1176b306d750517e285ad4c4a0"
+image_filename: "th?id=OHR.DalyanTombs_ZH-CN1519154607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
