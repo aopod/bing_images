@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "梅加拉亚邦的七姐妹瀑布，印度"
+date:   "2021-11-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.NohsngithiangFalls_ZH-CN1819466830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%80%91%e5%b8%83&form=hpcapt&mkt=zh-cn"
+copyright: "梅加拉亚邦的七姐妹瀑布，印度 (© Upamanyoo Das/Shutterstock)"
+image_hash: "5acd3d9d5d9bd495954c7aaeacdf6ec7"
+image_filename: "th?id=OHR.NohsngithiangFalls_ZH-CN1819466830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
