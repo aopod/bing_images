@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "海狸湾度假公园, 美国俄克拉何马州"
+date:   "2021-11-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BeaversBend_ZH-CN1916035610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%bf%84%e5%85%8b%e6%8b%89%e4%bd%95%e9%a9%ac%e5%b7%9e&form=hpcapt&mkt=zh-cn"
+copyright: "海狸湾度假公园, 美国俄克拉何马州 (© Inge Johnsson/Alamy)"
+image_hash: "31a92031f5fbe56884e87a9d46d77cbe"
+image_filename: "th?id=OHR.BeaversBend_ZH-CN1916035610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
