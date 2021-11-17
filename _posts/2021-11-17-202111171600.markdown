@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "潘塔纳尔湿地的风信子金刚鹦鹉，巴西"
+date:   "2021-11-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HyacinthMacaws_ZH-CN1191345036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a3%8e%e4%bf%a1%e5%ad%90%e9%87%91%e5%88%9a%e9%b9%a6%e9%b9%89&form=hpcapt&mkt=zh-cn"
+copyright: "潘塔纳尔湿地的风信子金刚鹦鹉，巴西 (© David Pattyn/Minden Pictures)"
+image_hash: "3de0086dbe00c3c80652a4810d5a6e9f"
+image_filename: "th?id=OHR.HyacinthMacaws_ZH-CN1191345036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
