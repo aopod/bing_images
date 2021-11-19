@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿西尼博因山公园的秋叶，加拿大不列颠哥伦比亚省"
+date:   "2021-11-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FallAssiniboine_ZH-CN8878734090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%b8%8d%e5%88%97%e9%a2%a0%e5%93%a5%e4%bc%a6%e6%af%94%e4%ba%9a%e7%9c%81&form=hpcapt&mkt=zh-cn"
+copyright: "阿西尼博因山公园的秋叶，加拿大不列颠哥伦比亚省 (© Mitch Pittman/TANDEM Stills + Motion)"
+image_hash: "df97a8b676355fb4798ab95f5c475427"
+image_filename: "th?id=OHR.FallAssiniboine_ZH-CN8878734090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
