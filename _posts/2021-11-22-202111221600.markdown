@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "菊石亚纲壳体的横截面"
+date:   "2021-11-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AmmoniteShell_ZH-CN9232274077_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%8f%8a%e7%9f%b3%e4%ba%9a%e7%ba%b2&form=hpcapt&mkt=zh-cn"
+copyright: "菊石亚纲壳体的横截面 (© Marianna Armata/Getty Images)"
+image_hash: "cd1470b916e5a4038be2a6afb83d7208"
+image_filename: "th?id=OHR.AmmoniteShell_ZH-CN9232274077_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
