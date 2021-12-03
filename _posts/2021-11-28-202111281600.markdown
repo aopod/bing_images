@@ -5,6 +5,6 @@ date:   "2021-11-28 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.RainbowMountain_ZH-CN9670076890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%a7%98%e9%b2%81%e5%bd%a9%e8%99%b9%e5%b1%b1&form=hpcapt&mkt=zh-cn"
 copyright: "被白雪覆盖的彩虹山，秘鲁 (© Jude Newkirk/Amazing Aerial Agency)"
-image_hash: "c2c0c05b6fb3773efc55e77f83039f45"
+image_hash: "9505ae01e79c340a9076d3e00349c342"
 image_filename: "th?id=OHR.RainbowMountain_ZH-CN9670076890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
