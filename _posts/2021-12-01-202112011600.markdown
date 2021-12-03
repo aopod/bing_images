@@ -5,6 +5,6 @@ date:   "2021-12-01 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.DenaliDall_ZH-CN9952652691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%99%bd%e5%a4%a7%e8%a7%92%e7%be%8a&form=hpcapt&mkt=zh-cn"
 copyright: "迪纳利国家公园里的白大角羊，阿拉斯加 (© Patrick J. Endres/Getty Images)"
-image_hash: "6d32c1ffe56c8a074b3997b5497b7058"
+image_hash: "ac84602f54eacb70d5399a389b06de45"
 image_filename: "th?id=OHR.DenaliDall_ZH-CN9952652691_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
