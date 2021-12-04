@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Salzburg with Salzach river, Austria"
+date:   "2021-12-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SalzburgKrampus_ZH-CN7355658592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Salzburg&form=hpcapt&mkt=zh-cn"
+copyright: "Salzburg with Salzach river, Austria (© MacEaton/Alamy)"
+image_hash: "75e8f2fa9a8dd2c32629fd5b16e76195"
+image_filename: "th?id=OHR.SalzburgKrampus_ZH-CN7355658592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
