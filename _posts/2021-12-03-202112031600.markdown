@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Mother cheetah and her cub in the Maasai Mara nature reserve, Kenya"
+title:  "马赛马拉国家保护区中的猎豹母子，肯尼亚"
 date:   "2021-12-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MotherCheetah_ZH-CN6992630248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
-link: "/search?q=Mother&form=hpcapt&mkt=zh-cn"
-copyright: "Mother cheetah and her cub in the Maasai Mara nature reserve, Kenya (© gudkovandrey/Adobe Stock)"
-image_hash: "3d1e551b63f56a63cd09f5d0f69adee4"
+link: "/search?q=%e9%a9%ac%e8%b5%9b%e9%a9%ac%e6%8b%89%e5%9b%bd%e5%ae%b6%e4%bf%9d%e6%8a%a4%e5%8c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "马赛马拉国家保护区中的猎豹母子，肯尼亚 (© gudkovandrey/Adobe Stock)"
+image_hash: "14bf46f6b48fa8cbfb622d9e77521608"
 image_filename: "th?id=OHR.MotherCheetah_ZH-CN6992630248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

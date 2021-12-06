@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Autumn leaves coated with frost"
+title:  "披着一层霜花的秋叶"
 date:   "2021-12-02 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.FrostLeaves_ZH-CN6851974281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
-link: "/search?q=Autumn&form=hpcapt&mkt=zh-cn"
-copyright: "Autumn leaves coated with frost (© sagarmanis/Getty Images)"
-image_hash: "9fab8173c6161939cf094dceb8f03701"
+link: "/search?q=%e7%bb%93%e9%9c%9c%e5%a4%a9%e6%b0%94&form=hpcapt&mkt=zh-cn"
+copyright: "披着一层霜花的秋叶 (© sagarmanis/Getty Images)"
+image_hash: "c259b885903ce3a83ff17621601b28ab"
 image_filename: "th?id=OHR.FrostLeaves_ZH-CN6851974281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

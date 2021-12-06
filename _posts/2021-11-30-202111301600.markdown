@@ -5,6 +5,6 @@ date:   "2021-11-30 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CuvervilleIsland_ZH-CN9814166047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%ba%93%e4%bd%9b%e7%bb%b4%e5%b0%94%e5%b2%9b&form=hpcapt&mkt=zh-cn"
 copyright: "库佛维尔岛附近的蓝色冰山，南极洲 (© Mike Hill/Getty Images)"
-image_hash: "0b7c7bdc5e5afb4eba4ab1c6d49b5e94"
+image_hash: "b9bffc1ad473a78a2f816bfe5daf0886"
 image_filename: "th?id=OHR.CuvervilleIsland_ZH-CN9814166047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
