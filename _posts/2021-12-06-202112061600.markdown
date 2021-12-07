@@ -5,6 +5,6 @@ date:   "2021-12-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Koenigsbourg_ZH-CN7675452866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%ad%9a%e6%97%a5%e5%b1%b1%e8%84%89&form=hpcapt&mkt=zh-cn"
 copyright: "孚日山脉上的国王城堡，法国阿尔萨斯 (© Leonid Andronov/Shutterstock)"
-image_hash: "fdba345c9abaa53b01e0bd2271c3b657"
+image_hash: "f558874adb647d120f2abaf5670dd57f"
 image_filename: "th?id=OHR.Koenigsbourg_ZH-CN7675452866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
