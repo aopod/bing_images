@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "韦尼格罗德的圣诞市场，德国萨克森-安哈尔特州"
+date:   "2021-12-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.WernigerodeWeihnachtsmarkt_ZH-CN1081480865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%90%a8%e5%85%8b%e6%a3%ae-%e5%ae%89%e5%93%88%e5%b0%94%e7%89%b9%e5%b7%9e&form=hpcapt&mkt=zh-cn"
+copyright: "韦尼格罗德的圣诞市场，德国萨克森-安哈尔特州 (© Krzysztof Baranowski/Moment/Getty Images)"
+image_hash: "ac96a7807fbd919353ef64a7501e58a5"
+image_filename: "th?id=OHR.WernigerodeWeihnachtsmarkt_ZH-CN1081480865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
