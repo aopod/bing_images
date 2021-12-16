@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圣诞主题的海滩小屋，英国伯恩茅斯"
+date:   "2021-12-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.XmasBeachHuts_ZH-CN6195800613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%bc%af%e6%81%a9%e8%8c%85%e6%96%af&form=hpcapt&mkt=zh-cn"
+copyright: "圣诞主题的海滩小屋，英国伯恩茅斯 (© Allouphoto/Alamy)"
+image_hash: "ec435c40149ef8865503532ad3e3981e"
+image_filename: "th?id=OHR.XmasBeachHuts_ZH-CN6195800613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
