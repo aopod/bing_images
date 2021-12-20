@@ -5,6 +5,6 @@ date:   "2021-12-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.WinterRoofs_ZH-CN5091303265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%98%bf%e5%b0%94%e8%90%a8%e6%96%af%e7%9a%84%e8%91%a1%e8%90%84%e9%85%92%e6%9d%91&form=hpcapt&mkt=zh-cn"
 copyright: "阿尔萨斯的葡萄酒村，法国上莱茵省 (© Walter Bibikow/eStock Photo)"
-image_hash: "9055eae30aae0db130c3eaa8685e4a27"
+image_hash: "0a7cb799abaf7f55defa834911568871"
 image_filename: "th?id=OHR.WinterRoofs_ZH-CN5091303265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

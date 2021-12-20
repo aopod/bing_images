@@ -5,6 +5,6 @@ date:   "2021-12-19 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.QuoichBowl_ZH-CN5583756085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%98%bf%e4%bc%af%e4%b8%81%e9%83%a1&form=hpcapt&mkt=zh-cn"
 copyright: "Linn of Quoich瀑布旁的碗状岩石洞，苏格兰阿伯丁郡 (© AWL Images/Danita Delimont)"
-image_hash: "54e5c8bdb094c88b5b01845cb610f812"
+image_hash: "af5f2bbca2f7db88965b8619729c3c27"
 image_filename: "th?id=OHR.QuoichBowl_ZH-CN5583756085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

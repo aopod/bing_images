@@ -5,6 +5,6 @@ date:   "2021-12-18 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AtigunPassAurora_ZH-CN5486073819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%9e%81%e5%85%89&form=hpcapt&mkt=zh-cn"
 copyright: "布鲁克斯山脉上空的极光，美国阿拉斯加州 (© Noppawat Tom Charoensinphon/Getty Images)"
-image_hash: "f26db5175b05e16f5dee12eea119aa22"
+image_hash: "2b90927c9f9acb1a44c5f341e0deece6"
 image_filename: "th?id=OHR.AtigunPassAurora_ZH-CN5486073819_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
