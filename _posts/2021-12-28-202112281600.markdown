@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "育空地区的落基山羊，加拿大"
+date:   "2021-12-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.OreamnosAmericanus_ZH-CN6731612431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%90%bd%e5%9f%ba%e5%b1%b1%e7%be%8a&form=hpcapt&mkt=zh-cn"
+copyright: "育空地区的落基山羊，加拿大 (© Mark Newman/Getty Images)"
+image_hash: "6c6a19e11e26c8c454542e9cc335151c"
+image_filename: "th?id=OHR.OreamnosAmericanus_ZH-CN6731612431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
