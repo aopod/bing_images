@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "雪后的布拉格，捷克共和国"
+date:   "2022-01-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SnowyPrague_ZH-CN9794475183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%8d%b7%e5%85%8b%e5%b8%83%e6%8b%89%e6%a0%bc&form=hpcapt&mkt=zh-cn"
+copyright: "雪后的布拉格，捷克共和国 (© benkrut/Getty Images)"
+image_hash: "7dc5751f905012979161cca98871247b"
+image_filename: "th?id=OHR.SnowyPrague_ZH-CN9794475183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
