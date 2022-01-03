@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "安沙波利哥沙漠州立公园，美国加利福尼亚州"
+date:   "2022-01-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BorregoBadlands_ZH-CN9913349081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%ae%89%e6%b2%99%e6%b3%a2%e5%88%a9%e5%93%a5%e6%b2%99%e6%bc%a0%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Tom Hogan/plainpicture)"
+image_hash: "8f3d20c74960b199b364f0bb744a9f69"
+image_filename: "th?id=OHR.BorregoBadlands_ZH-CN9913349081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
