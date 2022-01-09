@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "在高地陶恩山脉的滑雪旅行，奥地利巴德加斯坦"
+date:   "2022-01-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SkiTouring_ZH-CN0237169285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a5%a5%e5%9c%b0%e5%88%a9%e5%b7%b4%e5%be%b7%e5%8a%a0%e6%96%af%e5%9d%a6&form=hpcapt&mkt=zh-cn"
+copyright: "在高地陶恩山脉的滑雪旅行，奥地利巴德加斯坦 (© RooM the Agency/Alamy)"
+image_hash: "fb5301e01127d59df0c96ec96ce586e0"
+image_filename: "th?id=OHR.SkiTouring_ZH-CN0237169285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
