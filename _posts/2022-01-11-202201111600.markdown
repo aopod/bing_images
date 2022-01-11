@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "梵净山，中国西南部"
+date:   "2022-01-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FanjingStairs_ZH-CN0360402048_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a2%b5%e5%87%80%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "梵净山，中国西南部 (© zhuxiaophotography/Shutterstock)"
+image_hash: "85fb67c5fe2ad0f407b6162fc8aafe29"
+image_filename: "th?id=OHR.FanjingStairs_ZH-CN0360402048_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
