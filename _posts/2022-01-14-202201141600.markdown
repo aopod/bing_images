@@ -5,6 +5,6 @@ date:   "2022-01-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BigHole_ZH-CN2671071218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%8b%8f%e9%98%bf%e6%b5%b7%e6%b2%9f&form=hpcapt&mkt=zh-cn"
 copyright: "苏阿海沟，萨摩亚乌波卢岛南海岸 (© Chris McLennan/Alamy)"
-image_hash: "aa03730ece22c9a2f3caf7d2a138557b"
+image_hash: "0da4a769edf4089c4c3989da3701d4de"
 image_filename: "th?id=OHR.BigHole_ZH-CN2671071218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
