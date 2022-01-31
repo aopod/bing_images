@@ -2,9 +2,9 @@
 layout: post
 title:  "烟花绽放的除夕夜，中国"
 date:   "2022-01-30 16:00:00 +0800"
-image_url: "http://cn.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+image_url: "http://cn.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN5742088045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%99%a4%e5%a4%95&form=hpcapt&mkt=zh-cn"
 copyright: "烟花绽放的除夕夜，中国 (© MediaProduction/E+/Getty Images)"
-image_hash: "b944de7f8af1b24db23d4c9e6c3d83b4"
-image_filename: "th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+image_hash: "645781c6e8ba1acdbe7517423b04373f"
+image_filename: "th?id=OHR.ChineseNewYearEve_ZH-CN5742088045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

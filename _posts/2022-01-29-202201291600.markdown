@@ -2,9 +2,9 @@
 layout: post
 title:  "厄尔士山脉上的光晕，德国萨克森州"
 date:   "2022-01-29 16:00:00 +0800"
-image_url: "http://cn.bing.com/th?id=OHR.WinterHalo_ZH-CN0666553211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+image_url: "http://cn.bing.com/th?id=OHR.WinterHalo_ZH-CN5532759802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%90%a8%e5%85%8b%e6%a3%ae%e8%87%aa%e7%94%b1%e5%b7%9e&form=hpcapt&mkt=zh-cn"
 copyright: "厄尔士山脉上的光晕，德国萨克森州 (© Martin Ruegner/Getty Images)"
-image_hash: "73547ba437fd7f38c94ae48fb060d2cd"
-image_filename: "th?id=OHR.WinterHalo_ZH-CN0666553211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+image_hash: "39a870e6c009d15304fa8e1d31897ed1"
+image_filename: "th?id=OHR.WinterHalo_ZH-CN5532759802_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
