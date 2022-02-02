@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Corjuem堡垒，印度果阿邦"
+date:   "2022-02-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FortCorjuem_ZH-CN7295613217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%9e%9c%e9%98%bf%e9%82%a6&form=hpcapt&mkt=zh-cn"
+copyright: "Corjuem堡垒，印度果阿邦 (© Ingvar Kuznetsov/Shutterstock)"
+image_hash: "59c0a7710f2b9dc48081c874f7ee4081"
+image_filename: "th?id=OHR.FortCorjuem_ZH-CN7295613217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
