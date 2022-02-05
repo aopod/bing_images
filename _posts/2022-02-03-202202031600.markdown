@@ -5,6 +5,6 @@ date:   "2022-02-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.WinterOlymics_ZH-CN7384614076_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%86%ac%e5%a5%a5%e4%bc%9a&form=hpcapt&mkt=zh-cn"
 copyright: "亚运村夜景，北京 (© ViewStock/Getty Images)"
-image_hash: "c31e2f47dcd42d762a4fdc2376fc8d38"
+image_hash: "a3b088b7fe7e070a0709b66cacf4917a"
 image_filename: "th?id=OHR.WinterOlymics_ZH-CN7384614076_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

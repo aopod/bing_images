@@ -5,6 +5,6 @@ date:   "2022-01-31 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.ChineseNewYear_ZH-CN5844255626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%98%a5%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "寓意幸福和团圆的春节灯笼，中国 (© d3sign/Moment/Getty Images)"
-image_hash: "3ee0dde3632e1cd6150a1b6476db5424"
+image_hash: "30c42200a37061fa1a2043b9027cb5c0"
 image_filename: "th?id=OHR.ChineseNewYear_ZH-CN5844255626_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

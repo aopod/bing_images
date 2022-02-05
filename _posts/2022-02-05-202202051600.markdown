@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "奥伊米亚康的冬天，俄罗斯"
+date:   "2022-02-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Oymyakon_ZH-CN7758768574_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%bf%84%e7%bd%97%e6%96%af%e5%a5%a5%e4%bc%8a%e7%b1%b3%e4%ba%9a%e5%ba%b7&form=hpcapt&mkt=zh-cn"
+copyright: "奥伊米亚康的冬天，俄罗斯 (© Alexandr Berdicevschi/Getty Images)"
+image_hash: "6f7d3707aa058fef64d9133a7a69ec24"
+image_filename: "th?id=OHR.Oymyakon_ZH-CN7758768574_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
