@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "黄石国家公园的美洲野牛，美国怀俄明州"
+date:   "2022-02-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FaceOff_ZH-CN9969100257_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%be%8e%e6%b4%b2%e9%87%8e%e7%89%9b&form=hpcapt&mkt=zh-cn"
+copyright: "黄石国家公园的美洲野牛，美国怀俄明州 (© Gerald Corsi/Getty Images)"
+image_hash: "e391cfb14f104d0b6058e72da7cfaaa7"
+image_filename: "th?id=OHR.FaceOff_ZH-CN9969100257_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
