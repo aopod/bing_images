@@ -5,6 +5,6 @@ date:   "2022-02-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.DarwinsArch_ZH-CN9740478501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%be%be%e5%b0%94%e6%96%87%e6%8b%b1%e9%97%a8&form=hpcapt&mkt=zh-cn"
 copyright: "达尔文岛的达尔文拱门，厄瓜多尔加拉帕戈斯 (© miralex/Getty Images)"
-image_hash: "28a653f619adea3e00d7e7769c38cc28"
+image_hash: "a6b3de6744f987ac7e6c65d6861c046e"
 image_filename: "th?id=OHR.DarwinsArch_ZH-CN9740478501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
