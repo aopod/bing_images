@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "两只双峰骆驼"
+date:   "2022-02-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BactrianCamels_ZH-CN1072425996_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8f%8c%e5%b3%b0%e9%aa%86%e9%a9%bc&form=hpcapt&mkt=zh-cn"
+copyright: "两只双峰骆驼 (© Nurlan Kulcha/Alamy)"
+image_hash: "97e89115e7935d37b6e4c3f8462257aa"
+image_filename: "th?id=OHR.BactrianCamels_ZH-CN1072425996_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
