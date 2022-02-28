@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "楚格峰山顶的缆车站，德国格赖瑙市"
+date:   "2022-02-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ZugspitzeGipfelstation_ZH-CN6120971585_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a5%9a%e6%a0%bc%e5%b3%b0&form=hpcapt&mkt=zh-cn"
+copyright: "楚格峰山顶的缆车站，德国格赖瑙市 (© Robert Jank/Alamy)"
+image_hash: "f0011dc0e9b553459915652b64227765"
+image_filename: "th?id=OHR.ZugspitzeGipfelstation_ZH-CN6120971585_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
