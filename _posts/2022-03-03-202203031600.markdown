@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "佩格尼茨河上的葡萄酒窖，德国纽伦堡"
+date:   "2022-03-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.WeinstadelNuernberg_ZH-CN6448054345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%bd%a9%e6%a0%bc%e5%b0%bc%e8%8c%a8%e6%b2%b3&form=hpcapt&mkt=zh-cn"
+copyright: "佩格尼茨河上的葡萄酒窖，德国纽伦堡 (© Reinhard Schmid/Huber/eStock Photo)"
+image_hash: "3f3daf5435f26835d6c5eed9fd732dd7"
+image_filename: "th?id=OHR.WeinstadelNuernberg_ZH-CN6448054345_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
