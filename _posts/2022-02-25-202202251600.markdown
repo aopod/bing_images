@@ -5,6 +5,6 @@ date:   "2022-02-25 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.LamplughGlacier_ZH-CN5709513673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%86%b0%e5%b7%9d%e6%b9%be%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "冰川湾国家公园里的兰普鲁冰川，美国阿拉斯加州 (© Andrew Peacock/Getty Images)"
-image_hash: "56ae472dc0e824529924e4d950595a1d"
+image_hash: "046098f611d83864bda5b08ec47d9c54"
 image_filename: "th?id=OHR.LamplughGlacier_ZH-CN5709513673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

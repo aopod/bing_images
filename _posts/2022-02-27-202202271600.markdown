@@ -5,6 +5,6 @@ date:   "2022-02-27 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.WinterCotswolds_ZH-CN6017348883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%a7%91%e8%8c%a8%e6%b2%83%e5%b0%94%e5%be%b7&form=hpcapt&mkt=zh-cn"
 copyright: "霜雪覆盖下的科茨沃尔德，英格兰 (© Peter Adams/Getty Images)"
-image_hash: "6cef10debfadbef53d5ff7ba49138bb5"
+image_hash: "97bb2b580c6db054f5001c395a09b8c7"
 image_filename: "th?id=OHR.WinterCotswolds_ZH-CN6017348883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
