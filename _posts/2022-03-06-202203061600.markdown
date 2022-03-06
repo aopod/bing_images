@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "以新西兰南岛奥拉基/库克山国家公园为背景的特卡波湖"
+date:   "2022-03-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.NZTekapo_ZH-CN6919300257_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%89%b9%e5%8d%a1%e6%b3%a2%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "以新西兰南岛奥拉基/库克山国家公园为背景的特卡波湖 (© Sophie Dover/Getty Images)"
+image_hash: "017a448c97edbb78bd8b0d5337070dc5"
+image_filename: "th?id=OHR.NZTekapo_ZH-CN6919300257_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
