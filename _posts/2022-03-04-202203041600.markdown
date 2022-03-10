@@ -5,6 +5,6 @@ date:   "2022-03-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.NormandyMont_ZH-CN6657762215_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%9c%a3%e7%b1%b3%e6%ad%87%e5%b0%94%e5%b1%b1&form=hpcapt&mkt=zh-cn"
 copyright: "圣米歇尔山，法国诺曼底 (© DaLiu/Getty Images)"
-image_hash: "f7f44f930d06577e06813c1560836007"
+image_hash: "90784a533ff0079a6e6c7345cb59c955"
 image_filename: "th?id=OHR.NormandyMont_ZH-CN6657762215_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
