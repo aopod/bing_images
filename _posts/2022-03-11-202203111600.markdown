@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "鸟瞰视角下的布雷阿岛，法国阿摩尔滨海省"
+date:   "2022-03-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BrehatIsland_ZH-CN6015596530_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%98%bf%e6%91%a9%e5%b0%94%e6%bb%a8%e6%b5%b7%e7%9c%81&form=hpcapt&mkt=zh-cn"
+copyright: "鸟瞰视角下的布雷阿岛，法国阿摩尔滨海省 (© LECLERCQ Olivier/hemis.fr/Alamy)"
+image_hash: "20246562c828fce34553b4b5d9e0cc95"
+image_filename: "th?id=OHR.BrehatIsland_ZH-CN6015596530_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
