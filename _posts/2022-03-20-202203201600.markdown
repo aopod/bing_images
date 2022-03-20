@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "圣三一教堂，英国埃文河畔斯特拉特福"
+date:   "2022-03-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.TheBard_ZH-CN7318156185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9f%83%e6%96%87%e6%b2%b3%e7%95%94%e6%96%af%e7%89%b9%e6%8b%89%e7%89%b9%e7%a6%8f&form=hpcapt&mkt=zh-cn"
+copyright: "圣三一教堂，英国埃文河畔斯特拉特福 (© James Osmond/Getty Images)"
+image_hash: "b93b66632fd2f5ea84d909ffc2fd8714"
+image_filename: "th?id=OHR.TheBard_ZH-CN7318156185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
