@@ -5,6 +5,6 @@ date:   "2022-03-26 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.TeatroAntico_ZH-CN7370959605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%a5%bf%e8%a5%bf%e9%87%8c%e5%b2%9b&form=hpcapt&mkt=zh-cn"
 copyright: "陶尔米纳古剧院，意大利西西里岛 (© Antonino Bartuccio/eStock Photo)"
-image_hash: "7b91ef2ca1c93abe9bc878c63f1713ff"
+image_hash: "d3802926a8b3fcca7bced87c8b5c123d"
 image_filename: "th?id=OHR.TeatroAntico_ZH-CN7370959605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
