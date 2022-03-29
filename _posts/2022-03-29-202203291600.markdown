@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "黑白相间的腰带盖洛韦牛，苏格兰"
+date:   "2022-03-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BeltedGalloway_ZH-CN8570849064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%8b%8f%e6%a0%bc%e5%85%b0&form=hpcapt&mkt=zh-cn"
+copyright: "黑白相间的腰带盖洛韦牛，苏格兰 (© JohnFScott/Getty Images)"
+image_hash: "9fd1cf02a32e6908488a3bcd1854dfc4"
+image_filename: "th?id=OHR.BeltedGalloway_ZH-CN8570849064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
