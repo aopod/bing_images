@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "蓬塔德尔加达附近的海岸，葡萄牙"
+date:   "2022-04-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PontaDelgada_ZH-CN8596828822_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%93%ac%e5%a1%94%e5%be%b7%e5%b0%94%e5%8a%a0%e8%be%be&form=hpcapt&mkt=zh-cn"
+copyright: "蓬塔德尔加达附近的海岸，葡萄牙 (© Jan Wlodarczyk/Alamy)"
+image_hash: "e13e5b798a6d82a61b2a593a91e470a1"
+image_filename: "th?id=OHR.PontaDelgada_ZH-CN8596828822_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
