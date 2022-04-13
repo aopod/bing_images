@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "科罗拉多河上的马蹄湾，美国亚利桑那州"
+date:   "2022-04-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AZBend_ZH-CN9943469006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a9%ac%e8%b9%84%e6%b9%be&form=hpcapt&mkt=zh-cn"
+copyright: "科罗拉多河上的马蹄湾，美国亚利桑那州 (© Michael Dunn/Getty Images)"
+image_hash: "b5165e12fc544f9288041a08713d6cba"
+image_filename: "th?id=OHR.AZBend_ZH-CN9943469006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
