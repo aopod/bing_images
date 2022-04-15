@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "黄石国家公园的大棱镜泉鸟瞰图，美国怀俄明州"
+date:   "2022-04-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Yellowstone150_ZH-CN0551084440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%bb%84%e7%9f%b3%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "黄石国家公园的大棱镜泉鸟瞰图，美国怀俄明州 (© AirPano LLC/Amazing Aerial Agency)"
+image_hash: "d3094c130fddcf2ab40044d1e14eb5aa"
+image_filename: "th?id=OHR.Yellowstone150_ZH-CN0551084440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
