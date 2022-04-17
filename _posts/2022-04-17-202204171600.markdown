@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "梅萨维德国家公园的方形塔楼，美国科罗拉多州"
+date:   "2022-04-17 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SquareTowerHouse_ZH-CN1203640326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a2%85%e8%90%a8%e7%bb%b4%e5%be%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "梅萨维德国家公园的方形塔楼，美国科罗拉多州 (© lightphoto/Getty Images)"
+image_hash: "8ebe27843ed64b66a75a3dd3000a4a22"
+image_filename: "th?id=OHR.SquareTowerHouse_ZH-CN1203640326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
