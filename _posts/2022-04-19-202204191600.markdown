@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "两只躲在妈妈尾羽下的疣鼻小天鹅，纽约长岛"
+date:   "2022-04-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MuteSwan_ZH-CN1554957153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%96%a3%e9%bc%bb%e5%a4%a9%e9%b9%85&form=hpcapt&mkt=zh-cn"
+copyright: "两只躲在妈妈尾羽下的疣鼻小天鹅，纽约长岛 (© Vicki Jauron/Getty Images)"
+image_hash: "ea9e02e8a59a5d86f3d3bc0150535164"
+image_filename: "th?id=OHR.MuteSwan_ZH-CN1554957153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
