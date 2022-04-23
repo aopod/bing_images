@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "半穹顶景观点上空的银河，优胜美地国家公园，加利福尼亚州"
+date:   "2022-04-23 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.YosemiteNightSky_ZH-CN5864740024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9b%bd%e9%99%85%e9%bb%91%e6%9a%97%e5%a4%a9%e7%a9%ba%e4%bf%9d%e6%8a%a4%e5%8c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "半穹顶景观点上空的银河，优胜美地国家公园，加利福尼亚州 (© Cory Marshall/Tandem Stills + Motion)"
+image_hash: "0bd99762038c2c9d333b6f6c205aaa0c"
+image_filename: "th?id=OHR.YosemiteNightSky_ZH-CN5864740024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
