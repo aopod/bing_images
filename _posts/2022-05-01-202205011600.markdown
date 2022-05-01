@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "土耳其棉花堡的石灰华梯田"
+date:   "2022-05-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.TravertineTurkey_ZH-CN6430409651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a3%89%e8%8a%b1%e5%a0%a1&form=hpcapt&mkt=zh-cn"
+copyright: "土耳其棉花堡的石灰华梯田 (© bybostanci/Getty Images)"
+image_hash: "f45559a4dfc35c6c0188ed544bb1607f"
+image_filename: "th?id=OHR.TravertineTurkey_ZH-CN6430409651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
