@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "蓝色龙舌兰田，墨西哥哈利斯科州龙舌兰酒产区"
+date:   "2022-05-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%93%9d%e8%89%b2%e9%be%99%e8%88%8c%e5%85%b0&form=hpcapt&mkt=zh-cn"
+copyright: "蓝色龙舌兰田，墨西哥哈利斯科州龙舌兰酒产区 (© Brian Overcast/Alamy)"
+image_hash: "2bf859be055b4c36003ea8b392f3fd9d"
+image_filename: "th?id=OHR.JaliscoAgave_ZH-CN6612544241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
