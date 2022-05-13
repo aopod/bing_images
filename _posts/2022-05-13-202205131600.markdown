@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "金德代克风车群，荷兰"
+date:   "2022-05-13 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.WindmillDay_ZH-CN3115996668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%87%91%e5%be%b7%e4%bb%a3%e5%85%8b%e9%a3%8e%e8%bd%a6%e7%be%a4&form=hpcapt&mkt=zh-cn"
+copyright: "金德代克风车群，荷兰 (© Achim Thomae/Getty Images)"
+image_hash: "fca2d6f9eef4dd480960de7f09e15522"
+image_filename: "th?id=OHR.WindmillDay_ZH-CN3115996668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
