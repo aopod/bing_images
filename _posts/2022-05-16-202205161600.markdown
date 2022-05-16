@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "马拉斯盐田，秘鲁"
+date:   "2022-05-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SaltPondsMaras_ZH-CN3768334932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a9%ac%e6%8b%89%e6%96%af%e7%9b%90%e7%94%b0&form=hpcapt&mkt=zh-cn"
+copyright: "马拉斯盐田，秘鲁 (© Fotofeeling/Westend61 on Offset/Shutterstock)"
+image_hash: "e6d03aeeb1d69941f88b951b57348de4"
+image_filename: "th?id=OHR.SaltPondsMaras_ZH-CN3768334932_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
