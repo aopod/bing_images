@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "广角镜头下的厦门龙舟池，日落的光洒在传统龙舟上，中国"
+date:   "2022-06-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.DragonBoat2022_ZH-CN2392684688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%ab%af%e5%8d%88%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "广角镜头下的厦门龙舟池，日落的光洒在传统龙舟上，中国 (© Sen Li/Getty Image)"
+image_hash: "8940f4b3bee0e12e93309240aa9501f8"
+image_filename: "th?id=OHR.DragonBoat2022_ZH-CN2392684688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
