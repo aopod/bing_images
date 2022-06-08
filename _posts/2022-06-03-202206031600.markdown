@@ -5,6 +5,6 @@ date:   "2022-06-03 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BannerPeak_ZH-CN2693006060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%be%8e%e5%9b%bd%e5%9b%bd%e5%ae%b6%e6%ad%a5%e9%81%93%e7%b3%bb%e7%bb%9f&form=hpcapt&mkt=zh-cn"
 copyright: "安塞尔·亚当斯的荒野，加利福尼亚 (© Michael DeYoung Photography/Tandem Stills + Motion)"
-image_hash: "12df6aa96e815419a02521f4e2731c28"
+image_hash: "d4d8f5009a0173716063c97f4b6955e4"
 image_filename: "th?id=OHR.BannerPeak_ZH-CN2693006060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
