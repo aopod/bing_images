@@ -5,6 +5,6 @@ date:   "2022-06-08 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SweetheartAbbey_ZH-CN8325969067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%8b%8f%e6%a0%bc%e5%85%b0+%e7%94%9c%e5%bf%83%e4%bf%ae%e9%81%93%e9%99%a2&form=hpcapt&mkt=zh-cn"
 copyright: "邓弗里斯和加洛韦的甜心修道院，苏格兰 (© Westend61/Getty Images)"
-image_hash: "9292de0be61f2ebb7cbcc9e4c202a01d"
+image_hash: "d19da764b2503e45bc75e24388ff9e5d"
 image_filename: "th?id=OHR.SweetheartAbbey_ZH-CN8325969067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
