@@ -5,6 +5,6 @@ date:   "2022-06-05 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.IndigoBunting_ZH-CN3172415219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%9d%9b%e8%93%9d%e5%bd%a9%e9%b9%80&form=hpcapt&mkt=zh-cn"
 copyright: "奥杜邦中心的一只靛蓝彩鹀，美国宾夕法尼亚州 (© Vicki Jauron/Getty Images)"
-image_hash: "dd64943662dcb05c9c8c03f0e9a1f7a3"
+image_hash: "4a0ac2fc2bf517467c89c632758271d5"
 image_filename: "th?id=OHR.IndigoBunting_ZH-CN3172415219_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
