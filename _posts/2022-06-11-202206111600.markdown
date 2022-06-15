@@ -5,6 +5,6 @@ date:   "2022-06-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SierraPonce_ZH-CN9720358958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a4%a7%e5%bc%af%e6%9b%b2%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "大弯曲国家公园的塞拉庞塞和格兰德河边的悬崖，美国得克萨斯州 (© Tim Fitzharris/Minden Pictures)"
-image_hash: "01725ced502ce0f53f55ff31079c480d"
+image_hash: "4398877b4bc62947854fb5ce26f722f3"
 image_filename: "th?id=OHR.SierraPonce_ZH-CN9720358958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

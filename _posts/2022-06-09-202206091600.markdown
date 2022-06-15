@@ -5,6 +5,6 @@ date:   "2022-06-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SpottedDeers_ZH-CN8790816034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%96%91%e9%b9%bf&form=hpcapt&mkt=zh-cn"
 copyright: "斑鹿，滕波尔国家公园，印度 (© Ondrej Prosicky/Shutterstock)"
-image_hash: "cd595acc63ef8d3eff75ca04c3234b3e"
+image_hash: "0bb6297eda812a9171ff568d640628c5"
 image_filename: "th?id=OHR.SpottedDeers_ZH-CN8790816034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
