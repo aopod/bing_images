@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "仙岩寺中的升仙桥，韩国曹溪山道立公园"
+date:   "2022-06-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SeonamTemple_ZH-CN3460236076_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%bb%99%e5%b2%a9%e5%af%ba&FORM=hpcapt&mkt=zh-cn"
+copyright: "仙岩寺中的升仙桥，韩国曹溪山道立公园 (© Aaron Choi/Getty Images)"
+image_hash: "4d2b9da827627706f8956086c3ad6089"
+image_filename: "th?id=OHR.SeonamTemple_ZH-CN3460236076_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
