@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "山下盛开的箭叶脂根菊，美国大提顿国家公园"
+date:   "2022-06-16 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Balsamroot_ZH-CN9456182640_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a4%a7%e6%8f%90%e9%a1%bf%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "山下盛开的箭叶脂根菊，美国大提顿国家公园 (© Mike Cavaroc/Tandem Stills + Motion)"
+image_hash: "f71880c9daceb212585d0a2540715c87"
+image_filename: "th?id=OHR.Balsamroot_ZH-CN9456182640_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
