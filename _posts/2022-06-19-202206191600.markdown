@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "停在同一朵花上的两只金凤蝶"
+date:   "2022-06-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SwallowtailFlower_ZH-CN5950463168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%87%91%e5%87%a4%e8%9d%b6&form=hpcapt&mkt=zh-cn"
+copyright: "停在同一朵花上的两只金凤蝶 (© Alberto Ghizzi Panizza/Getty Images)"
+image_hash: "e3df34b1b16401836e8c0b68dd4a017d"
+image_filename: "th?id=OHR.SwallowtailFlower_ZH-CN5950463168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
