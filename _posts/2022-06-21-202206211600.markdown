@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "亚苏尼国家公园，厄瓜多尔"
+date:   "2022-06-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AmazonianEcuador_ZH-CN9873999948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%ba%9a%e8%8b%8f%e5%b0%bc%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "亚苏尼国家公园，厄瓜多尔 (© Paul Bertner/Minden Pictures)"
+image_hash: "54923db4c97b9514252b19dc16087240"
+image_filename: "th?id=OHR.AmazonianEcuador_ZH-CN9873999948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
