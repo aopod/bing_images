@@ -5,6 +5,6 @@ date:   "2022-06-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CelebratingSurfing_ZH-CN9747833506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%86%b2%e6%b5%aa%e8%bf%90%e5%8a%a8&form=hpcapt&mkt=zh-cn"
 copyright: "黄金海岸上的冲浪者，澳大利亚 (© Darren Tierney/Getty Images)"
-image_hash: "5c5744616a9d192b718731f19d6a9ba4"
+image_hash: "763d212ed84b831c5f2c21845e3a8182"
 image_filename: "th?id=OHR.CelebratingSurfing_ZH-CN9747833506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

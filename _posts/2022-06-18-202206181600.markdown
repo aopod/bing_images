@@ -5,6 +5,6 @@ date:   "2022-06-18 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Cassowary_ZH-CN9903525394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%b9%a4%e9%b8%b5&form=hpcapt&mkt=zh-cn"
 copyright: "双垂鹤鸵爸爸和它的宝宝们，澳大利亚 (© Martin Willis/Minden Pictures)"
-image_hash: "44e538f0f78bb9422bd6716c72df29a0"
+image_hash: "617f3668c37e84a1c9a63fbf66af42f6"
 image_filename: "th?id=OHR.Cassowary_ZH-CN9903525394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
