@@ -5,6 +5,6 @@ date:   "2022-06-20 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.GlastonburySolstice_ZH-CN9694169797_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a4%8f%e8%87%b3&form=hpcapt&mkt=zh-cn"
 copyright: "格拉斯顿伯里山丘上的日出，英格兰 (© Guy Edwardes/Minden Pictures)"
-image_hash: "e50196f4e8a67382a2372193a00c28d5"
+image_hash: "03cd10244dc03b23e80561d48b5e0cd4"
 image_filename: "th?id=OHR.GlastonburySolstice_ZH-CN9694169797_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

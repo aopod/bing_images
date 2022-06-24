@@ -5,6 +5,6 @@ date:   "2022-06-22 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MostarBridge_ZH-CN5920156936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%8e%ab%e6%96%af%e5%a1%94%e5%b0%94%e5%8f%a4%e6%a1%a5&form=hpcapt&mkt=zh-cn"
 copyright: "莫斯塔尔古桥，波斯尼亚和黑塞哥维那 (© Ayhan Altun/Getty Images)"
-image_hash: "ae5df3640b80f6b5749a3eb36d2605e6"
+image_hash: "efa9ee13002ed40660cad1b91a9fc1af"
 image_filename: "th?id=OHR.MostarBridge_ZH-CN5920156936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
