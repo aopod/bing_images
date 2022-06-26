@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "普罗旺斯瓦朗索勒高原上的薰衣草田，法国"
+date:   "2022-06-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ValensoleLavender_ZH-CN8778885260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%96%b0%e8%a1%a3%e8%8d%89&form=hpcapt&mkt=zh-cn"
+copyright: "普罗旺斯瓦朗索勒高原上的薰衣草田，法国 (© Shutterstock)"
+image_hash: "9667afe3e8d5c901b32a929051993bce"
+image_filename: "th?id=OHR.ValensoleLavender_ZH-CN8778885260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
