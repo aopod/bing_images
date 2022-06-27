@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "塔菲拉勒地区的一座古老古堡, 摩洛哥"
+date:   "2022-06-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.TafilaletOasis_ZH-CN9143950935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a1%94%e8%8f%b2%e6%8b%89%e5%8b%92+%e6%91%a9%e6%b4%9b%e5%93%a5&form=hpcapt&mkt=zh-cn"
+copyright: "塔菲拉勒地区的一座古老古堡, 摩洛哥 (© José Antonio Moreno/agefotostock)"
+image_hash: "721a8d13fe5df4cc4de418fe33c213b5"
+image_filename: "th?id=OHR.TafilaletOasis_ZH-CN9143950935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
