@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "攀牙湾安达曼海的红树林，泰国"
+date:   "2022-06-28 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PhangNgaBay_ZH-CN9408705933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%94%80%e7%89%99%e6%b9%be&form=hpcapt&mkt=zh-cn"
+copyright: "攀牙湾安达曼海的红树林，泰国 (© Ratnakorn Piyasirisorost/Getty Images)"
+image_hash: "240e25ffa37564f35fadc34ed999360e"
+image_filename: "th?id=OHR.PhangNgaBay_ZH-CN9408705933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
