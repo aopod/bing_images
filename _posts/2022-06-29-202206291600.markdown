@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "基伯龙半岛上的海滩，法国布列塔尼地区"
+date:   "2022-06-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%9f%ba%e4%bc%af%e9%be%99%e5%8d%8a%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+copyright: "基伯龙半岛上的海滩，法国布列塔尼地区 (© hardyun/Adobe)"
+image_hash: "fb5bf5c3a15de16e75c4369e8455dcd7"
+image_filename: "th?id=OHR.CoteSauvage_ZH-CN9967984163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
