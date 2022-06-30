@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿圭罗村庄, 韦斯卡, 西班牙"
+date:   "2022-06-30 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AgueroVillage_ZH-CN1007741117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99+%e9%9f%a6%e6%96%af%e5%8d%a1&form=hpcapt&mkt=zh-cn"
+copyright: "阿圭罗村庄, 韦斯卡, 西班牙 (© Francesco Carovillano/eStock)"
+image_hash: "b410449c59886e03642b70c3403f01c7"
+image_filename: "th?id=OHR.AgueroVillage_ZH-CN1007741117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
