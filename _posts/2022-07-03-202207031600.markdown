@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一列火车穿过卡纳塔克邦的沙拉瓦蒂桥，印度"
+date:   "2022-07-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SharavatiBridge_ZH-CN2011371774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8d%a1%e7%ba%b3%e5%a1%94%e5%85%8b%e9%82%a6&form=hpcapt&mkt=zh-cn"
+copyright: "一列火车穿过卡纳塔克邦的沙拉瓦蒂桥，印度 (© Amith Nag Photography/Getty Images)"
+image_hash: "12ee697dbadb3d7008ee818ea8346f44"
+image_filename: "th?id=OHR.SharavatiBridge_ZH-CN2011371774_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
