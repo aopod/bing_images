@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "被翡翠湾环绕的芬尼特岛，太浩湖，加利福尼亚"
+date:   "2022-07-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FannetteIsland_ZH-CN2395055456_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a4%aa%e6%b5%a9%e6%b9%96+%e7%bf%a1%e7%bf%a0%e6%b9%be&form=hpcapt&mkt=zh-cn"
+copyright: "被翡翠湾环绕的芬尼特岛，太浩湖，加利福尼亚 (© Rachid Dahnoun/Tandem Stills + Motion)"
+image_hash: "c289926e16caae6a11d694d630e1fa13"
+image_filename: "th?id=OHR.FannetteIsland_ZH-CN2395055456_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
