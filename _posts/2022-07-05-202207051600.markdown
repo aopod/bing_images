@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "一对大西洋海雀在接吻，设得兰群岛，苏格兰"
+date:   "2022-07-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.KissingPuffins_ZH-CN2578608262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a4%a7%e8%a5%bf%e6%b4%8b%e6%b5%b7%e9%9b%80&form=hpcapt&mkt=zh-cn"
+copyright: "一对大西洋海雀在接吻，设得兰群岛，苏格兰 (© Vince Burton/Minden Pictures)"
+image_hash: "55eee8ae83488cc11e7186f28684a616"
+image_filename: "th?id=OHR.KissingPuffins_ZH-CN2578608262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
