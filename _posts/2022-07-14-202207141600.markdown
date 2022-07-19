@@ -5,6 +5,6 @@ date:   "2022-07-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Arrone_ZH-CN2794175618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%bf%81%e5%b8%83%e9%87%8c%e4%ba%9a%e5%8c%ba&form=hpcapt&mkt=zh-cn"
 copyright: "阿罗内镇的村落，意大利翁布里亚大区 (© Maurizio Rellini/eStock Photo)"
-image_hash: "1257e4738de9639a5ac81896c649fc8c"
+image_hash: "5a0496c3fe264c91350ff53a186ec1b5"
 image_filename: "th?id=OHR.Arrone_ZH-CN2794175618_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
