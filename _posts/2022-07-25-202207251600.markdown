@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "萨卢姆三角洲国家公园的红树林，塞内加尔共和国"
+date:   "2022-07-25 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MangroveDay_ZH-CN5590436101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%90%a8%e5%8d%a2%e5%a7%86%e4%b8%89%e8%a7%92%e6%b4%b2%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "萨卢姆三角洲国家公园的红树林，塞内加尔共和国 (© mariusz_prusaczyk/Getty Images)"
+image_hash: "d199dffc2947376d8985f901723cdf73"
+image_filename: "th?id=OHR.MangroveDay_ZH-CN5590436101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
