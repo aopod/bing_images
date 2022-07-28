@@ -5,6 +5,6 @@ date:   "2022-07-22 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.FoxgloveHawkmoth_ZH-CN4486704889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%ba%a2%e5%a4%a9%e8%9b%be&form=hpcapt&mkt=zh-cn"
 copyright: "毛地黄上的红天蛾 (© David Chapman/Alamy)"
-image_hash: "f54eaf7b488d2c2bb907da547f6d37a9"
+image_hash: "ac6abb751965ef128b0b4fd42383b13c"
 image_filename: "th?id=OHR.FoxgloveHawkmoth_ZH-CN4486704889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

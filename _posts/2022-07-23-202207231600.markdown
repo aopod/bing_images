@@ -5,6 +5,6 @@ date:   "2022-07-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.TwoJackLake_ZH-CN4716355677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%8f%8c%e6%9d%b0%e5%85%8b%e6%b9%96&form=hpcapt&mkt=zh-cn"
 copyright: "双杰克湖，班夫国家公园，艾伯塔省，加拿大 (© SnapRapid/Offset)"
-image_hash: "14957710b70e14fce8bda48dd94229e4"
+image_hash: "7adc737efbede493cad772ce0fef5ebc"
 image_filename: "th?id=OHR.TwoJackLake_ZH-CN4716355677_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

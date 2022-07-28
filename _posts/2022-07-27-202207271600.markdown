@@ -5,6 +5,6 @@ date:   "2022-07-27 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%90%bd%e5%9f%ba%e5%b1%b1%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "落基山国家公园的朗斯峰，科罗拉多州 (© Andrew R. Slaton/Tandem Stills + Motion)"
-image_hash: "860e8ce1ef0cc1bc3179901e76027919"
+image_hash: "fb38d1a476bb279b6d7a0b0dc8d6a7bc"
 image_filename: "th?id=OHR.LongsPeak_ZH-CN5927119555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

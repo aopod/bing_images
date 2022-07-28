@@ -5,6 +5,6 @@ date:   "2022-07-24 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.DolbadarnCastle_ZH-CN5397592090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab&form=hpcapt&mkt=zh-cn"
 copyright: "兰贝里斯山口脚下的多尔巴达恩城堡，威尔士 (© Viktoria Rodriguez/Getty Images)"
-image_hash: "5760197aa7a712e640e07690703db561"
+image_hash: "92dd16645b055a72310b29809938d700"
 image_filename: "th?id=OHR.DolbadarnCastle_ZH-CN5397592090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
