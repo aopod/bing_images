@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "旧金山湾的盐滩"
+date:   "2022-08-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SFSaltFlats_ZH-CN7261637239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%97%a7%e9%87%91%e5%b1%b1%e6%b9%be&form=hpcapt&mkt=zh-cn"
+copyright: "旧金山湾的盐滩 (© Jeffrey Lewis/Tandem Stills + Motion)"
+image_hash: "eb47bc5eff5f2a018c6c4b361a09f898"
+image_filename: "th?id=OHR.SFSaltFlats_ZH-CN7261637239_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
