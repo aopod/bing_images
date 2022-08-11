@@ -5,6 +5,6 @@ date:   "2022-08-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%ab%8b%e7%a7%8b&form=hpcapt&mkt=zh-cn"
 copyright: "杭州西湖的古典中国园林 (© DANNY HU/Getty Images)"
-image_hash: "509a0e90306ed6b73f69954946f1b2da"
+image_hash: "e7d70e15c5339310ceb6bbef62351f7e"
 image_filename: "th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

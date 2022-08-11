@@ -5,6 +5,6 @@ date:   "2022-08-09 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%ba%a6%e4%b9%a6%e4%ba%9a%e6%a0%91%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad+&form=hpcapt&mkt=zh-cn"
 copyright: "约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures)"
-image_hash: "2de3642e72902abae76536784d37ce76"
+image_hash: "15810524a1af83b09229bb068c47d5f9"
 image_filename: "th?id=OHR.AnniversaryJTNP_ZH-CN9974030692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

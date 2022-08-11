@@ -5,6 +5,6 @@ date:   "2022-08-04 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MilitaryTattoo_ZH-CN0302287210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%88%b1%e4%b8%81%e5%a0%a1%e8%be%b9%e7%bc%98%e8%89%ba%e6%9c%af%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "夜晚的爱丁堡城市天际线，苏格兰 (© Suranga Weeratuna/Alamy)"
-image_hash: "7ec873cf353aea79d11f387f33e7effc"
+image_hash: "828b4a9397f70a51baa29e61c391372b"
 image_filename: "th?id=OHR.MilitaryTattoo_ZH-CN0302287210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
