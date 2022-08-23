@@ -5,6 +5,6 @@ date:   "2022-08-18 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.PenzancePool_ZH-CN4493022613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%8b%b1%e5%9b%bd%e5%bd%ad%e8%b5%9e%e6%96%af&FORM=hpcapt&mkt=zh-cn"
 copyright: "康沃尔郡的彭赞斯，英国 (© Murray Bosley Photography/Getty Images)"
-image_hash: "34bea672741d21f97de3e2052d2d0eb0"
+image_hash: "67e6ff3a8356ee013effce4ed88b0de9"
 image_filename: "th?id=OHR.PenzancePool_ZH-CN4493022613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

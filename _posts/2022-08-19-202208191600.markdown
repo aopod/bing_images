@@ -5,6 +5,6 @@ date:   "2022-08-19 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BearProof_ZH-CN4950171791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e8%9c%9c%e8%9c%82%e5%85%bb%e6%ae%96&form=hpcapt&mkt=zh-cn"
 copyright: "西班牙阿斯图里亚斯省穆涅略斯自然保护区的蜂箱 (© ABB Photo/Shutterstock)"
-image_hash: "6f222183da99684537e0b097ca457138"
+image_hash: "66bff5f3e17934484a5294b4230b083f"
 image_filename: "th?id=OHR.BearProof_ZH-CN4950171791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

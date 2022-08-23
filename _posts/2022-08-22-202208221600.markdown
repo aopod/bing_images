@@ -5,6 +5,6 @@ date:   "2022-08-22 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MentonFrance_ZH-CN5849270429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%b3%95%e5%9b%bd%e8%8a%92%e9%80%9a%e9%95%87&form=hpcapt&mkt=zh-cn"
 copyright: "芒通，法国 (© Flavio Foglietta/Getty Images)"
-image_hash: "de4cfe7944088ec8843bad48845f851d"
+image_hash: "7527c352e5c5b84a2eb216a752c8b308"
 image_filename: "th?id=OHR.MentonFrance_ZH-CN5849270429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
