@@ -5,6 +5,6 @@ date:   "2022-08-25 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%bd%a9%e5%88%97%e6%b2%99%e8%8c%a8%e5%8d%8a%e5%b2%9b&form=hpcapt&mkt=zh-cn"
 copyright: "克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images)"
-image_hash: "ef493c1d9f7e33f8f029653207d2802f"
+image_hash: "bc8a891b958d0cebe46571d72d3498ec"
 image_filename: "th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
