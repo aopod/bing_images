@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "吉隆坡石油双塔，马来西亚"
+date:   "2022-09-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%90%89%e9%9a%86%e5%9d%a1+%e5%8f%8c%e5%ad%90%e5%a1%94&form=hpcapt&mkt=zh-cn"
+copyright: "吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images)"
+image_hash: "e9a2264f1b53fe43bf57d75c57acea64"
+image_filename: "th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
