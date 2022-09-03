@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "果阿邦的阿兰博尔海滩，印度"
+date:   "2022-09-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.ArambolBeach_ZH-CN2149857876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%9e%9c%e9%98%bf%e9%82%a6&form=hpcapt&mkt=zh-cn"
+copyright: "果阿邦的阿兰博尔海滩，印度 (© Ben Pipe/Alamy)"
+image_hash: "80a6d2a624c2a7f768a45f8cbec94671"
+image_filename: "th?id=OHR.ArambolBeach_ZH-CN2149857876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
