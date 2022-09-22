@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "最后一美元公路旁的白杨树，科罗拉多州特鲁莱德市附近"
+date:   "2022-09-22 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%a7%8b%e5%88%86&form=hpcapt&mkt=zh-cn"
+copyright: "最后一美元公路旁的白杨树，科罗拉多州特鲁莱德市附近 (© Grant Ordelheide/Tandem Stills + Motion)"
+image_hash: "8ef62e38c95ae8121bf2add758b6d6ea"
+image_filename: "th?id=OHR.LastDollarRoad_ZH-CN1462265798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
