@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "亚马逊河鸟瞰图，巴西"
+date:   "2022-09-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AmazonMangroves_ZH-CN2154443859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%ba%9a%e9%a9%ac%e9%80%8a%e6%b2%b3&form=hpcapt&mkt=zh-cn"
+copyright: "亚马逊河鸟瞰图，巴西 (© Curioso.Photography/Shutterstock)"
+image_hash: "693ee2fd275a664fbf419fc8d57f1cac"
+image_filename: "th?id=OHR.AmazonMangroves_ZH-CN2154443859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
