@@ -5,6 +5,6 @@ date:   "2022-09-25 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.SusitnaRiver_ZH-CN2317772890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%a9%af%e9%b9%bf&form=hpcapt&mkt=zh-cn"
 copyright: "两头穿越苏西特纳河的驯鹿，美国阿拉斯加 (© Tim Plowden/Alamy)"
-image_hash: "f7f305f651232ecc5b45cc1f0eb78f64"
+image_hash: "3f76f39fa4d2b2360e9ee8c1965a7dfb"
 image_filename: "th?id=OHR.SusitnaRiver_ZH-CN2317772890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

@@ -5,6 +5,6 @@ date:   "2022-09-26 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.YellowstoneUGB_ZH-CN2518690319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%b8%8a%e9%97%b4%e6%ad%87%e6%b3%89%e7%9b%86%e5%9c%b0&form=hpcapt&mkt=zh-cn"
 copyright: "黄石国家公园里的上间歇泉盆地，美国怀俄明州 (© Ray Urner/Tandem Stills + Motion)"
-image_hash: "32415286cedac600748869b0406524e7"
+image_hash: "5b59f9bcfb9ae3f034fd1524e11d1daf"
 image_filename: "th?id=OHR.YellowstoneUGB_ZH-CN2518690319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
