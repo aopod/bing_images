@@ -5,6 +5,6 @@ date:   "2022-09-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%98%bf%e5%8d%a1%e8%bf%aa%e4%ba%9a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
 copyright: "阿卡迪亚国家公园上空的银河系，美国缅因州 (© Harry Collins/Getty Images)"
-image_hash: "5b0fbd67bc112bea79a999049f19afe8"
+image_hash: "52ed9f1d32254bcbe75e63dbe8b8d60c"
 image_filename: "th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
