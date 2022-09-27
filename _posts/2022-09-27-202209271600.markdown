@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "卡伯特镇的福斯特廊桥，美国佛蒙特州"
+date:   "2022-09-27 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%a6%8f%e6%96%af%e7%89%b9%e5%bb%8a%e6%a1%a5&form=hpcapt&mkt=zh-cn"
+copyright: "卡伯特镇的福斯特廊桥，美国佛蒙特州 (© Alan Majchrowicz/Getty Images)"
+image_hash: "6139e125280cac150f8f062b225e76a3"
+image_filename: "th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
