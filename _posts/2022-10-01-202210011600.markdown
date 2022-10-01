@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "倒映在湖中的勃朗峰山脉，法国霞慕尼市"
+date:   "2022-10-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8b%83%e6%9c%97%e5%b3%b0&form=hpcapt&mkt=zh-cn"
+copyright: "倒映在湖中的勃朗峰山脉，法国霞慕尼市 (© Stefan Huwiler/Alamy)"
+image_hash: "da3adce6a05d8606c8a85d95f7aa829b"
+image_filename: "th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
