@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "加勒比海红鹳，里奥拉加托斯自然保护区，墨西哥"
+date:   "2022-10-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FlamingoTeacher_ZH-CN5688509752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%b8%96%e7%95%8c%e6%95%99%e5%b8%88%e6%97%a5&form=hpcapt&mkt=zh-cn"
+copyright: "加勒比海红鹳，里奥拉加托斯自然保护区，墨西哥 (© Claudio Contreras/Minden Pictures)"
+image_hash: "097c3465e8e6065c574b2ee25d4216cd"
+image_filename: "th?id=OHR.FlamingoTeacher_ZH-CN5688509752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
