@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地"
+date:   "2022-10-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%be%8f%e7%bd%97%e7%ba%aa%e6%b5%b7%e5%b2%b8&form=hpcapt&mkt=zh-cn"
+copyright: "蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地 (© AWL Images/Danita Delimont)"
+image_hash: "92f88b1e3c9d5c7e0faaf4ea4a2ae0f4"
+image_filename: "th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
