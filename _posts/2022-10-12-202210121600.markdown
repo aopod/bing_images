@@ -5,6 +5,6 @@ date:   "2022-10-12 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AlaskaMoose_ZH-CN9148253690_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%a9%bc%e9%b9%bf&form=hpcapt&mkt=zh-cn"
 copyright: "迪纳利国家公园里的两只驼鹿，美国阿拉斯加州 (© Yva Momatiuk and John Eastcott/Minden Pictures)"
-image_hash: "6ba6aecdb02ee881dcd417eb237f4084"
+image_hash: "ea58b9576c833a01f42bde9b2963e309"
 image_filename: "th?id=OHR.AlaskaMoose_ZH-CN9148253690_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
