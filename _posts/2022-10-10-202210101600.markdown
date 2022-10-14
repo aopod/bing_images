@@ -5,6 +5,6 @@ date:   "2022-10-10 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%b3%9b%e7%94%9f%e5%a2%99%e8%97%93&form=hpcapt&mkt=zh-cn"
 copyright: "带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures)"
-image_hash: "cc77fa1dc99ef3fb8959234f09689dcc"
+image_hash: "6423743a507d374b009ee72fcabe96be"
 image_filename: "th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
