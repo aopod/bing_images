@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Bridalveil Fall, Yosemite National Park, California"
+title:  "新娘面纱瀑布，优胜美地国家公园，美国加利福尼亚州"
 date:   "2022-10-17 16:00:00 +0800"
-image_url: "http://cn.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
-link: "/search?q=%e7%ba%a6%e5%a1%9e%e7%b1%b3%e8%92%82+%e6%96%b0%e5%a8%98%e9%9d%a2%e7%ba%b1%e7%80%91%e5%b8%83&form=hpcapt&mkt=zh-cn"
-copyright: "Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)"
-image_hash: "9c1a3c7d3e65b40c8f1d923b3d457a23"
-image_filename: "th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+image_url: "http://cn.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN0684766889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%bc%98%e8%83%9c%e7%be%8e%e5%9c%b0+%e6%96%b0%e5%a8%98%e9%9d%a2%e7%ba%b1%e7%80%91%e5%b8%83&form=hpcapt&mkt=zh-cn"
+copyright: "新娘面纱瀑布，优胜美地国家公园，美国加利福尼亚州 (© Jeff Foott/Minden Pictures)"
+image_hash: "8e3b172877b5c682fd16e4fbc30fdee2"
+image_filename: "th?id=OHR.BridalVeilFalls_ZH-CN0684766889_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
