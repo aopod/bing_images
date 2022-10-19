@@ -5,6 +5,6 @@ date:   "2022-10-14 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.NaqsheRustam_ZH-CN9695151436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%b3%a2%e6%96%af%e6%b3%a2%e5%88%a9%e6%96%af&form=hpcapt&mkt=zh-cn"
 copyright: "纳克什鲁斯塔姆遗址，伊朗波斯波利斯 (© mshirani/Shutterstock)"
-image_hash: "b284cc81c5765cfb47490d3ec764e371"
+image_hash: "7037a3a4d30ad9317ab8c52f64673e22"
 image_filename: "th?id=OHR.NaqsheRustam_ZH-CN9695151436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
