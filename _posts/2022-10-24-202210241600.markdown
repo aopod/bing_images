@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "怪物公园里的奥库斯雕像, 意大利博马尔佐花园"
+date:   "2022-10-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.OrcusMouth_ZH-CN7303142999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e6%80%aa%e7%89%a9%e5%85%ac%e5%9b%ad&FORM=hpcapt&mkt=zh-cn"
+copyright: "怪物公园里的奥库斯雕像, 意大利博马尔佐花园 (© Scott Wilson/Alamy)"
+image_hash: "68f234b30e6d2048d4dabdf355279421"
+image_filename: "th?id=OHR.OrcusMouth_ZH-CN7303142999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
