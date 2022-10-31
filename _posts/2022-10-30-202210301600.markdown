@@ -5,6 +5,6 @@ date:   "2022-10-30 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%b8%87%e5%9c%a3%e8%8a%82&form=hpcapt&mkt=zh-cn"
 copyright: "牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)"
-image_hash: "0e56cc64ea22b663b65a26a03bde8adf"
+image_hash: "cf203fa5a40e61fb82924345dff62106"
 image_filename: "th?id=OHR.WychwoodForest_ZH-CN6560180288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
