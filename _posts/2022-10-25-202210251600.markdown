@@ -5,6 +5,6 @@ date:   "2022-10-25 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%b8%83%e7%bd%97%e8%82%af%e7%8e%b0%e8%b1%a1&form=hpcapt&mkt=zh-cn"
 copyright: "巴尔干中央国家公园的布罗肯现象，保加利亚 (© Maya Karkalicheva/Getty Images)"
-image_hash: "266bd866727c24220005d0987397f873"
+image_hash: "ac83c0b6cdd421dcc8bb360031c04c95"
 image_filename: "th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
