@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "慕纳尔的茶园，印度喀拉拉邦"
+date:   "2022-11-01 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%8d%b0%e5%ba%a6%e6%85%95%e7%ba%b3%e5%b0%94&form=hpcapt&mkt=zh-cn"
+copyright: "慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock)"
+image_hash: "cff87e3fc52cb3c6033ec19583f91dca"
+image_filename: "th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
