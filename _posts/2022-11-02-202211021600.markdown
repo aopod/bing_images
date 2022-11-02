@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "乞力马扎罗山和非洲水牛，肯尼亚"
+date:   "2022-11-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.AmboseliBioshere_ZH-CN7220940943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=+%e5%ae%89%e6%b3%a2%e5%a1%9e%e5%88%a9%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "乞力马扎罗山和非洲水牛，肯尼亚 (© RealityImages/Shutterstock)"
+image_hash: "74e61fcc690f3562e3c7e8c6151a12af"
+image_filename: "th?id=OHR.AmboseliBioshere_ZH-CN7220940943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
