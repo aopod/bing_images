@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "班夫国家公园的沛托湖，加拿大艾伯塔省"
+date:   "2022-11-03 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.PeytoIce_ZH-CN7517633327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%b2%9b%e6%89%98%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "班夫国家公园的沛托湖，加拿大艾伯塔省 (© Ben Girardi/Cavan Images)"
+image_hash: "d8923db471a399e7bfa1cecb04c4b529"
+image_filename: "th?id=OHR.PeytoIce_ZH-CN7517633327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
