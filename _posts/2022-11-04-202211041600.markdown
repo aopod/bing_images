@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰"
+date:   "2022-11-04 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Trossachs_ZH-CN9299955040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%8b%8f%e6%a0%bc%e5%85%b0%e6%96%af%e7%89%b9%e7%81%b5%e5%8c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰 (© Fortunato Gatto/eStock Photo)"
+image_hash: "2d95b2708abc25c3bdac36eedc69415b"
+image_filename: "th?id=OHR.Trossachs_ZH-CN9299955040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
