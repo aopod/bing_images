@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥"
+date:   "2022-11-05 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%a9%ac%e6%8b%89%e6%9d%be&form=hpcapt&mkt=zh-cn"
+copyright: "1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥 (© David Madison/Getty Images)"
+image_hash: "8f5bd0dca535ed456b86a7fc072ee112"
+image_filename: "th?id=OHR.MarathonSunday_ZH-CN9833453732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
