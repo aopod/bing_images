@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "清迈易鹏节升起的天灯，泰国"
+date:   "2022-11-07 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%b8%85%e8%bf%88%e6%98%93%e9%b9%8f%e8%8a%82&form=hpcapt&mkt=zh-cn"
+copyright: "清迈易鹏节升起的天灯，泰国 (© Suttipong Sutiratanachai/Getty Images)"
+image_hash: "7db9f6844cb3d6932cc0e284680eed15"
+image_filename: "th?id=OHR.YiPeng_ZH-CN0652265903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
