@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "中世の要塞, ギリシャ ハルキ島"
+date:   "2022-11-13 15:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SanGiovanni_JA-JP5252882186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e3%82%ae%e3%83%aa%e3%82%b7%e3%83%a3+%e3%83%8f%e3%83%ab%e3%82%ad%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220221113_1500%22"
+copyright: "中世の要塞, ギリシャ ハルキ島 (© Massimo Ripani/eStock Photo)"
+image_hash: "ec9d68805926b3470c6e2c6b3e934b3a"
+image_filename: "th?id=OHR.SanGiovanni_JA-JP5252882186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
