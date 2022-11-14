@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "アーブー山, インド ラージャスターン州"
+date:   "2022-11-10 15:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MountAbu_JA-JP4539299290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e3%82%a2%e3%83%bc%e3%83%96%e3%83%bc%e5%b1%b1&form=hpcapt&filters=HpDate%3a%2220221110_1500%22"
+copyright: "アーブー山, インド ラージャスターン州 (© saiko3p/Shutterstock)"
+image_hash: "8cfa38fdb16b31d86c857f2bad625871"
+image_filename: "th?id=OHR.MountAbu_JA-JP4539299290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---

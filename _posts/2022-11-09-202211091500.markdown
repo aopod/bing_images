@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "岩石層と落雷, 米国 サウスダコタ州"
+date:   "2022-11-09 15:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BadLightning_JA-JP4361852905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e3%83%90%e3%83%83%e3%83%89%e3%83%a9%e3%83%b3%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220221109_1500%22"
+copyright: "岩石層と落雷, 米国 サウスダコタ州 (© DEEPOL by plainpicture)"
+image_hash: "94805ba2329210d79759b3165b34e0c4"
+image_filename: "th?id=OHR.BadLightning_JA-JP4361852905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
