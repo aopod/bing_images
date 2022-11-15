@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "梅萨维德国家公园的悬崖宫，美国"
+date:   "2022-11-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%b8%96%e7%95%8c%e9%81%97%e4%ba%a7&form=hpcapt&mkt=zh-cn"
+copyright: "梅萨维德国家公园的悬崖宫，美国 (© Brad McGinley Photography/Getty Images)"
+image_hash: "498233b7b47ff65debc62d0db5f2e635"
+image_filename: "th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
