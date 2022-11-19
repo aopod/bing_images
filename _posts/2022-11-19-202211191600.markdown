@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "船底星云中的宇宙悬崖"
+date:   "2022-11-19 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%88%b9%e5%ba%95%e6%98%9f%e4%ba%91&form=hpcapt&mkt=zh-cn"
+copyright: "船底星云中的宇宙悬崖 (© NASA, ESA, CSA, and STScI)"
+image_hash: "219de7611628928930352a2d6a30ab26"
+image_filename: "th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
