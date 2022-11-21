@@ -5,6 +5,6 @@ date:   "2022-11-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%bc%8a%e6%96%af%e5%85%b0%e5%bb%ba%e7%ad%91&form=hpcapt&mkt=zh-cn"
 copyright: "菲斯皇宫的大门，摩洛哥 (© Adam Smigielski/Getty Images)"
-image_hash: "349b6937ef7bf3f4a61b3b3800e6ec29"
+image_hash: "273bce3d4c8527ccd69c8fc727dc2f47"
 image_filename: "th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
