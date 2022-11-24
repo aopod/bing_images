@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省"
+date:   "2022-11-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%b3%95%e5%9b%bd%e7%a7%91%e9%9b%b7%e5%85%b9%e7%9c%81&form=hpcapt&mkt=zh-cn"
+copyright: "日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省 (© Tim Mannakee/plainpicture)"
+image_hash: "46bdbfd58ecd8ab6893224f7432a2f26"
+image_filename: "th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
