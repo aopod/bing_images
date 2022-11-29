@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "罗维尼老城，克罗地亚"
+date:   "2022-11-29 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%85%8b%e7%bd%97%e5%9c%b0%e4%ba%9a%e7%bd%97%e7%bb%b4%e5%b0%bc&form=hpcapt&mkt=zh-cn"
+copyright: "罗维尼老城，克罗地亚 (© trabantos/Shutterstock)"
+image_hash: "1d06f1b2c66aef4e8267094cbd20da64"
+image_filename: "th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
