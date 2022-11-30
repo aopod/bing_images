@@ -5,6 +5,6 @@ date:   "2022-11-23 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%9d%8e%e5%bd%ad%e4%b8%87%e5%be%b7%e5%b1%b1&form=hpcapt&mkt=zh-cn"
 copyright: "坎彭万德山，基姆高地区阿绍，德国巴伐利亚州 (© Toni Anzenberger/plainpicture)"
-image_hash: "0dc7c7f12685b28351e1ec052ca4a462"
+image_hash: "7edd31bcb090354cce8a6a31a3ececbe"
 image_filename: "th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

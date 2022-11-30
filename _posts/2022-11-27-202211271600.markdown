@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "火星（© NASA/Alamy）"
+title:  "火星"
 date:   "2022-11-27 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%81%ab%e6%98%9f&form=hpcapt&mkt=zh-cn"
-copyright: "火星（© NASA/Alamy）"
-image_hash: "31282dabb5d53694be5bd0a619455030"
+copyright: "火星 (© NASA/Alamy)"
+image_hash: "d522b708b6db3fb60bb2d0dceef2785c"
 image_filename: "th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

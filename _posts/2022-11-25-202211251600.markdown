@@ -5,6 +5,6 @@ date:   "2022-11-25 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%b8%96%e7%95%8c%e6%a9%84%e6%a6%84%e6%a0%91%e6%97%a5&form=hpcapt&mkt=zh-cn"
 copyright: "意大利西西里岛康科迪亚神庙前的一棵橄榄树 (© Alfio Finocchiaro/Shutterstock)"
-image_hash: "0de918ec328f1d8aec660d17e9ceebd9"
+image_hash: "1fe3220298d09325f430adb11bcf9c8c"
 image_filename: "th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

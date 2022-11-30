@@ -5,6 +5,6 @@ date:   "2022-11-26 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%8f%b7%e8%a7%92%e6%a0%91&form=hpcapt&mkt=zh-cn"
 copyright: "一片飘落在龙虾爪瓣上的号角树树叶，墨西哥 (© Gerry Ellis/Minden Pictures)"
-image_hash: "9c315072eb74b5f33b1742058fa7ada9"
+image_hash: "b5d6cc3bf8bea07b586bd291531ce4e3"
 image_filename: "th?id=OHR.Cecropia_ZH-CN4236630074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
