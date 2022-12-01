@@ -2,9 +2,9 @@
 layout: post
 title:  "天堂湾，南极洲"
 date:   "2022-11-30 16:00:00 +0800"
-image_url: "http://cn.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5878485421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+image_url: "http://cn.bing.com/th?id=OHR.AntarcticaDay_ZH-CN7039175515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%8d%97%e6%9e%81%e6%b4%b2&form=hpcapt&mkt=zh-cn"
 copyright: "天堂湾，南极洲 (© SinghaphanAllB/Getty Images)"
-image_hash: "f292d84604f2673ca3799a694f0c116a"
-image_filename: "th?id=OHR.AntarcticaDay_ZH-CN5878485421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+image_hash: "235d9f2b76422514cfc10f90a2a21a19"
+image_filename: "th?id=OHR.AntarcticaDay_ZH-CN7039175515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
