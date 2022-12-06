@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大"
+date:   "2022-12-06 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%b4%be%e6%96%af%e7%8f%80%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大 (© Jeff Foott/Minden Pictures)"
+image_hash: "d13e1e73a6173b5f815b74793bdb9499"
+image_filename: "th?id=OHR.TangleCreekFalls_ZH-CN4281148652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
