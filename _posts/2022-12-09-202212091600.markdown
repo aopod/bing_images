@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "玻利维亚的乌尤尼盐沼"
+date:   "2022-12-09 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SaltDesert_ZH-CN4728398785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%b9%8c%e5%b0%a4%e5%b0%bc%e7%9b%90%e6%b2%bc&form=hpcapt&mkt=zh-cn"
+copyright: "玻利维亚的乌尤尼盐沼 (© Theo Allofs/Minden Pictures)"
+image_hash: "92dd70bb0e93fbf25927dd2609f091db"
+image_filename: "th?id=OHR.SaltDesert_ZH-CN4728398785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
