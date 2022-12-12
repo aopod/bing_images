@@ -5,6 +5,6 @@ date:   "2022-12-11 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%b8%80%e5%93%81%e7%ba%a2&form=hpcapt&mkt=zh-cn"
 copyright: "一品红 (© Elizabeth Fernandez/Getty Images)"
-image_hash: "eddb2cdbce9760e28ac3c9d12c7d92ca"
+image_hash: "ad7e7d94d12031c49e83e01b5948eda6"
 image_filename: "th?id=OHR.PoinsettiaDay_ZH-CN5115071992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
