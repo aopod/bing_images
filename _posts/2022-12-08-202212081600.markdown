@@ -5,6 +5,6 @@ date:   "2022-12-08 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.NorwayMuskox_ZH-CN6137934745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e9%ba%9d%e7%89%9b&form=hpcapt&mkt=zh-cn"
 copyright: "多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威 (© Robert Haasmann/Minden Pictures)"
-image_hash: "836b56d382852a8cfe4cc67f36d1cdea"
+image_hash: "7c6543e9e17000539d8dfd4220fc1c6f"
 image_filename: "th?id=OHR.NorwayMuskox_ZH-CN6137934745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
