@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "哈尔施塔特，奥地利"
+date:   "2022-12-12 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%93%88%e5%b0%94%e6%96%bd%e5%a1%94%e7%89%b9&form=hpcapt&mkt=zh-cn"
+copyright: "哈尔施塔特，奥地利 (© Jon Arnold Images Ltd/Alamy)"
+image_hash: "b498a8911a62ebb7b4bb10513290162a"
+image_filename: "th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
