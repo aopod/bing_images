@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "ボロヴェッツ スキーリゾート, ブルガリア"
+date:   "2022-12-14 15:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Borovets_JA-JP8649079597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e3%83%9c%e3%83%ad%e3%83%b4%e3%82%a7%e3%83%83%e3%83%84&form=hpcapt&filters=HpDate%3a%2220221214_1500%22"
+copyright: "ボロヴェッツ スキーリゾート, ブルガリア (© Grigor Ivanov/Cavan Images)"
+image_hash: "c8c4b176b2ebf377e701c65058dad7c7"
+image_filename: "th?id=OHR.Borovets_JA-JP8649079597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---

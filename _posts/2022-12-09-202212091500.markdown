@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "ウユニ塩湖, ボリビア"
+date:   "2022-12-09 15:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SaltDesert_JA-JP2809649437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e3%82%a6%e3%83%a6%e3%83%8b%e5%a1%a9%e6%b9%96&form=hpcapt&filters=HpDate%3a%2220221209_1500%22"
+copyright: "ウユニ塩湖, ボリビア (© Theo Allofs/Minden Pictures)"
+image_hash: "731216bff444bcf5fd0aa644f93baf26"
+image_filename: "th?id=OHR.SaltDesert_JA-JP2809649437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "ロスシュタインとブッフシュタイン, ドイツ バイエルン州"
+date:   "2022-12-10 15:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BuchsteinRossstein_JA-JP3133767278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=Ro%c3%9f-+und+Buchstein&form=hpcapt&filters=HpDate%3a%2220221210_1500%22"
+copyright: "ロスシュタインとブッフシュタイン, ドイツ バイエルン州 (© Christian Bäck/eStock Photo)"
+image_hash: "c4a2eb7641289f661109fc2914878b33"
+image_filename: "th?id=OHR.BuchsteinRossstein_JA-JP3133767278_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
