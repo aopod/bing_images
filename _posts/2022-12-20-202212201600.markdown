@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "多洛米蒂山脉安特莫亚湖上的日晕，意大利"
+date:   "2022-12-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%97%a5%e6%99%95&form=hpcapt&mkt=zh-cn"
+copyright: "多洛米蒂山脉安特莫亚湖上的日晕，意大利 (© Walter Donega/Getty Images)"
+image_hash: "96a3a68defcc323258c20518cd39f79a"
+image_filename: "th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
