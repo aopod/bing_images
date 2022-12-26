@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "格林达维克的蓝湖，冰岛"
+date:   "2022-12-26 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%a0%bc%e6%9e%97%e8%be%be%e7%bb%b4%e5%85%8b%e8%93%9d%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "格林达维克的蓝湖，冰岛 (© Westend61/Getty Images)"
+image_hash: "a29fcc2c36e5401e16d421201685a376"
+image_filename: "th?id=OHR.BlueLagoon_ZH-CN3874240119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
