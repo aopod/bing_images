@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "ルメリ・ヒサルの城塞, トルコ"
+date:   "2023-01-11 15:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.RumeliHisari_JA-JP1470012953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e3%83%ab%e3%83%a1%e3%83%aa%e3%83%bb%e3%83%92%e3%82%b5%e3%83%ab%e3%81%ae%e5%9f%8e%e5%a1%9e&form=hpcapt&filters=HpDate%3a%2220230111_1500%22"
+copyright: "ルメリ・ヒサルの城塞, トルコ (© Drone in Wonderland/Amazing Aerial Agency)"
+image_hash: "7ec3318743d7696392276162ca3a69fc"
+image_filename: "th?id=OHR.RumeliHisari_JA-JP1470012953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
