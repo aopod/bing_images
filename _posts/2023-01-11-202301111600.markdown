@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔"
+date:   "2023-01-11 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.RumeliHisari_ZH-CN0185820275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e5%a6%82%e6%a2%85%e5%88%a9%e5%a0%a1%e5%9e%92&form=hpcapt&mkt=zh-cn"
+copyright: "博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔 (© Drone in Wonderland/Amazing Aerial Agency)"
+image_hash: "b18686a00c2932211c717fad37ba6747"
+image_filename: "th?id=OHR.RumeliHisari_ZH-CN0185820275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
