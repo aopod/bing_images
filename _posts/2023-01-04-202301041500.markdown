@@ -5,6 +5,6 @@ date:   "2023-01-04 15:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.HIISSF_JA-JP9146225324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e3%83%8f%e3%83%ab%e3%83%93%e3%83%b3%e6%b0%b7%e7%a5%ad%e3%82%8a&form=hpcapt&filters=HpDate%3a%2220230104_1500%22"
 copyright: "ハルビン氷祭り, 中国 黒竜江省 (© STR/AFP via Getty Images)"
-image_hash: "52502c2b66d246456dad7a6daa4686aa"
+image_hash: "157479c744e72dbb0da1daef15ac7a84"
 image_filename: "th?id=OHR.HIISSF_JA-JP9146225324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
