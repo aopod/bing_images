@@ -5,6 +5,6 @@ date:   "2023-01-12 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.Pneumatocysts_ZH-CN5721988566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%b7%a8%e8%97%bb&form=hpcapt&mkt=zh-cn"
 copyright: "海峡群岛国家公园的巨藻，美国加利福尼亚州 (© Brandon Cole Images/Shutterstock)"
-image_hash: "f2ae9bf403a2d23a81f990a5742d60df"
+image_hash: "9be34f2646a56cb535c6767e8362e8f2"
 image_filename: "th?id=OHR.Pneumatocysts_ZH-CN5721988566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
