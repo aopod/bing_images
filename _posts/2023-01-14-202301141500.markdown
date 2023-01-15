@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "トゥルクのアウラ川, フィンランド"
+date:   "2023-01-14 15:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Turku_JA-JP5943098075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e3%83%88%e3%82%a5%e3%83%ab%e3%82%af%e3%81%ae%e3%82%a2%e3%82%a6%e3%83%a9%e5%b7%9d&form=hpcapt&filters=HpDate%3a%2220230114_1500%22"
+copyright: "トゥルクのアウラ川, フィンランド (© Jarmo Piironen/Alamy)"
+image_hash: "0b8da4c0078d33dc2d5178cc9ebc2b6b"
+image_filename: "th?id=OHR.Turku_JA-JP5943098075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
