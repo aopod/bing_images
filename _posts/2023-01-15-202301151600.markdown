@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省"
+date:   "2023-01-15 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e4%ba%9a%e4%bc%af%e6%8b%89%e7%bd%95%e6%b9%96&form=hpcapt&mkt=zh-cn"
+copyright: "麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省 (© Tom Mackie/plainpicture)"
+image_hash: "07197e253048572bf433e1180aceacc2"
+image_filename: "th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
