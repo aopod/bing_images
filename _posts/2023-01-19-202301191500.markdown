@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "雪に覆われた清水寺, 京都"
+date:   "2023-01-19 15:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.Daikan2023_JA-JP6315927343_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%b8%85%e6%b0%b4%e5%af%ba+%e5%86%ac%e6%99%af%e8%89%b2&form=hpcapt&filters=HpDate%3a%2220230119_1500%22"
+copyright: "雪に覆われた清水寺, 京都 (© Paitoon Pornsuksomboon/Shutterstock)"
+image_hash: "bd7eb93e40acc9ba9c3618ba72e57e34"
+image_filename: "th?id=OHR.Daikan2023_JA-JP6315927343_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
