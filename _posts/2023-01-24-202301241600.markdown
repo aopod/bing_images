@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰"
+date:   "2023-01-24 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%8b%8f%e6%a0%bc%e5%85%b0%e9%98%bf%e4%bc%af%e8%b4%b9%e5%b0%94%e8%bf%aa&form=hpcapt&mkt=zh-cn"
+copyright: "位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰 (© Dennis Barnes/Getty Images)"
+image_hash: "88104a7535c67c66a01ba4bbedee521b"
+image_filename: "th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
