@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "卡纳塔克邦的纳加尔霍雷国家公园，印度"
+title:  "纳加尔霍雷国家公园，卡纳塔克邦，印度"
 date:   "2023-01-29 16:00:00 +0800"
-image_url: "http://cn.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+image_url: "http://cn.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN4165452163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%ba%b3%e5%8a%a0%e5%b0%94%e9%9c%8d%e9%9b%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
-copyright: "卡纳塔克邦的纳加尔霍雷国家公园，印度 (© Vivek BR/Shutterstock)"
-image_hash: "111423597cd4e32f833ffbcaeaadb214"
-image_filename: "th?id=OHR.NagarholeNationalPark_ZH-CN2550578922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+copyright: "纳加尔霍雷国家公园，卡纳塔克邦，印度 (© Vivek BR/Shutterstock)"
+image_hash: "6ab041abcdb5e9e6076467e439ce2ee7"
+image_filename: "th?id=OHR.NagarholeNationalPark_ZH-CN4165452163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
