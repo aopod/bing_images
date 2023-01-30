@@ -5,6 +5,6 @@ date:   "2023-01-26 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.RedMangrove_ZH-CN4083989028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%8f%a4%e5%b7%b4&form=hpcapt&mkt=zh-cn"
 copyright: "瓜纳阿卡维韦斯半岛国家公园的红树林，古巴 (© Claudio Contreras/Minden Pictures)"
-image_hash: "2b2c45bf2bf84bcd0484e085ad9c3ae6"
+image_hash: "d937bc72540520d55795afc401d72b76"
 image_filename: "th?id=OHR.RedMangrove_ZH-CN4083989028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
