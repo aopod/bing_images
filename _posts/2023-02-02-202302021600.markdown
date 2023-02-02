@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "费尔蒙芳堤娜城堡酒店，魁北克省，加拿大"
+date:   "2023-02-02 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e9%ad%81%e5%8c%97%e5%85%8b%e5%86%ac%e5%ad%a3%e5%98%89%e5%b9%b4%e5%8d%8e&form=hpcapt&mkt=zh-cn"
+copyright: "费尔蒙芳堤娜城堡酒店，魁北克省，加拿大 (© Romiana Lee/Shutterstock)"
+image_hash: "f73ce18dc82d2c26e417557586e88c54"
+image_filename: "th?id=OHR.QuebecFrontenac_ZH-CN9519096458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
