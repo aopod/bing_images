@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州"
+date:   "2023-02-10 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e7%be%8e%e5%9b%bd%e6%ad%bb%e4%ba%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+copyright: "死亡谷扎布里斯基角上空的银河，美国加利福尼亚州 (© Matt Anderson Photography/Getty Images)"
+image_hash: "b57f5fdee5623f5e32f38e7934692f32"
+image_filename: "th?id=OHR.DarkSkiesDV_ZH-CN1076500221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
