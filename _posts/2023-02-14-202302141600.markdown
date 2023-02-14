@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "河马妈妈和宝宝，乔贝国家公园，博茨瓦纳"
+date:   "2023-02-14 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%b2%b3%e9%a9%ac&form=hpcapt&mkt=zh-cn"
+copyright: "河马妈妈和宝宝，乔贝国家公园，博茨瓦纳 (© jacobeukman/Getty Images)"
+image_hash: "18d366b77416dfe0eaf9752cc13d36b3"
+image_filename: "th?id=OHR.HippoDayChobe_ZH-CN2883647954_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
