@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "新奥尔良法语区，路易斯安那州"
+date:   "2023-02-20 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e6%96%b0%e5%a5%a5%e5%b0%94%e8%89%af%e6%b3%95%e8%af%ad%e5%8c%ba&form=hpcapt&mkt=zh-cn"
+copyright: "新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images)"
+image_hash: "17dbd561d07f21ae26b36775b6495707"
+image_filename: "th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
