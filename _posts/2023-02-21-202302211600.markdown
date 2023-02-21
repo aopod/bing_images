@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "菲希特尔山脉上的和平钟，萨克森州，德国"
+date:   "2023-02-21 16:00:00 +0800"
+image_url: "http://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+link: "/search?q=%e8%8f%b2%e5%b8%8c%e7%89%b9%e5%b0%94%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+copyright: "菲希特尔山脉上的和平钟，萨克森州，德国 (© Jan Drahokoupil/Getty Images)"
+image_hash: "6968c11c13ca8460eae58d64e04accce"
+image_filename: "th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+---
