@@ -5,6 +5,6 @@ date:   "2023-02-27 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e9%98%bf%e7%89%b9%e6%8b%89%e5%b0%bc&form=hpcapt&mkt=zh-cn"
 copyright: "阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)"
-image_hash: "8ecebeedaf1d1f4756ff2f3e632d9abf"
+image_hash: "247360f8adb05208efaf12e803697532"
 image_filename: "th?id=OHR.AtraniAmalfi_ZH-CN6391731688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

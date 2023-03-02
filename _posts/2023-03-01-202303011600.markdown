@@ -5,6 +5,6 @@ date:   "2023-03-01 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%a0%bc%e6%8b%89%e7%ba%b3%e8%be%be&form=hpcapt&mkt=zh-cn"
 copyright: "内格拉廷湖，格拉纳达，西班牙 (© Andres Martinez Olmedo/Getty Images)"
-image_hash: "4cf03e9216bd32a88342729efead854e"
+image_hash: "50a7d8f4127e1d0351386997061ef2ba"
 image_filename: "th?id=OHR.NegratinSpain_ZH-CN5916944876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
