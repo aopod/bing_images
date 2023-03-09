@@ -5,6 +5,6 @@ date:   "2023-03-06 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e4%b8%ad%e5%9b%bd%e5%85%83%e9%98%b3&form=hpcapt&mkt=zh-cn"
 copyright: "梯田鸟瞰图，元阳，中国 (© AlexGcs/Getty Images)"
-image_hash: "be72a7063afee4905b50eab9187c5725"
+image_hash: "e6e085879186b27b870305bfbd16b8c9"
 image_filename: "th?id=OHR.YuanyangChina_ZH-CN7360249295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

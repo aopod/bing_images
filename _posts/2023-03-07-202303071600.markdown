@@ -5,6 +5,6 @@ date:   "2023-03-07 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e6%80%80%e7%89%b9%e9%9c%8d%e6%96%af%e5%8c%97%e6%9e%81%e5%85%89&form=hpcapt&mkt=zh-cn"
 copyright: "极光展示，怀特霍斯，育空地区，加拿大 (© John Hyde/plainpicture/Design Pics)"
-image_hash: "a06c01b7a31c2972f094f0adb2924bad"
+image_hash: "e55682ab5c4fdd5b23181d0f98db8f3a"
 image_filename: "th?id=OHR.WhitehorseAurora_ZH-CN0978404088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---

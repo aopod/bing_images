@@ -5,6 +5,6 @@ date:   "2023-03-08 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.WaimeaRainbow_ZH-CN1127225170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a8%81%e7%be%8e%e4%ba%9a%e5%b3%a1%e8%b0%b7&form=hpcapt&mkt=zh-cn"
 copyright: "威美亚峡谷和怀波奥瀑布上空的彩虹,考艾岛，夏威夷，美国 (© Beverley Van Praagh/Getty Images)"
-image_hash: "4bdfb95297331f172f9326b1058d6b1b"
+image_hash: "c09c2fb28327c78236703773bad2b659"
 image_filename: "th?id=OHR.WaimeaRainbow_ZH-CN1127225170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
