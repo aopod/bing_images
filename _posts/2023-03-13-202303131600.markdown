@@ -5,6 +5,6 @@ date:   "2023-03-13 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e5%a1%9e%e6%b5%a6%e8%b7%af%e6%96%af&form=hpcapt&mkt=zh-cn"
 copyright: "阿伊纳帕植物园灌木丛迷宫，塞浦路斯 (© Tpopova/Getty Images)"
-image_hash: "f714cb6d36f72012f087aace367ce9df"
+image_hash: "9e9212d52df1ef300a330dec5186e3f4"
 image_filename: "th?id=OHR.CyprusMaze_ZH-CN9448060895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
