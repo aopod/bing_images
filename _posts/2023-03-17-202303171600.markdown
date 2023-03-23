@@ -5,6 +5,6 @@ date:   "2023-03-17 16:00:00 +0800"
 image_url: "http://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 link: "/search?q=%e7%81%ab%e6%98%9f&form=hpcapt&mkt=zh-cn"
 copyright: "甘博阿陨击坑，火星 (© NASA/JPL-Caltech/University of Arizona)"
-image_hash: "919a80fbf9db69d5625f3c576e779e35"
+image_hash: "a8f8859c4a9d9371e63fcb7549163733"
 image_filename: "th?id=OHR.MarsTars_ZH-CN0496313394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
 ---
